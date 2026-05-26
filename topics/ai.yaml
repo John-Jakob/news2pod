@@ -13,19 +13,36 @@ research_prompt: |
   Anthropic, Google DeepMind, Meta, Mistral, xAI usw.), Regulierung, Übernahmen,
   größere Investitionen und gesellschaftliche Debatten.
 preferred_sources:
+  # Internationale Wire/Top-Tier
   - reuters.com
+  - apnews.com
   - bloomberg.com
   - ft.com
+  - nytimes.com
+  - washingtonpost.com
+  - bbc.com
+  - theguardian.com
+  - cnn.com
+  - npr.org
+  - time.com
+  - economist.com
+  # Tech & KI
   - techcrunch.com
   - theverge.com
   - arstechnica.com
   - wired.com
   - technologyreview.com
   - the-decoder.com
+  - macrumors.com
+  - venturebeat.com
+  # Deutschsprachig
   - heise.de
   - golem.de
   - faz.net
   - sueddeutsche.de
   - zeit.de
+  - spiegel.de
   - handelsblatt.com
+  - tagesschau.de
+  - dpa.com
 cover_image: default-cover.jpg
