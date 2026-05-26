@@ -1,6 +1,7 @@
 """Pfad- und Config-Helfer."""
 from __future__ import annotations
 import os
+import re
 from pathlib import Path
 import yaml
 
@@ -11,8 +12,17 @@ EPISODES_DIR = DOCS_DIR / "episodes"
 FEEDS_DIR = DOCS_DIR / "feeds"
 IMAGES_DIR = DOCS_DIR / "images"
 
+SLUG_RE = re.compile(r"[a-z0-9][a-z0-9-]{0,39}")
+
+
+def validate_slug(slug: str) -> str:
+    if not isinstance(slug, str) or not SLUG_RE.fullmatch(slug):
+        raise ValueError(f"Ungültiger Slug (erlaubt: a-z, 0-9, '-', 1-40 Zeichen): {slug!r}")
+    return slug
+
 
 def load_topic(slug: str) -> dict:
+    validate_slug(slug)
     path = TOPICS_DIR / f"{slug}.yaml"
     if not path.exists():
         raise FileNotFoundError(f"Topic-Config nicht gefunden: {path}")

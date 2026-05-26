@@ -1,12 +1,15 @@
 """RSS-Feed-Generierung (iTunes-Podcast-Format) aus den Episode-Dateien."""
 from __future__ import annotations
 import json
+import re
 from datetime import datetime
 from email.utils import format_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
 
 from mutagen.mp3 import MP3
+
+DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
 
 
 def mp3_duration_seconds(mp3_path: Path) -> int:
@@ -35,6 +38,8 @@ def build_feed(topic_cfg: dict, base_url: str, episodes_dir: Path, feed_path: Pa
 
     items_xml: list[str] = []
     for sidecar in sorted(episodes_dir.glob("*.json"), reverse=True):
+        if not DATE_RE.fullmatch(sidecar.stem):
+            continue
         mp3 = sidecar.with_suffix(".mp3")
         if not mp3.exists():
             continue

@@ -39,12 +39,14 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           PODCAST_BASE_URL: ${{ vars.PODCAST_BASE_URL }}
+          TOPIC_INPUT: ${{ github.event.inputs.topic }}
+          FORCE_INPUT: ${{ github.event.inputs.force }}
         run: |
           set -e
           FORCE=""
-          if [ "${{ github.event.inputs.force }}" = "true" ]; then FORCE="--force"; fi
-          if [ -n "${{ github.event.inputs.topic }}" ]; then
-            python scripts/build_podcast.py "${{ github.event.inputs.topic }}" $FORCE
+          [ "$FORCE_INPUT" = "true" ] && FORCE="--force"
+          if [ -n "$TOPIC_INPUT" ]; then
+            python scripts/build_podcast.py "$TOPIC_INPUT" $FORCE
           else
             for f in topics/*.yaml; do
               slug=$(basename "$f" .yaml)
