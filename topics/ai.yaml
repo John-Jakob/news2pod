@@ -3,11 +3,12 @@ title: KI Daily
 description: Dein 5-Minuten-Briefing zu Künstlicher Intelligenz – täglich frisch um 6 Uhr.
 language: de
 tts_provider: openai                # openai | elevenlabs
-voice: onyx                         # OpenAI: alloy, ash, ballad, coral, echo, fable, nova, onyx, sage, shimmer
+voice: sage                         # OpenAI: alloy, ash, ballad, coral, echo, fable, nova, onyx, sage, shimmer
 tts_model: gpt-4o-mini-tts          # günstig + steuerbar via instructions
 tts_instructions: |
-  Sprich ruhig, klar und sachlich wie ein professioneller deutscher Nachrichten-Sprecher.
-  Tempo moderat, kein Drama, deutliche Aussprache englischer Eigennamen.
+  Lies in flottem Tempo, klar und gut artikuliert, wie ein moderner deutscher Nachrichten-Sprecher.
+  Leichte Ironie bei Wirtschaftsmeldungen ist erlaubt – sonst sachlich und seriös.
+  Englische Eigennamen deutlich aussprechen, keine Überdramatisierung.
 # ElevenLabs-Fallback (greift, wenn tts_provider: elevenlabs gesetzt wird):
 voice_id: pNInz6obpgDQGcFmaJgB
 voice_model: eleven_multilingual_v2
