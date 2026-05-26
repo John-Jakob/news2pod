@@ -1,64 +1,40 @@
 {
-  "title": "KI Daily – 26. Mai 2026: Papst, Börsengänge & Milliardenrunden",
-  "teaser": "Der Vatikan meldet sich mit einer Grundsatzerklärung zur Künstlichen Intelligenz zu Wort, OpenAI geht an die Börse, Anthropic wird womöglich wertvoller als OpenAI – und Trumps KI-Regulierung scheitert an drei Telefonaten. Das KI Daily-Briefing für Dienstag, den 26. Mai 2026.",
+  "title": "KI Daily – 27. Mai 2026: China, Codex & Robotaxis",
+  "teaser": "China schränkt Auslandsreisen für KI-Spitzenkräfte ein, OpenAI's Codex übernimmt den Mac auch im Sperrbildschirm, und Pony AI hebt sein Robotaxi-Ziel an. Dazu: Anthropics Mythos-Modell hat inzwischen über 23.000 Sicherheitslücken aufgedeckt.",
   "pubDate": "2026-05-26T06:00:00+02:00",
-  "duration_seconds": 414,
+  "duration_seconds": 405,
   "model": "claude-sonnet-4-6",
   "sources": [
     {
-      "headline": "Pope Leo Uses First Major Papal Text to Warn About Dangers of AI",
-      "source": "time.com",
-      "url": "https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/",
-      "published": "2026-05-25"
-    },
-    {
-      "headline": "Pope Leo warns of AI fueling warfare in first major theological document",
-      "source": "cnn.com",
-      "url": "https://www.cnn.com/2026/05/25/europe/pope-leo-ai-encyclical-magnifica-humanitas-intl",
-      "published": "2026-05-25"
-    },
-    {
-      "headline": "Pope Leo's 'Magnifica humanitas': AI must serve humanity",
-      "source": "vaticannews.va",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html",
-      "published": "2026-05-25"
-    },
-    {
-      "headline": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
-      "source": "the-decoder.com",
-      "url": "https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/",
-      "published": "2026-05-21"
-    },
-    {
-      "headline": "Elon Musk, Mark Zuckerberg derail Trump AI order",
-      "source": "semafor.com",
-      "url": "https://www.semafor.com/article/05/21/2026/elon-musk-mark-zuckerberg-derail-trump-ai-order",
-      "published": "2026-05-21"
-    },
-    {
-      "headline": "OpenAI prepares confidential IPO filing",
-      "source": "axios.com",
-      "url": "https://www.axios.com/2026/05/20/openai-ipo-spacex-musk",
-      "published": "2026-05-20"
-    },
-    {
-      "headline": "Anthropic In Talks to Raise $30 Billion at $900 Billion Valuation",
+      "headline": "China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms",
       "source": "bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation",
-      "published": "2026-05-22"
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
+      "published": "2026-05-26"
     },
     {
-      "headline": "Anthropic Funding Round to Top $30B: $900B Valuation Would Surpass OpenAI",
-      "source": "techtimes.com",
-      "url": "https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm",
-      "published": "2026-05-23"
+      "headline": "Pony AI Lifts 2026 Robotaxi Fleet Goal to 3,500 on Fast Growth",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-on-fast-growth",
+      "published": "2026-05-26"
     },
     {
-      "headline": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "published": "2026-05-19"
+      "headline": "Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects",
+      "source": "securityweek.com",
+      "url": "https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/",
+      "published": "2026-05-25"
+    },
+    {
+      "headline": "OpenAI Codex controls Mac even in locked state",
+      "source": "heise.de",
+      "url": "https://www.heise.de/en/news/OpenAI-Codex-controls-Mac-even-in-locked-state-11306153.html",
+      "published": "2026-05-27"
+    },
+    {
+      "headline": "Pony AI Inc. Reports First Quarter 2026 Financial Results with Continued Growth",
+      "source": "sec.gov (via Pony AI)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001969302/000110465926066016/tm2615604d1_ex99-1.htm",
+      "published": "2026-05-26"
     }
   ],
-  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Dienstag, den 26. Mai 2026.\n\nWir beginnen heute mit einer Nachricht, die man so nicht alle Tage bekommt: Der Vatikan hat sich offiziell in die KI-Debatte eingeschaltet. Papst Leo XIV. hat gestern seine erste Enzyklika veröffentlicht. Sie trägt den Titel \"Magnifica Humanitas\" – zu Deutsch: Herrliche Menschlichkeit – und ist mit über 42.000 Wörtern ein gewichtiges Dokument. Der Papst adressiert darin explizit die Gefahren und Chancen Künstlicher Intelligenz. Besonders bemerkenswert: Leo XIV. bezeichnete KI als eine neue industrielle Revolution und zog dabei bewusst eine Parallele zu seinem Vorgänger Leo XIII., dessen Enzyklika \"Rerum Novarum\" von 1891 die Rechte der Arbeiter während der Industrialisierung verteidigte. Das aktuelle Schreiben wurde exakt 135 Jahre nach diesem historischen Dokument unterzeichnet. Inhaltlich fordert der Papst konkrete Gesetze und eine unabhängige Aufsicht über KI – keine abstrakten Ethikversprechen. Er warnt vor KI in autonomen Waffensystemen, lehnt transhumanistische Visionen aus dem Silicon Valley ausdrücklich ab, und besteht darauf, dass KI dem Gemeinwohl dienen müsse. Für Aufsehen sorgte auch, dass der Papst die Enzyklika gemeinsam mit Chris Olah präsentierte – dem Mitgründer von Anthropic. Der Vatikan wählt damit bewusst einen KI-Sicherheitsforscher als Partner und setzt ein Signal: Verantwortung vor Tempo.\n\nWeiter geht es mit einer politischen Nachricht, die zeigt, wie eng Macht und Regulierung in der KI-Welt verknüpft sind. US-Präsident Donald Trump hatte in der vergangenen Woche eine Executive Order zur KI-Sicherheit vorbereitet. Die geplante Verordnung hätte große KI-Unternehmen verpflichtet, ihre leistungsstärksten Modelle bis zu 90 Tage vor der Veröffentlichung freiwillig einer Sicherheitsprüfung durch Bundesbehörden zu unterziehen. Einladungen für eine Unterzeichnungszeremonie im Weißen Haus waren bereits verschickt worden. Doch dann kamen die Anrufe. In der Nacht vom 20. auf den 21. Mai telefonierten Elon Musk, Mark Zuckerberg und der frühere KI-Berater im Weißen Haus, David Sacks, direkt mit dem Präsidenten. Das Argument: Die Maßnahme gefährde Amerikas Wettbewerbsfähigkeit gegenüber China. Trump sagte die Unterzeichnung kurzfristig ab. Musk bestreitet auf seiner Plattform X, die Entscheidung beeinflusst zu haben – die Berichte aus dem Weißen Haus zeichnen jedoch ein anderes Bild. Das Fazit ist ernüchternd: Selbst ein freiwilliges, nicht-verbindliches KI-Sicherheitsframework konnte in den USA nicht durchgesetzt werden. Die Frage, wer die Regeln der KI-Welt wirklich schreibt, drängt sich auf.\n\nJetzt zu den Finanzierungsnachrichten, und da hat sich in den letzten Tagen einiges getan. OpenAI hat am 22. Mai vertraulich seinen Börsenprospekt, die sogenannte S-1-Einreichung, bei der amerikanischen Wertpapieraufsicht SEC eingereicht. Goldman Sachs und Morgan Stanley führen den Deal. Angepeilt wird ein Börsengang im vierten Quartal 2026, möglicherweise bereits im September – mit einer Bewertung zwischen 852 Milliarden und einer Billion Dollar. Das wäre der größte Börsengang in der Geschichte der Technologiebranche. Solange die Einreichung vertraulich bleibt, sind die genauen Finanzdaten nicht öffentlich. Klar ist jedoch: OpenAI macht trotz Milliardenumsätzen noch Verlust und finanziert enorme Infrastrukturkosten. Der Börsengang wäre ein historischer Moment für die gesamte KI-Industrie.\n\nGleichzeitig steht OpenAI kurz davor, seinen Titel als wertvollstes privates KI-Unternehmen der Welt zu verlieren. Anthropic – der Hersteller des KI-Assistenten Claude – befindet sich laut Bloomberg in finalen Verhandlungen für eine neue Finanzierungsrunde von über 30 Milliarden Dollar, diesmal bei einer Bewertung von rund 900 Milliarden Dollar. Zum Vergleich: OpenAIs letzte Bewertung lag bei 852 Milliarden Dollar. Diese Runde soll noch in dieser Woche abgeschlossen werden. Hinter dem Boom stecken harte Zahlen: Anthropics annualisierter Umsatz stieg von rund neun Milliarden Dollar Ende 2025 auf über 30 Milliarden Dollar im April 2026 – eine Wachstumsgeschwindigkeit, die selbst erfahrene Investoren verblüfft. Der Unternehmenskodierungsassistent Claude Code spielt dabei eine Schlüsselrolle. Firmen wie Sequoia Capital, Dragoneer und Altimeter Capital führen die neue Runde an. Noch sind die Bedingungen nicht endgültig besiegelt – aber alle Zeichen stehen auf Abschluss.\n\nKommen wir zuletzt zu einem Modell-Release: Google hat vergangene Woche auf seiner Entwicklerkonferenz Google I/O Gemini 3.5 Flash vorgestellt und sofort allgemein verfügbar gemacht. Das Modell ist laut Google schneller und günstiger als vergleichbare Frontier-Modelle, bei gleichzeitig starker Leistung in Coding und agentischen Aufgaben – also Aufgaben, bei denen KI eigenständig mehrstufige Prozesse ausführt. Es ist ab sofort für alle Nutzer der Gemini-App sowie im KI-Modus der Google-Suche verfügbar. Bemerkenswert ist Googles strategische Entscheidung: Statt eines noch größeren Flaggschiffmodells setzt das Unternehmen auf Geschwindigkeit und niedrige Kosten bei Frontier-Niveau. Ein Gemini 3.5 Pro soll nächsten Monat folgen.\n\nDamit kommen wir zum Ausblick: Diese Woche dürfte das Anthropic-Funding endgültig abgeschlossen werden – und damit eine neue Bewertungshierarchie im KI-Sektor einläuten. Parallel laufen die ersten Debatten über das, was Papst Leo XIV.s Enzyklika politisch auslösen wird – insbesondere in Europa, wo der EU AI Act bereits Wirkung entfaltet. Und die KI-Regulierungsdebatte in den USA ist nach dem gescheiterten Executive Order erst recht im Umbruch.\n\nDas war dein KI Daily für den 26. Mai 2026. Bleib neugierig – bis morgen."
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Mittwoch, 27. Mai 2026.\n\n===\n\nWir beginnen mit einer politisch brisanten Meldung aus China: Peking schränkt die Auslandsreisen seiner wichtigsten KI-Fachkräfte aus dem Privatsektor ein. \nChina beschränkt die Auslandsreisen von führenden KI-Fachleuten in privaten Unternehmen wie Alibaba und DeepSeek – ein Zeichen dafür, dass die Maßnahmen zum Schutz seiner Technologie und zum Aufholen gegenüber den USA eskalieren.\n \nStaatliche Behörden haben damit begonnen, Beschränkungen für Personen einzuführen, die als strategisch wichtig eingestuft werden und in der fortgeschrittenen KI-Entwicklung tätig sind. Das bedeutet: Sie benötigen künftig eine Genehmigung der zuständigen Behörden, bevor sie ins Ausland reisen dürfen.\n\n\n\nDie Einschränkungen richten sich gezielt gegen Start-up-Gründerinnen und -Gründer, Forschende und Führungskräfte, die an fortgeschrittener KI arbeiten.\n \nChina hat Reisebeschränkungen für Personen, die mit staatsnahen Einrichtungen verbunden sind, schon früher angewendet. Neu ist die Ausweitung dieser Kontrollen auf die KI-Abteilungen des Privatsektors – ein Signal dafür, wie strategisch wichtig Peking die Arbeit bei Unternehmen wie Alibaba und DeepSeek einschätzt.\n \nBloomberg hatte bereits im Dezember 2025 über ähnliche Reisebeschränkungen für einige DeepSeek-Führungskräfte berichtet.\n Die neuste Eskalation könnte international tätige Forschende vor eine schwierige Wahl stellen: \nSolche Richtlinien könnten Ingenieurinnen und Ingenieure mit globalen Ambitionen dazu zwingen, früher in ihrer Karriere zu entscheiden, ob sie im Land bleiben oder ins Ausland gehen.\n\n\n===\n\nWeiter zu einem Update aus der Welt der autonomen Fahrzeuge: Das chinesische Robotaxi-Unternehmen Pony AI hat seine Wachstumsziele für 2026 deutlich angehoben. \nPony AI hat sein Robotaxi-Flotttenziel für dieses Jahr um 500 Fahrzeuge auf 3.500 angehoben, nachdem das Unternehmen stärker als erwartet ausgefallene Erstquartalsumsätze gemeldet hatte. Das selbstfahrende Unternehmen verzeichnete im Quartal bis Ende März ein Umsatzwachstum von 145 Prozent auf 34,3 Millionen Dollar – und übertraf damit die durchschnittliche Analystenprognose von 21,7 Millionen Dollar deutlich.\n \nDie durchschnittlichen wöchentlichen bezahlten Bestellungen im Mai 2026 stiegen im Vergleich zum Januar um 119 Prozent.\n Besonders bemerkenswert: \nIn Europa hat Pony AI seinen Robotaxi-Betrieb in Kroatien gestartet – den ersten kommerziellen Robotaxi-Service auf dem Kontinent.\n Damit wird Kroatien zum ersten europäischen Land, in dem autonome Taxis regulär fahren.\n\n===\n\nNun ein Update zu einer Geschichte, die wir bereits kennen – aber mit substanziell neuen Zahlen: Anthropics nicht-öffentliches KI-Modell namens Mythos Preview hat im Rahmen des sogenannten Project Glasswing inzwischen mehr als 23.000 potenzielle Sicherheitslücken in Open-Source-Software aufgedeckt. \nWie Anthropic mitteilt, hat Mythos Preview über 23.000 potenzielle Schwachstellen in mehr als tausend Open-Source-Projekten identifiziert. Von den bereits überprüften rund 1.900 Funden haben externe Sicherheitsfirmen 1.726 bestätigt – darunter über tausend, die als schwerwiegend oder kritisch eingestuft wurden.\n \nDa die Scans noch andauern, geht Anthropic davon aus, dass die Zahl der schwerwiegenden Sicherheitslücken auf bis zu 6.200 ansteigen könnte.\n\n\n\nFrontier-KI-Modelle werden mittlerweile konkurrenzfähig zu den besten menschlichen Experten beim Finden und Ausnutzen von Schwachstellen. Ohne die notwendigen Schutzmaßnahmen könnten diese leistungsstarken Cyberfähigkeiten genutzt werden, um die vielen bestehenden Sicherheitslücken in der weltweit bedeutendsten Software auszunutzen. Das könnte Cyberangriffe aller Art häufiger und zerstörerischer machen.\n Project Glasswing – der Verbund aus Technologieunternehmen, der exklusiven Zugang zu Mythos hat – umfasst Partner wie Amazon, Apple, Microsoft und Google. Anthropic betont, das Modell absichtlich nicht öffentlich verfügbar zu machen, bis ausreichend Schutzmaßnahmen entwickelt worden sind.\n\n===\n\nSchließlich eine Neuigkeit für alle, die KI-Agenten produktiv nutzen: OpenAI hat seinen Codex-Agenten für Mac mit einer neuen Funktion ausgestattet, die für Aufsehen sorgt. \nOpenAI hat Computer Use für seine Codex-Desktop-App auf macOS eingeführt. Neu ist, dass der Mac nicht einmal entsperrt sein muss: Nutzende können Codex-Aufgaben von ihrem Smartphone aus starten und der Agent arbeitet an Apps auf dem Mac, auch wenn der Bildschirm aus und gesperrt ist.\n\n\n\nWie Computer Use selbst ist die Funktion derzeit nicht im Europäischen Wirtschaftsraum, in der Schweiz und in Großbritannien verfügbar.\n \nOpenAI gibt an, dass Codex den Mac nur während einer aktiven, vertrauenswürdigen Aufgabe vorübergehend entsperrt, während er den lokalen Zugriff blockiert. Erkennt das System Tastatur- oder Mausaktivität, sperrt Codex den Mac sofort wieder und pausiert den Fernzugriff, bis der Nutzer manuell entsperrt.\n Diese Funktion markiert einen weiteren Schritt in Richtung vollständig autonomer KI-Agenten, die im Hintergrund und ohne menschliche Begleitung komplexe Aufgaben erledigen.\n\n===\n\nDas waren die wichtigsten KI-Nachrichten des heutigen Morgens. Im Blick behalten sollte man in den kommenden Tagen die weitere Entwicklung rund um Anthropics IPO-Gespräche: Das Unternehmen soll laut früheren Berichten eine Finanzierungsrunde von über 30 Milliarden Dollar bei einer Bewertung von knapp 900 Milliarden Dollar anstreben – und würde damit OpenAI als wertvollstes KI-Start-up der Welt ablösen. Außerdem steht die Frage im Raum, wie China's neue Reisebeschränkungen die globale KI-Forschungsgemeinschaft langfristig verändern werden.\n\nBis morgen – bleib informiert."
 }

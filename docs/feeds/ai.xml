@@ -19,12 +19,30 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
-      <title>KI Daily – 26. Mai 2026: Papst, Börsengänge &amp; Milliardenrunden</title>
-      <description>Der Vatikan meldet sich mit einer Grundsatzerklärung zur Künstlichen Intelligenz zu Wort, OpenAI geht an die Börse, Anthropic wird womöglich wertvoller als OpenAI – und Trumps KI-Regulierung scheitert an drei Telefonaten. Das KI Daily-Briefing für Dienstag, den 26. Mai 2026.</description>
+      <title>KI Daily – 27. Mai 2026: China, Codex &amp; Robotaxis</title>
+      <description><![CDATA[<p>China schränkt Auslandsreisen für KI-Spitzenkräfte ein, OpenAI's Codex übernimmt den Mac auch im Sperrbildschirm, und Pony AI hebt sein Robotaxi-Ziel an. Dazu: Anthropics Mythos-Modell hat inzwischen über 23.000 Sicherheitslücken aufgedeckt.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms">China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-on-fast-growth">Pony AI Lifts 2026 Robotaxi Fleet Goal to 3,500 on Fast Growth</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/">Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</a> <em>(securityweek.com)</em></li>
+<li><a href="https://www.heise.de/en/news/OpenAI-Codex-controls-Mac-even-in-locked-state-11306153.html">OpenAI Codex controls Mac even in locked state</a> <em>(heise.de)</em></li>
+<li><a href="https://www.sec.gov/Archives/edgar/data/0001969302/000110465926066016/tm2615604d1_ex99-1.htm">Pony AI Inc. Reports First Quarter 2026 Financial Results with Continued Growth</a> <em>(sec.gov (via Pony AI))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>China schränkt Auslandsreisen für KI-Spitzenkräfte ein, OpenAI's Codex übernimmt den Mac auch im Sperrbildschirm, und Pony AI hebt sein Robotaxi-Ziel an. Dazu: Anthropics Mythos-Modell hat inzwischen über 23.000 Sicherheitslücken aufgedeckt.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms">China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-on-fast-growth">Pony AI Lifts 2026 Robotaxi Fleet Goal to 3,500 on Fast Growth</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/">Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</a> <em>(securityweek.com)</em></li>
+<li><a href="https://www.heise.de/en/news/OpenAI-Codex-controls-Mac-even-in-locked-state-11306153.html">OpenAI Codex controls Mac even in locked state</a> <em>(heise.de)</em></li>
+<li><a href="https://www.sec.gov/Archives/edgar/data/0001969302/000110465926066016/tm2615604d1_ex99-1.htm">Pony AI Inc. Reports First Quarter 2026 Financial Results with Continued Growth</a> <em>(sec.gov (via Pony AI))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>China schränkt Auslandsreisen für KI-Spitzenkräfte ein, OpenAI's Codex übernimmt den Mac auch im Sperrbildschirm, und Pony AI hebt sein Robotaxi-Ziel an. Dazu: Anthropics Mythos-Modell hat inzwischen über 23.000 Sicherheitslücken aufgedeckt.</itunes:summary>
       <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-05-26</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-26.mp3" length="6635520" type="audio/mpeg"/>
-      <itunes:duration>6:54</itunes:duration>
+      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-26.mp3" length="4871359" type="audio/mpeg"/>
+      <itunes:duration>6:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
