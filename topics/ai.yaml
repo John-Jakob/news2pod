@@ -1,0 +1,31 @@
+slug: ai
+title: KI Daily
+description: Dein 5-Minuten-Briefing zu Künstlicher Intelligenz – täglich frisch um 6 Uhr.
+language: de
+voice_id: pNInz6obpgDQGcFmaJgB     # Adam (ElevenLabs multilingual). Tausch nach Wunsch.
+voice_model: eleven_multilingual_v2
+target_minutes: 5
+research_prompt: |
+  Recherchiere die wichtigsten Nachrichten aus den Bereichen Künstliche Intelligenz,
+  Large Language Models, KI-Anwendungen, KI-Forschung, KI-Industrie und KI-Regulierung
+  der letzten 24 Stunden. Konzentriere dich auf substantielle Entwicklungen: neue
+  Modelle und Releases, Forschungsergebnisse, Unternehmensankündigungen (OpenAI,
+  Anthropic, Google DeepMind, Meta, Mistral, xAI usw.), Regulierung, Übernahmen,
+  größere Investitionen und gesellschaftliche Debatten.
+preferred_sources:
+  - reuters.com
+  - bloomberg.com
+  - ft.com
+  - techcrunch.com
+  - theverge.com
+  - arstechnica.com
+  - wired.com
+  - technologyreview.com
+  - the-decoder.com
+  - heise.de
+  - golem.de
+  - faz.net
+  - sueddeutsche.de
+  - zeit.de
+  - handelsblatt.com
+cover_image: default-cover.png

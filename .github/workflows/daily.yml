@@ -1,0 +1,57 @@
+name: Daily podcast build
+
+on:
+  schedule:
+    # 03:30 UTC = 04:30 Berlin (Winterzeit) / 05:30 Berlin (Sommerzeit).
+    # Lauf dauert ~3-5 Min => fertig spätestens ~05:35 Berlin = vor 06:00 wie gewünscht.
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'Topic-Slug bauen (leer = alle)'
+        required: false
+        default: ''
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Build episode(s)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          PODCAST_BASE_URL: ${{ vars.PODCAST_BASE_URL }}
+        run: |
+          set -e
+          if [ -n "${{ github.event.inputs.topic }}" ]; then
+            python scripts/build_podcast.py "${{ github.event.inputs.topic }}"
+          else
+            for f in topics/*.yaml; do
+              slug=$(basename "$f" .yaml)
+              python scripts/build_podcast.py "$slug" || echo "::warning::Build für $slug fehlgeschlagen"
+            done
+          fi
+
+      - name: Commit & push
+        run: |
+          git config user.name "news2pod-bot"
+          git config user.email "bot@news2pod.local"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "daily episode $(date -u +%Y-%m-%d)"
+            git push
+          fi
