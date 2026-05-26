@@ -19,12 +19,12 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
-      <title>KI Daily: Papst, Milliarden und KI-Entlassungen – 26. Mai 2026</title>
-      <description>Der Vatikan schlägt Alarm: Papst Leo XIV. fordert in seiner ersten Enzyklika strikte KI-Regulierung. Dazu: Anthropic auf dem Weg zur wertvollsten KI-Firma der Welt, Trump bricht sein eigenes KI-Sicherheitsgesetz in letzter Sekunde ab – und Wix entlässt tausend Menschen wegen KI.</description>
+      <title>KI Daily – 26. Mai 2026: Papst, IPO, Börsenpläne und die Singularität</title>
+      <description>Papst Leo XIV. warnt mit seiner ersten Enzyklika vor den Risiken der KI – und wählt Anthropic als Partner. Dazu: OpenAIs Börsenpläne, Anthropics Rekordfinanzierung, Googles neues Gemini 3.5 Flash und warum Trumps KI-Sicherheitserlass in letzter Minute gestoppt wurde.</description>
       <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-05-26</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-26.mp3" length="7321435" type="audio/mpeg"/>
-      <itunes:duration>7:37</itunes:duration>
+      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-26.mp3" length="6157056" type="audio/mpeg"/>
+      <itunes:duration>6:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
