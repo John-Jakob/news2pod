@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KI Daily</title>
+    <link>https://john-jakob.github.io/news2pod/</link>
+    <atom:link href="https://john-jakob.github.io/news2pod/feeds/ai.xml" rel="self" type="application/rss+xml"/>
+    <description>Dein 5-Minuten-Briefing zu Künstlicher Intelligenz – täglich frisch um 6 Uhr.</description>
+    <language>de-DE</language>
+    <itunes:author>news2pod</itunes:author>
+    <itunes:summary>Dein 5-Minuten-Briefing zu Künstlicher Intelligenz – täglich frisch um 6 Uhr.</itunes:summary>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://john-jakob.github.io/news2pod/images/default-cover.png"/>
+    <itunes:owner>
+      <itunes:name>news2pod</itunes:name>
+      <itunes:email>chat@hh3.info</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>KI Daily: Papst, Milliarden und KI-Entlassungen – 26. Mai 2026</title>
+      <description>Der Vatikan schlägt Alarm: Papst Leo XIV. fordert in seiner ersten Enzyklika strikte KI-Regulierung. Dazu: Anthropic auf dem Weg zur wertvollsten KI-Firma der Welt, Trump bricht sein eigenes KI-Sicherheitsgesetz in letzter Sekunde ab – und Wix entlässt tausend Menschen wegen KI.</description>
+      <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-05-26</guid>
+      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-26.mp3" length="7321435" type="audio/mpeg"/>
+      <itunes:duration>7:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
