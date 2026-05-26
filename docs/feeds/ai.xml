@@ -13,7 +13,7 @@
     <itunes:summary>Dein 5-Minuten-Briefing zu Künstlicher Intelligenz – täglich frisch um 6 Uhr.</itunes:summary>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://john-jakob.github.io/news2pod/images/default-cover.png"/>
+    <itunes:image href="https://john-jakob.github.io/news2pod/images/default-cover.jpg"/>
     <itunes:owner>
       <itunes:name>news2pod</itunes:name>
       <itunes:email>chat@hh3.info</itunes:email>
