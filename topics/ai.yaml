@@ -2,7 +2,14 @@ slug: ai
 title: KI Daily
 description: Dein 5-Minuten-Briefing zu Künstlicher Intelligenz – täglich frisch um 6 Uhr.
 language: de
-voice_id: pNInz6obpgDQGcFmaJgB     # Adam (ElevenLabs multilingual). Tausch nach Wunsch.
+tts_provider: openai                # openai | elevenlabs
+voice: onyx                         # OpenAI: alloy, ash, ballad, coral, echo, fable, nova, onyx, sage, shimmer
+tts_model: gpt-4o-mini-tts          # günstig + steuerbar via instructions
+tts_instructions: |
+  Sprich ruhig, klar und sachlich wie ein professioneller deutscher Nachrichten-Sprecher.
+  Tempo moderat, kein Drama, deutliche Aussprache englischer Eigennamen.
+# ElevenLabs-Fallback (greift, wenn tts_provider: elevenlabs gesetzt wird):
+voice_id: pNInz6obpgDQGcFmaJgB
 voice_model: eleven_multilingual_v2
 target_minutes: 5
 research_prompt: |

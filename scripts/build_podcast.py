@@ -62,13 +62,10 @@ def main() -> int:
             print("FEHLER: Leeres Skript erhalten. Abbruch.", file=sys.stderr)
             return 2
 
-        print(f"[2/3] TTS via ElevenLabs (voice {topic['voice_id']})…")
-        tts_to_mp3(
-            text=result["script"],
-            voice_id=topic["voice_id"],
-            out_path=mp3_path,
-            model=topic["voice_model"],
-        )
+        provider = topic.get("tts_provider", "elevenlabs" if topic.get("voice_id") else "openai")
+        voice_label = topic.get("voice") or topic.get("voice_id") or "default"
+        print(f"[2/3] TTS via {provider} (voice {voice_label})…")
+        tts_to_mp3(text=result["script"], topic=topic, out_path=mp3_path)
 
         duration_sec = mp3_duration_seconds(mp3_path)
         pub_iso = now.replace(hour=6, minute=0, second=0, microsecond=0).isoformat()
