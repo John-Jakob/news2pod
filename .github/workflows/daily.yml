@@ -65,3 +65,21 @@ jobs:
             git commit -m "daily episode $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: Notify on failure
+        if: failure()
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          TOPIC_INPUT: ${{ github.event.inputs.topic }}
+        run: |
+          if [ -z "$NTFY_TOPIC" ]; then
+            echo "NTFY_TOPIC nicht gesetzt – überspringe Notification."
+            exit 0
+          fi
+          curl -sS \
+            -H "Title: news2pod build failed" \
+            -H "Priority: high" \
+            -H "Tags: warning,podcast" \
+            -d "Topic: ${TOPIC_INPUT:-alle} – Details: $RUN_URL" \
+            "https://ntfy.sh/$NTFY_TOPIC" >/dev/null || true

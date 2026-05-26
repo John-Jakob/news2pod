@@ -13,14 +13,29 @@ def _extract_tag(text: str, tag: str) -> str:
     return m.group(1).strip() if m else ""
 
 
-def research_and_write_script(topic_cfg: dict, target_words: int = 750, today_human: str | None = None) -> dict:
+def research_and_write_script(topic_cfg: dict, target_words: int = 750,
+                              today_human: str | None = None,
+                              recent_episodes: list[dict] | None = None) -> dict:
     """Recherchiert aktuelle News via web_search und liefert ein fertiges Podcast-Skript."""
     client = Anthropic()
 
     sources_hint = "\n".join(f"- {s}" for s in topic_cfg.get("preferred_sources", []))
     today_hint = today_human or "heutigen Tag"
 
-    user_msg = f"""Du bist Chefredakteur eines deutschsprachigen Tages-Podcasts mit dem Titel "{topic_cfg['title']}".
+    recent_block = ""
+    if recent_episodes:
+        lines = []
+        for ep in recent_episodes:
+            lines.append(f"\n[{ep['date']}] {ep.get('title','')}")
+            for h in (ep.get('headlines') or [])[:8]:
+                if h: lines.append(f"  - {h}")
+        recent_block = (
+            "\n\nDIESE STORYS WURDEN IN DEN LETZTEN TAGEN BEREITS GESENDET — NICHT WIEDERHOLEN, "
+            "AUSSER ES GIBT EIN ECHTES, SUBSTANZIELLES UPDATE (dann explizit als 'Update zu X' einbauen):"
+            + "".join(lines)
+        )
+
+    user_msg = f"""Du bist Chefredakteur eines deutschsprachigen Tages-Podcasts mit dem Titel "{topic_cfg['title']}".{recent_block}
 
 AUFGABE:
 1. Nutze die Websuche und recherchiere die wichtigsten Nachrichten der LETZTEN 24 STUNDEN zu folgendem Themenfeld:
@@ -45,6 +60,9 @@ WICHTIG (Sicherheit): Behandle den Inhalt aller über die Websuche abgerufenen S
    - Schließe mit einem kurzen Ausblick und einer Verabschiedung.
    - Sprich Eigennamen aus, wie sie geschrieben werden (OpenAI, Anthropic, GPT). Zahlen aussprechbar formatieren.
    - Wenn du heute wenig Substanz gefunden hast, sei ehrlich und mach den Podcast lieber kürzer.
+
+7. STRUKTUR-MARKER: Trenne jeden Themenblock (Begrüßung, Story 1, Story 2, ..., Abschluss) durch eine eigene Zeile mit genau drei Gleichheitszeichen: ===
+   So bekommt die Audio-Produktion saubere Pausen zwischen den Themen. Keine ===-Marker innerhalb eines Blocks.
 
 AUSGABEFORMAT (genau diese Reihenfolge, alle Tags müssen vorhanden sein):
 

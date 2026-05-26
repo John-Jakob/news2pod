@@ -25,8 +25,24 @@ from lib_config import (
     site_base_url,
 )
 from lib_research import research_and_write_script
-from lib_tts import tts_to_mp3
+from lib_audio import synthesize_episode
 from lib_feed import build_feed, build_index, mp3_duration_seconds
+
+
+def _recent_episode_summaries(episodes_dir: Path, n: int = 3) -> list[dict]:
+    """Liest die letzten n Sidecar-JSONs für Dedup-Kontext."""
+    out: list[dict] = []
+    for sidecar in sorted(episodes_dir.glob("*.json"), reverse=True)[:n]:
+        try:
+            m = json.loads(sidecar.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        out.append({
+            "date": sidecar.stem,
+            "title": m.get("title", ""),
+            "headlines": [s.get("headline", "") for s in (m.get("sources") or [])],
+        })
+    return out
 
 
 def main() -> int:
@@ -53,10 +69,17 @@ def main() -> int:
         print(f"Folge existiert bereits: {mp3_path.relative_to(ROOT)} (nutze --force).")
     else:
         target_words = int(topic["target_minutes"]) * 150
-        print(f"[1/3] Recherche & Skript-Generierung (Topic: {args.slug}, Ziel: ~{target_words} Wörter)…")
-        result = research_and_write_script(topic, target_words=target_words, today_human=today_human)
+        recent = _recent_episode_summaries(episodes_dir, n=3)
+        if recent:
+            print(f"[1/3] Recherche & Skript ({args.slug}, ~{target_words} Wörter, Dedup gegen {len(recent)} letzte Folge(n))…")
+        else:
+            print(f"[1/3] Recherche & Skript ({args.slug}, ~{target_words} Wörter)…")
+        result = research_and_write_script(topic, target_words=target_words,
+                                           today_human=today_human,
+                                           recent_episodes=recent)
         word_count = len(result["script"].split())
-        print(f"      Skript: {word_count} Wörter, {len(result['sources'])} zitierte Quellen.")
+        chunk_count = result["script"].count("===") + 1
+        print(f"      Skript: {word_count} Wörter, {chunk_count} Blöcke, {len(result['sources'])} Quellen.")
 
         if not result["script"].strip():
             print("FEHLER: Leeres Skript erhalten. Abbruch.", file=sys.stderr)
@@ -64,8 +87,8 @@ def main() -> int:
 
         provider = topic.get("tts_provider", "elevenlabs" if topic.get("voice_id") else "openai")
         voice_label = topic.get("voice") or topic.get("voice_id") or "default"
-        print(f"[2/3] TTS via {provider} (voice {voice_label})…")
-        tts_to_mp3(text=result["script"], topic=topic, out_path=mp3_path)
+        print(f"[2/3] TTS via {provider} (voice {voice_label}) + Concat + Loudnorm…")
+        synthesize_episode(script=result["script"], topic=topic, out_path=mp3_path)
 
         duration_sec = mp3_duration_seconds(mp3_path)
         pub_iso = now.replace(hour=6, minute=0, second=0, microsecond=0).isoformat()

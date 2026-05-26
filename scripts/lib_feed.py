@@ -25,6 +25,25 @@ def format_duration(seconds: int) -> str:
     return f"{h:d}:{m:02d}:{s:02d}" if h else f"{m:d}:{s:02d}"
 
 
+def _shownotes_html(meta: dict) -> str:
+    teaser = meta.get("teaser", "") or ""
+    parts = []
+    if teaser:
+        parts.append(f"<p>{escape(teaser)}</p>")
+    sources = meta.get("sources") or []
+    valid = [s for s in sources if s.get("url") and s.get("headline")]
+    if valid:
+        items = []
+        for s in valid:
+            url = escape(s["url"], {'"': "&quot;"})
+            head = escape(s["headline"])
+            src = escape(s.get("source", "") or "")
+            tail = f" <em>({src})</em>" if src else ""
+            items.append(f'<li><a href="{url}">{head}</a>{tail}</li>')
+        parts.append("<p><strong>Heutige Quellen:</strong></p>\n<ul>\n" + "\n".join(items) + "\n</ul>")
+    return "\n".join(parts)
+
+
 def build_feed(topic_cfg: dict, base_url: str, episodes_dir: Path, feed_path: Path) -> Path:
     slug = topic_cfg["slug"]
     title = topic_cfg["title"]
@@ -54,12 +73,15 @@ def build_feed(topic_cfg: dict, base_url: str, episodes_dir: Path, feed_path: Pa
         duration_sec = int(meta.get("duration_seconds") or mp3_duration_seconds(mp3))
         ep_title = meta.get("title") or f"{title} – {date}"
         ep_desc = meta.get("teaser") or ""
+        shownotes = _shownotes_html(meta)
         mp3_url = f"{base_url}/episodes/{slug}/{date}.mp3" if base_url else f"episodes/{slug}/{date}.mp3"
         guid = f"{slug}-{date}"
 
         items_xml.append(f"""    <item>
       <title>{escape(ep_title)}</title>
-      <description>{escape(ep_desc)}</description>
+      <description><![CDATA[{shownotes}]]></description>
+      <content:encoded><![CDATA[{shownotes}]]></content:encoded>
+      <itunes:summary>{escape(ep_desc)}</itunes:summary>
       <pubDate>{format_datetime(pub_dt)}</pubDate>
       <guid isPermaLink="false">{guid}</guid>
       <enclosure url="{escape(mp3_url, {'"': '&quot;'})}" length="{size}" type="audio/mpeg"/>
