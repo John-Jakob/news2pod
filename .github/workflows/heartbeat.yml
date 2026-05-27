@@ -1,0 +1,49 @@
+name: Heartbeat – ensure today's episode exists
+
+# Sicherheitsnetz falls der Daily-Cron einen Slot verpasst.
+# Läuft mittags Berlin-Zeit. Triggert den Build, wenn heute noch keine Folge da ist.
+
+on:
+  schedule:
+    - cron: '0 10 * * *'  # 11:00/12:00 Berlin
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check & dispatch
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TODAY=$(TZ=Europe/Berlin date +%Y-%m-%d)
+          MISSING=()
+          for f in topics/*.yaml; do
+            slug=$(basename "$f" .yaml)
+            if [ ! -f "docs/episodes/$slug/$TODAY.mp3" ]; then
+              MISSING+=("$slug")
+            fi
+          done
+          if [ ${#MISSING[@]} -eq 0 ]; then
+            echo "Alle Topics haben eine Folge für $TODAY."
+            exit 0
+          fi
+          echo "Fehlende Folgen für $TODAY: ${MISSING[*]}"
+          for slug in "${MISSING[@]}"; do
+            gh workflow run "Daily podcast build" -f topic="$slug" || true
+          done
+          if [ -n "$NTFY_TOPIC" ]; then
+            curl -sS \
+              -H "Title: news2pod heartbeat" \
+              -H "Priority: default" \
+              -H "Tags: hourglass_flowing_sand" \
+              -d "Cron hatte Folge(n) für $TODAY nicht erzeugt – habe Build manuell nachgetriggert: ${MISSING[*]}. $RUN_URL" \
+              "https://ntfy.sh/$NTFY_TOPIC" >/dev/null || true
+          fi
