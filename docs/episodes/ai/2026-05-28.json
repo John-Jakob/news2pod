@@ -1,0 +1,82 @@
+{
+  "title": "KI Daily – 29. Mai 2026: Chip-Billionen, Papst & die IPO-Welle",
+  "teaser": "SK Hynix und Micron stoßen gleichzeitig in den Billionen-Dollar-Club vor. Papst Leo XIV. ruft in seiner ersten Enzyklika zur „Entwaffnung\" der KI auf. Und das große IPO-Rennen zwischen OpenAI und SpaceX nimmt Fahrt auf.",
+  "pubDate": "2026-05-28T06:00:00+02:00",
+  "duration_seconds": 418,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Memory chip giants SK Hynix and Micron cross $1tn valuation amid AI mania",
+      "source": "euronews.com",
+      "url": "https://www.euronews.com/business/2026/05/27/memory-chip-giants-sk-hynix-and-micron-cross-1tn-valuation-amid-ai-mania",
+      "published": "2026-05-27"
+    },
+    {
+      "headline": "Micron Vs. SK Hynix: Which Of Wall Street's Trillion-Dollar Memory Stocks Win In 2026?",
+      "source": "benzinga.com",
+      "url": "https://www.benzinga.com/markets/tech/26/05/52811262/micron-vs-sk-hynix-best-memory-stock-2026",
+      "published": "2026-05-27"
+    },
+    {
+      "headline": "Pope Leo Uses First Major Papal Text to Warn About Dangers of AI",
+      "source": "time.com",
+      "url": "https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/",
+      "published": "2026-05-25"
+    },
+    {
+      "headline": "Pope elevates AI ethics to a religious imperative with first encyclical",
+      "source": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/2026/05/25/pope-elevates-ai-ethics-religious-imperative-with-first-encyclical/",
+      "published": "2026-05-25"
+    },
+    {
+      "headline": "Pope Leo's 'Magnifica humanitas': AI must serve humanity not concentrate power",
+      "source": "vaticannews.va",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html",
+      "published": "2026-05-25"
+    },
+    {
+      "headline": "In first encyclical, Pope Leo urges world to 'disarm' AI amid increased reliance",
+      "source": "usccb.org",
+      "url": "https://www.usccb.org/news/2026/first-encyclical-pope-leo-urges-world-disarm-ai-amid-increased-reliance",
+      "published": "2026-05-25"
+    },
+    {
+      "headline": "OpenAI to confidentially file for IPO as soon as Friday: Source",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+      "published": "2026-05-20"
+    },
+    {
+      "headline": "OpenAI Files Confidential IPO Papers, Eyes September",
+      "source": "enterprisedna.co",
+      "url": "https://enterprisedna.co/resources/news/openai-ipo-confidential-filing-may-2026/",
+      "published": "2026-05-22"
+    },
+    {
+      "headline": "xAI burned $6.4B last year — SpaceX's IPO filing shows why the spending is far from over",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "published": "2026-05-20"
+    },
+    {
+      "headline": "SpaceX IPO filing reveals risk of xAI grounding Musk's cash cow",
+      "source": "ionanalytics.com",
+      "url": "https://ionanalytics.com/insights/dealogic/spacex-ipo-filing-reveals-risk-of-xai-grounding-musks-cash-cow-ecm-pulse-global/",
+      "published": "2026-05-27"
+    },
+    {
+      "headline": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a 'cute, simple proof'",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/",
+      "published": "2026-05-26"
+    },
+    {
+      "headline": "ByteDance discussing capex of up to $70B in 2026 for data centers and AI infrastructure",
+      "source": "bloomberg.com (via llm-stats.com)",
+      "url": "https://llm-stats.com/ai-news",
+      "published": "2026-05-27"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Donnerstag, den 29. Mai 2026.\n\n===\n\nBeginnen wir mit einem historischen Moment aus der Halbleiterbranche, der sich in den letzten 24 Stunden entfaltet hat: Sowohl der südkoreanische Chipgigant SK Hynix als auch der US-Hersteller Micron Technology haben innerhalb von nur einem Tag die Marktbewertung von einer Billion US-Dollar überschritten. \nSK Hynix und Micron überquerten die Schwelle von einer Billion Dollar Marktkapitalisierung binnen 24 Stunden.\n Damit sind nun alle drei großen Speicherchiphersteller im „Trillion-Dollar-Club\": Samsung war wenige Wochen zuvor bereits dazugekommen. \nDie Speicherchipbranche erlebt eine Transformation, bei der die ungebremste Nachfrage aus der KI-Entwicklung eine historische Neubewertung des Halbleitersektors ausgelöst hat. Beide Firmen sind führende Lieferanten sogenannter High-Bandwidth-Memory-Chips, kurz HBM, die im Kern moderner KI-Beschleuniger stecken.\n Bei Micron trieb ein Analystenreport der Bank UBS den Kurs um 19 Prozent in die Höhe. \nSK Hynix, ein Schlüssellieferant für Nvidia, hat seine gesamte HBM-Produktionskapazität für 2026 bereits ausverkauft.\n Das zeigt, wie eng der KI-Infrastrukturboom mit dieser auf den ersten Blick unscheinbaren Chipkategorie verknüpft ist.\n\n===\n\nKommen wir zu einer Meldung, die weit über die Tech-Branche hinausgeht: Papst Leo der Vierzehnte hat am Montag seine erste Enzyklika veröffentlicht, und ihr Thema ist: Künstliche Intelligenz. \nDer Papst warnte in dem umfangreichen Dokument vor der wachsenden Macht der KI und forderte eine stärkere Regulierung. Die mehr als 42.000 Wörter zählende Enzyklika „Magnifica Humanitas\" ist seine bisher weitreichendste Stellungnahme zu Versprechen und Gefahren der KI.\n Der Titel lässt sich mit „Großartige Menschlichkeit\" übersetzen. \nGeprägt von den arbeitszentrierten Sorgen früherer Sozialenzykliken warnte Leo, dass rasante Automatisierung Arbeitnehmer verdrängen und Arbeitsmärkte so umgestalten könnte, dass viele in „erzwungener Untätigkeit\" zurückblieben, was die menschliche Würde und soziale Stabilität gefährde.\n Besonders bemerkenswert: \nDie Enzyklika wurde im Vatikan vorgestellt, auch mit einer Wortmeldung von Christopher Olah, Mitgründer des KI-Unternehmens Anthropic, der das Interpretierbarkeits-Team leitet.\n \nOlah räumte ein, dass Informatiker allein die ethischen Grenzen der KI nicht bestimmen könnten, weil Entwickler selbst von Eigeninteressen wie Ehrgeiz, Wettbewerb und Finanzdruck beeinflusst seien. „Wir brauchen informierte Kritiker, die den Labors sagen, wenn wir versagen\", so Olah.\n Das Dokument fordert unter anderem, dass KI nicht in den Händen weniger Konzerne konzentriert bleiben darf, und warnt explizit vor autonomen Waffensystemen.\n\n===\n\nUpdate zu den großen IPO-Plänen der KI-Branche: \nOpenAI hat am Freitag, dem 22. Mai, vertraulich seinen IPO-Prospekt bei der US-Börsenaufsicht SEC eingereicht und peilt eine Börsenbewertung zwischen 852 Milliarden und einer Billion US-Dollar an. Goldman Sachs und Morgan Stanley begleiten den Prozess.\n Eine Billion Dollar wäre die größte Technologiebörsennotierung aller Zeiten. Gleichzeitig zeigen die Zahlen aus dem öffentlich eingereichten S-1-Prospekt von SpaceX, in dem ja auch die mit SpaceX verschmolzene KI-Firma xAI aufgeführt ist, wie brutal teuer das KI-Rennen wirklich ist: \nxAI verlor operativ 6,4 Milliarden Dollar bei einem Umsatz von nur 3,2 Milliarden Dollar im Jahr 2025. Und die Verluste dürften weiter wachsen.\n SpaceX plant eine Börsenbewertung von rund 1,75 Billionen Dollar und ein Listing noch im Juni. \nAuch Anthropic hat ein IPO-Fenster im Oktober anvisiert, möglicherweise bei einer Bewertung von über 900 Milliarden Dollar. Die Aussicht, dass zwei der wertvollsten KI-Unternehmen der Welt innerhalb von Monaten an die Börse gehen, ist beispiellos.\n\n\n===\n\nBleiben wir kurz in der Welt der KI-Forschung. Anthropics leistungsstarkes Modell Claude Mythos hat in den letzten Tagen für Aufsehen gesorgt. \nAnthropic-Mitarbeiter berichten, dass Claude Mythos auch das sogenannte Erdős-Einheitsdistanzproblem lösen kann, ein mathematisch offenes Problem in der kombinatorischen Geometrie, das seit 1946 ungelöst war und das kürzlich OpenAI als eigenen Meilenstein verbucht hatte. Ein Anthropic-Ingenieur schrieb, Mythos löse es mit einem „hübschen, einfachen Beweis\".\n \nGoogle DeepMind hatte ebenfalls angekündigt, dass ein KI-gestütztes System insgesamt neun Erdős-Probleme gelöst habe, allerdings mithilfe der formalen Beweissprache Lean.\n Diese Entwicklungen deuten darauf hin, dass KI-Systeme an der Grenze der professionellen Mathematik angekommen sind.\n\n===\n\nSchließlich noch ein Blick auf die Infrastrukturseite aus Richtung China: Laut Bloomberg-Informationen diskutiert ByteDance, das Mutterunternehmen von TikTok, Kapitalausgaben von bis zu 70 Milliarden US-Dollar für 2026, um Rechenzentren und KI-Infrastruktur auszubauen. \nByteDance soll den Ausbau mit seinem 50-Milliarden-Dollar-Gewinn aus dem Jahr 2025 finanzieren.\n Das unterstreicht, wie der globale Wettbewerb um KI-Rechenleistung auch außerhalb der USA immer aggressivere Dimensionen annimmt.\n\n===\n\nDas war dein KI Daily für heute Morgen. Die Woche verdichtet sich zu einem klaren Bild: Der Chip-Sektor bewertet sich neu, die Kirche meldet sich als unerwarteter Akteur in der KI-Debatte, und im Herbst stehen mit OpenAI und möglicherweise Anthropic zwei der teuersten Börsengänge der Geschichte an. Wer diese KI-Welle finanziert und reguliert, wird eine der zentralen Fragen der nächsten Monate bleiben. Bis morgen."
+}
