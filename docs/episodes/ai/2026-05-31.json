@@ -1,0 +1,70 @@
+{
+  "title": "KI Daily – 31. Mai 2026: Vibe statt Le Chat & Europas KI-Stunde",
+  "teaser": "Das französische KI-Labor Mistral macht aus seinem Chatbot Le Chat eine vollwertige Agenten-Plattform namens Vibe – und greift damit OpenAI, Google und Anthropic direkt an. Dazu: Was der heutige Start der Handelsblatt-TECH-Konferenz über Europas KI-Ambitionen verrät, und wo der EU AI Act wirklich steht.",
+  "pubDate": "2026-05-31T06:00:00+02:00",
+  "duration_seconds": 381,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/",
+      "published": "2026-05-28"
+    },
+    {
+      "headline": "Vibe gets to work (Official Mistral announcement)",
+      "source": "mistral.ai",
+      "url": "https://mistral.ai/news/vibe-agent/",
+      "published": "2026-05-28"
+    },
+    {
+      "headline": "Mistral AI Shifts to Full-Stack Strategy With Vibe and Industrial AI",
+      "source": "futurumgroup.com",
+      "url": "https://futurumgroup.com/insights/mistral-ai-shifts-to-full-stack-strategy-with-vibe-and-industrial-ai/",
+      "published": "2026-05-28"
+    },
+    {
+      "headline": "Mistral AI rebrands Le Chat to Vibe, enters industrial engineering with Airbus and BMW",
+      "source": "shopifreaks.com",
+      "url": "https://www.shopifreaks.com/mistral-ai-rebrands-le-chat-to-vibe-enters-industrial-engineering-with-airbus-and-bmw-and-announces-new-inference-data-center-near-paris/",
+      "published": "2026-05-28"
+    },
+    {
+      "headline": "Tech- und KI-Aktien profitieren: US-Hoffnung auf längere Feuerpause im Iran",
+      "source": "it-boltwise.de",
+      "url": "https://www.it-boltwise.de/tech-und-ki-aktien-profitieren-us-hoffnung-auf-laengere-feuerpause-im-iran.html",
+      "published": "2026-05-31"
+    },
+    {
+      "headline": "KI-Briefing: Europa hat beim KI-Rennen noch eine zweite Chance (Handelsblatt TECH Konferenz in Heilbronn)",
+      "source": "handelsblatt.com",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-europa-hat-beim-ki-rennen-noch-eine-zweite-chance/100228753.html",
+      "published": "2026-05-30"
+    },
+    {
+      "headline": "EU AI Act Digital Omnibus – Digital Omnibus beschlossen: Die neuen EU AI Act-Fristen für den Mittelstand",
+      "source": "scalewise-ai.de",
+      "url": "https://www.scalewise-ai.de/blog/2026-05-digital-omnibus-einigung-eu-ai-act-fristen",
+      "published": "2026-05-26"
+    },
+    {
+      "headline": "Anthropic Nachrichten: Anthropic opens Milan office; co-founder remarks on Pope encyclical",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news",
+      "published": "2026-05-25 bis 2026-05-27"
+    },
+    {
+      "headline": "Mistral Rebrands Le Chat as Vibe, Launches Autonomous Work Agent for Enterprise",
+      "source": "mlq.ai",
+      "url": "https://mlq.ai/news/mistral-rebrands-le-chat-as-vibe-launches-autonomous-work-agent-for-enterprise/",
+      "published": "2026-05-30"
+    },
+    {
+      "headline": "EU AI Act: Fristen verschoben, Bußgelder explodieren",
+      "source": "ad-hoc-news.de",
+      "url": "https://www.ad-hoc-news.de/wirtschaft/eu-ai-act-fristen-verschoben-bussgelder-explodieren/69353045",
+      "published": "2026-05-Mitte"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Sonntag, den 31. Mai 2026.\n\nDieser Sonntag ist ein relativ ruhiger Nachrichtentag – die großen amerikanischen KI-Labs halten sich an Wochenenden traditionell zurück. Wir nutzen die Gelegenheit, drei Entwicklungen der letzten Tage gründlich einzuordnen, die es verdienen, mehr als eine Schlagzeile zu sein.\n\n===\n\nBeginnen wir mit der wichtigsten Neuigkeit der letzten 72 Stunden aus der europäischen KI-Welt: Mistral AI hat seinen Chatbot Le Chat in Vibe umbenannt – und das ist weit mehr als ein neues Logo. \nDas französische Unternehmen hat seinen Chatbot als vollständiges KI-Arbeitswerkzeug neu positioniert. Das Herzstück ist ein sogenannter Work Mode, der sich mit Google Workspace, Outlook, SharePoint, Slack und GitHub verbindet und von dort aus mehrstufige Aufgaben übernimmt – E-Mails schreiben, Daten aus Tabellen ziehen, Berichte erstellen und Dokumente weiterleiten. Parallel gibt es einen Code Mode, in dem KI-Agenten in isolierten Cloud-Umgebungen Code schreiben, Fehler beheben und direkt Pull Requests öffnen.\n\n\n\nMistral hat die Ankündigung auf seinem ersten großen Kundenevent gemacht, dem AI Now Summit im Carrousel du Louvre in Paris am 28. Mai.\n Dort wurden auch Industriepartnerschaften präsentiert: \nMit Airbus, BMW und dem Halbleiterspezialisten ASML als Frühkunden startet Mistral einen Stack für industrielles KI-Engineering, der seine Sprachmodelle mit Physik-Simulationsfähigkeiten kombiniert.\n Und noch etwas: \nMistral hat ein zehn-Megawatt-Rechenzentrum bei Les Ulis südlich von Paris für das dritte Quartal 2026 angekündigt – Teil einer Infrastrukturinvestition von vier Milliarden Euro.\n\n\n\nDie Umbenennung konsolidiert Mistrals bestehende Funktionen unter einem einzigen Produkt, das direkt mit den KI-Agenten von OpenAI, Google und Anthropic konkurrieren soll.\n Das ist ein bemerkenswerter Schritt: Ein europäisches Labor, das statt proprietärer Machtdemonstration auf praktische Unternehmensintegration setzt. Ob das reicht, wird sich zeigen – aber die Richtung ist klar.\n\n===\n\nVon Paris nach Heilbronn. Heute, am 31. Mai, beginnt die TECH-Konferenz des Handelsblatts, die drei Tage lang mit rund 1.800 Teilnehmenden stattfindet. Das Thema, das diese Konferenz dominiert, ist keine Überraschung: die Frage, ob Europa im KI-Rennen noch mithalten kann.\n\n\nDie Diagnose vieler Experten ist klar: Europa hat das erste Spiel der KI-Ära verloren. Dieses erste Spiel hieß: Wer baut die größten Modelle, die größten Rechenzentren, die größten Plattformen? Jetzt beginnt das zweite Spiel. Es handelt davon, wer Künstliche Intelligenz zuverlässig, sicher und produktiv in die Wirtschaft bringt.\n\n\nTatsächlich zeigt Mistral mit seinem Industriefokus genau diese Strategie: nicht auf Benchmark-Suprematie zielen, sondern auf tiefe Integration in europäische Wertschöpfungsketten. Die Frage ist, ob das schnell genug geht.\n\n===\n\nEin weiteres Thema, das in Heilbronn mit Sicherheit diskutiert wird: der EU AI Act und sein jüngster Umbau. Anfang Mai haben sich Rat und Parlament auf den sogenannten Digital Omnibus geeinigt – eine bedeutende Anpassung des Regelwerks. \nDer Digital Omnibus der EU vom Mai 2026 hat die Fristen für Hochrisiko-KI-Systeme nach hinten verschoben – auf Dezember 2027 beziehungsweise August 2028. Das ist das, was die Schlagzeilen machen.\n\n\nDoch die Geschichte ist komplizierter. \nWas viele übersehen: Die KI-Kompetenzpflicht nach Artikel 4 gilt unverändert seit Februar 2025, und der Bußgeldrahmen ist seit August 2025 anwendbar – bis zu 35 Millionen Euro oder sieben Prozent vom Umsatz. Wer ChatGPT, Copilot oder Gemini im Betrieb nutzt, hat also jetzt Pflichten – nicht erst 2027.\n\n\nUnd es gibt neue Verschärfungen: \nDie Transparenzpflichten – darunter die Pflicht zur Kennzeichnung von KI-generierten Inhalten – wurden sogar vorgezogen. Statt des ursprünglichen Datums gilt nun der 2. Dezember 2026 als Frist. Das zeigt: Der Digital Omnibus ist kein Rückzieher aus der KI-Regulierung, sondern eine Priorisierung. Verbraucher sollen schnell wissen, wann sie mit KI-Inhalten konfrontiert werden.\n\n\n===\n\nZum Abschluss ein Blick auf die Märkte. \nDie Hoffnung auf eine längere Feuerpause im Iran-Konflikt hat die Wall Street an neue Rekordhochs getragen. Besonders Tech- und KI-Werte reagierten mit spürbarer Dynamik: Snowflake gewann nach einer angehobenen Prognose und einem großen KI-Infrastrukturvertrag mit AWS. Parallel sorgten Signale zu neuen Programmiermodellen bei Microsoft für zusätzlichen Antrieb.\n Geopolitik und KI-Infrastruktur sind längst untrennbar miteinander verwoben.\n\n===\n\nDas war dein KI Daily für diesen Sonntagmorgen. Die Woche beginnt ruhig – doch schon ab Montag dürften die nächsten Ankündigungen folgen. Anthropics Bewertung von fast einer Billion Dollar, die ausstehende OpenAI-Börsennotierung und die Frage, wann Claude Mythos in Europa verfügbar wird – es gibt noch viel zu berichten. Bis morgen früh."
+}
