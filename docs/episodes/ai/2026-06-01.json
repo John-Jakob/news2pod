@@ -1,0 +1,70 @@
+{
+  "title": "KI Daily – 1. Juni 2026: Codex greift zu & KI-Kostenrealität",
+  "teaser": "OpenAI lässt seinen Codex-Agenten jetzt autonom Windows-PCs bedienen – während Microsoft gleichzeitig Anthropics Claude Code aus dem eigenen Haus wirft. Dazu: CNN verklagt Perplexity, und Groupon entlässt ein Viertel der Belegschaft im Namen der KI.",
+  "pubDate": "2026-06-01T06:00:00+02:00",
+  "duration_seconds": 424,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+      "published": "2026-05-30"
+    },
+    {
+      "headline": "OpenAI Codex Computer Use and mobile access on Windows – Changelog",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/codex/changelog",
+      "published": "2026-05-29"
+    },
+    {
+      "headline": "Microsoft cancels Claude Code licenses, shifting developers to GitHub Copilot CLI",
+      "source": "windowscentral.com",
+      "url": "https://www.windowscentral.com/microsoft/microsoft-cancels-claude-code-licenses-shifting-developers-to-github-copilot-cli-a-move-likely-driven-by-financial-motives",
+      "published": "2026-05-31"
+    },
+    {
+      "headline": "Microsoft Cancels Claude Code Licenses, Pushes Engineers to Copilot CLI",
+      "source": "opentools.ai",
+      "url": "https://opentools.ai/news/microsoft-cancels-claude-code-licenses-copilot-cli",
+      "published": "2026-05-31"
+    },
+    {
+      "headline": "Microsoft cancels Claude Code licences after engineers use it too much",
+      "source": "sea.peoplemattersglobal.com",
+      "url": "https://sea.peoplemattersglobal.com/news/ai-and-emerging-tech/microsoft-cancels-claude-code-licences-after-engineers-use-it-too-much-49918",
+      "published": "2026-05-30"
+    },
+    {
+      "headline": "CNN sues Perplexity, alleging unlawful distribution of copyrighted content",
+      "source": "cnn.com",
+      "url": "https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright",
+      "published": "2026-05-28"
+    },
+    {
+      "headline": "CNN Sues AI Firm Perplexity, Alleging It Engaged in 'Massive Copyright Infringement'",
+      "source": "variety.com",
+      "url": "https://variety.com/2026/biz/news/cnn-sues-perplexity-alleging-copyright-infringement-1236760987/",
+      "published": "2026-05-28"
+    },
+    {
+      "headline": "Groupon layoffs today: jobs slashed in AI-native pivot, stock rises",
+      "source": "fastcompany.com",
+      "url": "https://www.fastcompany.com/91548945/groupon-layoffs-today-jobs-slashed-ai-native-pivot-stock-rises",
+      "published": "2026-05-27"
+    },
+    {
+      "headline": "Groupon Layoffs 2026 – 400 Jobs Cut, ~24% of Workforce, AI Restructuring Under 'Project Foundry'",
+      "source": "layoffhedge.com",
+      "url": "https://layoffhedge.com/company/groupon",
+      "published": "2026-05-27"
+    },
+    {
+      "headline": "GitHub Copilot shifts to metered AI billing",
+      "source": "dentro.de/ai",
+      "url": "https://dentro.de/ai/news/",
+      "published": "2026-05-31"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Montag, den 1. Juni 2026.\n\n===\n\nWir starten direkt mit einer Entwicklung, die zeigt, wie rasant sich KI-Coding-Agenten verändern: OpenAI hat seinen Codex-Agenten auf Windows ausgeweitet. \nOpenAI hat die Codex-App auf Windows 11 erweitert und dabei die Funktion \"Computer Use\" sowie mobilen Zugriff eingeführt. Der Agent kann jetzt Apps, Dateien und andere Ressourcen auf dem PC selbstständig nutzen – auch dann, wenn der Nutzer nicht am Rechner sitzt. Das umfasst das Testen von Anwendungen, die Suche nach Bugs und die Überprüfung von Arbeitsergebnissen.\n Besonders praktisch: \nCodex ist jetzt auch über die ChatGPT-App auf iPhone und Android verfügbar, um Aufgaben auf einem Windows-Rechner aus der Ferne zu starten oder zu überwachen.\n Die Computer-Use-Funktion war bislang nur unter macOS verfügbar. \nDie schnelle Codex-Expansion ist Teil von OpenAIs Plan, eine Art Super-App für Arbeit und Alltag aufzubauen.\n Bemerkenswert: Die Funktion ist zum Start in der EU, dem Vereinigten Königreich und der Schweiz noch nicht verfügbar.\n\n===\n\nDirekt dazu passt eine pikante Geschichte aus dem Microsoft-Konzern. \nMicrosoft kündigt intern die meisten Lizenzen für Claude Code in seiner Abteilung Experiences and Devices – das sind die Teams hinter Windows, Microsoft 365, Outlook, Teams und Surface. Die Ingenieure sollen stattdessen auf GitHub Copilot CLI wechseln, Microsofts eigenes KI-Kommandozeilen-Werkzeug.\n \nDie Umstellung soll bis zum 30. Juni abgeschlossen sein – dem letzten Tag von Microsofts Geschäftsjahr.\n Der eigentliche Witz an der Sache: Claude Code war intern sehr beliebt. \nDas Problem, so fasste es The Verge zusammen, war, dass das Tool \"vielleicht ein bisschen zu beliebt\" wurde. Die Ingenieure griffen lieber zu Anthropics Tool als zu Microsofts eigenem Copilot CLI.\n Der Entscheidung lagen also nicht nur Kostengründe zugrunde, sondern auch strategische: \nWenn Microsofts eigene Ingenieure ein Konkurrenzprodukt vorziehen, warum sollte dann ein Chief Information Officer eines anderen Unternehmens auf Copilot standardisieren? Dieses Signal öffentlich werden zu lassen, wäre schlecht fürs Geschäft gewesen.\n\n\nParallel dazu liefert Uber ein Warnsignal für die gesamte Branche: \nUber hatte Claude Code rund fünftausend Ingenieure ausgerollt und erlebte, dass die monatliche Nutzungsrate bis April 2026 auf 84 bis 95 Prozent stieg. Die Kosten pro Ingenieur und Monat lagen zwischen 500 und 2.000 Dollar. Das Ergebnis: Uber hat sein gesamtes KI-Budget für 2026 von 3,4 Milliarden Dollar in nur vier Monaten aufgebraucht.\n \nAußerdem wechselt GitHub heute, am 1. Juni, alle Copilot-Pläne auf nutzungsbasierte Abrechnung über sogenannte AI Credits.\n Die Botschaft des Tages: KI-Tools, die wirklich genutzt werden, können die Budgets sprengen. Die Ära des ungedeckelten Ausprobierens nähert sich dem Ende.\n\n===\n\nAus der Welt des KI-Rechts kommt eine weitreichende Klage: \nCNN hat Perplexity in New York verklagt – eine Klage, die sich in eine lange Liste rechtlicher Aktionen von Verlagen gegen generative KI-Startups einreiht. Es ist CNNs erste Urheberrechtsklage gegen ein KI-Unternehmen, und gilt als die erste Klage eines Fernsehsenders überhaupt in diesem Bereich.\n \nCNN wirft Perplexity vor, mehr als siebzehntausend CNN-Artikel, Videos, Bilder und andere Inhalte kopiert zu haben, um damit seine Produkte zu betreiben. Perplexity soll CNN-Inhalte illegal crawlen, scrapen, kopieren und verteilen – in Echtzeit als Input für große Sprachmodelle, die damit Antworten auf Nutzeranfragen generieren.\n Perplexity wehrte sich mit dem Argument: \"Fakten kann man nicht urheberrechtlich schützen.\" \nCNN hatte Perplexity zuvor um einen Lizenzvertrag gebeten, sich aber nicht einigen können. Daraufhin blockierte der Sender Perplexitys Scraping-Bot.\n \nDie Klage ist Teil einer wachsenden Klagewelle gegen Perplexity durch große Medienorganisationen. Perplexity sieht sich bereits Klagen der New York Times, von Reddit und Dow Jones gegenüber.\n Diese Fälle könnten grundlegend definieren, wie KI-Suchmaschinen künftig mit journalistischen Inhalten umgehen dürfen.\n\n===\n\nUnd schließlich ein Beispiel dafür, wie KI nicht nur bei Tech-Unternehmen Jobs verändert: \nDer Aufsichtsrat von Groupon hat einen Restrukturierungsplan verabschiedet, der massive Entlassungen vorsieht. Laut einem SEC-Formular vom 21. Mai will Groupon bis zu 400 Stellen weltweit streichen\n – das entspricht knapp einem Viertel der Belegschaft. Unter dem Projektnamen \"Project Foundry\" will sich das Unternehmen zur sogenannten KI-nativen Firma wandeln. \nGroupon setzt dabei auf KI-Sprachagenten, die menschliche Vertriebsanrufe bei Händlern ersetzen sollen. Außerdem werden Produktfunktionen ohne traditionelle Entwicklungsteams veröffentlicht – gestützt auf KI-generierten Code und automatisierte Qualitätssicherung.\n \nDie Börse honorierte das: Groupons Aktie stieg nach der Ankündigung um fünf Prozent. Das Unternehmen hob gleichzeitig seine Ergebnisprognose für 2026 an.\n Groupon steht symbolisch für einen breiteren Trend: \nZuletzt hatte auch das Softwareunternehmen Wix tausend Stellen abgebaut, und Intuit dreitausend Arbeitsplätze gestrichen – jeweils mit KI als Begründung.\n\n\n===\n\nDas war dein KI Daily für den 1. Juni 2026. Die Woche beginnt mit einer klaren Botschaft: KI-Agenten werden mächtiger und autonomer – aber ihre unkontrollierte Nutzung treibt Kosten in die Höhe, die Unternehmen zur Kurskorrektur zwingen. Gleichzeitig rückt die Rechtsfrage immer stärker in den Mittelpunkt: Wem gehören die Daten, auf denen diese Modelle beruhen? Spannend wird in dieser Woche Apples Entwicklerkonferenz WWDC, auf der neue KI-Features für iPhone und Mac erwartet werden. Bis morgen."
+}
