@@ -19,6 +19,43 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 2. Juni 2026: Copilot-Schock &amp; KI als Cyberwaffe</title>
+      <description><![CDATA[<p>GitHub Copilot schaltet heute auf tokenbasierte Abrechnung um – und viele Entwickler sind entsetzt über explodierenden Kosten. Dazu: Der Financial-Times-Bericht über Iran und westliche KI-Modelle, Google Gemini 3.5 Pro im Anflug und Meta startet seine ersten KI-Abonnements.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">GitHub Copilot Is Moving to Usage-Based Billing</a> <em>(github.blog)</em></li>
+<li><a href="https://techjournal.org/github-copilot-token-billing-backlash">GitHub Copilot Token Billing Starts Today: Devs Report 10x-50x Cost Increases</a> <em>(techjournal.org)</em></li>
+<li><a href="https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/">'What a joke': GitHub Copilot's new token-based billing spurs consternation among devs</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://dataconomy.com/2026/06/01/github-copilot-token-pricing-backlash/">Microsoft Switches GitHub Copilot To Usage-based AI Token Billing</a> <em>(dataconomy.com)</em></li>
+<li><a href="https://www.techmeme.com/260531/p10">Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran's cyber operations</a> <em>(techmeme.com (via Financial Times))</em></li>
+<li><a href="https://www.implicator.ai/iran-turns-western-ai-models-into-a-sanctions-workaround/">Iran Uses Western AI to Stretch Cyber Arsenal</a> <em>(implicator.ai)</em></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/changelog">Gemini 3.5 Flash – Google API Release Notes</a> <em>(ai.google.dev)</em></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Gemini 3.5: frontier intelligence with action</a> <em>(blog.google)</em></li>
+<li><a href="https://cryptobriefing.com/meta-ai-subscriptions-openai-ad-rivalry/">Meta plans AI subscriptions as rivals like OpenAI target its ad business</a> <em>(cryptobriefing.com)</em></li>
+<li><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">OpenAI ChatGPT Release Notes – Codex for Students, Goal Mode GA</a> <em>(help.openai.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>GitHub Copilot schaltet heute auf tokenbasierte Abrechnung um – und viele Entwickler sind entsetzt über explodierenden Kosten. Dazu: Der Financial-Times-Bericht über Iran und westliche KI-Modelle, Google Gemini 3.5 Pro im Anflug und Meta startet seine ersten KI-Abonnements.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">GitHub Copilot Is Moving to Usage-Based Billing</a> <em>(github.blog)</em></li>
+<li><a href="https://techjournal.org/github-copilot-token-billing-backlash">GitHub Copilot Token Billing Starts Today: Devs Report 10x-50x Cost Increases</a> <em>(techjournal.org)</em></li>
+<li><a href="https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/">'What a joke': GitHub Copilot's new token-based billing spurs consternation among devs</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://dataconomy.com/2026/06/01/github-copilot-token-pricing-backlash/">Microsoft Switches GitHub Copilot To Usage-based AI Token Billing</a> <em>(dataconomy.com)</em></li>
+<li><a href="https://www.techmeme.com/260531/p10">Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran's cyber operations</a> <em>(techmeme.com (via Financial Times))</em></li>
+<li><a href="https://www.implicator.ai/iran-turns-western-ai-models-into-a-sanctions-workaround/">Iran Uses Western AI to Stretch Cyber Arsenal</a> <em>(implicator.ai)</em></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/changelog">Gemini 3.5 Flash – Google API Release Notes</a> <em>(ai.google.dev)</em></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Gemini 3.5: frontier intelligence with action</a> <em>(blog.google)</em></li>
+<li><a href="https://cryptobriefing.com/meta-ai-subscriptions-openai-ad-rivalry/">Meta plans AI subscriptions as rivals like OpenAI target its ad business</a> <em>(cryptobriefing.com)</em></li>
+<li><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">OpenAI ChatGPT Release Notes – Codex for Students, Goal Mode GA</a> <em>(help.openai.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>GitHub Copilot schaltet heute auf tokenbasierte Abrechnung um – und viele Entwickler sind entsetzt über explodierenden Kosten. Dazu: Der Financial-Times-Bericht über Iran und westliche KI-Modelle, Google Gemini 3.5 Pro im Anflug und Meta startet seine ersten KI-Abonnements.</itunes:summary>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-06-02</guid>
+      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-02.mp3" length="5580113" type="audio/mpeg"/>
+      <itunes:duration>7:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 1. Juni 2026: Codex greift zu &amp; KI-Kostenrealität</title>
       <description><![CDATA[<p>OpenAI lässt seinen Codex-Agenten jetzt autonom Windows-PCs bedienen – während Microsoft gleichzeitig Anthropics Claude Code aus dem eigenen Haus wirft. Dazu: CNN verklagt Perplexity, und Groupon entlässt ein Viertel der Belegschaft im Namen der KI.</p>
 <p><strong>Heutige Quellen:</strong></p>
