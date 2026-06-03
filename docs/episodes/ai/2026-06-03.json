@@ -1,0 +1,100 @@
+{
+  "title": "KI Daily – 3. Juni 2026: Trump-Dekret, Microsoft Build & Floridas OpenAI-Klage",
+  "teaser": "Trump unterzeichnet eine historische KI-Sicherheits-Verordnung, Microsoft präsentiert auf der Build-Konferenz gleich sieben neue KI-Modelle, und Florida zieht als erster US-Bundesstaat gegen OpenAI und Sam Altman vor Gericht. Dazu: Anthropic rast mit einem Börsengangantrag auf die Zielgerade.",
+  "pubDate": "2026-06-03T06:00:00+02:00",
+  "duration_seconds": 477,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Trump signs AI executive order asking companies to give government early access to models",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html",
+      "published": "2026-06-02"
+    },
+    {
+      "headline": "Trump dodges AI rules for now with latest executive order",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/06/02/trump-signs-new-ai-executive-order",
+      "published": "2026-06-02"
+    },
+    {
+      "headline": "Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security",
+      "source": "whitehouse.gov",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/",
+      "published": "2026-06-02"
+    },
+    {
+      "headline": "Trump Signs Executive Order Requesting AI Companies for Early Access to Advanced Models",
+      "source": "androidheadlines.com",
+      "url": "https://www.androidheadlines.com/2026/06/trump-signs-voluntary-ai-executive-order-frontier-models.html",
+      "published": "2026-06-02"
+    },
+    {
+      "headline": "New Executive Order Addressing Early Government Access to Frontier AI Models",
+      "source": "wilmerhale.com",
+      "url": "https://www.wilmerhale.com/en/insights/client-alerts/20260602-new-executive-order-addressing-early-government-access-to-frontier-ai-models",
+      "published": "2026-06-02"
+    },
+    {
+      "headline": "Microsoft Build 2026: Be yourself at work",
+      "source": "blogs.microsoft.com",
+      "url": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/",
+      "published": "2026-06-02"
+    },
+    {
+      "headline": "Microsoft Build 2026: Everything Microsoft Announced",
+      "source": "theneuron.ai",
+      "url": "https://www.theneuron.ai/explainer-articles/everything-microsoft-announced-at-microsoft-build-2026-explained/",
+      "published": "2026-06-02"
+    },
+    {
+      "headline": "Biggest Microsoft Build 2026 announcements — agentic AI, RTX Spark Dev Box, GitHub Copilot app, new MAI models, and more",
+      "source": "tomsguide.com",
+      "url": "https://www.tomsguide.com/news/live/microsoft-build-2026",
+      "published": "2026-06-02"
+    },
+    {
+      "headline": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
+      "source": "npr.org",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Florida is the first state to sue OpenAI over child safety risks",
+      "source": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/florida-openai-chatgpt-lawsuit-sam-altman/",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Anthropic files to go public",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Anthropic confidentially submits draft S-1 to the SEC",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public",
+      "source": "nbcnews.com",
+      "url": "https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+      "published": "2026-06-01"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Mittwoch, den dritten Juni 2026.\n\n===\n\nBeginnen wir in Washington, wo Präsident Donald Trump am Dienstagabend eine mit Spannung erwartete Executive Order zur Künstlichen Intelligenz unterzeichnet hat. Der Erlass trägt den Titel „Promoting Advanced Artificial Intelligence Innovation and Security\" und markiert einen bemerkenswerten Kurswechsel der bislang eher regulierungsfeindlichen Trump-Administration.\n\n\nTrump bat KI-Unternehmen darin, neue Modelle der Bundesregierung bereitzustellen, damit sie deren Fähigkeiten noch vor der öffentlichen Veröffentlichung bewerten kann.\n \nKonkret werden Unternehmen gebeten, freiwillig neue KI-Modelle bis zu dreißig Tage vor der breiten Veröffentlichung mit der Regierung zu teilen.\n\n\nDass es überhaupt so weit kam, war nicht selbstverständlich: \nDer überraschende Schritt kommt mehr als eine Woche, nachdem Trump die Unterzeichnung einer anderen Version des Dekrets mit strengeren Anforderungen abgebrochen hatte, weil er befürchtete, es könnte die amerikanische Wettbewerbsfähigkeit schädigen.\n Schlüsselfigur hinter den Kulissen war offenbar der ehemalige KI-Koordinator David Sacks: \nEr soll das Zeitfenster für den Pre-Deployment-Test auf dreißig Tage und einen freiwilligen Rahmen sichergestellt haben, nachdem andere auf einen verpflichtenden Ansatz gedrängt hatten.\n\n\n\nDer Erlass verzichtet auf Pflichtlizenzen und setzt auf kollaboratives Benchmarking. Außerdem werden Bundesbehörden angewiesen, ihre eigenen Cyberverteidigungen zu stärken.\n \nDamit markiert das Dekret eine spürbare Wende von der bisherigen deregulatorischen Haltung der Trump-Administration, bleibt aber deutlich weniger verbindlich als die Regulierungsregimes der EU oder Chinas.\n\n\nDer Anlass ist klar: \nHintergrund sind wachsende Bedenken über die Fähigkeit besonders leistungsfähiger KI-Modelle, wie Anthropics Claude Mythos, eigenständig versteckte Sicherheitslücken in realer Software zu identifizieren und auszunutzen.\n\n\n===\n\nEbenfalls gestern eröffnete in Seattle Microsofts jährliche Build-Entwicklerkonferenz — und das Unternehmen nutzte die Bühne für eine wahre Ankündigungsflut.\n\n\nDas Microsoft AI Superintelligence Team stellte eine Familie aus sieben neuen hauseigenen Modellen vor, angeführt von MAI-Thinking-1 — Microsofts erstem Reasoning-Modell, das von Grund auf neu trainiert wurde, ohne Destillation aus anderen Modellen.\n \nDas Modell hat fünfunddreißig Milliarden aktive Parameter und ein Kontextfenster von zweihundertsechsundfünfzigtausend Token. In einem Blindtest bevorzugten unabhängige Bewerter es gegenüber Anthropics Sonnet 4.6, und bei Coding-Aufgaben erreicht es das Niveau von Opus 4.6.\n\n\nNeben dem Flaggschiff-Modell präsentierte Microsoft seinen ersten autonomen Arbeitsagenten: \nMicrosoft Scout ist ein neuer persönlicher Agent für die Arbeit, der ab sofort für Frontier-Kunden verfügbar ist. Er versteht, wie Nutzerinnen und Nutzer arbeiten, integriert sich in Tools wie Teams und Outlook, und erledigt proaktiv Aufgaben wie Meetingvorbereitung, Terminplanung und Routinearbeiten, ohne dafür jedes Mal gefragt werden zu müssen.\n\n\n\nMicrosoft Build 2026 war damit weniger eine Präsentation einzelner neuer Features, sondern Microsofts Versuch, den gesamten KI-Agenten-Stack zu demonstrieren.\n Die Botschaft ist eindeutig: Microsoft will Windows, Azure, GitHub und Microsoft 365 zur Betriebsumgebung für KI-Agenten machen.\n\n===\n\nNun zu einer Story, die vor allem rechtlich und gesellschaftlich aufhorchen lässt. \nFlorida ist der erste US-Bundesstaat, der OpenAI und CEO Sam Altman verklagt — mit dem Vorwurf, das Unternehmen habe Profit und Geschwindigkeit über die Sicherheit der Nutzer gestellt.\n\n\n\nDie Klage wurde in einem Gericht im Bundesstaat Florida eingereicht und wirft OpenAI und seinem CEO Sam Altman vor, die Nutzerinnen und Nutzer nicht darüber informiert zu haben, dass ChatGPT gefährlich sein könnte, sondern es stattdessen als sicher und zuverlässig vermarktet zu haben — auch für Kinder.\n\n\n\nDie Klage beschuldigt OpenAI, Amokläufer unterstützt zu haben, darunter einen Schützen an der Florida State University, der ChatGPT angeblich zur Planung seines Angriffs genutzt hatte, gefährdete Menschen zum Suizid ermutigt zu haben und Kinder an ein Werkzeug gebunden zu haben, das menschliches Mitgefühl vortäuscht.\n\n\n\nDie Klage fordert Schadenersatz in Milliardenhöhe sowie eine gerichtliche Anordnung, die das Unternehmen verpflichtet, den Umgang mit jungen Nutzern zu ändern.\n OpenAI weist die Vorwürfe zurück und verweist auf umfangreiche Kinderschutzmaßnahmen.\n\n===\n\nWährend Florida auf der einen Seite Druck auf OpenAI aufbaut, rüstet sich dessen schärfster Rivale für den nächsten großen Schritt. \nAnthropic, das KI-Labor hinter Claude, hat am Montag vertraulich einen Antrag auf einen Börsengang bei der amerikanischen Wertpapieraufsicht SEC eingereicht. Das Unternehmen ist mit einer Bewertung von knapp einer Billion Dollar einer der größten Kandidaten für einen historischen Börsengang.\n\n\n\nDie Einreichung folgt auf eine Series-H-Finanzierungsrunde über fünfundsechzig Milliarden Dollar, die die Bewertung auf neunhundertfünfundsechzig Milliarden Dollar hob.\n \nDas Unternehmen verzeichnet explosives Wachstum: Die annualisierte Umsatzrate ist auf siebenundvierzig Milliarden Dollar gestiegen — verglichen mit zehn Milliarden im Vorjahr.\n\n\n\nDie Einreichung kommt früher als erwartet. Anthropic möchte offenbar vor seinem Hauptrivalen OpenAI frisches Kapital aufnehmen. Beide Unternehmen hatten ursprünglich einen Börsengang im Herbst geplant.\n Zusammen mit SpaceX, das bereits seinen öffentlichen Börsengangsantrag eingereicht hat, könnte das Jahr 2026 zum bedeutendsten IPO-Jahr der Technologiegeschichte werden.\n\n===\n\nEin kurzer Blick auf den größeren Rahmen: \nKI-Coding-Tools werden für Google und Microsoft zu einem immer wichtigeren Schlachtfeld, während sie versuchen, Anthropic und OpenAI in diesem boomenden Markt einzuholen.\n \nAnthropic hat letzte Woche eine Finanzierungsrunde bei einer Bewertung von neunhundertfünfundsechzig Milliarden Dollar abgeschlossen und damit OpenAI überholt.\n Die Konferenz Microsoft Build ist genau der Versuch, in diesem Rennen mit eigenen Modellen und einem vollständigen Agenten-Stack relevant zu bleiben.\n\n===\n\nDas war dein KI Daily für den dritten Juni 2026. Die Woche verspricht weitere Bewegung: Das Trump-Dekret wird die Branche beschäftigen, Microsofts Build-Konferenz läuft heute noch bis zum Abend, und die Anthropic-IPO-Saga wird in den kommenden Wochen konkretere Formen annehmen. Bleib neugierig — bis morgen."
+}
