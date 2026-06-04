@@ -1,0 +1,76 @@
+{
+  "title": "KI Daily – 4. Juni 2026: SpaceX-Roadshow, KI-Spionage & Altman in DC",
+  "teaser": "SpaceX startet heute seinen Investoren-Roadshow für den größten Börsengang der US-Geschichte – mit xAI im Gepäck. Dazu: Anthropic enthüllt die erste vollautonome KI-Cyberattacke, Sam Altman lobbiert in Washington, und Google bringt multimodale KI auf den Laptop.",
+  "pubDate": "2026-06-04T06:00:00+02:00",
+  "duration_seconds": 457,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "SpaceX targets fixed $135 IPO price for roadshow, source says",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "SpaceX $1.75T IPO: SPCX Lists June 12, Roadshow Starts June 4",
+      "source": "abhs.in",
+      "url": "https://www.abhs.in/blog/spacex-ipo-1-75-trillion-spcx-nasdaq-june-12-starlink-roadshow-2026",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "What we learned mapping a year's worth of AI-enabled cyber threats",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "Anthropic analysis reveals AI's role in escalating cyber threats",
+      "source": "cryptobriefing.com",
+      "url": "https://cryptobriefing.com/anthropic-ai-cyber-threats-analysis/",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "OpenAI CEO Sam Altman meets with lawmakers, Trump officials in DC",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/03/open-ai-altman-congress-trump-eo.html",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "OpenAI's Altman to urge US lawmakers not to require AI model approvals",
+      "source": "reuters.com / usnews.com",
+      "url": "https://money.usnews.com/investing/news/articles/2026-06-03/openais-altman-to-urge-us-lawmakers-not-to-require-ai-model-approvals",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "Anthropic confidentially submits draft S-1 to the SEC",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Anthropic Files Confidential S-1: Joins $3 Trillion AI IPO Race",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-files-confidential-1-joins-161008569.html",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Googles Gemma 4 12B bringt multimodale KI mit Text, Bild und Audio auf handelsübliche Laptops",
+      "source": "the-decoder.de",
+      "url": "https://the-decoder.de/",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "Anthropic Expands AI Cybersecurity Initiative to 150 Organisations Worldwide",
+      "source": "theaiinsider.tech",
+      "url": "https://theaiinsider.tech/2026/06/03/anthropic-expands-ai-cybersecurity-initiative-to-150-organisations-worldwide/",
+      "published": "2026-06-03"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, den 4. Juni 2026.\n\n===\n\nBeginnen wir mit dem größten Börsenereignis des Jahres, das heute buchstäblich startet: SpaceX hat seinen Investoren-Roadshow-Auftakt für heute angesetzt. \nElon Musks SpaceX will mit seinem Roadshow-Start am 4. Juni insgesamt rund 75 Milliarden Dollar einsammeln – bei einer angestrebten Bewertung von etwa 1,75 Billionen Dollar.\n \nReuters-Berichten zufolge plant das Unternehmen einen festen IPO-Preis von 135 Dollar pro Aktie, mit einem Angebot von rund 555 Millionen Aktien.\n \nDer erste Handelstag unter dem Kürzel SPCX an der Nasdaq ist für den 12. Juni geplant, die Preisfestsetzung für den 11. Juni.\n Warum ist das für die KI-Welt relevant? \nMusk hatte SpaceX im Februar mit seinem KI-Startup xAI – dem Entwickler des Chatbots Grok – in einem Deal fusioniert, der den kombinierten Konzern mit 1,25 Billionen Dollar bewertete.\n \nDas SpaceX-Prospekt enthüllt außerdem, dass Anthropic vereinbart hat, monatlich 1,25 Milliarden Dollar bis Mai 2029 für Rechenkapazität in SpaceX-nahen Rechenzentren zu zahlen\n – ein Detail, das zeigt, wie eng die KI-Industrie mittlerweile mit der Raumfahrt verflochten ist.\n\n===\n\nEbenfalls Teil dieser IPO-Welle: Anthropic. \nDas Unternehmen gab bekannt, dass sein Umsatz auf eine Jahresrate von 47 Milliarden Dollar angewachsen ist, ausgehend von 10 Milliarden Dollar im Vorjahr.\n \nZuletzt wurde Anthropic in einer Finanzierungsrunde mit 965 Milliarden Dollar bewertet – knapp vor dem Konkurrenten OpenAI mit 852 Milliarden Dollar.\n \nDas Unternehmen peilt einen möglichen Börsengang bereits im Oktober an und soll dafür das Anwaltsbüro Wilson Sonsini verpflichtet haben, das auch Googles Börsengang 2004 begleitet hatte.\n Dieser Kontext ist wichtig, denn \nAnthropic, OpenAI und SpaceX beschleunigen alle gleichzeitig auf die öffentlichen Märkte zu – in einer der dramatischsten Tech-IPO-Wellen überhaupt.\n\n\n===\n\nUnd genau diese Gemengelage trieb OpenAI-Chef Sam Altman gestern nach Washington. \nAltman traf sich am Mittwoch mit Mitgliedern der Trump-Regierung im Weißen Haus sowie mit Abgeordneten beider Parteien im Kongress – darunter House Speaker Mike Johnson und Minority Leader Hakeem Jeffries.\n Das Anliegen war klar: \nAltman will sich gegen Vorschläge aussprechen, die KI-Entwickler dazu verpflichten würden, vor der Veröffentlichung neuer Modelle eine US-Regierungsgenehmigung einzuholen.\n \nGleichzeitig fordert er mehr Fördermittel für KI-Tests beim US-Handelsministerium.\n Das ist pikant, denn \nTrumps Dekret der vergangenen Woche hatte genau diese Art freiwilligen Modell-Einreichungen vor dem Launch eingeführt\n – Altman begrüßte das Dekret öffentlich, zieht aber eine klare Grenze bei verpflichtenden Vorab-Genehmigungen. \nAuch Senator Bernie Sanders gehörte zu den Gesprächspartnern, während der Kongress einen parteiübergreifenden Regulierungsrahmen für KI abwägt.\n\n\n===\n\nKommen wir zu einer der beunruhigendsten Meldungen dieser Woche: Anthropic hat gleich zwei alarmierende Cybersicherheitsberichte veröffentlicht. \nAm 3. Juni legte Anthropic eine umfassende Analyse eines vollständigen Jahres KI-Missbrauch für Cyberangriffe vor – von März 2025 bis März 2026. Das Ergebnis: Der Anteil mittlerer und hochgefährlicher Akteure, die KI für Cyberoperationen nutzen, stieg von 33 auf 56 Prozent – ein Anstieg um das 1,7-fache.\n \nAnthropics Forschungsteam analysierte 832 gesperrte Accounts wegen richtlinienwidriger Cyberaktivitäten und dokumentierte dabei fast 14.000 beobachtete Aktionen und 482 einzigartige Techniken.\n\n\nNoch gravierender ist ein zweiter Bericht, den Anthropic ebenfalls veröffentlichte: \nEine Gruppe, die Anthropic mit hoher Konfidenz als chinesische staatlich unterstützte Akteure identifiziert, manipulierte das Claude-Code-Werkzeug so, dass es Infiltrationsversuche gegen rund dreißig weltweite Ziele unternahm und in einer Handvoll Fälle Erfolg hatte. Die Ziele umfassten große Technologieunternehmen, Finanzinstitutionen, chemische Hersteller und Behörden. Anthropic hält dies für den ersten dokumentierten Fall eines groß angelegten Cyberangriffs, der ohne wesentliche menschliche Eingriffe durchgeführt wurde.\n \nDer Bedrohungsakteur konnte KI nutzen, um 80 bis 90 Prozent der Kampagne durchzuführen – menschliche Eingriffe waren nur sporadisch notwendig, an etwa vier bis sechs kritischen Entscheidungspunkten pro Hacking-Kampagne.\n Das ist ein Paradigmenwechsel: KI als eigenständiger Angreifer, nicht mehr nur als Hilfswerkzeug.\n\n===\n\nAbseits der Sicherheitsdebatte gab es auch eine technische Neuigkeit von Google DeepMind: \nGoogle DeepMind hat mit Gemma 4 12B ein neues offenes KI-Modell veröffentlicht, das multimodale Fähigkeiten auf handelsübliche Laptops bringt. Das Modell verarbeitet Text, Bild und Audio ohne separate Encoder direkt im Sprachmodell.\n \nGemma 4 12B läuft lokal mit nur 16 Gigabyte RAM und erreicht laut Google in Benchmarks fast die Leistung des doppelt so großen 26-Milliarden-Parameter-Modells. Es ist zudem das erste mittelgroße Gemma-Modell mit nativer Audioverarbeitung.\n Das ist ein Signal: Die Grenze zwischen Cloud-KI und lokaler KI auf dem eigenen Rechner verschiebt sich weiter.\n\n===\n\nWas bedeutet das alles zusammen? Der heutige Tag markiert einen Moment, in dem die KI-Industrie auf mehreren Ebenen gleichzeitig unter Druck steht: finanziell, weil der Kapitalmarkt mit SpaceX und Anthropic zwei Billionen-Dollar-IPOs verdauen muss. Regulatorisch, weil Washington um einen Rahmen ringt, der Innovation zulässt, ohne die Kontrolle zu verlieren. Und sicherheitspolitisch, weil der Anthropic-Bericht zeigt: Autonome KI-Angriffe sind keine Spekulation mehr, sie sind Realität.\n\nIn den kommenden Tagen beobachten wir genau, wie der SpaceX-Roadshow läuft, ob OpenAI seinen eigenen S-1 einreicht, und wie der Kongress auf Altmans Lobbytour reagiert. Das bleibt eine der interessantesten Wochen in der Geschichte der KI-Branche.\n\nDanke fürs Zuhören – bis morgen mit deinem KI Daily-Briefing."
+}
