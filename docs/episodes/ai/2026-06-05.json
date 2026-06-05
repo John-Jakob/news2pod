@@ -1,0 +1,88 @@
+{
+  "title": "KI Daily – 5. Juni 2026: ChatGPT träumt, EU kämpft & SpaceX kurz vor dem Börsenstart",
+  "teaser": "OpenAI macht ChatGPT heute mit dem neuen „Dreaming V3\"-Speicher deutlich persönlicher — auch für Gratis-Nutzer. Dazu: Die EU schlägt zurück gegen Abhängigkeiten von US-Tech, und der SpaceX-Börsengang nimmt Fahrt auf.",
+  "pubDate": "2026-06-05T06:00:00+02:00",
+  "duration_seconds": 476,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "OpenAI Launches Dreaming V3 Memory System for ChatGPT",
+      "source": "iclarified.com",
+      "url": "https://www.iclarified.com/101066/openai-launches-dreaming-v3-memory-system-for-chatgpt",
+      "published": "2026-06-05"
+    },
+    {
+      "headline": "ChatGPT's Memory Is Getting Better, Especially If You're On The Free Tier",
+      "source": "tech.yahoo.com",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpts-memory-getting-better-especially-202219516.html",
+      "published": "2026-06-05"
+    },
+    {
+      "headline": "Dreaming: Better memory for a more helpful ChatGPT",
+      "source": "openai.com",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "published": "2026-06-04"
+    },
+    {
+      "headline": "OpenAI gives ChatGPT a memory that learns while users are away",
+      "source": "startupfortune.com",
+      "url": "https://startupfortune.com/openai-gives-chatgpt-a-memory-that-learns-while-users-are-away/",
+      "published": "2026-06-04"
+    },
+    {
+      "headline": "OpenAI is making ChatGPT remember users more like a regular assistant",
+      "source": "startupfortune.com",
+      "url": "https://startupfortune.com/openai-is-making-chatgpt-remember-users-more-like-a-regular-assistant/",
+      "published": "2026-06-05"
+    },
+    {
+      "headline": "OpenAI says ChatGPT's memory feature is getting smarter and coming to free users",
+      "source": "9to5mac.com",
+      "url": "https://9to5mac.com/2026/06/04/openai-says-chatgpts-memory-feature-is-getting-smarter-and-coming-to-free-users/",
+      "published": "2026-06-04"
+    },
+    {
+      "headline": "Europe unveils tech sovereignty package amid growing concerns over reliance on U.S. tech",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/03/europe-tech-sovereignty-us-tech-reliance.html",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience",
+      "source": "digital-strategy.ec.europa.eu",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "EU Tech Sovereignty Package",
+      "source": "globalpolicywatch.com",
+      "url": "https://www.globalpolicywatch.com/2026/06/eu-tech-sovereignty-package/",
+      "published": "2026-06-04"
+    },
+    {
+      "headline": "Coinbase Lists SpaceX Pre-IPO Perpetuals After SPCX Sets $135 Price",
+      "source": "cryptotimes.io",
+      "url": "https://www.cryptotimes.io/2026/06/04/coinbase-lists-spacex-pre-ipo-perpetuals-after-spcx-sets-135-price/",
+      "published": "2026-06-04"
+    },
+    {
+      "headline": "SpaceX IPO: Every ETF That Will Hold SPCX — and When",
+      "source": "etf.com",
+      "url": "https://www.etf.com/sections/news/spacex-ipo-every-etf-will-hold-spcx-and-when",
+      "published": "2026-06-05"
+    },
+    {
+      "headline": "Introducing new capabilities to GPT-Rosalind",
+      "source": "openai.com",
+      "url": "https://openai.com/research/index/release/",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "OpenAI Expands Codex with role-specific plugins and ChatGPT Sites",
+      "source": "releasebot.io",
+      "url": "https://releasebot.io/updates/openai",
+      "published": "2026-06-04"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Freitag, den 5. Juni 2026.\n\n===\n\nDas größte OpenAI-Update des Tages kommt nicht in Form eines neuen Modells, sondern in Form eines deutlich klügeren Gedächtnisses. OpenAI hat heute das sogenannte Dreaming Version drei ausgerollt — eine grundlegend überarbeitete Speicherarchitektur für ChatGPT. \nDas System optimiert das Erinnern für Frische, Kontinuität und Relevanz: Gespeicherte Informationen werden automatisch aktualisiert, wenn sich der Kontext ändert — etwa von „du fährst im Juli nach Singapur\" zu „du bist im Juli in Singapur gewesen\", sobald die Reise vorbei ist.\n\n\n\nOpenAI überarbeitet damit grundlegend, wie ChatGPT sich erinnert. Das Unternehmen hat begonnen, eine neue, skalierbarere Speicherarchitektur auszurollen, um Probleme mit veralteten, fehlerhaften und unvollständigen Erinnerungen zu lösen — bei Hunderten Millionen Nutzern über mehrere Jahre.\n Der entscheidende technische Durchbruch: \nWährend die dreaming-basierte Erinnerung bisher nur zahlenden Nutzern vorbehalten war, haben jüngste Optimierungen den Rechenaufwand für den Betrieb dieses Hintergrundprozesses um das Fünffache gesenkt. Das macht es möglich, das Feature nun schrittweise auch auf Gratis-Konten auszurollen und gleichzeitig die Speicherkapazität für Plus- und Pro-Nutzer zu verdoppeln.\n\n\n\nNeu ist auch eine sogenannte Memory Summary Page: ChatGPT fasst dort zusammen, was es über den Nutzer weiß. Von dort aus kann man Informationen ergänzen, korrigieren und angeben, wann ChatGPT bestimmtes Wissen einbeziehen soll.\n \nDas Update steht Plus- und Pro-Nutzern in den USA ab heute zur Verfügung\n, der breitere Rollout folgt in den nächsten Wochen.\n\nDiese Personalisierung ist strategisch bedeutsam: \nFür Unternehmen ist die eigentliche Frage die Kundenbindung. Wenn ChatGPT der Ort wird, an dem sich Gewohnheiten, Projekte und Präferenzen eines Nutzers ansammeln, wird ein Wechsel zu einem anderen Assistenten deutlich schwieriger.\n Gleichzeitig stellen Datenschutzforschende bereits Fragen: \nEine im Februar veröffentlichte Studie, die zweitausendundfünfzig ChatGPT-Speichereinträge analysierte, fand, dass 96 Prozent der gespeicherten Informationen vom System selbst erstellt wurden — ohne explizite Nutzeranweisung. Zudem enthielten 28 Prozent der Einträge personenbezogene Daten im Sinne der DSGVO, und 52 Prozent psychologische Einschätzungen.\n Das wird Regulatoren beschäftigen.\n\n===\n\nEbenfalls frisch: OpenAI hat in dieser Woche Updates für GPT-Rosalind vorgestellt, sein auf Life-Sciences spezialisiertes Modell. \nOpenAI veröffentlicht eine aktualisierte Version von GPT-Rosalind für die Biowissenschaften, mit stärkeren agentischen Coding-Fähigkeiten, verbesserter Leistung in der Wirkstoffforschung und Genomik sowie neuen Plugins für die Literaturrecherche und Bioinformatik-Workflows. Zusätzlich weitet das Unternehmen den Zugang für qualifizierte Forschungsorganisationen weltweit aus.\n Das Modell kombiniert dabei \ndie agentischen Programmierfähigkeiten von GPT-5.5 mit spezialisierter Intelligenz in Kerndisziplinen der Wirkstoffforschung wie Medizinalchemie und Genomik.\n\n\n===\n\nNun zum großen regulatorischen Thema der Woche, das in der deutschsprachigen Tech-Debatte noch zu wenig Aufmerksamkeit bekommt: die Europäische Kommission hat am Mittwoch ihr sogenanntes Technologiesouveränitätspaket vorgestellt. \nDie Kommission hat das Europäische Technologiesouveränitätspaket präsentiert — eine Reihe von Maßnahmen zur Stärkung Europas Kapazitäten in den Bereichen Halbleiter, Künstliche Intelligenz, Cloud und Open Source. Das Paket umfasst zwei Legislativvorschläge — den Chips Act 2.0 und den sogenannten Cloud and AI Development Act — sowie eine Open-Source-Strategie und eine Digitalstrategie für den Energiesektor.\n\n\nDas Kernproblem, das Brüssel adressiert: \nDie EU ist weiterhin stark abhängig von Anbietern außerhalb der Union für zentrale digitale Technologien, während der Bedarf an Rechenkapazität durch die Verbreitung von KI stark ansteigt.\n Besonders pikant für US-Konzerne wie Amazon, Google und Microsoft: \nDer Cloud and AI Development Act soll die Risiken aus der EU-Abhängigkeit von drittstaatlichen Cloud-Diensten für sensible öffentliche Aufgaben mindern. Die Kommission will sicherstellen, dass Cloud-Anbieter keinen „Kill Switch\" über kritische Infrastruktur haben — und EU-Vizepräsidentin Henna Virkkunen betonte, dass es für US-Unternehmen schwierig sein werde, die höchsten Souveränitätsstufen zu erreichen, da der US Cloud Act amerikanischen Behörden Zugriff auf Daten weltweit ermöglicht.\n\n\n\n„Wir können es uns nicht leisten, von anderen abhängig zu sein für Technologien, die unsere Krankenhäuser am Laufen halten, unsere Stromnetze stabil und unsere Dienste sicher\", sagte Kommissionspräsidentin Ursula von der Leyen.\n Die Vorschläge müssen noch von allen 27 Mitgliedstaaten gebilligt werden.\n\n===\n\nUpdate zu SpaceX: Nachdem wir gestern über den Start der Roadshow berichtet haben, gibt es heute Zahlen. \nSpaceX hat in einer Ergänzung zur S-1-Einreichung bei der US-Börsenaufsicht SEC einen IPO-Preis von 135 Dollar je Aktie und Pläne zur Ausgabe von 555 Millionen Aktien bekanntgegeben, um rund 75 Milliarden Dollar einzuwerben. Zu diesem Preis würde das Unternehmen mit rund 1,77 Billionen Dollar bewertet und unter dem Kürzel SPCX an der Nasdaq notieren — angestrebt noch ab dem 12. Juni.\n\n\nDamit stünde SpaceX kurz davor, den größten Börsengang der Geschichte zu vollziehen. \nAllein die Indexregeln werden nach dem Listing automatisch zig Milliarden Dollar aus passiven Fonds in SpaceX-Aktien lenken. SpaceX wird voraussichtlich mit einem Gewicht von rund 0,5 Prozent in den S&P 500 aufgenommen.\n Relevant für den KI-Kontext: \nDie Kosten im KI-Segment von SpaceX — dazu gehört xAI mit dem Grok-Assistenten — sprangen 2025 um 29 Prozent auf 2,18 Milliarden Dollar, getrieben von Infrastruktur- und Cloud-Ausgaben. Die Forschungs- und Entwicklungskosten im KI-Segment stiegen sogar um mehr als 300 Prozent auf 5,06 Milliarden Dollar.\n\n\n===\n\nDas war dein KI Daily für diesen Freitag. Drei Themen bleiben diese Woche im Blick: Wird OpenAIs Dreaming V3 tatsächlich die Nutzerbindung stärken — oder löst die wachsende Speicherfunktion eine Datenschutzdebatte aus? Schafft die EU mit ihrem Souveränitätspaket den Sprung zu echter technologischer Unabhängigkeit, oder bleibt es beim Anspruch? Und wird der SpaceX-Börsengang am 12. Juni tatsächlich Geschichte schreiben?\n\nSchönes Wochenende, bis Montag."
+}
