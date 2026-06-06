@@ -1,0 +1,70 @@
+{
+  "title": "KI Daily – 6. Juni 2026: Great American AI Act, Anthropic IPO & SpaceX-Countdown",
+  "teaser": "Der US-Kongress wagt sich an ein nationales KI-Gesetz – und löst damit eine heftige Debatte aus. Dazu: Anthropic reicht vertraulich seinen Börsenprospekt ein, während SpaceX in weniger als einer Woche sein historisches IPO anpeilt.",
+  "pubDate": "2026-06-06T06:00:00+02:00",
+  "duration_seconds": 409,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Bipartisan AI draft proposes three-year preemption of state laws",
+      "source": "rollcall.com",
+      "url": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
+      "published": "2026-06-04"
+    },
+    {
+      "headline": "Obernolte, Trahan release a discussion draft of the Great American AI Act",
+      "source": "obernolte.house.gov",
+      "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act",
+      "published": "2026-06-04"
+    },
+    {
+      "headline": "What's inside the House draft bill to regulate AI",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/06/04/house-draft-bill-regulate-ai",
+      "published": "2026-06-04"
+    },
+    {
+      "headline": "Anthropic confidentially files IPO prospectus with SEC",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Anthropic confidentially files for IPO after raising $65 billion at a $965 billion valuation",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/",
+      "published": "2026-06-01"
+    },
+    {
+      "headline": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "published": "2026-05-28"
+    },
+    {
+      "headline": "Introducing Claude Opus 4.8",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "published": "2026-05-28"
+    },
+    {
+      "headline": "SpaceX targets fixed $135 IPO price for roadshow, source says",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "SpaceX IPO targets June 12, 2026, Nasdaq listing under SPCX",
+      "source": "capital.com",
+      "url": "https://capital.com/en-int/learn/ipo/spacex-ipo",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "Colorado AI Act Amended and Effective Date Delayed",
+      "source": "hunton.com",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed",
+      "published": "2026-05-14"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Samstag, den 6. Juni 2026.\n\n===\n\nStarten wir mit einem großen regulatorischen Moment aus Washington. Am Donnerstag haben zwei US-Abgeordnete einen Gesetzentwurf vorgelegt, der das Potenzial hat, die KI-Regulierung in den gesamten Vereinigten Staaten grundlegend neu zu ordnen. Der Republikaner Jay Obernolte aus Kalifornien und die Demokratin Lori Trahan aus Massachusetts haben gemeinsam einen Diskussionsentwurf für den sogenannten \"Great American Artificial Intelligence Act\" veröffentlicht. \nDas 269 Seiten umfassende Dokument kommt nur wenige Tage nachdem Präsident Trump eine Executive Order unterzeichnet hat, die freiwillige staatliche Überprüfungen neuer Frontier-KI-Modelle einführt.\n\n\nDer Kern des Entwurfs ist politisch heiß: \nEr enthält eine dreijährige Aussetzung von Bundesstaatsgesetzen zur KI-Entwicklung\n – ein Punkt, der bereits heftige Kritik auf sich zieht. \nDer Entwurf sieht außerdem vor, das sogenannte Center for AI Standards and Innovation formal zu etablieren und mit 100 Millionen Dollar pro Jahr auszustatten. Große Frontier-Entwickler sollen zudem verpflichtet werden, vor Modellveröffentlichungen Risikopläne zu erstellen und kritische Sicherheitsvorfälle zu melden.\n\n\n\nKritiker wie die Verbraucherorganisation Public Citizen werfen dem Entwurf vor, es Bundesstaaten und Kommunen zu verbieten, eigene KI-Gesetze zu entwickeln – und das zu einem Zeitpunkt, an dem der US-Kongress wiederholt daran gescheitert ist, wirksame KI-Schutzgesetze zu verabschieden.\n \nGewerkschaften wie die amerikanische Lehrergewerkschaft AFT reagierten mit einem klaren Nein: \"Dieses Gesetz ist ein Geschenk an die KI-Industrie auf Kosten amerikanischer Arbeitnehmer\", heißt es in einer gemeinsamen Erklärung.\n Der Entwurf ist noch kein formaler Gesetzentwurf; die Öffentlichkeit und Experten sind zur Stellungnahme eingeladen.\n\nInteressanter Kontext dazu: Der US-Bundesstaat Colorado hatte als erster Staat überhaupt ein umfassendes KI-Gesetz beschlossen – doch \nGouverneur Polis unterzeichnete Mitte Mai ein neues Gesetz, das die ursprüngliche Colorado-KI-Regulierung stark abspeckt und den Inkrafttretenszeitpunkt auf den 1. Januar 2027 verschiebt.\n Colorado ist damit das Paradebeispiel für den politischen Druck, unter dem staatliche KI-Gesetze in den USA aktuell stehen.\n\n===\n\nKommen wir zu Anthropic – und das ist eine Geschichte mit gleich mehreren Dimensionen. \nDas Unternehmen hat vertraulich seinen Börsenprospekt bei der US-Wertpapieraufsicht SEC eingereicht. \"Damit haben wir die Möglichkeit, nach Abschluss der SEC-Prüfung an die Börse zu gehen\", erklärte Anthropic.\n\n\nDas Timing ist bemerkenswert: \nAnthropic, einst als Außenseiter gegenüber OpenAI wahrgenommen, hat seinen Rivalen in den letzten Monaten auf mehreren Fronten überholt – zuletzt durch eine Finanzierungsrunde bei einer Bewertung von 965 Milliarden Dollar, was OpenAI erstmals hinter sich lässt.\n \nDas Unternehmen meldete zudem einen Jahresumsatz-Run-Rate von 47 Milliarden Dollar, gegenüber zehn Milliarden im Vorjahr.\n\n\nWas treibt dieses Wachstum? Allen voran das KI-Coding-Werkzeug Claude Code. Und dazu passt, dass Anthropic Ende Mai einen neuen Flagship-Modell veröffentlicht hat: \nClaude Opus 4.8 baut auf dem Vorgänger auf, bringt Verbesserungen auf Benchmarks und soll ein effektiverer Kollaborationspartner sein – zum gleichen Preis wie bisher.\n \nZusammen mit dem Modell führte Anthropic ein neues Feature namens Dynamic Workflows ein, das größeren Modellen wie Opus helfen soll, komplexe Aufgaben über Hunderte von parallelen Subagenten zu managen.\n\n\nUnd dann ist da noch Anthropics nächste Stufe: das sogenannte Mythos-Modell. \nAnthropic hält sein fortschrittlichstes Mythos-Modell noch zurück, nachdem eine erste Vorschau im letzten Monat Cybersicherheitsbedenken aufgeworfen hatte. Das Unternehmen deutete jedoch an, dass die Preview-Phase bald enden könnte, sobald die nötigen Sicherheitsvorkehrungen abgeschlossen sind.\n\n\n===\n\nUpdate zu einem Thema, das wir bereits verfolgen: Der SpaceX-Börsengang nimmt in dieser Woche ganz konkrete Formen an. \nSpaceX plant sein IPO zu einem Festpreis von 135 Dollar pro Aktie bei einer Bewertung von 1,77 Billionen Dollar. Das würde Elon Musks Unternehmen zum siebtgrößten Unternehmen der USA machen – noch vor Tesla.\n \nSpaceX strebt eine Notierung am Nasdaq am 12. Juni 2026 unter dem Tickersymbol SPCX an, mit der Preisfestsetzung nach Börsenschluss am 11. Juni.\n\n\n\nInsgesamt plant SpaceX den Verkauf von rund 555 Millionen Aktien, was einem Erlös von etwa 75 Milliarden Dollar entspräche\n – und damit zum größten Börsengang der Geschichte avancieren würde. Die Roadshow läuft bereits seit Mittwoch. Parallel dazu läuft auch Anthropics SEC-Prüfung. \nOpenAI soll ebenfalls seinen vertraulichen IPO-Antrag in den kommenden Wochen einreichen und arbeitet bereits mit Goldman Sachs und Morgan Stanley an einem möglichen Herbstlisting.\n\n\n===\n\nZum Abschluss ein kurzer Ausblick auf die kommende Woche: Am 8. Juni hält Apple seine jährliche Entwicklerkonferenz WWDC ab – dort werden KI-Neuheiten zu iOS 27 erwartet. Am 11. Juni wird SpaceX seine Aktien bepreisen, am 12. Juni soll der erste Handelstag folgen. Und der US-Kongress wird weiter debattieren, ob der Great American AI Act die Balance zwischen Innovation und Schutz wirklich trifft – oder ob er, wie Kritiker sagen, vor allem der Industrie nutzt.\n\nDie KI-Welt dreht sich weiter schnell. Wir bleiben dran. Bis morgen."
+}
