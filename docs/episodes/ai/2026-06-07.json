@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 7. Juni 2026: SpaceX als KI-Infrastruktur, OpenAI & Staat, xAI-Affäre",
+  "teaser": "SpaceX wird zum mächtigsten KI-Rechenzentrum der Welt – Google zahlt fast eine Milliarde Dollar im Monat. Dazu: Die US-Regierung verhandelt eine Beteiligung an OpenAI, und Elon Musks xAI hat monatelang heimlich Claudes KI für eigene Modelle genutzt.",
+  "pubDate": "2026-06-07T06:00:00+02:00",
+  "duration_seconds": 447,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/",
+      "published": "2026-06-06"
+    },
+    {
+      "headline": "SpaceX to rent AI capacity to Google for $920 million per month",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/sectors/technology/article/spacex-to-rent-ai-capacity-to-google-for-920-million-per-month-200639544.html",
+      "published": "2026-06-06"
+    },
+    {
+      "headline": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
+      "published": "2026-06-06"
+    },
+    {
+      "headline": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
+      "published": "2026-06-05"
+    },
+    {
+      "headline": "The Trump administration might take an equity stake in OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "published": "2026-06-06"
+    },
+    {
+      "headline": "Meta Hatch AI Agent: New $200/Month Paid Product Explained",
+      "source": "squaredtech.co",
+      "url": "https://www.squaredtech.co/meta-hatch-ai-agent-new-200month-paid-product-explained",
+      "published": "2026-06-06"
+    },
+    {
+      "headline": "Anthropic urges AI labs to pause, warns humans risk losing control",
+      "source": "aljazeera.com",
+      "url": "https://www.aljazeera.com/economy/2026/6/5/anthropic-urges-ai-labs-to-pause-warns-humans-risk-losing-control",
+      "published": "2026-06-05"
+    },
+    {
+      "headline": "Anthropic warns AI may soon begin recursive self-improvement",
+      "source": "scientificamerican.com",
+      "url": "https://www.scientificamerican.com/article/anthropic-warns-ai-may-soon-begin-recursive-self-improvement/",
+      "published": "2026-06-06"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Sonntag, den 7. Juni 2026.\n\n===\n\nBeginnen wir mit einer Meldung, die zeigt, wohin sich die KI-Industrie gerade strukturell verschiebt: weg von reiner Modell-Entwicklung, hin zum Kampf um Rechenkapazität. SpaceX hat laut einer SEC-Einreichung einen Vertrag mit Google über 920 Millionen Dollar pro Monat abgeschlossen. Der Deal läuft von Oktober 2026 bis Juni 2029 und könnte SpaceX insgesamt rund 30 Milliarden Dollar einbringen. Google erhält dafür Zugang zu etwa 110.000 Nvidia-KI-Chips, um die Nachfrage nach seiner Gemini-Enterprise-Plattform zu bedienen. Ein Google-Cloud-Sprecher bezeichnete den Deal gegenüber der New York Times als \"kurzfristige Überbrückungskapazität\" – ein bemerkenswertes Eingeständnis, denn Google ist selbst einer der weltgrößten Cloud-Anbieter und hat offenbar nicht genug eigene Kapazität, um seine Kunden zu bedienen. SpaceX hatte bereits zuvor einen Vertrag mit Anthropic über 1,25 Milliarden Dollar monatlich geschlossen. Beide Vereinbarungen positionieren das Unternehmen von Elon Musk als wichtigen KI-Infrastruktur-Anbieter – und das ausgerechnet kurz vor dem geplanten SpaceX-Börsengang am 12. Juni, der das Unternehmen mit über 1,7 Billionen Dollar bewerten würde.\n\n===\n\nWeiter zu einer politisch brisanten Entwicklung in Washington: Die US-Regierung und OpenAI führen Gespräche über eine mögliche Staatsbeteiligung an dem KI-Konzern. Das hat CNBC am Freitag bestätigt, nachdem Präsident Donald Trump die Diskussionen persönlich an Bord der Air Force One öffentlich gemacht hatte. Unter dem diskutierten Rahmen würde OpenAI Anteile an die Bundesregierung abgeben – nicht verkaufen, sondern schenken –, um einen sogenannten \"Public Wealth Fund\" zu starten. OpenAI-Chef Sam Altman soll das Konzept bereits Anfang 2025 direkt bei Trump eingebracht haben. Die Idee: KI-Gewinne sollen breiter in der Bevölkerung verteilt werden, ähnlich einem Staatsfonds. Senator Bernie Sanders geht noch weiter und will per Gesetz eine Zwangsabgabe von 50 Prozent der Unternehmensanteile von OpenAI, Anthropic und xAI fordern. Kritiker warnen vor einem Interessenkonflikt: Ein Staat, der gleichzeitig Anteilseigner und Regulierer ist, könnte geneigt sein, Sicherheitsregeln zugunsten der Aktienkurse zu lockern. Offizielle Konditionen wurden bislang nicht vereinbart.\n\n===\n\nBleiben wir beim Thema Interessenkonflikte – und kommen zu einer Geschichte, die die KI-Branche aufhorchen lässt. Elon Musks KI-Labor xAI hat über Monate hinweg Anthropics Modell Claude genutzt, um eigene Coding-Modelle zu trainieren. Das berichtet The Information, aufgegriffen von The Decoder. Konkret: xAI trainierte seine Coding-Modelle direkt auf Claudes Ausgaben – ein Verfahren, das in der Branche als Destillation bekannt ist und das Anthropics Nutzungsbedingungen ausdrücklich verbietet. Nachdem Anthropic im Januar den offiziellen Zugang gesperrt hatte, liefen xAI-Ingenieure laut Bericht einfach über Privatkonten und den Dienst Blackbox AI weiter. xAI-Mitgründer Tony Wu bestätigte den Zugriffsverlust intern per Memo und bezeichnete das als Ansporn, eigene Coding-Tools zu bauen. Intern soll xAI ohnehin unter Druck stehen: Das Vortraining-Team sei auf unter fünf Personen geschrumpft, mehrere Grok-Chefentwickler hätten das Unternehmen verlassen, und ein Mitarbeiter habe versehentlich kritische Trainingsdaten gelöscht. Das alles erklärt womöglich, warum die KI-Rechenkapazitäten, die Musk ursprünglich für xAI aufgebaut hat, jetzt eben an Anthropic und Google vermietet werden.\n\n===\n\nJetzt zu Meta. Das Unternehmen, das KI bisher fast ausschließlich kostenlos angeboten hat, plant laut einem Bericht von The Information erstmals ein bezahltes KI-Produkt. Der Agentenservice soll auf den Namen \"Hatch\" hören und bis zu 200 Dollar pro Monat kosten – vergleichbar mit den teuersten Abonnements von OpenAI und Anthropic. Hatch soll Aufgaben wie das Erstellen von Software-Tools, Terminplanung und E-Mail-Versand übernehmen. Nutzende beschreiben ihr Anliegen in einfacher Sprache, und Hatch baut daraus ein funktionierendes Werkzeug. Geplant ist eine kostenlose Stufe sowie ein \"Hatch Plus\"-Abo mit deutlich höheren Nutzungslimits. Ein US-Launch soll noch im Juli kommen. Für Meta ist Hatch strategisch wichtig: CEO Mark Zuckerberg will neue Einnahmequellen jenseits der Werbung erschließen – und Hatch soll auch die geplante KI-Hardware des Unternehmens antreiben, darunter neue Smart Glasses und ein KI-Pendant.\n\n===\n\nSchließlich noch ein Update zu einer Debatte, die seit wenigen Tagen anhält und in den letzten 24 Stunden weiter an Fahrt aufgenommen hat: Anthropic hat Anfang der Woche in einem Blogpost vor einer sogenannten rekursiven Selbstoptimierung von KI-Modellen gewarnt – dem Punkt, an dem KI-Systeme ihre eigenen Nachfolger entwickeln könnten, ohne direkte menschliche Eingriffe. Das Unternehmen forderte eine koordinierte, globale Verlangsamung der KI-Entwicklung. Als Beleg nennt Anthropic eigene Daten: Claude schreibe mittlerweile über 80 Prozent des Codes, der in die eigenen Systeme eingespielt wird. Konkurrent OpenAI wies den Ansatz zurück und betonte, dass über das Tempo der KI-Innovation demokratisch gewählte Regierungen entscheiden sollten – nicht einzelne Unternehmen. Kritische Beobachter bemerken, dass der Aufruf zur Pause just dann kommt, wenn Anthropic kurz vor dem Börsengang steht und zu den führenden Laboren weltweit gehört. Ein Einfrieren des Status quo würde vor allem die Nachzügler benachteiligen.\n\n===\n\nDas war dein KI Daily für diesen Sonntag. Die kommende Woche verspricht einiges: Der SpaceX-Börsengang ist für den 12. Juni angesetzt und dürfte zu einem Stresstest für die gesamte KI-Infrastruktur-These werden. Dazu erwartet die Branche die Veröffentlichung von Gemini 3.5 Pro durch Google – der Flagship-Nachfolger soll noch im Juni kommen. Und die Debatte darüber, wer eigentlich von der KI-Entwicklung profitiert – Staaten, Bürgerinnen und Bürger oder Konzerne – dürfte mit den laufenden Washington-Verhandlungen weiter an Schärfe gewinnen. Bis morgen."
+}
