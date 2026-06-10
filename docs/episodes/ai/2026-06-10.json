@@ -1,0 +1,88 @@
+{
+  "title": "KI Daily – 10. Juni 2026: Siri-EU-Streit, SpaceX-Rekord & OpenAIs Super-App",
+  "teaser": "Apple und die EU streiten ums Siri-KI-Update, SpaceX schreibt mit über 250 Milliarden Dollar Nachfrage Börsengeschichte, die EU zwingt WhatsApp zur KI-Öffnung – und OpenAI will das Chat-Zeitalter hinter sich lassen.",
+  "pubDate": "2026-06-10T06:00:00+02:00",
+  "duration_seconds": 505,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
+      "source": "apple.com",
+      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+      "published": "2026-06-08, aktualisiert 2026-06-09"
+    },
+    {
+      "headline": "Why is Siri AI not coming to the EU in iOS 27?",
+      "source": "appleinsider.com",
+      "url": "https://appleinsider.com/articles/26/06/09/why-apples-new-siri-ai-may-never-come-to-the-eu",
+      "published": "2026-06-09"
+    },
+    {
+      "headline": "Apple gibt der EU die Schuld: Warum Siri AI vorerst nicht in Europa erscheint",
+      "source": "computerbase.de",
+      "url": "https://www.computerbase.de/news/betriebssysteme/apple-gibt-der-eu-die-schuld-warum-siri-ai-vorerst-nicht-in-europa-erscheint.97819/",
+      "published": "2026-06-09"
+    },
+    {
+      "headline": "Siri AI in der EU: Apple und Brüssel streiten wegen Digital Markets Act",
+      "source": "trendingtopics.eu",
+      "url": "https://www.trendingtopics.eu/siri-ai-kommt-nicht-in-die-eu-apple-und-bruessel-streiten-wegen-digital-markets-act/",
+      "published": "2026-06-09"
+    },
+    {
+      "headline": "SpaceX IPO demand approaching four times oversubscribed",
+      "source": "reuters.com (via finance.yahoo.com)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-spacex-ipo-demand-approaching-183045793.html",
+      "published": "2026-06-09"
+    },
+    {
+      "headline": "SpaceX IPO begins June 12 and could join the Nasdaq-100 index",
+      "source": "eciks.org (citing Reuters, NYT)",
+      "url": "https://eciks.org/7803-24831-qqq-spacex-ipo-nasdaq-100-june-2026",
+      "published": "2026-06-09"
+    },
+    {
+      "headline": "SpaceX targets fixed $135 IPO price for roadshow",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+      "published": "2026-06-03"
+    },
+    {
+      "headline": "EU-Zwangsmaßnahme: WhatsApp muss andere KI-Anbieter zulassen",
+      "source": "netzwelt.news",
+      "url": "https://netzwelt.news/eu-zwangsmassnahme-whatsapp-muss-andere-ki-anbieter-zulassen/",
+      "published": "2026-06-09"
+    },
+    {
+      "headline": "Meta-Aktie fester: WhatsApp muss sich laut EU für fremde KI-Assistenten öffnen",
+      "source": "finanzen.net",
+      "url": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-10-juni-2026-15736042",
+      "published": "2026-06-09"
+    },
+    {
+      "headline": "OpenAI readies 'superapp' pivot ahead of planned IPO, FT reports",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/06/07/openai-superapp-pivot-chatbot-agentic-ai-ipo-codex-chatgpt/",
+      "published": "2026-06-07"
+    },
+    {
+      "headline": "OpenAI's biggest ChatGPT overhaul yet turns it into a super app",
+      "source": "gagadget.com (FT-Report)",
+      "url": "https://gagadget.com/en/713968-openais-biggest-chatgpt-overhaul-yet-turns-it-into-a-super-app/",
+      "published": "2026-06-08"
+    },
+    {
+      "headline": "OpenAI Declares Chat Is Dead in Biggest ChatGPT Overhaul Ahead of IPO",
+      "source": "opentools.ai (FT-Report)",
+      "url": "https://opentools.ai/news/openai-chatgpt-superapp-overhaul-chat-is-dead",
+      "published": "2026-06-08"
+    },
+    {
+      "headline": "Oracle vor den Quartalszahlen am 10. Juni: KI-Wachstum gegen Zinsdruck",
+      "source": "it-boltwise.de",
+      "url": "https://www.it-boltwise.de/oracle-vor-den-quartalszahlen-am-10-juni-ki-wachstum-gegen-zinsdruck.html",
+      "published": "2026-06-10"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Mittwoch, den zehnten Juni 2026.\n\n===\n\nBeginnen wir mit dem Update, das Europa am meisten betrifft: Siri KI kommt nicht auf iPhone und iPad in der Europäischen Union. Einen Tag nach der Ankündigung auf der WWDC hat Apple nun eine offizielle Erklärung nachgeliefert und dabei die EU-Kommission scharf angegriffen. Der Grund ist der Digital Markets Act, kurz DMA, das europäische Plattformregulierungsgesetz. Apples Software-Chef Craig Federighi erklärte in einer schriftlichen Stellungnahme, man sei tief enttäuscht darüber, dass EU-Nutzer Siri KI auf iPhone und iPad nicht erhalten werden. Apple hatte nach eigenen Angaben über mehrere Monate hinweg verschiedene Lösungsvorschläge bei den Regulierern eingereicht. Konkret schlug Apple einen sogenannten \"Trusted System Agent\" vor — ein Mechanismus, der auch Konkurrenzmodellen Zugang zu Siri-Funktionen gegeben hätte, allerdings in einer geschützten Umgebung, in der keine Nutzerdaten gespeichert werden. Dieser Vorschlag sollte über achtzehn Monate ausgerollt werden. Die EU-Kommission lehnte ihn ab. Brüssel wiederum ließ mitteilen, es sei Apples eigene Entscheidung, die neue Siri-Version nicht in der EU anzubieten. Der DMA verlange schlicht, dass alle virtuellen Assistenten die gleichen technischen Zugangsmöglichkeiten bekommen — und zwar ab dem ersten Tag. Für EU-Nutzerinnen und Nutzer bedeutet das konkret: Wenn iOS 27 und iPadOS 27 im Herbst 2026 erscheinen, fehlt ihnen das Herzstück des Updates. Immerhin: Auf dem Mac und der Vision Pro soll Siri KI auch in der EU verfügbar sein — zunächst aber nur auf Englisch.\n\n===\n\nZweite Geschichte, und eine die Börsengeschichte schreiben könnte: Das SpaceX-IPO ist massiv überzeichnet. Laut Reuters haben Investoren Stand gestern bereits mehr als 250 Milliarden Dollar Nachfrage angemeldet — bei einem Angebotsvolumen von geplanten 75 Milliarden Dollar. Das entspricht einer fast vierfachen Überzeichnung. SpaceX-Präsidentin Gwynne Shotwell und Finanzchef Bret Johnsen trafen gestern bei Morgan Stanley in Manhattan rund dreihundert institutionelle Anleger. Selbst Elon Musk schaltete sich kurz per Videoanruf in einige Meetings. Der Ausgabepreis steht auf 135 Dollar je Aktie fest, was SpaceX mit rund 1,75 Billionen Dollar bewertet. Die Preisfeststellung soll morgen, also am elften Juni, erfolgen, der erste Handelstag ist für übermorgen, den zwölften Juni, am Nasdaq unter dem Kürzel SPCX geplant. Sollte das Angebot wie vorgesehen abgewickelt werden, wäre es der größte Börsengang aller Zeiten — mehr als dreimal so groß wie das bisherige Rekord-IPO von Saudi Aramco. Bemerkenswert ist zudem: Dreißig Prozent der Aktien gehen direkt an Privatanleger über Plattformen wie Fidelity, Robinhood und Charles Schwab — dreimal so viel wie bei vergleichbaren Mega-IPOs üblich. SpaceX schließt durch die Fusion mit xAI auch Elon Musks KI-Aktivitäten ein — ein Punkt, den viele Investoren als wichtigen Zukunftsfaktor werten.\n\n===\n\nUpdate von gestern Abend: Die EU-Kommission hat einstweilige Maßnahmen gegen Meta und seinen Messenger-Dienst WhatsApp verhängt. Meta muss innerhalb von fünf Werktagen sicherstellen, dass auch KI-Assistenten anderer Anbieter über WhatsApp genutzt werden können — und zwar kostenlos. Hintergrund des Konflikts: Meta hatte im Oktober vergangenen Jahres Drittanbietern den Zugang zu seinen Schnittstellen gesperrt, was in der Praxis dazu führte, dass in WhatsApp nur noch Metas eigene KI verfügbar war. Brüssel leitete daraufhin im Dezember 2025 eine Untersuchung ein. Als Meta den Zugang im März zwar formal öffnete, aber eine Gebühr von bis zu dreizehn Cent pro Nachricht einführte, werteten die Wettbewerbshüter das als faktische Fortsetzung der Sperre. EU-Wettbewerbskommissarin Teresa Ribera erklärte, WhatsApp sei für KI-Unternehmen ein wichtiger Zugangspunkt zu Verbrauchern in Europa. Mit den einstweiligen Maßnahmen wolle die Kommission die Wahlfreiheit der Bürger in Bezug auf KI-Assistenten sichern. Die Parallele zum Apple-DMA-Konflikt ist kaum zu übersehen — und zeigt, wie sehr der Digital Markets Act die Debatte darüber prägt, wer in Europa die Zugangstore zu KI kontrollieren darf.\n\n===\n\nJetzt zu OpenAI: Das Unternehmen bereitet nach einem Bericht der Financial Times den größten Umbau seiner Plattform seit dem Start von ChatGPT im Jahr 2022 vor. Ein interner Satz, der laut FT unter Mitarbeitern kursiert, lautet: \"Chat is dead.\" OpenAI plant, ChatGPT von einem Frage-Antwort-Chatbot in eine umfassende Superapp zu verwandeln. Konkret sollen der Chatbot, das Coding-Tool Codex und der Browser Atlas zu einer einheitlichen Plattform verschmelzen. Dazu kommen KI-Agenten, die selbstständig komplexe Aufgaben ausführen können — etwa Reisen buchen, Kalender verwalten oder Code schreiben und deployen. Auch Drittanbieter-Apps sollen integriert werden, darunter Canva und Booking.com. Der Roll-out soll in den kommenden Wochen über Website und mobile Apps beginnen. Der Zeitpunkt ist kein Zufall: OpenAI hat vertraulich seinen Börsengang-Antrag bei der US-Wertpapieraufsicht SEC eingereicht. Berater Goldman Sachs und Morgan Stanley peilen eine Bewertung von bis zu einer Billion Dollar an. Die Superapp soll zeigen, dass OpenAI mehr ist als ein Chatbot-Anbieter — und damit auch die nötigen Margen für den öffentlichen Kapitalmarkt liefern.\n\n===\n\nAls letzter Punkt ein wichtiger Termin für heute Abend: Oracle legt nach US-Börsenschluss seine Quartalszahlen für das vierte Fiskalquartal 2026 vor. Das ist mehr als ein normaler Earnings-Report — es wird von Analysten als Test für die gesamte KI-Cloud-Branche gewertet. Im dritten Quartal hatte Oracle stark abgeschnitten: Der Cloud-Umsatz wuchs um 44 Prozent, die KI-Infrastrukturerlöse sogar um 243 Prozent. Der Auftragsbestand liegt bei mehr als 550 Milliarden Dollar. Nun fragt der Markt aber nicht mehr nur nach Wachstum, sondern nach Profitabilität und Finanzierbarkeit: Oracle plant für 2026 Investitionen von bis zu 50 Milliarden Dollar in den KI-Ausbau — und hat dabei bereits 30 Milliarden über Anleihen eingesammelt. Analysten erwarten einen Umsatz von rund 19 Milliarden Dollar und ein Gewinnwachstum von etwa 15 Prozent. Der Optionsmarkt preist für morgen nach den Zahlen eine Kursschwankung von bis zu 14 Prozent ein. Die Ergebnisse werden noch heute Nacht erwartet.\n\n===\n\nDas war dein KI Daily für den zehnten Juni. Die Woche bleibt eng getaktet: Morgen kommt die SpaceX-Preisfeststellung, übermorgen der historische Börsenstart. Apple und die EU dürften weiter verhandeln — und OpenAIs Superapp-Umbau rückt den bevorstehenden IPO-Wettbewerb der KI-Giganten weiter in den Fokus. Bis morgen früh."
+}
