@@ -1,0 +1,76 @@
+{
+  "title": "KI Daily – 13. Juni 2026: G7, SpaceX +19% & Voigts KI-Reden",
+  "teaser": "Drei KI-Chefs beim G7-Gipfel, SpaceX legt an seinem ersten Handelstag um neunzehn Prozent zu, und ein deutsches Polit-Skandälchen um KI-generierte Reden sorgt für Debatten. Dazu: Chinas gewaltige KI-Infrastrukturpläne und die große Börsen-IPO-Welle.",
+  "pubDate": "2026-06-13T06:00:00+02:00",
+  "duration_seconds": 391,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "AI Leaders From OpenAI, Google DeepMind, And Anthropic To Join G7 Summit",
+      "source": "dataconomy.com",
+      "url": "https://dataconomy.com/2026/06/12/ai-leaders-openai-google-deepmind-anthropic-g7-summit/",
+      "published": "2026-06-12"
+    },
+    {
+      "headline": "AI rivals Altman, Amodei, Hassabis head to G7 summit",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/g7-ai-summit-altman-amodei-hassabis",
+      "published": "2026-06-12"
+    },
+    {
+      "headline": "Sam Altman, Demis Hassabis, Dario Amodei to attend G7 France",
+      "source": "qz.com",
+      "url": "https://qz.com/openai-google-deepmind-anthropic-ceos-g7-france-061226",
+      "published": "2026-06-12"
+    },
+    {
+      "headline": "SpaceX IPO takeaways: SPCX closes at $161, jumping 19% after record debut",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+      "published": "2026-06-12"
+    },
+    {
+      "headline": "SpaceX (SPCX) trading at $160.95 on first day, market cap $2.11T",
+      "source": "investing.com",
+      "url": "https://www.investing.com/equities/spacex",
+      "published": "2026-06-12"
+    },
+    {
+      "headline": "Unter KI-Verdacht: FAZ löscht den Gastbeitrag von Thüringens Ministerpräsidenten Mario Voigt",
+      "source": "zdfheute.de",
+      "url": "https://www.zdfheute.de/politik/deutschland/mario-voigt-ki-verdacht-faz-gastbeitrag-100.html",
+      "published": "2026-06-12"
+    },
+    {
+      "headline": "Mario Voigt und KI: Reden und Gastbeiträge per KI?",
+      "source": "handelsblatt.com",
+      "url": "https://www.handelsblatt.com/politik/deutschland/thueringen-reden-und-gastbeitraege-per-ki-mario-voigt-steht-in-der-kritik/100232228.html",
+      "published": "2026-06-11"
+    },
+    {
+      "headline": "China Plans $295 Billion Investment to Build Nationwide AI Data Centers",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
+      "published": "2026-06-09"
+    },
+    {
+      "headline": "China preps $295 billion plan to fund nationwide AI buildout",
+      "source": "spokesman.com",
+      "url": "https://www.spokesman.com/stories/2026/jun/11/china-preps-295-billion-plan-to-fund-nationwide-ai/",
+      "published": "2026-06-11"
+    },
+    {
+      "headline": "OpenAI files for IPO with potential $1 trillion valuation",
+      "source": "cryptobriefing.com",
+      "url": "https://cryptobriefing.com/openai-ipo-filing-trillion-valuation/",
+      "published": "2026-06-08"
+    },
+    {
+      "headline": "Confidential submission of draft S-1 to the SEC",
+      "source": "openai.com",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "published": "2026-06-08"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, den dreizehnten Juni 2026.\n\n===\n\nBeginnen wir mit dem Blickfang der Woche: SpaceX hat seinen ersten Handelstag an der Nasdaq hinter sich gebracht – und der lief deutlich besser als erwartet. Die Aktie unter dem Kürzel SPCX schloss am Freitag bei hunderteinundsechzig Dollar, ein Plus von neunzehn Prozent gegenüber dem IPO-Preis von hundertzwanzig fünf Dollar. Die Marktkapitalisierung stieg damit auf über zwei Komma eins Billionen Dollar. Zum Vergleich: SpaceX war beim Börsengang noch mit einer Billion siebenhundertfünfzig Milliarden Dollar bewertet worden. Das Debüt gilt bereits als das größte in der Geschichte der US-Aktienmärkte – Elon Musks Raketen- und Satelliten-Konzern hat Saudi Aramcos alten Rekord damit endgültig pulverisiert.\n\n===\n\nAber SpaceX ist nicht allein im Börsenrausch. Die ganze KI-Welt steht vor einer historischen IPO-Welle. OpenAI hat vergangene Woche, am achten Juni, offiziell eine vertrauliche S-Eins-Einreichung bei der amerikanischen Börsenaufsicht SEC bestätigt. Das Unternehmen ließ dabei bewusst offen, wann genau die Aktie handelbar sein wird – Firmenchef Sam Altman sprach davon, es könne \"noch eine Weile\" dauern. Analysten schätzen die mögliche Bewertung beim Börsengang auf bis zu einer Billion Dollar. Anthropic hatte bereits eine Woche früher, am ersten Juni, ebenfalls vertraulich eingereicht, mit einer kolportierten Bewertung von rund neunhundertfünfundsechzig Milliarden Dollar. Zusammen mit SpaceX ergibt sich damit eine KI-IPO-Pipeline von schätzungsweise drei Komma sechs Billionen Dollar – ein Volumen, das es in der Geschichte der Technologiebörsen noch nicht gegeben hat.\n\n===\n\nApropos Altman und Amodei: Beide werden sich nächste Woche in Frankreich begegnen – gemeinsam mit Demis Hassabis von Google DeepMind. Die drei KI-Chefs sind persönlich zum G-sieben-Gipfel in Évian-les-Bains eingeladen, der vom fünfzehnten bis siebzehnten Juni stattfindet. Laut dem französischen Élysée-Palast ist es das erste Mal, dass alle drei großen KI-Unternehmen gleichzeitig beim G-sieben vertreten sind. Frankreich hält in diesem Jahr den G-sieben-Vorsitz und hat KI ganz oben auf die Tagesordnung gesetzt. Emmanuel Macron hatte Sam Altman persönlich eingeladen – es ist Altmans erstes Mal beim Gipfel. OpenAIs Cheflobbyist Chris Lehane erklärte, die Unternehmen erwarteten, sich auf ein Paket freiwilliger Verpflichtungen zu einigen – mit Jugendsicherheit und KI-Risiken in Biologie und Cybersicherheit als zentralen Themen. Dass ausgerechnet Altman und Amodei, zwei erklärte Rivalen, Seite an Seite mit Staatschefs am Tisch sitzen, hat schon symbolischen Charakter.\n\n===\n\nBleiben wir beim Geopolitischen: China hat diese Woche weltweit für Aufmerksamkeit gesorgt. Laut Bloomberg plant Peking, in den nächsten fünf Jahren umgerechnet etwa zweihundertfünfundneunzig Milliarden Dollar in staatliche KI-Rechenzentren zu investieren. Federführend ist die nationale Entwicklungs- und Reformkommission. Die staatlichen Telekomriesen China Mobile und China Telecom sollen den Großteil der Infrastruktur betreiben. Besonders brisant: Mindestens achtzig Prozent der verbauten Technologie – inklusive KI-Chips – soll von heimischen Anbietern wie Huawei stammen. Nvidia und AMD wären damit faktisch aus einem riesigen Markt ausgesperrt. Die Nachricht ließ Nvidias Aktie am Mittwoch um rund zwei Komma vier Prozent fallen. Zum Vergleich: Amerikanische Tech-Konzerne wie Meta, Microsoft und Google investieren allein in diesem Jahr zusammen rund siebenhundertfünfundzwanzig Milliarden Dollar in KI-Infrastruktur – Chinas Fünfjahresplan wirkt dagegen bescheiden, zeigt aber die strategische Entschlossenheit Pekings, technologisch unabhängig zu werden.\n\n===\n\nUnd nun zu einer Geschichte, die hierzulande für politische Aufregung sorgt. Thüringens Ministerpräsident Mario Voigt steht unter erheblichem Druck, nachdem die Investigativplattform „Frag den Staat\" aufgedeckt hat, dass ein großer Teil seiner öffentlichen Reden und Gastbeiträge offenbar mithilfe von KI-Systemen erstellt wurde. Besonders pikant: Darunter soll sich auch eine Rede zum Holocaust-Gedenktag befunden haben. Die Frankfurter Allgemeine Zeitung hat einen Gastbeitrag Voigts bereits von ihrer Webseite gelöscht und im Archiv gesperrt – weil die Verwendung KI-generierter Formulierungen gegen ihre redaktionellen Grundsätze verstoße. In dem Artikel wurden drei Experten namentlich zitiert, deren Zitate sich jedoch nirgends nachweisen lassen. Die Thüringer Staatskanzlei räumte ein, KI werde \"unterstützend bei der Erstellung von Reden, Texten und Beiträgen eingesetzt.\" Voigt selbst zeigte sich wenig reumütig und erklärte, KI sei \"längst Teil der modernen Kommunikation.\" Der Fall zeigt, wie dringend klarere Regeln und Transparenzpflichten im politischen Betrieb gebraucht werden – übrigens genau das, was der europäische KI-Act ab August auch rechtlich einfordern wird.\n\n===\n\nDas war dein KI Daily für diesen Samstag. Die Woche war voll: ein historischer Börsenstart, eine beispiellose IPO-Welle, ein G-sieben-Gipfel mit KI-Chefs am Tisch, Chinas Großoffensive in der KI-Infrastruktur und eine politische Debatte über den Einsatz von KI in der Demokratie. Nächste Woche wird der G-sieben-Gipfel im Mittelpunkt stehen – wir schauen, welche Verpflichtungen die Tech-Konzerne dort eingehen. Bis dahin – einen guten Start ins Wochenende."
+}
