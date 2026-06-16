@@ -1,0 +1,82 @@
+{
+  "title": "KI Daily – 16. Juni 2026: G7 läuft, Anthropic in DC, EU warnt & KPMG-Blamage",
+  "teaser": "Während der G7-Gipfel in Évian in seinen zweiten Tag geht und KI-Chefs an einem Tisch mit Weltführern sitzen, verhandelt Anthropic in Washington um die Rückkehr seiner gesperrten Modelle. Dazu: scharfe Worte aus Brüssel und ein peinlicher Rückzieher von KPMG.",
+  "pubDate": "2026-06-16T06:00:00+02:00",
+  "duration_seconds": 458,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "G7 Summit 2026 Commences in Évian with Global Leaders' Agenda",
+      "source": "indianewsnetwork.com",
+      "url": "https://www.indianewsnetwork.com/en/g7-summit-2026-commences-evian-global-leaders-agenda-20260616",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "G7 Évian 2026 – AI declaration and cybersecurity priorities",
+      "source": "banque-france.fr",
+      "url": "https://www.banque-france.fr/en/g7-evian-2026",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "Anthropic flies staff to DC to clean up White House fight",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
+      "published": "2026-06-14"
+    },
+    {
+      "headline": "Anthropic Races to Lift Fable 5 Export Ban: Top Engineers Sent to Washington for a Deal",
+      "source": "techtimes.com",
+      "url": "https://www.techtimes.com/articles/318376/20260615/anthropic-races-lift-fable-5-export-ban-top-engineers-sent-washington-deal.htm",
+      "published": "2026-06-15"
+    },
+    {
+      "headline": "Anthropic meeting with White House to resolve Mythos and Fable AI restrictions",
+      "source": "washingtonexaminer.com",
+      "url": "https://www.washingtonexaminer.com/policy/technology/4608906/anthropic-meeting-white-house-resolve-mythos-fable-ai-restrictions/",
+      "published": "2026-06-15"
+    },
+    {
+      "headline": "US Anthropic Export Controls Sparks Sharp EU Reaction",
+      "source": "bankinfosecurity.com",
+      "url": "https://www.bankinfosecurity.com/us-anthropic-export-controls-sparks-sharp-eu-reaction-a-31972",
+      "published": "2026-06-15"
+    },
+    {
+      "headline": "EU Commission reviews Anthropic export-control consequences",
+      "source": "letsdatascience.com (via Reuters)",
+      "url": "https://letsdatascience.com/news/eu-commission-reviews-anthropic-export-control-consequences-2c348b30",
+      "published": "2026-06-14"
+    },
+    {
+      "headline": "The AI off switch: How Anthropic's export controls sparked a global AI sovereignty scramble",
+      "source": "michaelbriancotter.wordpress.com",
+      "url": "https://michaelbriancotter.wordpress.com/2026/06/15/the-ai-off-switch-how-anthropics-export-controls-sparked-a-global-ai-sovereignty-scramble/",
+      "published": "2026-06-15"
+    },
+    {
+      "headline": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "published": "2026-06-13"
+    },
+    {
+      "headline": "KPMG Pulls AI Report After UBS, NHS and Transport for London Case Studies Found to Contain Hallucinations",
+      "source": "finance-monthly.com",
+      "url": "https://www.finance-monthly.com/kpmg-ai-report-hallucinations-ubs-nhs-transport-for-london/",
+      "published": "2026-06-11"
+    },
+    {
+      "headline": "OpenAI, Google DeepMind, Anthropic request synthetic DNA screening legislation",
+      "source": "mobihealthnews.com",
+      "url": "https://www.mobihealthnews.com/news/openai-google-deepmind-anthropic-request-synthetic-dna-screening-legislation",
+      "published": "2026-06-15"
+    },
+    {
+      "headline": "G7: Priorities for the Évian Summit – AI and cybersecurity declaration",
+      "source": "us.diplomatie.gouv.fr",
+      "url": "https://us.diplomatie.gouv.fr/en/g7-priorities-evian-summit",
+      "published": "2026-06-15"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Dienstag, den sechzehnten Juni 2026.\n\n===\n\nBeginnen wir in Évian-les-Bains am Genfer See. Der G7-Gipfel ist heute in seinen zweiten Tag gestartet. \nAuf dem Programm stehen Welthandel, der Iran-Ukraine-Komplex und das Verhältnis der Partner zu den USA unter Präsident Trump.\n \nGlobale Staats- und Regierungschefs sind seit gestern in dem französischen Alpenkurort versammelt – und das Treffen steht unter dem Zeichen erheblicher geopolitischer Spannungen, die kurz nach einem vorläufigen Friedensabkommen zwischen den USA und dem Iran begann.\n\n\nWas das Treffen in der KI-Geschichte einzigartig macht: \nSam Altman von OpenAI, Demis Hassabis von Google DeepMind und Dario Amodei von Anthropic haben alle ihre Teilnahme bestätigt – das erste Mal, dass alle drei führenden KI-Labore gleichzeitig vor Weltführern vertreten sind.\n \nAmodei wird an einem Arbeitsessen mit Staats- und Regierungschefs sowie anderen KI-Managern teilnehmen.\n Ob angesichts der laufenden Krise rund um seine gesperrten Modelle dabei eine gewisse Spannung in der Luft liegt, lässt sich unschwer vorstellen.\n\n===\n\nDenn genau das ist das beherrschende Thema dieser Woche: der Streit zwischen Anthropic und der US-Regierung. Zur Erinnerung, was bereits gesendet wurde: Am Freitag erließ die Trump-Administration Exportkontrollen gegen Anthropics neueste Modelle Fable fünf und Mythos fünf, woraufhin Anthropic beide Modelle weltweit abschaltete. Nun gibt es ein substanzielles Update.\n\n\nAnthropic verbrachte das Wochenende damit, seine mächtigsten KI-Modelle wieder zum Laufen zu bringen. Das Unternehmen entsandte leitende technische Mitarbeiter nach Washington und traf sich mit Regierungsvertretern, um die Exportbeschränkungen aufheben zu lassen – das berichtete das Wall Street Journal.\n \nTechnische Mitarbeiter von Anthropic hielten seit dem ersten Kontakt der Regierung am Freitag virtuelle Gespräche mit Beamten des Weißen Hauses. Quellen beider Seiten sagen, sie seien daran interessiert, das Problem zu lösen.\n\n\n\nDer Auslöser: Das Weiße Haus hatte Exportbeschränkungen verhängt, nachdem der Verdacht aufkam, dass eine mit China verbundene Gruppe Zugang zum Modell Mythos fünf erhalten hatte.\n \nTrumps KI-Berater David Sacks erklärte öffentlich, die Regierung habe Anthropic gewarnt, dass Fable fünf geknackt werden könne – und Anthropic-Chef Dario Amodei habe das Risiko heruntergespielt und sich geweigert, es zu beheben.\n\n\n\nDer Einsatz für Anthropic ist hoch: Das Flaggschiff ist abgeschaltet, zahlende Kunden wurden gesperrt, und das Unternehmen bereitet sich Berichten zufolge auf einen Börsengang vor – kein guter Zeitpunkt für eine staatlich angeordnete Abschaltung seines besten Produkts. Eine schnelle Lösung würde den Schaden begrenzen; ein langwieriger Streit würde signalisieren, dass selbst ein sicherheitsorientiertes Labor seine Topmodelle einfrieren lassen kann, während es verhandelt.\n\n\n===\n\nDie Reaktion aus Europa fiel deutlich aus. \nDie US-Entscheidung, ausländischen Staatsbürgern den Zugang zu Anthropics mächtigsten KI-Modellen zu sperren, hat in Europa einen massiven Anstieg der Forderungen ausgelöst, die Abhängigkeit von amerikanischer Technologie zu verringern.\n\n\n\nDie Europäische Kommission erklärte am vierzehnten Juni, sie prüfe die praktischen Konsequenzen der US-Exportkontrolldirektive. Kommissionssprecher Thomas Regnier sagte, Notfallmaßnahmen in diesem Zusammenhang dürften \"nicht diskriminierend gegenüber Partnern\" sein, und das Ereignis \"unterstreiche einmal mehr Europas Bedarf an technologischer Souveränität\".\n\n\n\nRegnier betonte dabei explizit, der EU-KI-Act, der Cyber Resilience Act und die NIS2-Richtlinie seien genau die Instrumente, um solche Risiken zu managen.\n Die Botschaft aus Brüssel ist damit unmissverständlich: Was in dieser Woche mit Anthropic passiert ist, wird als Weckruf für Europas KI-Souveränität interpretiert.\n\n===\n\nEin ganz anderes Kapitel schreibt dieser Tage KPMG. Die Unternehmensberatung – eine der weltgrößten – hat einen Bericht über den Einsatz von KI in Unternehmen von ihren Webseiten entfernt. Der Grund ist peinlich: \nDer Bericht enthielt erfundene Fallstudien, die UBS, NHS Greater Manchester, Transport for London und den Schweizerischen Bundesbahnen zugeschrieben wurden – Fehler, die von der KI-Erkennungsfirma GPTZero als KI-Halluzinationen identifiziert und anschließend von der Financial Times verifiziert wurden.\n\n\n\nUBS erklärte, die betreffenden Aussagen seien \"nicht wahr\". Auch die Schweizerischen Bundesbahnen und Transport for London wiesen die Behauptungen als \"nicht korrekt\" zurück.\n \nLaut GPTZero enthielt der Bericht Ungenauigkeiten und falsche Fußnoten. In der Untersuchung stellte sich heraus, dass nur fünf von 45 Quellen tatsächlich auf echte Belege verwiesen.\n\n\n\nKPMG ist damit die vierte Unternehmensberatung in jüngster Zeit – nach Deloitte, EY und zwei Anwaltskanzleien –, die beim Veröffentlichen KI-generierter und nicht ausreichend geprüfter Inhalte erwischt wurde.\n Ein Bericht über den Nutzen agentischer KI, der zum Lehrstück über ihre Risiken wird – ironischer lässt sich das kaum formulieren.\n\n===\n\nZum Abschluss noch eine Meldung, die zeigt, wie weit KI-Fragen inzwischen in die Biosicherheit reichen. \nEine breite Koalition aus KI-Führungskräften, Biotechnologiemanagern, Wissenschaftlern, Experten für öffentliche Gesundheit und nationaler Sicherheit hat einen Brief an US-Gesetzgeber geschickt, der Regulierung für Anbieter synthetischer DNA und RNA fordert.\n \nZu den Unterzeichnern gehören die Chefs von Google DeepMind, Anthropic, Microsoft AI und OpenAI sowie Nobelpreisträger und frühere Regierungsbeamte.\n \nDas Schreiben argumentiert, dass Fortschritte in der KI es Angreifern erleichtern könnten, gefährliche Krankheitserreger zu entwickeln – weshalb stärkere Sicherheitsvorkehrungen beim Verkauf von DNA- und RNA-Syntheseaufträgen nötig seien.\n Es ist eine seltene Einigkeit zwischen Unternehmen, die sonst hart konkurrieren.\n\n===\n\nDas war dein KI Daily für heute, den sechzehnten Juni 2026. Der G7-Gipfel läuft noch bis morgen – schauen wir, welche gemeinsamen Erklärungen die Staaten zu KI und digitaler Souveränität verabschieden werden, und ob Anthropic bis dahin eine Einigung mit Washington erzielt. Die nächsten vierundzwanzig Stunden könnten richtungsweisend sein. Bis morgen früh."
+}
