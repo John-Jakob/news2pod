@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 17. Juni 2026: G7-Finale, xAI & DOJ, DeepSeek-Milliarden",
+  "teaser": "Der G7-Gipfel in Évian endet heute – mit KI ganz oben auf der Agenda. Dazu: Das US-Justizministerium stellt sich hinter Elon Musks xAI, und DeepSeek schreibt mit seiner ersten Finanzierungsrunde Geschichte.",
+  "pubDate": "2026-06-17T06:00:00+02:00",
+  "duration_seconds": 454,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "52nd G7 Summit concludes today in Évian-les-Bains",
+      "source": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/52nd_G7_summit",
+      "published": "2026-06-17"
+    },
+    {
+      "headline": "G7 Summit 2026 Commences in Évian with Global Leaders' Agenda",
+      "source": "indianewsnetwork.com",
+      "url": "https://www.indianewsnetwork.com/en/g7-summit-2026-commences-evian-global-leaders-agenda-20260616",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "DOJ aims to block suit over Musk data center pollution, citing national security",
+      "source": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/2026/06/16/justice-department-aims-block-lawsuit-against-xai-polluting-data-centers/",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "DOJ Cites Iran War to Dismiss xAI Pollution Lawsuit",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/alerts/doj-cites-iran-war-to-dismiss-xai-pollution-lawsuit",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "China's DeepSeek reportedly raises $7.4B in funding at $50B+ valuation",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/06/16/chinas-deepseek-reportedly-raises-7-4b-funding-50b-valuation/",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "DeepSeek raises $7.4B at $50B valuation in first-ever external funding round",
+      "source": "techfundingnews.com",
+      "url": "https://techfundingnews.com/deepseek-raises-7-4b-at-50b-valuation-in-first-ever-external-funding-round/",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "Anthropic still split with White House after Monday talks on Fable 5 export ban",
+      "source": "llm-stats.com",
+      "url": "https://llm-stats.com/ai-news",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "Wie gut widerstehen KI-Modelle russischer Propaganda? Ein neuer Benchmark liefert Antworten",
+      "source": "the-decoder.de",
+      "url": "https://the-decoder.de/",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "Anthropic's Mythos Recall and the White House's Missing AI Safety Playbook",
+      "source": "techpolicy.press",
+      "url": "https://www.techpolicy.press/anthropics-mythos-recall-and-the-white-houses-missing-ai-safety-playbook/",
+      "published": "2026-06-17"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Mittwoch, 17. Juni 2026.\n\n===\n\nBeginnen wir mit dem G7-Gipfel in Évian-les-Bains, der heute seinen letzten Tag erlebt. \nDer 52. G7-Gipfel findet vom 15. bis 17. Juni 2026 im französischen Évian-les-Bains statt.\n Frankreich hat die Präsidentschaft dieses Jahr gezielt auf das Thema globale Ungleichgewichte ausgerichtet – aber Künstliche Intelligenz zieht sich wie ein roter Faden durch alle Diskussionen. \nDie Präsenz von KI-Führungskräften beim Gipfel signalisiert, wie sehr technologische Entwicklungen inzwischen die große Geopolitik durchdringen.\n Im Vorfeld hatte Frankreichs G7-Vorsitz explizit KI-Themen auf die Agenda gesetzt: \nEine Erklärung zu Künstlicher Intelligenz und Cybersicherheit sowie Berichte zur effektiven Aufsicht über KI im Finanzsektor\n stehen auf dem Programm. \nDie EU wird durch Ratspräsident António Costa und Kommissionspräsidentin Ursula von der Leyen vertreten – zu einem Zeitpunkt, an dem die Weltwirtschaft durch geopolitische Unsicherheit, Handelsspannungen und wachsende Ungleichgewichte bedroht ist.\n Das abschließende Kommuniqué wird im Laufe des Tages erwartet.\n\n===\n\nUpdate zum Anthropic-Streit mit Washington: Nach dem hochrangigen Treffen am Montag ist die Lage weiter ungeklärt. \nAnthropics Führungsriege war nach Washington geflogen, um mit Mitarbeitern des Weißen Hauses zu verhandeln – doch nach den Gesprächen sind beide Seiten nach wie vor uneinig darüber, welches Risiko Claude Fable 5 tatsächlich darstellt.\n Zur Erinnerung: \nAm 12. Juni hatte die Trump-Regierung eine Exportkontrollanweisung erlassen, die den Zugang zu Fable 5 und Mythos 5 für jede ausländische Person gesperrt hat – unabhängig davon, ob diese sich in- oder außerhalb der USA befinden, einschließlich Anthropics eigener ausländischer Mitarbeitenden.\n Der eigentliche Auslöser war brisant: \nLaut dem Wall Street Journal basiert die Regierungsentscheidung auf einem einzelnen Jailbreak-Demo, der dem Weißen Haus von Amazon-Chef Andy Jassy mitgeteilt worden war – und Amazon ist selbst ein Investor in Anthropic.\n Anthropic bestreitet, dass ein einzelner potenzieller Jailbreak die Abschaltung eines kommerziell eingesetzten Modells rechtfertigt. Die Verhandlungen laufen weiter.\n\n===\n\nJetzt zu einer Geschichte, die gestern für Aufsehen gesorgt hat: Das US-Justizministerium ist in den Rechtsstreit zwischen der Bürgerrechtsorganisation NAACP und Elon Musks KI-Unternehmen xAI eingesprungen – auf der Seite von xAI. \nDas Justizministerium versucht, eine Klage gegen ein Kraftwerk zu verhindern, das ohne Genehmigung betrieben wird und zu Musks KI-Unternehmen gehört. Es argumentiert, die gasbetriebenen Turbinen seien für nationale Sicherheitsinteressen unverzichtbar – auch für den Krieg gegen den Iran.\n Konkret geht es um sechsundvierzig Gasmotoren am Datenzentrum Colossus 2 in Southaven, Mississippi. \nDie NAACP hatte im April eine Klage nach dem Clean Air Act eingereicht und argumentiert, die Turbinen stellten die größte industrielle Stickoxidquelle im Großraum Memphis dar und gefährdeten die Gesundheit der umliegenden Gemeinden mit erhöhtem Risiko für Asthma und Herzerkrankungen.\n Das Justizministerium hält dagegen: \nLaut dem DOJ-Memorandum gibt es nur vier KI-Modelle, die auf geheimen und streng geheimen Netzwerken des Militärs laufen – darunter Grok.\n \nEine Erklärung des stellvertretenden KI-Beauftragten des Verteidigungsministeriums stellt klar, dass Groks Regierungsversion für lebenswichtige nationale Sicherheitsmissionen eingesetzt wird, auch im Zusammenhang mit Angriffen der USA gegen den Iran.\n \nEs ist eine ungewöhnliche Situation: die Regierung, die in einem Zivilprozess aktiv für ein privates Unternehmen gegen einen Umweltanspruch einsteht.\n\n\n===\n\nNun zu einer großen Finanzierungsnachricht aus China: DeepSeek hat seine erste externe Finanzierungsrunde abgeschlossen. \nDer chinesische KI-Startup hat mehr als fünfzig Milliarden Yuan, umgerechnet rund sieben Komma vier Milliarden Dollar, eingesammelt und wird dabei mit über fünfzig Milliarden Dollar bewertet.\n Bemerkenswert ist die Struktur des Deals: \nGründer Liang Wenfeng steuert selbst zwanzig Milliarden Yuan bei – den größten Einzelanteil der Runde – und bleibt damit fest an der Spitze eines Unternehmens, das bis zu diesem Jahr keinerlei externes Kapital aufgenommen hatte.\n \nAußeninvestoren erhalten keine Stimmrechte und sind an eine fünfjährige Haltefrist gebunden. Einzige Ausnahme ist Chinas staatlicher KI-Investmentfonds, der direkt einsteigt und volle Stimmrechte erhält.\n Die Bedeutung des Moments lässt sich kaum überschätzen: \nDeepSeek erlangte im Januar 2025 weltweite Bekanntheit, als das Unternehmen sein leistungsstarkes Reasoning-Modell R1 als Open-Source veröffentlichte.\n Seitdem hat der Erfolg die gesamte KI-Branche unter Kostendruck gesetzt.\n\n===\n\nUnd schließlich eine Studie, die politisch besonders brisant ist: Das Estnische Sprachinstitut hat einen neuen Benchmark veröffentlicht, der misst, wie anfällig KI-Sprachmodelle für russische Propaganda sind. \nSechzig Modelle wurden mit fünfundsiebzig Fragen in drei Sprachen zu vierzehn russischen Propagandanarrativen getestet – in neutraler, voreingenommener und manipulativer Formulierung. Jede Antwort wird auf einer Skala von eins bis fünf bewertet, wobei eins das Wiederholen russischer Narrative bedeutet.\n \nAnthropics Claude-Modelle belegen die Spitzenplätze, gefolgt von Nvidias Nemotron und Alibabas Qwen.\n \nSchlecht schneidet dagegen Mistral ab: Eine Newsguard-Studie bescheinigt dem französischen Anbieter eine konstante Falschinformationsrate von sechsunddreißig Komma sechs sieben Prozent – ein schlechtes Signal für ein Unternehmen, das sich als europäische Alternative positioniert und gerade über eine Finanzierungsrunde von drei Milliarden Euro verhandelt.\n\n\n===\n\nDas war dein KI Daily für den 17. Juni 2026. Die großen Fragen des Tages: Welches Signal sendet der G7-Gipfel in Sachen KI-Souveränität – gerade in einem Moment, in dem die USA einseitig über Zugang zu Frontier-Modellen entscheiden? Und was bedeutet DeepSeeks Milliarden-Runde für das globale KI-Kräfteverhältnis, wenn gleichzeitig Exportkontrollen und nationale Sicherheitsargumente die Branche prägen? Ich bin morgen früh wieder für euch da. Bis dann."
+}
