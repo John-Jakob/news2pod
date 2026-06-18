@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 18. Juni 2026: G7-KI-Koalition, Microsoft & DeepSeek, Capex-Warnung",
+  "teaser": "Der G7-Gipfel in Évian endet mit einem historischen Moment: Zum ersten Mal sitzen KI-CEOs mit Staatschefs am Tisch – und fordern eine US-geführte internationale KI-Allianz. Außerdem: Warum Microsoft für seinen KI-Assistenten ausgerechnet auf ein chinesisches Modell setzen könnte – und warum Analysten beim billionenschweren Infrastrukturrennen der Techkonzerne die Bremse ziehen.",
+  "pubDate": "2026-06-18T06:00:00+02:00",
+  "duration_seconds": 395,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/amp/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
+      "published": "2026-06-17"
+    },
+    {
+      "headline": "As G7 wraps, OpenAI and Anthropic meet with world leaders to discuss the future of AI",
+      "source": "fastcompany.com",
+      "url": "https://www.fastcompany.com/91561045/g7-wraps-openai-anthropic-meet-world-leaders-discuss-future-ai",
+      "published": "2026-06-17"
+    },
+    {
+      "headline": "Microsoft explores DeepSeek for Copilot Cowork",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/06/16/microsoft-copilot-cowork-tokenmaxxing-cowork",
+      "published": "2026-06-16"
+    },
+    {
+      "headline": "Microsoft DeepSeek: a Chinese model for Copilot Cowork?",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/microsoft-deepseek-copilot-cowork",
+      "published": "2026-06-17"
+    },
+    {
+      "headline": "Microsoft Could Turn to DeepSeek V4 to Cut Copilot Cowork Costs",
+      "source": "windowsreport.com",
+      "url": "https://windowsreport.com/microsoft-could-turn-to-deepseek-v4-to-cut-copilot-cowork-costs/",
+      "published": "2026-06-17"
+    },
+    {
+      "headline": "Analyse: Hyperscaler könnten KI-Ausbau bald nicht mehr aus dem laufenden Geschäft finanzieren",
+      "source": "the-decoder.de",
+      "url": "https://the-decoder.de/",
+      "published": "2026-06-17"
+    },
+    {
+      "headline": "Anthropic Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "published": "2026-06-12"
+    },
+    {
+      "headline": "Lutnick floats Trusted Partners framework at G7 for AI model export access",
+      "source": "andrew.ooo",
+      "url": "https://andrew.ooo/answers/fable-5-mythos-5-export-control-suspension-june-2026/",
+      "published": "2026-06-17"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, den 18. Juni 2026.\n\n===\n\nWir beginnen mit dem historischen Abschluss des G7-Gipfels im französischen Évian-les-Bains. \nDer Sieben-Gipfel ist gestern mit Gesprächen über die Zukunft der Künstlichen Intelligenz und die US-Dominanz in der Branche zu Ende gegangen.\n Was diesen G7 von allen vorherigen unterscheidet: \nEs ist das erste Mal, dass die KI-CEOs persönlich am Tisch der Staatsführungen sitzen.\n \nAnthropic-Chef Dario Amodei und Google-DeepMind-CEO Demis Hassabis haben dabei in einer geschlossenen Runde die Forderung nach einer US-geführten KI-Koalition erhoben. Rund ein Dutzend Tech-Führungskräfte, darunter OpenAI-Chef Sam Altman, diskutierten mit Staatschefs über Chancen und Risiken der KI.\n\n\n\nAltman rief in seinem Beitrag nach einem internationalen Forum, das weltweit anerkannte Standards für das Testen von KI-Systemen erarbeitet, unabhängige Risikoanalysen bereitstellt und als Plattform für Kooperation zwischen Nationen dient.\n \nOpenAIs Cheflobbyist Chris Lehane, der ebenfalls in Évian war, berichtete, die nicht-amerikanischen Regierungschefs im Raum hätten anerkannt, dass die USA eine Führungsrolle bei der Etablierung von KI-Standards übernehmen könnten.\n\n\nIm Hintergrund dieser Gespräche schwelt weiter der Konflikt um die gesperrten Anthropic-Modelle Fable 5 und Mythos 5. \nAnthropic befindet sich noch immer in Verhandlungen mit der Trump-Regierung, seit die Exportkontrollen auf die neuesten Modelle in Kraft getreten sind.\n \nHandelsminister Lutnick soll in Évian ein sogenanntes Trusted-Partners-Framework ins Spiel gebracht haben: Geprüfte Unternehmen in eng verbündeten Ländern könnten demnach über einen gesonderten Kanal wieder Zugang zu den gesperrten US-KI-Modellen erhalten.\n Ein konkretes Ergebnis gibt es noch nicht – aber die Richtung ist klar: Die Exportkontrolldebatte bewegt sich von Washington in die Außenpolitik.\n\n===\n\nJetzt zu einer Geschichte, die auf den ersten Blick wie eine technische Randnotiz wirkt, politisch aber hochbrisant ist. \nMicrosoft stellt seinen Unternehmens-KI-Assistenten Copilot Cowork auf nutzungsbasierte Abrechnung um – und erwägt dabei, eine selbst gehostete Version des chinesischen Modells DeepSeek als günstigere Alternative einzusetzen.\n\n\nDer Hintergrund: \nAgentische Tools wie Copilot Cowork, Anthropics Claude Code und OpenAIs Codex rufen KI-Modelle im Laufe einer Aufgabe immer wieder auf – das ist mächtig, aber auch teuer.\n \nDeepSeek V4 Pro kostet beim Input nur ein Drittel so viel wie Claude 4.8 und beim Output sogar nur ein Siebtel – ein erheblicher Kostenvorteil.\n\n\n\nMicrosoft sagt, es prüfe eine fine-getunte Version von DeepSeek V4 oder ein anderes Open-Source-Modell als günstigere Alternative zu den aktuell eingesetzten Modellen von Anthropic und OpenAI. Das Unternehmen rechnet damit, innerhalb weniger Wochen eine kostengünstigere Modelloption bereitzustellen.\n\n\n\nFalls Microsoft mit DeepSeek vorgeht, soll das Modell optional für Kunden sein und vollständig auf Azure gehostet werden, sodass Kundendaten innerhalb der Microsoft-Cloud verbleiben.\n \nDeepSeek gilt als chinesisch geprägtes KI-Unternehmen, und eine substanzielle Partnerschaft mit dessen Technologie würde in Washington angesichts der laufenden Überprüfung chinesischer KI-Plattformen unweigerlich Aufmerksamkeit erregen.\n Die Meldung zeigt, wie stark der Kostendruck im agentic-KI-Markt bereits ist – und dass selbst OpenAIs größter Partner nicht mehr blind auf teure US-Frontier-Modelle setzt.\n\n===\n\nDamit kommen wir zu einer Analyse, die diese Kostenfrage strukturell einordnet. \nDie großen Hyperscaler – Microsoft, Amazon, Alphabet, Meta und Oracle – erhöhen ihre Ausgaben für Rechenzentren, Server und KI-Infrastruktur deutlich schneller, als der Geldzufluss aus ihrem laufenden Geschäft wächst. Laut einer Analyse von Epoch AI steigen diese Infrastruktur-Investitionen um rund 70 Prozent pro Jahr, während der operative Cashflow nur um etwa 23 Prozent jährlich zunimmt.\n\n\n\nSetzt sich dieser Trend fort, könnten die Infrastrukturausgaben den Geldzufluss aus dem laufenden Geschäft bereits im dritten Quartal 2026 übersteigen.\n \nZwar sind alle Unternehmen weiterhin profitabel und verfügen, mit Ausnahme von Oracle, über hohe Barreserven – doch der sogenannte freie Cashflow könnte bei anhaltendem Trend auf null oder ins Negative fallen.\n Epoch AI selbst betont, dass es sich um lineare Trendfortschreibungen handelt und die entscheidende Frage – ob die KI-Investitionen künftig höhere Einnahmen bringen – dabei nicht eingerechnet ist.\n\n\nDie kombinierten Investitionsausgaben von Alphabet, Amazon, Meta, Microsoft und Oracle näherten sich in 2025 der halben Billion Dollar.\n Die Branche wettet darauf, dass die aufgebaute Infrastruktur die Nachfrage nicht nur bedient, sondern erst erzeugt. Ob diese Wette aufgeht, dürfte eines der bestimmenden Themen der zweiten Jahreshälfte 2026 sein.\n\n===\n\nZum Abschluss ein kurzer Blick nach vorne. Die Anthropic-Exportkontrolldebatte bleibt das bestimmende Regulierungsthema der Woche – und sie wird sich jetzt auf die diplomatische Bühne verlagern. Das G7-Communiqué dürfte in den kommenden Stunden veröffentlicht werden; beobachtet, ob das angekündigte Trusted-Partners-Konzept konkrete Konturen annimmt. Und die Microsoft-DeepSeek-Frage ist noch nicht entschieden – aber allein schon die öffentliche Diskussion verändert, wie Unternehmen über Modellauswahl und Kostenmanagement nachdenken.\n\nDas war dein KI Daily für diesen Donnerstag. Bis morgen."
+}
