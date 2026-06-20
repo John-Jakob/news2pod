@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 20. Juni 2026: Google verliert zwei KI-Titanen in 48 Stunden",
+  "teaser": "Innerhalb von nur zwei Tagen verliert Google zwei seiner wichtigsten KI-Köpfe: Noam Shazeer wechselt zu OpenAI, Nobelpreisträger John Jumper zu Anthropic. Dazu: kein Ende des Fable-5-Banns, und ein deutsches Gericht zwingt Google zur Berufung.",
+  "pubDate": "2026-06-20T06:00:00+02:00",
+  "duration_seconds": 389,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
+      "published": "2026-06-19"
+    },
+    {
+      "headline": "Nobel laureate John Jumper is leaving Google DeepMind for Anthropic after nearly nine years",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/john-jumper-nobel-deepmind-leaves-anthropic-alphafold",
+      "published": "2026-06-19"
+    },
+    {
+      "headline": "Gemini co-lead Noam Shazeer leaves Google to join OpenAI",
+      "source": "digitaltoday.co.kr (citing CNBC/Reuters)",
+      "url": "https://www.digitaltoday.co.kr/en/view/68791/gemini-co-lead-noam-shazeer-leaves-google-to-join-openai",
+      "published": "2026-06-18"
+    },
+    {
+      "headline": "Noam Shazeer Joins OpenAI from Google",
+      "source": "letsdatascience.com (citing Reuters, The Information)",
+      "url": "https://letsdatascience.com/news/noam-shazeer-joins-openai-from-google-d1a5663e",
+      "published": "2026-06-18"
+    },
+    {
+      "headline": "Two years after a $2.7 billion return to Google, AI pioneer Noam Shazeer is leaving for OpenAI",
+      "source": "calcalistech.com",
+      "url": "https://www.calcalistech.com/ctechnews/article/r1je3bzzze",
+      "published": "2026-06-18"
+    },
+    {
+      "headline": "Münchner Gericht macht Google für KI-Suchübersichten haftbar – Google geht in Berufung",
+      "source": "the-decoder.de",
+      "url": "https://the-decoder.de/muenchner-gericht-macht-google-fuer-ki-suchuebersichten-haftbar-google-geht-in-berufung/",
+      "published": "2026-06-19"
+    },
+    {
+      "headline": "Anthropic Fable 5 / Mythos 5 – Update June 19, 2026: No restoration yet, refund deadline June 20",
+      "source": "explainx.ai",
+      "url": "https://www.explainx.ai/blog/us-government-bans-fable-5-mythos-5-anthropic-export-control-2026",
+      "published": "2026-06-19"
+    },
+    {
+      "headline": "Anthropic disables Fable and Mythos AI models following U.S. government export ban",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/",
+      "published": "2026-06-13"
+    },
+    {
+      "headline": "John Jumper Joins Anthropic – Nobel Laureate's move aligns with Anthropic's life sciences push",
+      "source": "fourweekmba.com",
+      "url": "https://fourweekmba.com/john-jumper-leaves-deepmind-anthropic/",
+      "published": "2026-06-19"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Samstag, den 20. Juni 2026.\n\n===\n\nBeginnen wir mit der Geschichte, die die KI-Welt heute Morgen dominiert – und die sich eigentlich aus zwei Meldungen zusammensetzt, die gemeinsam eine ganz andere Wucht entfalten.\n\nInnerhalb von weniger als 48 Stunden hat Google zwei seiner bedeutendsten KI-Forscher verloren. Zuerst, am Mittwoch, die Nachricht über Noam Shazeer: \nNoam Shazeer, Co-Leiter von Googles Flaggschiff-Modell Gemini und Vice President of Engineering, verlässt das Unternehmen, um zu OpenAI zu wechseln – das berichtete zunächst CNBC.\n \nShazeer ist Mitautor des Papers „Attention Is All You Need\" aus dem Jahr 2017, das die Transformer-Architektur einführte, auf der heute praktisch jedes große Sprachmodell basiert.\n \nSein Abgang ist besonders pikant, weil Google 2024 einen Lizenzvertrag über 2,7 Milliarden Dollar mit Character.AI schloss, um Shazeer überhaupt zurück ins Unternehmen zu holen.\n Nun ist er Geschichte – und zieht ausgerechnet zum größten Konkurrenten.\n\nDann, nur einen Tag später, folgte der nächste Schlag. \nJohn Jumper, der Google-DeepMind-Vizepräsident, der den Chemie-Nobelpreis 2024 für AlphaFold gewann, verlässt das Unternehmen nach fast neun Jahren – ebenfalls, um zu Anthropic zu wechseln. AlphaFolds Abgang kommt einen Tag nach dem von Shazeer, was innerhalb von 48 Stunden zwei historische Talentabgänge für Google bedeutet.\n \nJumper kündigte den Wechsel auf X an und sagte, er wolle zunächst eine Pause einlegen, bevor er bei Anthropic anfängt. Beide Seiten bestätigten die Vereinbarung.\n \nÜber seine genaue Rolle bei Anthropic ist noch nichts bekannt – der Schritt passt aber zur wachsenden Ambition von Anthropic im Bereich Lebenswissenschaften und Biologie.\n\n\nWas bedeutet das zusammen? Google hat innerhalb von zwei Tagen den Co-Leiter seines wichtigsten Modells an OpenAI verloren und seinen berühmtesten Wissenschaftler an Anthropic. \nDie Abgänge belasten Googles Bemühungen, Anthropic, OpenAI und SpaceX im Rennen um die leistungsfähigsten KI-Modelle zu überholen – zumal Google ohnehin Schwierigkeiten hatte, KI-Coding-Tools an Unternehmen zu verkaufen.\n\n\n===\n\nNun zu Anthropic selbst – und hier gibt es ein Update zu einer Geschichte, die wir bereits mehrfach verfolgt haben.\n\n\nStand gestern Abend: Es gibt keine offizielle Ankündigung zur Wiederherstellung von Fable 5 oder Mythos 5.\n Zur Erinnerung: Die US-Regierung hatte Anthropic am 12. Juni per Exportkontrollanweisung gezwungen, beide Modelle weltweit für alle Nutzer abzuschalten – begründet mit nationaler Sicherheit. \nDer Erstattungsdeadline für betroffene Kunden läuft heute ab, am 20. Juni.\n \nPräsident Trump hatte am Rande des G7-Gipfels angedeutet, Verhandlungen mit Anthropic liefen, ohne Details zu nennen.\n Für die Kunden, die auf Fable 5 angewiesen waren, ist das eine bittere Situation – und für die Branche ein deutliches Signal, wie fragil Zugang zu frontier-Modellen sein kann, wenn Sicherheitsbehörden eingreifen.\n\n===\n\nKommen wir zu einer wichtigen Entwicklung aus Deutschland, die für die gesamte KI-Branche in Europa Folgen haben könnte.\n\n\nDas Landgericht München hat entschieden, dass Google für fehlerhafte KI-Suchübersichten direkt haftbar ist. Im konkreten Fall hatte die KI zwei Münchner Verlage fälschlich mit Betrugsmaschen in Verbindung gebracht. Google spricht von „eng begrenzten Fehlern\" – das Gericht sah das anders und legte Google ein Ordnungsgeld von bis zu 250.000 Euro pro Verstoß auf.\n \nKernpunkt der Entscheidung: KI-Übersichten sind nach Ansicht des Gerichts eigenständige Inhalte von Google – nicht bloß aggregierte Drittinhalte. Googles Argument, Nutzer müssten die generierten Informationen selbst überprüfen, wies das Gericht zurück.\n\n\n\nGoogle kündigte jetzt offiziell Berufung gegen das Urteil an. Ein Sprecher erklärte, man sei mit dem Urteil nicht einverstanden, der Fall betreffe „spezifische und eng begrenzte Fehler\" – nicht die grundsätzliche Funktionsweise der KI-Übersichten.\n \nDie einstweilige Verfügung gilt zunächst EU-weit. Juristen erwarten, dass das Prinzip der direkten Haftung künftig auch auf andere KI-Dienste ausgeweitet werden könnte.\n Das ist ein Urteil, das die Debatte über KI-Haftung in Europa erheblich verschärft.\n\n===\n\nEin kurzer Blick auf den größeren Kontext: Was wir diese Woche beobachten, ist im Grunde ein dreifaches Verschieben der tektonischen Platten in der KI-Industrie. Erstens: der Talentkampf – Google verliert in zwei Tagen zwei Schlüsselfiguren an die direkten Konkurrenten. Zweitens: die Regulierungsfrage – sowohl die US-Exportkontrollen gegen Anthropic als auch das Münchner Urteil zeigen, dass Staaten und Gerichte beginnen, aktiv in die Struktur der KI-Industrie einzugreifen. Und drittens: die strategische Neuausrichtung – Anthropic sammelt mit Jumper nun einen der weltweit bekanntesten KI-Wissenschaftler im Bereich Biologie ein, was auf massive Ambitionen jenseits des reinen Chatbot-Markts hindeutet.\n\n===\n\nDas war dein KI Daily für diesen Samstag. Die Woche war außergewöhnlich ereignisreich – und es sieht nicht so aus, als würde die nächste ruhiger. Im Auge behalten solltest du: ob Anthropic und die US-Regierung sich auf eine Lösung für Fable 5 einigen, wie die Berufung im Münchner Verfahren weiterläuft, und natürlich, welche Rolle John Jumper bei Anthropic übernehmen wird. Bis morgen."
+}
