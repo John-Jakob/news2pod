@@ -1,0 +1,70 @@
+{
+  "title": "KI Daily – 22. Juni 2026: Altman gegen Skeptiker & Anthropic-Patt in Washington",
+  "teaser": "Zehn Tage nach dem US-Exportbann trifft Anthropic-Chef Dario Amodei die Trump-Regierung – ohne Ergebnis. Dazu: Sam Altman rechnet bei Stanford mit LLM-Kritikern ab, OpenAI legt seine Q1-Zahlen offen, und die EU kürt ihren Gewinner im Wettbewerb um ein europäisches Frontier-Modell.",
+  "pubDate": "2026-06-22T06:00:00+02:00",
+  "duration_seconds": 462,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Update: Anthropic CEO Dario Amodei Meets Trump Administration Over Mythos Export Controls; No Resolution Reached",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today/anthropic-news",
+      "published": "2026-06-21/22"
+    },
+    {
+      "headline": "White House Demands Anthropic Make Fable 5 Immune to All Jailbreaks Before Rerelease",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today/anthropic-news",
+      "published": "2026-06-21/22"
+    },
+    {
+      "headline": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/",
+      "published": "2026-06-21"
+    },
+    {
+      "headline": "OpenAIs Codex kann jetzt Arbeitsabläufe aufzeichnen und als wiederverwendbare Skills selbstständig wiederholen",
+      "source": "the-decoder.de",
+      "url": "https://the-decoder.de/",
+      "published": "2026-06-20"
+    },
+    {
+      "headline": "Commission selects EUROPA consortium as the winner of the Frontier AI Grand Challenge",
+      "source": "digital-strategy.ec.europa.eu",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-selects-europa-consortium-winner-frontier-ai-grande-challenge-project-build-european",
+      "published": "2026-06-19/20"
+    },
+    {
+      "headline": "400-Milliarden-Parameter-Modell: Konsortium Europa gewinnt KI-Wettbewerb",
+      "source": "heise.de",
+      "url": "https://www.heise.de/news/400-Milliarden-Parameter-Modell-Konsortium-Europa-gewinnt-KI-Wettbewerb-11339003.html",
+      "published": "2026-06-19"
+    },
+    {
+      "headline": "Eurocommerce will KI-generierte Werbung von Transparenzpflichten des EU-AI-Act ausnehmen",
+      "source": "the-decoder.de",
+      "url": "https://the-decoder.de/",
+      "published": "2026-06-20"
+    },
+    {
+      "headline": "OpenAI burned through about $3.7 billion in Q1 2026",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/",
+      "published": "2026-06-21"
+    },
+    {
+      "headline": "Anthropic disables Fable and Mythos AI models following U.S. government export ban",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/",
+      "published": "2026-06-13"
+    },
+    {
+      "headline": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "published": "2026-06-12"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Montag, 22. Juni 2026.\n\n===\n\nWir starten mit dem Thema, das die Branche seit zehn Tagen in Atem hält: dem US-Exportbann gegen Anthropics leistungsstärkste Modelle. Zur Erinnerung: Am 12. Juni erließ die Trump-Regierung eine Exportkontrolldirektive, die Anthropic verpflichtete, den Zugang zu Fable 5 und Mythos 5 für alle Nicht-US-Bürger weltweit zu sperren – einschließlich der eigenen ausländischen Mitarbeiter. Anthropic kam dem nach, bezeichnete die Maßnahme aber als unverhältnismäßig. Begründet hatte die Regierung den Schritt mit einem angeblichen Jailbreak, der die Cybersicherheitsfähigkeiten von Fable 5 freisetzen könne. Anthropic widersprach: Es handle sich um einen engen, nicht-universellen Exploit, der in ähnlicher Form auch bei anderen frei verfügbaren Modellen funktioniere.\n\nJetzt das Update: Anthropic-Chef Dario Amodei traf sich in den letzten Tagen mit Vertretern der Trump-Administration, um den Streit beizulegen. Das Ergebnis: keine Einigung. Die Modelle bleiben gesperrt. Das Weiße Haus soll laut Medienberichten nun fordern, dass Fable 5 vollständig immun gegen jeden Jailbreak wird – eine Bedingung, die nach Ansicht von Sicherheitsexperten technisch möglicherweise gar nicht erfüllbar ist. Für Anthropic ist die Lage brisant: Das Unternehmen steuert auf einen Börsengang zu, und dieser anhaltende Konflikt mit Washington belastet das Vertrauen potenzieller Investoren. Der Fall gilt inzwischen als erster echter Stresstest dafür, ob und wie die USA Exportkontrollen auf Frontier-KI-Modelle anwenden können.\n\n===\n\nWeiter zu einer Grundsatzdebatte über die Zukunft der KI-Entwicklung. Sam Altman, Chef von OpenAI, hat sich am Sonntag an der Stanford-Universität klar positioniert: Er ist ein überzeugter Anhänger der Skalierung großer Sprachmodelle – und er teilt aus. Eine ganze Forschergeneration habe das Feld gebremst, weil sie zu sicher gewesen sei, was Skalierung nicht leisten könne. Gegen Ende dieser Debatte zu stehen, halte er für ziemlich verfehlt. Altman reagiert damit explizit auf Kritiker wie Yann LeCun, der LLMs seit Jahren als Sackgasse bezeichnet und inzwischen mit seinem Startup AMI Labs auf alternative Architekturen setzt.\n\nAltman untermauerte seinen Standpunkt mit konkreten Beispielen: Ein OpenAI-Modell habe kürzlich eine mathematische Vermutung widerlegt, an der kluge Köpfe lange gescheitert seien. LLMs hätten in manchen Bereichen die menschliche Intelligenz bereits übertroffen, so sein Fazit. Für sehr langfristige Aufgaben, die viel Urteilsvermögen erfordern, räumte er allerdings ein, seien Menschen noch deutlich besser. Die Debatte zwischen Skalierungsoptimisten und Architektur-Reformern dürfte damit nicht beendet sein – aber Altman hat die Frontlinie klar markiert.\n\n===\n\nEbenfalls frisch: OpenAI hat interne Finanzdaten aus dem ersten Quartal 2026 mit Anteilseignern geteilt. Das Ergebnis ist ernüchternd und beeindruckend zugleich. Der Umsatz lag bei rund fünf Komma sieben Milliarden Dollar, ein Dreifaches gegenüber dem Vorjahr. Gleichzeitig verbrannte das Unternehmen rund drei Komma sieben Milliarden Dollar – ebenfalls dreimal so viel wie ein Jahr zuvor. Der operative Verlust betrug 9,3 Milliarden Dollar. OpenAI verfügt laut Berichten über mehr als 73 Milliarden Dollar in bar und Wertpapieren, ist also kurzfristig nicht auf frisches Kapital angewiesen. Beobachter warnen jedoch, dass ein eskalierender Preiswettbewerb mit Anthropic und chinesischen Modellen die Lage rasch verändern könnte.\n\n===\n\nAuf der Produktseite hat OpenAI diese Woche eine neue Funktion für seinen KI-Coding-Agenten Codex veröffentlicht: Record und Replay. Nutzer können dem Agenten einmalig einen Arbeitsablauf vorführen – zum Beispiel das Hochladen eines YouTube-Videos mit allen Metadaten und Untertiteln. Codex wandelt diese Demonstration in einen wiederverwendbaren Skill um und kann den Ablauf danach selbstständig wiederholen. Die Funktion ist zunächst nur auf macOS verfügbar und außerdem nicht in der EU, Großbritannien und der Schweiz – ein Hinweis darauf, wie sehr regulatorische Rahmenbedingungen die Produktverfügbarkeit auch bei dieser Art von Agenten-Funktionen beeinflussen.\n\n===\n\nBlickwechsel nach Europa: Die EU-Kommission hat ihren Wettbewerb um ein europäisches Frontier-KI-Modell entschieden. Gewinner ist das Konsortium mit dem Namen \"Europa\", angeführt von der italienischen Firma Domyn. Das Ziel: ein Open-Source-Modell mit mehr als vierhundert Milliarden Parametern, das alle 24 Amtssprachen der Europäischen Union abdeckt. Als Preis erhält das Konsortium Zugang zu bis zu zweieinhalb Prozent der gesamten Rechenkapazität der europäischen Supercomputer-Initiative EuroHPC für ein Jahr. Modelle dieser Größenordnung kamen bislang fast ausschließlich aus den USA und China. Die EU-Kommission sieht das Projekt als Beweis, dass Europa das technologische Talent und die Infrastruktur hat, um auf Augenhöhe mitzuspielen. Das fertige Modell soll als Open Source für Unternehmen, Forschung und Verwaltung frei verfügbar sein.\n\n===\n\nZum Abschluss noch ein kurzer Blick auf eine Lobbying-Debatte auf EU-Ebene: Eurocommerce, der Handelsverband hinter Unternehmen wie Amazon, H&M und Ikea, will KI-generierte Werbeinhalte von den Transparenzpflichten des AI Acts ausnehmen lassen. Das Argument: Ein KI-generiertes Wohnzimmerbild für einen Sofa-Katalog sei kein Deepfake und müsse deshalb nicht als KI-Inhalt gekennzeichnet werden. Die Zahlen dahinter sind beachtlich – allein Zalando erstellt eigenen Angaben zufolge bereits neunzig Prozent seiner Marketing-Inhalte per KI. Sollte die Ausnahme kommen, hätte das erhebliche Konsequenzen für die Kennzeichnungspflicht im digitalen Werbemarkt. Die Diskussion zeigt, wie intensiv Unternehmen die laufende Feinausgestaltung des AI Acts zu beeinflussen versuchen.\n\n===\n\nDas war dein KI Daily für den Montag, den 22. Juni 2026. Die Woche dürfte spannend bleiben: Im Mittelpunkt steht weiter das Patt zwischen Anthropic und Washington – jede Bewegung dort hat Signalwirkung für die gesamte Branche. Am 30. Juni veranstaltet Anthropic außerdem ein Science-Event, bei dem möglicherweise neue Details zu seinen Modellen und seiner Forschungsagenda bekannt werden. Bleib informiert – bis morgen."
+}
