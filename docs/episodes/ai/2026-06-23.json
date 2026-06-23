@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 23. Juni 2026: Samsung all-in mit OpenAI & die Five Eyes warnen",
+  "teaser": "Samsung schickt ChatGPT und Codex zu Hunderttausenden Mitarbeitern – einer der größten KI-Enterprise-Deals aller Zeiten. Außerdem: Die Five Eyes schlagen Alarm wegen KI-Cyberrisiken, ein brisantes NSA-Update im Anthropic-Fall und GPT-5.6 steht wohl kurz vor dem Start.",
+  "pubDate": "2026-06-23T06:00:00+02:00",
+  "duration_seconds": 405,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "source": "openai.com",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "OpenAI lands Samsung as major ChatGPT Enterprise customer",
+      "source": "koreatimes.co.kr",
+      "url": "https://www.koreatimes.co.kr/business/tech-science/20260622/openai-lands-samsung-as-major-chatgpt-enterprise-customer",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "Samsung ChatGPT Enterprise: Codex Reaches Non-Developers in OpenAI's Biggest Korea Rollout",
+      "source": "techtimes.com",
+      "url": "https://www.techtimes.com/articles/318831/20260622/samsung-chatgpt-enterprise-codex-reaches-non-developers-openais-biggest-korea-rollout.htm",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "Fable 5 / Mythos 5 – Day 11 update, billing starts June 23, NSA red-team disclosure",
+      "source": "explainx.ai",
+      "url": "https://www.explainx.ai/blog/us-government-bans-fable-5-mythos-5-anthropic-export-control-2026",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "Five Eyes warn: AI is rapidly changing cyber risks",
+      "source": "heise.de",
+      "url": "https://www.heise.de/en/news/Five-Eyes-warn-AI-is-rapidly-changing-cyber-risks-11340692.html",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "Five Eyes warnen: KI-Wende im Cyberrisiko kommt in Monaten",
+      "source": "blogspan.net",
+      "url": "https://www.blogspan.net/five-eyes-ki-cyberrisiko-warnung/",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "OpenAI prepares GPT-5.6 models for upcoming release",
+      "source": "testingcatalog.com",
+      "url": "https://www.testingcatalog.com/openai-prepares-gpt-5-6-models-for-the-upcoming-release/",
+      "published": "2026-06-23"
+    },
+    {
+      "headline": "GPT-5.6: OpenAI Chief Scientist calls it a meaningful leap, June launch nears",
+      "source": "techtimes.com",
+      "url": "https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm",
+      "published": "2026-06-16"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Dienstag, 23. Juni 2026.\n\n===\n\nWir beginnen mit einer Meldung, die zeigt, wie schnell sich der Enterprise-KI-Markt gerade dreht. Samsung Electronics rollt ab sofort ChatGPT Enterprise und Codex von OpenAI für seine gesamte Belegschaft in Südkorea sowie alle Beschäftigten der sogenannten Device-eXperience-Division weltweit aus. OpenAI selbst bezeichnet das als einen seiner bislang größten Enterprise-Rollouts überhaupt. Konkret bedeutet das: Zehntausende von Mitarbeitern – von der Softwareentwicklung über Marketing bis hin zur Fertigung – erhalten Zugang zu den Werkzeugen. Besonders bemerkenswert: Codex, das KI-Agenten-Tool zum Schreiben und Automatisieren von Code, wird ausdrücklich auch an nicht-technische Teams ausgegeben. Wer keine Zeile Code schreiben kann, soll laut OpenAI trotzdem in der Lage sein, damit funktionierende interne Werkzeuge und automatisierte Abläufe zu bauen. Das Ganze ist auch historisch nicht ohne: 2023 hatte Samsung sämtliche Generative-KI-Tools unternehmensweit verboten, nachdem Ingenieure versehentlich vertraulichen Quellcode in die öffentliche ChatGPT-Version hochgeladen hatten. Drei Jahre später ist aus dem totalen Bann eine totale Umarmung geworden. Samsung hat nach Eigenangaben das Ziel, seine gesamte weltweite Belegschaft noch in diesem Jahr entsprechend zu schulen.\n\n===\n\nNun zum anhaltenden Krisenfall bei Anthropic, und hier gibt es heute ein substanzielles Update. Fable 5 und Mythos 5 sind seit elf Tagen offline, nachdem die US-Regierung am 12. Juni eine Export-Kontroll-Direktive erlassen hatte. Heute, am 23. Juni, endet das kostenfreie Testzeitfenster: Abonnenten, die das Modell eigentlich kostenlos testen sollten, werden ab heute nach Nutzungs-Credits abgerechnet – obwohl das Modell weiterhin nicht verfügbar ist. Das ist eine bittere Situation für zahlende Kunden.\n\nDoch das eigentlich Neue ist ein Enthüllungsmoment, der vergangene Woche öffentlich wurde. NSA-Direktor General Joshua Rudd enthüllte in einer Anhörung des Senatsgeheimdienstausschusses, dass Mythos in einer geheimen Red-Team-Übung autonom in nahezu alle klassifizierten Systeme der NSA eingedrungen sein soll – und das innerhalb weniger Stunden. Das erklärt, warum die Debatte über einen einfach zu patchenden Jailbreak schon längst vom eigentlichen Problem ablenkt: Es geht nicht um eine Schwachstelle auf Nutzerseite, sondern um autonome offensive Cyberfähigkeiten des Modells selbst. Senator Warner brachte es auf den Punkt: Es wäre unverantwortlich gewesen, darauf keine Exportkontrolle zu legen. Anthropics International-Chef Chris Ciauri sagte derweil öffentlich, man sei sehr zuversichtlich, dass die Modelle in den kommenden Tagen wieder verfügbar sein werden. Prediction Markets sehen die Chancen einer Freigabe vor dem ersten Juli aktuell bei 57 Prozent.\n\n===\n\nBleiben wir kurz beim Thema Sicherheit, aber diesmal auf breiterer Ebene. Am gestrigen Montag haben die Cybersicherheitsbehörden aller fünf Five-Eyes-Staaten – das sind die USA, Großbritannien, Kanada, Australien und Neuseeland – eine seltene gemeinsame Erklärung veröffentlicht. Ihr Kernbotschaft: Frontier-KI verändert die Cyber-Bedrohungslage fundamentaler und schneller, als die Industrie bislang annimmt. Der Satz, der besonders hängenbleibt: Der relevante Zeithorizont seien nicht Jahre, sondern Monate. Konkret beschreiben die Behörden, wie leistungsfähigere KI-Modelle die Einstiegshürde für Angreifer senken, Attacken beschleunigen und deren Reichweite vergrößern. Besonders besorgniserregend: Das Zeitfenster zwischen dem Bekanntwerden einer Schwachstelle und ihrer Ausnutzung schrumpfe rapide – wo früher Wochen lagen, könnten es bald Stunden sein. Die Behörden appellierten an Führungskräfte in Unternehmen, Cybersicherheit endlich als Geschäftsrisiko zu behandeln und entsprechend zu handeln. Diese Erklärung ist deshalb bemerkenswert, weil solche koordinierten Lageeinschätzungen der fünf Geheimdienste extrem selten sind – und weil sie zeitlich nahtlos an die Anthropic-Affäre andockt.\n\n===\n\nZum Abschluss ein Blick nach vorne auf den Modellwettbewerb. OpenAI steht nach allem, was durchdringt, kurz vor dem Release von GPT-5.6. OpenAIs Chefwissenschaftler hat das Modell intern als einen bedeutenden Fortschritt gegenüber GPT-5.5 bezeichnet. Prediction Markets taxieren die Wahrscheinlichkeit eines Releases noch diese Woche auf rund 83 Prozent. Was erwartet wird: ein erweitertes Kontextfenster von bis zu eineinhalb Millionen Token, verbesserte Fähigkeiten bei langen Coding-Aufgaben und eine neue Sprachmodalität namens GPT-Bidi-1, die bidirektionales Audio ermöglichen soll – also gleichzeitiges Hören und Sprechen in Echtzeit. Eine offizielle Ankündigung von OpenAI liegt bislang nicht vor. Die Releasegeschwindigkeit ist dennoch bemerkenswert: GPT-5.5 kam erst am 23. April, das heißt zwischen zwei Hauptversionen liegen weniger als 60 Tage. Angesichts von Anthropics erzwungenem Ausfall bei Fable 5 und Mythos 5 wäre jetzt strategisch ein günstiger Zeitpunkt für OpenAI, seinen Vorsprung in der Modell-Rangliste auszubauen.\n\n===\n\nDas war dein KI Daily für heute. Die nächsten Tage dürften turbulent bleiben: Kommt GPT-5.6 diese Woche? Öffnet Anthropic Fable 5 noch im Juni? Und wie werden Unternehmen und Regulierer weltweit auf die Five-Eyes-Warnung reagieren? Wir berichten weiter. Bis morgen."
+}
