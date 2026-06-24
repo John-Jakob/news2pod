@@ -1,0 +1,70 @@
+{
+  "title": "KI Daily – 24. Juni 2026: Google blutet Talente, SpaceX wird KI-Vermieter",
+  "teaser": "Alphabet verliert zwei seiner wichtigsten KI-Forscher an OpenAI und Anthropic – und büßt über 250 Milliarden Dollar Börsenwert ein. Dazu: SpaceX verdient Milliarden als KI-Infrastruktur-Vermieter, OpenAI will die Welt mit KI absichern, und Getty Images macht Frieden mit ChatGPT.",
+  "pubDate": "2026-06-24T06:00:00+02:00",
+  "duration_seconds": 481,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Alphabet shares fall roughly 7% as Noam Shazeer leaves for OpenAI and John Jumper leaves for Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "Alphabet Shares Slide After High-Profile AI Researcher Exits",
+      "source": "letsdatascience.com",
+      "url": "https://letsdatascience.com/news/alphabet-shares-slide-after-high-profile-ai-researcher-exits-2425c84d",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "Nobel Prize AI researcher John Jumper leaves Google to Anthropic",
+      "source": "taipeitimes.com",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/06/22/2003859496",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "OpenAI expands Daybreak with Patch the Planet and full GPT-5.5-Cyber release",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/06/22/openai-expands-daybreak-patch-planet-full-gpt-5-5-cyber-release/",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "source": "openai.com",
+      "url": "https://openai.com/index/patch-the-planet/",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "Getty Images Strikes Deal with OpenAI, Sending Getty's Stock Soaring",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "OpenAI signs deal to show Getty's images in ChatGPT results",
+      "source": "engadget.com",
+      "url": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html",
+      "published": "2026-06-22"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Dienstag, den 24. Juni 2026.\n\n===\n\nWir beginnen mit der Geschichte, die die KI-Welt in dieser Woche in Aufruhr versetzt: dem größten Talent-Exodus, den Google in seiner Geschichte erlebt hat. Innerhalb von nur 24 Stunden verlor Alphabet zwei seiner bekanntesten KI-Forscher an direkte Konkurrenten.\n\nZuerst kam Noam Shazeer. Er ist Vizepräsident für Engineering, Co-Leiter der Gemini-Modelle – und er ist Co-Autor des legendären 2017er-Papers \"Attention Is All You Need\", das die Transformer-Architektur einführte und damit das Fundament der modernen KI-Ära legte. \nShazeer hatte Google erst vor knapp zwei Jahren verlassen, nachdem Google 2,7 Milliarden Dollar für die Rückholung durch den Kauf seines Startups Character AI bezahlt hatte\n – und nun geht er zu OpenAI.\n\nEinen Tag später folgte der zweite Schlag: \nJohn Jumper, Nobelpreisträger in Chemie und Leiter des AlphaFold-Teams, bestätigte seinen Abgang von Google DeepMind nach fast neun Jahren – zu Anthropic.\n Jumper entwickelte AlphaFold, das über 200 Millionen Proteinstrukturen vorhergesagt und damit die Biologie und Medizinforschung grundlegend verändert hat.\n\n\nDie Alphabet-Aktie fiel am Montag, dem 22. Juni 2026, um rund sieben Prozent – der schlechteste Tag des Unternehmens seit einem Jahr.\n \nDie Abgänge löschten grob gerechnet 250 Milliarden Dollar Marktkapitalisierung aus.\n\n\n\nAnalyst Gil Luria von D.A. Davidson fasste es so zusammen: \"Die Abgänge von Noam Shazeer zu OpenAI und John Jumper zu Anthropic innerhalb weniger Tage nähren die Sorge, dass Google den Kampf um KI-Talente an der Frontier verliert.\"\n\n\n===\n\nDie zweite große Geschichte dreht sich um Rechenkapazität – und darum, wie SpaceX gerade zum mächtigsten KI-Infrastruktur-Vermieter der Welt wird.\n\n\nReflection AI, ein Open-Source-KI-Startup, zahlt ab dem 1. Juli 2026 monatlich 150 Millionen Dollar für sofortigen Zugang zu Nvidias neuesten GB300-Chips im SpaceX-Rechenzentrum Colossus 2 in der Nähe von Memphis, Tennessee.\n \nDer Vertrag ist bis zu 6,3 Milliarden Dollar wert und kann nach den ersten drei Monaten mit 90 Tagen Frist von beiden Seiten gekündigt werden.\n\n\nDamit ist Reflection allerdings bei Weitem nicht der größte Mieter. \nAnthropic zahlt SpaceX 1,25 Milliarden Dollar pro Monat, Google immerhin 920 Millionen Dollar pro Monat – jeweils für Kapazitäten am Colossus-Standort.\n\n\n\nSpaceX hat seinen Colossus-Komplex mittlerweile in eine der größten kommerziellen Rechenplattformen der Welt verwandelt, mit zugesagten Einnahmen von externen Kunden, die bis 2029 die Marke von 80 Milliarden Dollar übersteigen.\n Ursprünglich gebaut, um Elon Musks eigenes KI-Projekt Grok zu trainieren, ist Colossus jetzt de facto ein kommerzieller KI-Supermarkt.\n\n\nReflection positioniert sich dabei ausdrücklich als amerikanische Open-Source-Alternative zu Chinas DeepSeek und anderen geschlossenen Modellanbietern.\n Mit Nvidia als 800-Millionen-Dollar-Investor im Rücken und frischen Hochleistungs-Chips hat das Startup jetzt die Infrastruktur, die es braucht.\n\n===\n\nEbenfalls vom 22. Juni stammt eine bemerkenswerte Offensive von OpenAI im Bereich Cybersicherheit.\n\n\nDas Unternehmen erweiterte sein Daybreak-Cybersicherheitsprogramm mit einer neuen Open-Source-Patching-Initiative namens \"Patch the Planet\", einem aktualisierten Codex Security-Plugin, einem Partnerprogramm und der vollständigen Veröffentlichung seines fähigsten defensiven KI-Modells, GPT-5.5-Cyber.\n\n\n\nPatch the Planet ist eine Daybreak-Initiative, aufgebaut gemeinsam mit der Sicherheitsfirma Trail of Bits, um Open-Source-Maintainern zu helfen, kritische Software zu sichern – durch KI-gestützte Sicherheitsforschung in Kombination mit menschlicher Expertenprüfung.\n\n\n\nGPT-5.5-Cyber erzielt dabei eine Trefferquote von 85,6 Prozent auf dem CyberGym-Benchmark, verglichen mit 81,8 Prozent beim Standard-GPT-5.5.\n Erste Projekte, die bereits mitmachen: cURL, Python, die Go-Programmiersprache und das Kryptographie-Paket pyca.\n\n\nAllein in der ersten Woche des Programms wurden Hunderte Bugs entdeckt, 64 Pull Requests eingereicht und 51 Issues in 19 Projekten gemeldet – viele befinden sich noch unter koordinierter Offenlegung.\n OpenAI sagt, das neue Nadelöhr der Cybersicherheit sei nicht mehr das Finden von Schwachstellen, sondern das Patchen – und genau dort setzt das Programm an.\n\n===\n\nSchnell noch ein Blick auf zwei weitere Meldungen aus den letzten Tagen.\n\nErstens: Getty Images und OpenAI haben Frieden geschlossen. \nGetty Images hat eine mehrjährige Partnerschaft mit OpenAI bekannt gegeben, durch die seine lizenzierten Inhalte in den Such- und Entdeckungsfeatures von ChatGPT erscheinen werden.\n \nDas ist eine bemerkenswerte Kehrtwende: Getty hatte bis vor Kurzem eine harte Linie gegenüber KI-Unternehmen gefahren und im September 2022 sogar sämtliche KI-generierten Bilder aus seiner Bibliothek verbannt.\n \nDie Ankündigung ließ die Getty-Aktie um zeitweise 145 Prozent steigen.\n Wichtig zu wissen: \nEs handelt sich ausdrücklich um einen Anzeige- und Anzeigenvertrag, nicht um einen Trainingsvertrag\n – ob Gettys Bilder künftig auch zum Training zukünftiger OpenAI-Modelle verwendet werden, wurde nicht bekanntgegeben.\n\nZweitens zur Geopolitik: \nChina hat am Montag frische Handelsbeschränkungen gegen Dutzende US-amerikanische Unternehmen verhängt – darunter Rohstoffproduzenten und Drohnenhersteller – als Reaktion auf die Pentagon-Liste, auf der Washington chinesische Technologiekonzerne als Militärunternehmen einstuft.\n Der Handelsstreit eskaliert damit auch in den KI- und Technologiesektor hinein – wenngleich Experten die aktuellen chinesischen Gegenmaßnahmen als weitgehend symbolisch einschätzen.\n\n===\n\nWas bedeutet das alles zusammen? Die Woche macht deutlich, dass sich der KI-Wettbewerb auf mehreren Ebenen gleichzeitig verschärft: im Talentmarkt, in der Infrastruktur, in der Sicherheit und in der Geopolitik. Google kämpft um seinen Ruf als Talentmagnet. SpaceX verdient mehr Geld mit der Vermietung von Rechenkapazität, als mancher dachte. Und OpenAI versucht, sich gleichzeitig als KI-Unternehmen und als Hüter der globalen digitalen Infrastruktur zu positionieren.\n\nMorgen schauen wir, ob die Anthropic-Mythos-Situation – die Exportbeschränkungen laufen weiter – neue Bewegung zeigt und ob weitere Talente Google den Rücken kehren.\n\nDas war dein KI Daily für heute. Bis morgen."
+}
