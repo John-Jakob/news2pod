@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 25. Juni 2026: Googles Gemini wartet, GPT-5.6 auch",
+  "teaser": "Google verschiebt Gemini 3.5 Pro offiziell auf Juli – ausgerechnet jetzt, da die Talentabwanderung zu OpenAI und Anthropic den Druck maximiert. Und auch GPT-5.6 lässt auf sich warten: Die Wettmärkte sind kollabiert.",
+  "pubDate": "2026-06-25T06:00:00+02:00",
+  "duration_seconds": 367,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Google delays Gemini 3.5 Pro launch to July 2026",
+      "source": "cryptobriefing.com",
+      "url": "https://cryptobriefing.com/google-delays-gemini-35-pro-launch-to-july-2026/",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "Google Delays Gemini 3.5 Pro Launch To July As It Tweaks Its New Frontier AI Model",
+      "source": "startupfortune.com",
+      "url": "https://startupfortune.com/google-delays-gemini-35-pro-to-july-as-talent-exodus-deepens-the-pressure-on-its-ai-ambitions/",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "Google delays Gemini 3.5 Pro model release to July - Insider",
+      "source": "investing.com (via Reuters)",
+      "url": "https://ng.investing.com/news/stock-market-news/google-delays-gemini-35-pro-model-release-to-july--insider-93CH-2572668",
+      "published": "2026-06-24"
+    },
+    {
+      "headline": "Traders abandon bets on a GPT-5.6 launch this week",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/traders-abandon-bets-gpt-5-093100441.html",
+      "published": "2026-06-24"
+    },
+    {
+      "headline": "GPT-5.6 launch window: Prediction markets collapse to 18% for June 22–28 window",
+      "source": "findskill.ai",
+      "url": "https://findskill.ai/blog/gpt-5-6-release-date-what-to-expect/",
+      "published": "2026-06-24"
+    },
+    {
+      "headline": "Oracle disclosed it has reduced its workforce by 21,000 employees over the past 12 months",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "published": "2026-06-22"
+    },
+    {
+      "headline": "2026 Tech Layoffs: 411 events, 156,649 people impacted",
+      "source": "trueup.io",
+      "url": "https://www.trueup.io/layoffs",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "GPT-5.6 Rumors: Everything We Think We Know",
+      "source": "eweek.com",
+      "url": "https://www.eweek.com/news/gpt-5-6-openai-coding-agent-rumors-neuron/",
+      "published": "2026-06-23"
+    },
+    {
+      "headline": "Google said to delay Gemini 3.5 Pro release to July",
+      "source": "breakingthenews.net",
+      "url": "https://breakingthenews.net/Article/Google-said-to-delay-Gemini-3.5-Pro-release-to-July/66568591",
+      "published": "2026-06-25"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, 25. Juni 2026.\n\n===\n\nBeginnen wir mit der größten Neuigkeit des Tages – und die kommt von Google, allerdings in Form einer Absage. Gemini 3.5 Pro, Googles lang erwartetes Flaggschiff-Modell, wird im Juni nicht mehr erscheinen. Business Insider berichtete gestern Abend unter Berufung auf eine eingeweihte Person, dass Google den Launch auf Juli verschoben hat. \nGoogle hat die Veröffentlichung demnach auf Juli geschoben und nutzt die zusätzliche Zeit, um Feedback von frühen Testern einzuholen und das Modell weiter anzupassen – dabei fließen auch Erkenntnisse aus dem bereits verfügbaren Gemini 3.5 Flash in die Entwicklung ein.\n\n\n\nDie Verzögerung trifft Google zu einem denkbar ungünstigen Moment: Vier hochkarätige KI-Forscher, darunter Gemini-Co-Lead Noam Shazeer, haben das Unternehmen in Richtung OpenAI und Anthropic verlassen – und werfen damit grundlegende Fragen auf, ob Google sein Tempo an der KI-Frontier halten kann.\n Erinnern wir uns: Über den Abgang von Shazeer und Nobel-Preisträger John Jumper haben wir gestern berichtet. Die Gemini-Verschiebung ist das direkte Echo dieser Talentabwanderung.\n\n\nGemini 3.5 Pro sollte eigentlich ein Kontext-Fenster von zwei Millionen Tokens und einen „Deep Think\"-Denkmodus mitbringen – beides Spezifikationen, die an der absoluten Spitze des Machbaren lägen.\n \nGoogle stehe damit unter wachsendem Druck, das Modell zu liefern, während der Wettbewerb sich intensiviert. Ein Google-Sprecher wollte sich zum verschobenen Zeitplan nicht äußern.\n\n\n===\n\nNun zu OpenAI und dem anderen Modell, das alle warten lassen hat: GPT-5.6. Gerüchte hatten den heutigen Donnerstag als Erscheinungsdatum gehandelt. Doch daraus wird nichts. \nHändler auf der Wettbörse Polymarket haben ihre Wetten auf einen Launch diese Woche massiv zurückgezogen – die Wahrscheinlichkeit für ein Erscheinen zwischen dem 22. und 28. Juni ist auf nur noch achtzehn Prozent gefallen, nachdem sie zuvor noch bei rund 83 Prozent lag.\n\n\n\nOpenAIs Chefwissenschaftler Jakub Pachocki soll intern gesagt haben, das Modell werde eine „bedeutungsvolle Verbesserung\" gegenüber GPT-5.5 darstellen – die Prediction Markets zeigen nun aber auf Juli als wahrscheinlichstes Erscheinungsdatum.\n \nVorab-Gerüchte beschreiben GPT-5.6 als deutlich günstiger als Anthropics Fable 5, mit einem Kontext-Fenster von bis zu zwei Millionen Tokens, stärkerer Reasoning-Kapazität und verbessertem agentischem Coding.\n Offiziell bestätigt ist allerdings nichts davon – kein Systemkarten-Dokument, kein Blogpost, keine API-Seite. Alles bleibt Spekulation, bis OpenAI das Wort ergreift.\n\nWas wir festhalten können: Zwei der meisterwarteten Modelle des Jahres lassen gleichzeitig auf sich warten. Das ist bemerkenswert für eine Branche, die sich sonst kaum bremsen lässt.\n\n===\n\nEin Blick auf die Zahlen, die gerade die gesellschaftliche Debatte beherrschen: KI-bedingte Entlassungen. \nAllein in der Technologiebranche wurden in diesem Jahr bislang mehr als 156.000 Stellen gestrichen – das sind im Schnitt fast 900 pro Tag, deutlich mehr als in den Vorjahren.\n\n\n\nKI gilt dabei als der wichtigste Einzelfaktor: 56 Prozent aller Entlassungswellen in diesem Jahr nennen ausdrücklich KI, Automatisierung oder maschinelles Lernen als treibende Kraft – betroffen sind rund 156.000 Beschäftigte in 150 Unternehmen.\n\n\nBesonders aufsehenerregend ist der Fall Oracle. \nDer Konzern legte in seinem Jahresabschluss vom 22. Juni offen, im vergangenen Jahr 21.000 Stellen gestrichen zu haben – ein Rückgang von dreizehn Prozent. Im Dokument heißt es wörtlich, der Einsatz von KI habe zu Reduktionen geführt und werde dies voraussichtlich weiterhin tun.\n Das ist einer der transparentesten Einblicke, die ein Großkonzern bislang in die KI-Jobdynamik gegeben hat.\n\n\nGroße Konzerne wie Meta, Amazon, Microsoft und Alphabet haben gemeinsam Hunderte von Milliarden Dollar in KI-Infrastruktur investiert – und gleichzeitig Stellen in Kundenservice, Content-Moderation, Dateneingabe und traditioneller Softwareentwicklung abgebaut.\n Wirtschaftsexperten mahnen zur Vorsicht: Nicht jede als KI-bedingt deklarierte Entlassung sei tatsächlich einer Automatisierung geschuldet – manche Unternehmen nutzten KI auch als Erklärung für Kürzungen, die ohnehin geplant waren.\n\n===\n\nZum Abschluss ein Blick nach vorne: Die nächsten Wochen versprechen, entscheidend zu werden. Gemini 3.5 Pro und GPT-5.6 werden beide irgendwann in diesem Sommer erscheinen – und dann wird sich zeigen, ob Google trotz Personalproblemen liefern kann und ob OpenAI bei Reasoning und Kontext-Fenster wirklich mit Anthropics Fable 5 mithalten kann.\n\nFür morgen und das Wochenende gilt: Halte Ausschau auf die offiziellen Kanäle von Google DeepMind und OpenAI. Wenn einer dieser beiden Launches passiert, werdet ihr es zuerst hier hören.\n\nDas war dein KI Daily für den 25. Juni 2026. Bis morgen."
+}
