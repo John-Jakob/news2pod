@@ -1,0 +1,82 @@
+{
+  "title": "KI Daily – 26. Juni 2026: Google blutet weiter, Alibaba klaut, RAISE US startet",
+  "teaser": "Google verliert in sechs Tagen vier Top-Forscher an die Konkurrenz und reorganisiert notfallmäßig sein KI-Coding-Team. Anthropic wirft Alibaba den größten Modell-Klau der Geschichte vor – und Amerikas Tech-Riesen schließen sich zusammen, um den KI-Jobschock abzufedern.",
+  "pubDate": "2026-06-26T06:00:00+02:00",
+  "duration_seconds": 453,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "AI researchers continue to leave Google for its rivals (Jonas Adler & Alexander Pritzel to Anthropic)",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "published": "2026-06-24"
+    },
+    {
+      "headline": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
+      "published": "2026-06-24"
+    },
+    {
+      "headline": "Google reshuffles its AI coding team as it struggles to catch Anthropic",
+      "source": "neowin.net",
+      "url": "https://www.neowin.net/news/google-reshuffles-its-ai-coding-strike-team-as-it-struggles-to-catch-anthropic/",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "Google reorganizes its AI coding strike team to catch Anthropic (The Information via Techmeme)",
+      "source": "techmeme.com",
+      "url": "https://www.techmeme.com/260625/p27",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+      "published": "2026-06-24"
+    },
+    {
+      "headline": "Anthropic claims that China's Alibaba used 25,000 fake accounts and 28.8 million exchanges to illicitly 'distill' its Claude model",
+      "source": "tomshardware.com",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-that-chinas-alibaba-illicitly-distilled-its-models-from-april-to-june-2026-says-effort-involved-25-000-fake-accounts-and-28-8-million-exchanges-on-claude",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "Sail Research Raises $80 Million to Build Max-Efficiency Infrastructure for AI Agents",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/sail-research-raises-80-million-to-build-max-efficiency-infrastructure-for-ai-agents-302810497.html",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "Sail raises $80M to make AI agents cheaper to run",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/sail-research-80m-ai-agent-inference",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "Anthropic joins Sec. Gina Raimondo's AI labor efforts (RAISE US)",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/06/25/anthropic-labor-market-ai-jobs-crisis",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "AI is plowing through the workplace. This new group wants to help people adapt and have jobs (RAISE US)",
+      "source": "apnews.com",
+      "url": "https://abcnews.com/Technology/wireStory/ai-plowing-workplace-new-group-people-adapt-jobs-134197981",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "One of the Democratic Party's brightest stars is co-founding a group to help with the coming AI jobs earthquake",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/06/25/raise-us-ai-workforce-raimondo-500-million-retraining/",
+      "published": "2026-06-25"
+    },
+    {
+      "headline": "Key Google AI researchers depart for Anthropic, OpenAI (Jun 25 update)",
+      "source": "digitaltoday.co.kr",
+      "url": "https://www.digitaltoday.co.kr/en/view/74870/google-ai-talent-exodus-anthropic-openai",
+      "published": "2026-06-25"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 26. Juni 2026.\n\n===\n\nBeginnen wir dort, wo die Woche nicht aufhören will: bei Google und dem schwersten Talentverlust seit Jahren. Gestern Morgen hat Bloomberg bestätigt, dass zwei weitere Schlüsselforscher das Unternehmen verlassen werden. Jonas Adler, der an Googles KI-Coding-Ambitionen gearbeitet hat, und Alexander Pritzel, der am Training der Gemini-Modelle beteiligt war – beide wechseln zu Anthropic.\n\n\nDas sind vier hochrangige KI-Abgänge zu Konkurrenten innerhalb von nur sechs Tagen.\n Zur Erinnerung: Bereits in der vergangenen Folge haben wir über den Abgang von Noam Shazeer zu OpenAI und Nobel-Preisträger John Jumper zu Anthropic berichtet. Was treibt das an? \nDie bevorstehenden Börsengänge von Anthropic und OpenAI bieten selbst gut bezahlten Mitarbeitern bei Big Tech die Chance auf einen seltenen Millionen-Gewinn durch Pre-IPO-Eigenkapital.\n Google kann das Gehalt matchen – aber nicht das Versprechen auf einen Milliarden-Exit.\n\n===\n\nUpdate zu Google DeepMind: Und Google sitzt nicht still. \nDas Unternehmen reorganisiert das KI-Coding-Strike-Team, das es vor etwa zwei Monaten gegründet hatte, um die Lücke zu Anthropic zu schließen.\n \nLaut The Information weitet Google DeepMind den Fokus des Teams auf sogenanntes Midtraining aus – eine Phase, die nach dem breiten Vortraining eines Modells stattfindet, aber vor den finalen Stufen, die es auf Instruktionen vorbereiten.\n \nDer Umbau verschiebt die Gruppe in Richtung dieses neuen Ansatzes und erweitert gleichzeitig den Anwendungsbereich auf Funktionen wie das Erstellen von Präsentationen.\n\n\nDas klingt nach einem Plan. Die Skepsis in der Branche ist trotzdem groß: \nCoding ist zur klarsten Monetarisierungsschicht in der KI geworden, und Google scheint jetzt zuzugeben, dass starke Basismodelle allein nicht ausreichen – Coding braucht spezialisiertes Training, dedizierte Rechenleistung und eine viel schärfere Produktlogik.\n\n\n===\n\nNächste Geschichte, und die hat es in sich: Anthropic wirft dem chinesischen Tech-Konzern Alibaba vor, seinen Claude-Chatbot systematisch ausgeplündert zu haben. \nAnthropic hat in einem Schreiben an den US-Senatsausschuss für Bankwesen Alibaba beschuldigt, seine KI-Fähigkeiten auf dreiste und illegale Weise extrahiert zu haben.\n \nOperatoren, die mit Alibabas KI-Labor Qwen verbunden sind, sollen zwischen dem 22. April und dem 5. Juni über fast 25.000 betrügerische Accounts rund 28,8 Millionen Interaktionen mit Claude durchgeführt haben.\n\n\nDas Verfahren heißt Distillation: \nBei einer Distillation greift man ein Konkurrenz-Modell in industriellem Maßstab ab und nutzt dessen Ausgaben, um ein kleineres, weniger leistungsstarkes Modell zu trainieren – mit Millionen sorgfältig formulierter Prompts, die auf die wertvollsten Fähigkeiten des Zielsystems ausgerichtet sind.\n \nDie Kampagne war demnach gezielt darauf ausgerichtet, Alibabas Qwen-Modell an die Fähigkeiten von Anthropics Frontier-Modell Mythos Preview heranzuführen, das sich auf komplexes Coding, mehrstufiges Reasoning und Cybersicherheitsaufgaben konzentriert.\n Alibaba hat sich zu den Vorwürfen bislang nicht geäußert.\n\n===\n\nNun zu einem Startup, das heute aus dem Verborgenen tritt und sofort Schlagzeilen macht: Sail Research aus San Francisco. \nDas Unternehmen hat 80 Millionen Dollar in Seed- und Series-A-Finanzierung bei einer Bewertung von 450 Millionen Dollar eingesammelt.\n \nDie Series A wurde von Kleiner Perkins angeführt, die Seed-Runde von Sequoia – mit Beteiligung von Redpoint Ventures, Theory Ventures und weiteren. Unter den Angel-Investoren finden sich John Hennessy, Verwaltungsratsvorsitzender von Alphabet, Intel-Chef Lip-Bu Tan und Tri Dao, Chef-Wissenschaftler bei Together AI.\n\n\nWas macht Sail? Die Firma baut Infrastruktur für langlaufende KI-Agenten. \nDie Plattform kombiniert einen von Grund auf neu entwickelten Inference-Stack für Durchsatz und Effizienz, der bis zu zehnmal geringere Kosten pro Token liefern soll, mit sogenannten Sailboxes – persistenten Sandbox-Umgebungen, die tagelang statt nur sekundenlang laufen.\n Die Grundidee: \nToken-Preise sind zwar gefallen, aber Unternehmens-KI-Rechnungen haben sich verdreifacht, weil Agenten deutlich mehr Token pro Aufgabe verbrauchen.\n Sail wettet darauf, genau diesen Kostenhebel zu bedienen.\n\n===\n\nUnd zum Schluss eine Geschichte, die den gesellschaftlichen Rahmen um all das setzt: Gestern haben ehemalige US-Handelsministerin Gina Raimondo und der frühere Gouverneur von Indiana, Eric Holcomb, eine neue gemeinnützige Organisation namens RAISE US gestartet. \nRAISE US hat bereits mehr als 500 Millionen Dollar eingesammelt.\n \nOpenAI Foundation, Anthropic, Amazon und Microsoft sind Ankerpartner des Projekts, das eine nationale Plattform aufbauen will, um Gouverneure dabei zu beraten, ihre Arbeitskräfte auf KI-Disruption vorzubereiten.\n\n\nWas auffällt: Dieselben Unternehmen, die mit ihren Modellen Jobs vernichten könnten, finanzieren nun die Antwort darauf. Raimondo bringt es auf den Punkt: \n\"Wir reden über ein Ausmaß an Arbeitslosigkeit, das unser Land und unsere Demokratie destabilisieren könnte.\"\n \nAnthropic-Chef Dario Amodei hat wiederholt gewarnt, dass KI bis zu die Hälfte aller Einstiegspositionen im White-Collar-Bereich in den nächsten ein bis fünf Jahren eliminieren könnte.\n RAISE US will Pilotprogramme in vier US-Bundesstaaten starten und auf die staatliche Ebene setzen, weil von Washington auf absehbare Zeit kein großer Wurf zu erwarten sei.\n\n===\n\nDas ist die Lage am Freitagmorgen. Google kämpft an der Talent- und Technologiefront gleichzeitig. Anthropic und Alibaba steuern auf einen geopolitischen KI-Konflikt zu, der Washington zunehmend beschäftigt. Ein Startup baut die Infrastruktur für die nächste Agentengeneration, und die Tech-Industrie beginnt – zumindest offiziell – über die menschlichen Kosten der KI nachzudenken.\n\nWas bleibt im Blick: Googles Reaktion auf die Abgänge, mögliche Gegenmaßnahmen im US-China-Technologiestreit – und natürlich die Frage, ob GPT-5.6 nach dem geplatzten Juni-Fenster tatsächlich im Juli erscheint. Habt ein gutes Wochenende. Bis Montag."
+}
