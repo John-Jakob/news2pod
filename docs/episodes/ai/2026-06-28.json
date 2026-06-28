@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 28. Juni 2026: Ende einer Ära, Preiskampf vor dem Börsengang",
+  "teaser": "OpenAI verabschiedet die letzte GPT-4-Generation aus ChatGPT – und kämpft gleichzeitig mit Anthropic um Marktanteile und Tokenpreise, bevor beide Unternehmen an die Börse gehen. Dazu: Warum kein einziges Flaggschiff-Modell den Juni überlebt hat.",
+  "pubDate": "2026-06-28T06:00:00+02:00",
+  "duration_seconds": 414,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "published": "2026-06-26"
+    },
+    {
+      "headline": "GPT-4.5 is no longer available in ChatGPT as of June 26, 2026",
+      "source": "help.openai.com",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "published": "2026-06-26"
+    },
+    {
+      "headline": "Codex Remote now generally available on all ChatGPT plans",
+      "source": "help.openai.com",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "published": "2026-06-26"
+    },
+    {
+      "headline": "AI News Today June 27 2026: 15 Biggest Stories",
+      "source": "buildfastwithai.com",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026",
+      "published": "2026-06-27"
+    },
+    {
+      "headline": "Colorado AI Act amended and effective date delayed to January 1, 2027",
+      "source": "hunton.com",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed",
+      "published": "2026-05-22"
+    },
+    {
+      "headline": "OpenAI just quietly retired the final GPT-4 model from ChatGPT",
+      "source": "yahoo.com/tech",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-just-quietly-retired-final-152930749.html",
+      "published": "2026-06-26"
+    },
+    {
+      "headline": "ChatGPT market share fell below 50% for the first time",
+      "source": "buildfastwithai.com",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026",
+      "published": "2026-06-27"
+    },
+    {
+      "headline": "Every frontier model supposed to ship in June slipped into July",
+      "source": "buildfastwithai.com",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026",
+      "published": "2026-06-27"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Sonntag, den 28. Juni 2026.\n\n===\n\nWir beginnen mit einem stillen Abschied, der bei vielen Nutzern mehr Gefühle geweckt hat als erwartet: Seit dem 26. Juni ist GPT-4.5 nicht mehr in ChatGPT verfügbar. \nDie Pensionierung von GPT-4.5 bedeutet, dass es nun keine GPT-4-Modelle mehr in ChatGPT gibt\n – das Ende einer Ära, die die öffentliche Wahrnehmung von KI grundlegend verändert hat. \nBestehende Gespräche, die GPT-4.5 nutzten, laufen automatisch auf GPT-5.5 weiter.\n \nDie Änderung betrifft nur ChatGPT, die API bleibt vorerst unberührt.\n\n\nInteressant ist die Reaktion der Nutzerinnen und Nutzer: Auf sozialen Netzwerken beklagten viele, die neue GPT-5-Serie könne nicht ersetzen, was GPT-4.5 an Schreibqualität und Persönlichkeit geboten habe. \nZum ersten Mal in der Geschichte der Computer sind Menschen nicht nur nostalgisch für alte Software – sie sind nostalgisch für alte Persönlichkeiten.\n Das sagt einiges darüber, wie tief diese Modelle mittlerweile in den Alltag eingedrungen sind.\n\nGleichzeitig gibt es frische Funktionen: \nChatGPT unterstützt nun Codex Remote auf allen Plänen als allgemein verfügbares Feature, das es ermöglicht, Arbeit an verbundenen Mac- oder Windows-Rechnern direkt aus der mobilen App heraus zu starten, Fortschritte zu überprüfen und Aktionen zu genehmigen.\n\n\n===\n\nKommen wir zur wirtschaftlichen Kernfrage dieser Woche: dem Preiskampf zwischen OpenAI und Anthropic – und was er für die bevorstehenden Börsengänge bedeutet.\n\n\nOpenAI und Anthropic waren die Hauptnutznießer einer Mentalität des Ausgabens um jeden Preis, die ihr exponentielles Wachstum befeuert und beide Unternehmen auf Bewertungen nahe einer Billion Dollar getrieben hat. Nun, während sie sich auf womöglich historische Börsengänge vorbereiten – beide haben Anfang Juni vertraulich Unterlagen eingereicht – verschiebt sich die Stimmung.\n\n\nDas Phänomen hat einen Namen bekommen: \"Tokenmaxxing\". \nDas beschreibt die Ära, in der Arbeitgeber ihre Entwickler dazu angehalten haben, so viel KI wie möglich zu nutzen, ohne sich um die Kosten zu kümmern.\n Damit ist jetzt zunehmend Schluss. \nUber etwa hat diesen Monat gestaffelte Ausgabenlimits für KI-Tools eingeführt. Der Uber-CTO hatte zuvor eingeräumt, das gesamte KI-Jahresbudget des Unternehmens in nur vier Monaten aufgebraucht zu haben.\n\n\n\nDas Startup Lindy hat seinen gesamten Datenverkehr auf DeepSeek umgestellt, einen chinesischen Anbieter günstigerer Open-Source-Modelle. \"Man konnte die Kostenkurve förmlich abstürzen sehen\", so CEO Flo Crivello.\n\n\nFür OpenAI und Anthropic ist das eine ernste Warnung – gerade jetzt, wo sie Investoren für ihre Börsengänge überzeugen wollen. \nAnalystenstimmen warnen, die aktuellen Wachstumsraten seien die höchsten, die beide Unternehmen je sehen werden. Das sei auch ein guter Grund, jetzt an die Börse zu gehen, bevor große Unternehmenskunden ihren unkontrollierten Token-Verbrauch einzudämmen beginnen.\n\n\n===\n\nEin weiteres Thema, das den Markt beschäftigt: Kein einziges der für Juni angekündigten Flaggschiff-Modelle hat den Monat überlebt. \nGPT-5.6, Gemini 3.5 Pro und Grok 5 – alle drei haben sich in den Juli verschoben.\n Das ist bemerkenswert, denn der Juni galt als der produktivste Modell-Release-Monat des Jahres. \nErstmals ist auch ChatGPTs Marktanteil unter die 50-Prozent-Marke gefallen\n – ein historischer Einschnitt für das Modell, das den KI-Boom der letzten Jahre angeführt hat.\n\n\nDie führende Hypothese in der Entwicklercommunity für die GPT-5.6-Verzögerung ist, dass eine neu eingeführte Sicherheitsprüfung zusätzliche Validierungszeit benötigte – und dass die IPO-Ruhephase seit der Einreichung des Börsenprospekts rechtliche Einschränkungen für die Kommunikation rund um den Launch schafft.\n \nPolymarket sieht derzeit eine Wahrscheinlichkeit von rund 94 Prozent für einen Juli-Launch von GPT-5.6.\n\n\n===\n\nAuf der Regulierungsseite gibt es ein wichtiges Update aus den USA: Das Colorado-KI-Gesetz, das als umfassendstes staatliches KI-Regelwerk der Vereinigten Staaten gilt, wird nicht wie ursprünglich geplant am 30. Juni in Kraft treten. \nColorado-Gouverneur Polis unterzeichnete im Mai die überarbeitete Fassung, die das ursprüngliche Gesetz ersetzt und das Inkrafttreten vom 30. Juni 2026 auf den 1. Januar 2027 verschiebt.\n \nDas neue Gesetz streicht dabei zentrale Pflichten wie das Duty-of-Care-Prinzip gegen algorithmische Diskriminierung und verpflichtende Risikobewertungen – und ersetzt sie durch einen schmaleren Rahmen, der vor allem auf Transparenz und Offenlegungspflichten setzt.\n\n\nDas ist ein Signal: Selbst in den USA, wo KI-Regulierung auf Bundesebene steckengeblieben ist, weicht der politische Druck auf Unternehmensebene dem wirtschaftlichen Gegenwind. Für Unternehmen, die auf den Compliance-Stichtag hingearbeitet haben, ist das eine Atempause – aber keine Entwarnung.\n\n===\n\nZum Abschluss ein kurzer Blick nach vorne. Die kommende Woche könnte turbulent werden: \nDie Vorhersagemärkte preisen einen GPT-5.6-Start im Juli mit hoher Wahrscheinlichkeit ein\n, und mit Gemini 3.5 Pro ebenfalls in Warteposition dürfte die Modell-Flut bald losbrechen. Gleichzeitig rückt das Datum näher, an dem beide großen US-KI-Labore ihre vertraulich eingereichten Börsenprospekte öffentlich machen müssen – ein Moment, der erstmals einen echten Blick in die Finanzlage von OpenAI und Anthropic erlaubt.\n\nDas war dein KI Daily für den 28. Juni. Einen guten Start in die neue Woche."
+}
