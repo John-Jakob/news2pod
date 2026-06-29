@@ -1,0 +1,40 @@
+{
+  "title": "KI Daily – 29. Juni 2026: Flucht zu China-Modellen, KI-Agenten als schlechte CEOs",
+  "teaser": "Coinbase halbiert seine KI-Kosten durch den Wechsel auf chinesische Modelle – und das ausgerechnet kurz vor den geplanten Börsengängen von OpenAI und Anthropic. Dazu: Eine neue Princeton-Studie zeigt, dass die meisten KI-Agenten als Unternehmenslenker kläglich scheitern.",
+  "pubDate": "2026-06-29T06:00:00+02:00",
+  "duration_seconds": 373,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
+      "published": "2026-06-28"
+    },
+    {
+      "headline": "CEO-Bench: Can Agents Play the Long Game?",
+      "source": "ceobench.com / arxiv.org",
+      "url": "https://ceobench.com/",
+      "published": "2026-06-28"
+    },
+    {
+      "headline": "US-Regierung gibt Anthropics Claude Mythos 5 für kritische Infrastruktur wieder frei",
+      "source": "the-decoder.de",
+      "url": "https://the-decoder.de/",
+      "published": "2026-06-27"
+    },
+    {
+      "headline": "Laut Anthropic-Umfrage sieht knapp die Hälfte der Claude-Nutzer die KI bei mindestens 50 Prozent ihrer Arbeitsaufgaben als einsetzbar",
+      "source": "the-decoder.de",
+      "url": "https://the-decoder.de/",
+      "published": "2026-06-27"
+    },
+    {
+      "headline": "Sina Weibos VibeThinker-3B erreicht mit nur drei Milliarden Parametern das Niveau von Modellen, die bis zu 333-mal größer sind",
+      "source": "the-decoder.de",
+      "url": "https://the-decoder.de/",
+      "published": "2026-06-28"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Montag, 29. Juni 2026.\n\n===\n\nWir starten mit einem Thema, das die KI-Branche in dieser Woche intensiv beschäftigen wird: dem wachsenden Druck auf die Preise westlicher KI-Anbieter. \nCoinbase-Chef Brian Armstrong hat bekannt gegeben, dass sein Unternehmen auf chinesische KI-Modelle wie GLM 5.2 und Kimi 2.7 umgestellt hat.\n Das Ergebnis ist bemerkenswert: \nNach der Kombination aus Routing-Optimierung und verbessertem Caching wurden die KI-Ausgaben von Coinbase um fast die Hälfte gesenkt – während die Token-Nutzung gleichzeitig weiter exponentiell wächst.\n\n\nDas Prinzip dahinter ist simpel: \nArmstrong ist der Ansicht, dass komplexe Aufgaben wie Planung und Schlussfolgerung zwar weiterhin leistungsstarke Frontier-Modelle erfordern, Ausführungsaufgaben hingegen nicht unbedingt kostenintensive Modelle benötigen.\n \nAllein ein verbessertes Caching hob die Trefferquote bei Coinbase von fünf auf sechzig Prozent.\n\n\n\nSnowflake testet chinesische Modelle ebenfalls als günstigere Alternativen zu OpenAI und Anthropic. Das setzt die westlichen KI-Labore unter echten Preisdruck – und zwar genau in dem Moment, in dem einige von ihnen einen Börsengang ins Auge fassen.\n Es ist ein Stresstest für die Wachstumszahlen, die sie brauchen, um ihre milliardenschweren Bewertungen zu rechtfertigen.\n\n===\n\nZum Update in einer laufenden Geschichte: \nAnthropic hat offiziell bestätigt, dass die US-Regierung die erneute Bereitstellung von Claude Mythos 5 genehmigt hat – allerdings zunächst nur für US-Organisationen, die kritische Infrastruktur betreiben und verteidigen. Anthropic arbeitet weiterhin mit der Regierung daran, den Zugang zu Mythos 5 zu erweitern und Fable 5 wieder für die allgemeine Öffentlichkeit verfügbar zu machen.\n\n\nZur Erinnerung: Beide Modelle waren am 12. Juni auf Anweisung der US-Regierung gesperrt worden, nachdem ein Sicherheitsproblem entdeckt worden war. \nDies ist das erste offizielle Freigabesignal seit der Sperrung – aber es handelt sich nicht um eine vollständige Aufhebung des Verbots. Mythos 5 kehrt zunächst nur für einen genehmigten, sektorspezifischen Nutzerkreis zurück. Fable 5 – auf das die meisten Abonnenten und Entwickler warten – bleibt gesperrt.\n\n\n===\n\nKommen wir zu einer neuen Forschungsstudie, die viel zu denken gibt. Princeton-Forscher haben CEO-Bench veröffentlicht, einen neuen Benchmark, der misst, ob KI-Agenten sogenannte \"Steering Intelligence\" besitzen – also die Fähigkeit, ein Unternehmen langfristig zu steuern. \nIn CEO-Bench müssen Agenten ein simuliertes KI-Startup über 500 Tage betreiben. Die meisten Modelle schaffen es nicht, über das Startkapital von einer Million Dollar zu kommen. Nur Claude Fable 5, Claude Opus 4.8 und GPT-5.5 beenden den Test im besten Durchlauf im Plus.\n\n\nBesonders bezeichnend: \nDie meisten aktuellen Modelle gehen pleite – und eine simple regelbasierte Faustregel ohne KI schlägt fast alle getesteten Systeme.\n Das zeigt: KI-Agenten sind heute gut darin, Einzelaufgaben zu erledigen. Aber Entscheidungen zu treffen, die sich über Monate hinweg akkumulieren und in einem komplexen, unvorhersehbaren Umfeld zum Erfolg führen – das ist eine ganz andere Liga. \nWo Agenten heute Einzelaufgaben ausführen, sollen sie morgen Organisationen auf langfristige Ziele ausrichten.\n Dieser Benchmark zeigt, wie weit der Weg dahin noch ist.\n\n===\n\nEin weiteres Forschungsergebnis, das in die gleiche Kerbe schlägt: \nSina Weibos VibeThinker-3B erreicht mit nur drei Milliarden Parametern bei Mathematik- und Coding-Benchmarks das Niveau von Modellen wie DeepSeek V3.2 oder Kimi K2.5, die bis zu 333-mal größer sind. Der Schlüssel liegt im mehrstufigen Post-Training statt in der reinen Modellgröße.\n\n\n\nDie Forscher leiten daraus eine provokante These ab: Logisches Schlussfolgern lässt sich kompakt komprimieren – breites Weltwissen hingegen nicht.\n Das ist eine bedeutsame Erkenntnis. Wenn Reasoning-Fähigkeiten tatsächlich in winzige Modelle destilliert werden können, dann verschiebt sich die Wertigkeit in der KI-Branche – weg von schieren Parameterzahlen, hin zu cleverer Trainingsarchitektur.\n\n===\n\nSchließlich eine Zahl, die nachdenklich stimmt: \nLaut einer Anthropic-Umfrage unter rund 9.700 Claude-Nutzern sieht knapp die Hälfte die KI bereits heute bei mindestens fünfzig Prozent ihrer Arbeitsaufgaben als einsetzbar. In zwölf Monaten erwarten sogar 26 Prozent einen KI-Anteil von 60 bis 90 Prozent.\n \nBerufseinsteiger sorgen sich dabei am meisten – während ausgerechnet die intensivsten KI-Nutzer am optimistischsten auf ihre eigene Karriere blicken.\n Die erfahrensten Nutzer wissen offenbar am besten, wie sie mit dem Werkzeug umgehen – und fürchten es deshalb am wenigsten.\n\n===\n\nDas war dein KI Daily für den Montag. Diese Woche wird spannend: Die Frage, ob Fable 5 vollständig freigegeben wird, bleibt offen. Und der Druck auf OpenAI und Anthropic, ihre Preise zu senken, dürfte mit jedem weiteren Bericht über den Wechsel zu günstigeren Alternativen lauter werden – ausgerechnet in der heißen Phase vor ihren Börsengängen. Bis morgen."
+}
