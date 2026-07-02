@@ -1,90 +1,54 @@
 {
-  "title": "KI Daily – 2. Juli 2026: Meta Compute, Sonnet 5, Jailbreak-Standard",
-  "teaser": "Meta überrascht die Märkte mit einem Cloud-Einstieg, Anthropic bringt ein leistungsstarkes neues Mittelklasse-Modell – und der gestrige Fable-5-Neustart hat eine wichtige Sicherheitskomponente, die wir heute genauer einordnen.",
+  "title": "KI Daily – 3. Juli 2026: Microsoft Frontier, Washingtons KI-Standards, UN-Bericht",
+  "teaser": "Microsoft gründet eine milliardenschwere Einheit für KI-Einführung bei Unternehmen, Washington verhandelt über freiwillige KI-Standards, und ein UN-Gremium warnt vor einer Regulierungslücke bei Künstlicher Intelligenz. Außerdem: neue Google-Tools und eine Warnung vor einer KI-Investitionsblase.",
   "pubDate": "2026-07-02T06:00:00+02:00",
-  "duration_seconds": 395,
-  "model": "claude-sonnet-4-6",
+  "duration_seconds": 377,
+  "size_bytes": 3017709,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-02/2026-07-02.mp3",
+  "model": "claude-sonnet-5",
   "sources": [
     {
-      "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "headline": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+      "published": "2026-07-02"
+    },
+    {
+      "headline": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
       "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "published": "2026-06-30"
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "published": "2026-07-02"
     },
     {
-      "headline": "Introducing Claude Sonnet 5",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "published": "2026-06-30"
+      "headline": "Microsoft launches firm to help companies adopt AI with $2.5 billion (Reuters)",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/microsoft-launches-firm-to-help-companies-adopt-ai-with-25-billion-4773238",
+      "published": "2026-07-02"
     },
     {
-      "headline": "Introducing Claude Sonnet 5 on AWS",
-      "source": "aws.amazon.com",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
-      "published": "2026-07-01"
+      "headline": "KI-Themenseite: Washington verhandelt mit KI-Unternehmen über Standards, Sam Altman mit überraschendem Angebot",
+      "source": "handelsblatt.com",
+      "url": "https://www.handelsblatt.com/themen/kuenstliche-intelligenz",
+      "published": "2026-07-03 (aktualisiert)"
     },
     {
-      "headline": "Claude Fable 5 Returns, Anthropic Launches Sonnet 5",
-      "source": "it-connect.tech",
-      "url": "https://www.it-connect.tech/claude-fable-5-returns-worldwide-as-anthropic-launches-sonnet-5/",
-      "published": "2026-07-01"
+      "headline": "KI-Themenseite: Digitalminister sucht in London Blaupause für deutsches KI-Sicherheitsinstitut",
+      "source": "handelsblatt.com",
+      "url": "https://www.handelsblatt.com/themen/kuenstliche-intelligenz",
+      "published": "2026-07-03 (aktualisiert)"
     },
     {
-      "headline": "Claude Fable 5 Returns Globally: New Classifier Blocks Jailbreak",
-      "source": "techtimes.com",
-      "url": "https://www.techtimes.com/articles/319413/20260701/claude-fable-5-returns-globally-new-classifier-blocks-jailbreak-flags-more-code.htm",
-      "published": "2026-07-01"
+      "headline": "AI explained: Why the world needs to act now (UN scientific panel preliminary report)",
+      "source": "news.un.org",
+      "url": "https://news.un.org/en/story/2026/07/1167848",
+      "published": "2026-07-01/02"
     },
     {
-      "headline": "Anthropic Redeploys Fable 5 With Cross-Lab Jailbreak Rubric",
-      "source": "aiweekly.co",
-      "url": "https://aiweekly.co/alerts/anthropic-redeploys-fable-5-with-cross-lab-jailbreak-rubric",
-      "published": "2026-07-01"
-    },
-    {
-      "headline": "US lifts export controls on Anthropic's Claude Fable 5, global access resumes",
-      "source": "medianama.com",
-      "url": "https://www.medianama.com/2026/07/223-us-government-anthropic-claude-fable-5-export-controls-lifted/",
-      "published": "2026-07-01"
-    },
-    {
-      "headline": "US reverses export restrictions on Anthropic's Fable 5, Mythos 5 AI models",
-      "source": "computerworld.com",
-      "url": "https://www.computerworld.com/article/4191565/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2.html",
-      "published": "2026-07-01"
-    },
-    {
-      "headline": "Meta Is Planning a Cloud Business to Sell AI Computing Power",
-      "source": "bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
-      "published": "2026-07-01"
-    },
-    {
-      "headline": "Meta shares surge on report of new AI cloud business",
-      "source": "techxplore.com",
-      "url": "https://techxplore.com/news/2026-07-meta-surge-ai-cloud-business.html",
-      "published": "2026-07-01"
-    },
-    {
-      "headline": "Meta launches cloud business to sell surplus AI compute capacity",
-      "source": "easternherald.com",
-      "url": "https://easternherald.com/2026/07/01/meta-compute-cloud-business-excess-ai-capacity-coreweave-nebius-2026-2/",
-      "published": "2026-07-01"
-    },
-    {
-      "headline": "Fable 5 Is Back: What Anthropic Gave Up to Get It Returned",
-      "source": "chatforest.com",
-      "url": "https://chatforest.com/builders-log/fable-5-returns-july-1-government-ban-lifted-redeployment-builder-guide/",
-      "published": "2026-07-01"
-    },
-    {
-      "headline": "Anthropic reactivates Fable, Mythos after securing government approval",
-      "source": "cybersecuritydive.com",
-      "url": "https://www.cybersecuritydive.com/news/anthropic-ai-mythos-fable-reenable/824214/",
-      "published": "2026-07-01"
+      "headline": "KI-Themenseite: Google stellt Nano Banana 2 Lite vor, Gemini Omni Flash für Entwickler verfügbar; Bundesregierung plant KI-Taskforce; Microsoft baut erneut Stellen ab; BIZ warnt vor KI-Investitionsblase",
+      "source": "heise.de",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "published": "2026-07-03 (aktualisiert)"
     }
   ],
-  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, den zweiten Juli 2026.\n\n===\n\nDie größte Überraschung des gestrigen Tages kam nicht von einem KI-Labor, sondern von einem sozialen Netzwerk. Bloomberg berichtete am ersten Juli, dass Meta Platforms plant, ein eigenständiges Cloud-Geschäft aufzubauen. Das Projekt trägt den internen Namen Meta Compute und soll gleich auf zwei Wegen funktionieren: Erstens könnten externe Unternehmen über Metas Infrastruktur auf Metas eigene KI-Modelle zugreifen – ähnlich wie Amazon Bedrock das für Drittanbieter-Modelle tut. Zweitens prüft Meta, Rechenkapazität als Rohressource zu verkaufen, vergleichbar mit Spezialanbietern wie CoreWeave.\n\n\nMetas Aktie sprang an der Wall Street um mehr als sechs Prozent nach oben. Bloomberg zufolge will das Unternehmen direkt mit Amazon Web Services, Microsoft Azure und Google Cloud konkurrieren, indem es die überschüssige Rechenkapazität, die es beim Aufbau seiner KI-Ambitionen aufgebaut hat, monetarisiert.\n\n\n\nMeta plant für 2026 allein Investitionen von 115 bis 135 Milliarden Dollar in Rechenzentren und KI-Chips\n – Ausgaben, die Investoren bisher mit Skepsis beäugt haben. \nZuckerberg hat Meta auf das Ziel der Superintelligenz ausgerichtet\n, und nun soll die aufgebaute Infrastruktur auch direkt Geld einbringen. \nDie Ankündigung ließ allerdings die Kurse von CoreWeave und Nebius abstürzen, zwei KI-Cloud-Anbietern, die jeweils milliardenschwere Verträge mit Meta abgeschlossen haben und nun als potenzielle Konkurrenten dastehen.\n\n\nWichtig: \nBloomberg, Reuters und Barrons weisen alle darauf hin, dass die Pläne noch nicht von Meta offiziell bestätigt wurden und sich noch ändern können.\n Noch gibt es weder veröffentlichte Preismodelle noch einen Starttermin. Aber die Richtung ist klar.\n\n===\n\nDirekt Update zu Fable 5: Gestern wurde bereits berichtet, dass das Modell wieder global verfügbar ist. Was wir heute ergänzen: Die Rückkehr von Fable 5 ist mit einer wichtigen Sicherheitsneuerung verbunden, die über Anthropic hinausgeht.\n\n\nAnthropic hat einen neuen Cybersecurity-Klassifikator eingebaut, der den von Amazon gemeldeten Jailbreak in über 99 Prozent der Fälle blockiert – allerdings mit einem Kompromiss: mehr falsch positive Ergebnisse bei normalen Coding-Anfragen.\n\n\nNoch bedeutsamer ist ein gemeinsames Branchenvorhaben: \nDie Vorfälle haben deutlich gemacht, dass die Branche einen einheitlichen Standard für die Bewertung von KI-Jailbreaks braucht. Zusammen mit Amazon, Microsoft, Google und anderen Glasswing-Partnern hat Anthropic begonnen, ein solches gemeinsames Framework zu entwickeln.\n\n\n\nDas vorgeschlagene Framework würde Jailbreaks auf vier Dimensionen bewerten: Wie viel Fähigkeitsgewinn erzielt ein Angreifer, wie breit ist dieser Gewinn über verschiedene Angriffsziele, wie leicht lässt sich die Technik zur Waffe machen – und wie leicht ist sie entdeckbar oder bereits bekannt.\n\n\n\nEin gemeinsamer Schweregrad-Standard würde es Forschern und Unternehmenskunden erlauben, über Jailbreaks so zu sprechen, wie die IT-Sicherheitswelt schon seit Jahren über Software-Schwachstellen mit CVSS-Scores spricht.\n Das wäre ein echter Fortschritt gegenüber dem heutigen Zustand, wo jeder Vorfall politisch und technisch neu verhandelt wird.\n\n===\n\nUnd dann hat Anthropic gestern noch ein neues Modell veröffentlicht: Claude Sonnet 5. \nDas Modell ist Anthropics leistungsstärkstes und agentenorientiertes Mittelklasse-Modell. Es kann eigenständig Pläne schmieden, Browser und Terminals als Werkzeuge nutzen und autonom auf einem Niveau arbeiten, das noch vor wenigen Monaten größeren und teureren Modellen vorbehalten war.\n\n\n\nClaude Sonnet 5 ist als agentischstes Sonnet-Modell bisher konzipiert und kann Pläne erstellen, Werkzeuge wie Browser und Terminals einsetzen und autonom auf einem Level agieren, das früher nur große und teure Modelle erreichten.\n\n\nBesonders interessant ist die Positionierung: \nSonnet 5 verspricht eine Leistung nahe an Opus 4.8, aber zu deutlich niedrigeren Kosten. Ab sofort ist es das Standardmodell für die kostenlosen und Pro-Pläne.\n\n\n\nEs ist außerdem in Claude Code und auf der Claude-Plattform verfügbar, wo es mit einem Einführungspreis von zwei Dollar pro Million Input-Token und zehn Dollar pro Million Output-Token startet – gültig bis zum 31. August 2026, danach steigt der Preis auf drei respektive 15 Dollar.\n\n\n\nAuf der Sicherheitsseite zeigt Sonnet 5 zudem eine niedrigere Rate unerwünschter Verhaltensweisen wie Kooperation bei Missbrauch und Täuschung. Es ist besser darin, schädliche Anfragen abzulehnen und Prompt-Injection-Angriffen standzuhalten, und halluziniert seltener als sein Vorgänger Sonnet 4.6.\n\n\n===\n\nWas bedeutet das zusammengenommen? Der heutige Morgen zeigt: Der Wettbewerb um KI-Infrastruktur und KI-Modelle findet auf immer mehr Ebenen gleichzeitig statt. Meta drückt von der Infrastrukturseite in einen Markt, den bisher Amazon, Microsoft und Google dominierten. Anthropic liefert mit Sonnet 5 ein Modell, das die Grenze zwischen Mittelklasse und Spitzenklasse weiter einreißt. Und die Branche arbeitet – wenn auch noch zaghaft – an gemeinsamen Spielregeln für die Sicherheitsbewertung von Frontier-Modellen.\n\nFür morgen lohnt sich ein Blick darauf, ob Meta offizielle Preisdetails zu Meta Compute veröffentlicht – und wie Konkurrenten wie AWS und Google Cloud darauf reagieren.\n\nDas war dein KI Daily für den zweiten Juli. Bis morgen.",
-  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-02/2026-07-02.mp3",
-  "size_bytes": 4751614
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 3. Juli 2026.\n===\nWir beginnen heute mit einem neuen Muster in der KI-Industrie: Microsoft hat ein eigenes Unternehmen gegründet, das Firmenkunden bei der Einführung von KI helfen soll. Es heißt Microsoft Frontier Company, ist mit zweieinhalb Milliarden Dollar ausgestattet und bringt sechstausend Fachleute mit, die direkt bei Kunden vor Ort arbeiten. Geführt wird die neue Einheit von Rodrigo Kede Lima, der bisher das Asiengeschäft von Microsoft geleitet hat. Damit reagiert Microsoft auf einen Trend, der gerade die ganze Branche erfasst: sogenannte Forward Deployed Engineering-Teams, die Unternehmen bei komplexen KI-Projekten begleiten. Erst zwei Tage zuvor hatte Amazon eine Milliarde Dollar für ein ähnliches Programm angekündigt, und auch OpenAI und Anthropic hatten bereits im Mai eigene Teams dieser Art aufgebaut, teils zusammen mit Beratungen und Banken. Beobachter werten das als Zeichen, dass der eigentliche Engpass bei Unternehmens-KI nicht mehr die Modelle selbst sind, sondern die Umsetzung im Alltag. Auch Beratungen wie Accenture und E Y hatten zuvor bereits Kooperationen mit Microsoft in diesem Bereich angekündigt, was zeigt, wie sehr sich rund um die Einführung von KI in Unternehmen inzwischen ein eigenes, milliardenschweres Geschäftsfeld entwickelt hat.\n===\nAuch aus Washington gibt es Bewegung. Laut einem Bericht verhandelt das Weiße Haus derzeit mit großen KI-Unternehmen über freiwillige Standards und Zeitpläne für die Veröffentlichung neuer Modelle. Dabei soll OpenAI-Chef Sam Altman ein überraschendes Angebot gemacht haben. Details dazu sind noch dünn, aber die Gespräche gelten als so weit fortgeschritten, dass eine Ankündigung schon in den kommenden Tagen möglich erscheint. Es wäre ein weiterer Schritt der US-Regierung, ihren Einfluss auf die Entwicklung von KI-Spitzenmodellen direkt mitzugestalten, nachdem sie zuletzt bereits über Exportkontrollen in die Geschäfte von Anthropic eingegriffen hatte.\n===\nAuch in Deutschland rückt das Thema KI-Politik stärker in den Fokus. Der deutsche Digitalminister sucht in London nach einer Blaupause für ein eigenes KI-Sicherheitsinstitut und will die Zusammenarbeit mit Großbritannien bei der KI-Sicherheit ausbauen. Parallel dazu will die Bundesregierung eine eigene Taskforce zum Thema Künstliche Intelligenz etablieren, weil KI zunehmend auch politisch als strategisches Thema behandelt wird und nicht mehr nur als Technologiefrage. Das zeigt, dass Regulierung und internationale Abstimmung bei KI-Sicherheit auch auf europäischer Ebene an Tempo gewinnen.\n===\nAuf globaler Ebene hat unterdessen ein Wissenschaftsgremium der Vereinten Nationen einen Vorabbericht zur KI-Governance vorgelegt. Das unabhängige internationale wissenschaftliche Panel für Künstliche Intelligenz warnt darin, dass die Regeln für einen sicheren Einsatz von KI mit dem Tempo der technischen Entwicklung nicht mithalten können. Mehr als vierzig Regelwerke und ethische Leitlinien existieren demnach weltweit bereits, sie seien aber fragmentiert, uneinheitlich und selten wirklich auf ihre Wirksamkeit geprüft. Viele Sicherheitsbewertungen würden zudem von den Unternehmen selbst durchgeführt, die die jeweiligen Systeme entwickeln. Der Bericht fließt in den UN Global Dialogue on AI Governance ein, der am sechsten Juli in Genf beginnt und bei dem Mitgliedsstaaten über international abgestimmte Ansätze zur Steuerung der Technologie beraten wollen.\n===\nAuf der Produktseite hat Google zwei neue Werkzeuge vorgestellt. Nano Banana 2 Lite soll Bilder besonders schnell und günstig erzeugen, und Gemini Omni Flash steht ab sofort auch Entwicklerinnen und Entwicklern zur Verfügung. Beide Produkte richten sich vor allem an Anwendungen, bei denen es auf niedrige Kosten und kurze Antwortzeiten ankommt, statt auf maximale Modellgröße. Google folgt damit einem Muster, das derzeit die gesamte Branche prägt: Neben immer größeren Spitzenmodellen wächst parallel ein Markt für kleine, schnelle und günstige Varianten, die sich besser für den Masseneinsatz in Apps und Diensten eignen.\n===\nZum Abschluss noch zwei Randnotizen aus der Branche, die zusammen ein interessantes Bild ergeben. Die Bank für Internationalen Zahlungsausgleich hat vor den Folgen einer möglichen KI-Investitionsblase gewarnt, angesichts der enormen Summen, die derzeit in Rechenzentren und Infrastruktur fließen. Gleichzeitig baut Microsoft an anderer Stelle im Konzern erneut Stellen ab, betroffen sein sollen wieder mehrere tausend Mitarbeitende, wenn auch mit zweieinhalb Prozent ein kleinerer Anteil der Belegschaft als beim letzten Mal. Investition in KI-Umsetzung auf der einen Seite, Vorsicht und Stellenabbau auf der anderen, das dürfte die Branche auch in den kommenden Wochen begleiten.\n===\nDas war dein KI Daily-Briefing für heute. Besonders im Blick behalten solltest du die möglichen Ankündigungen aus Washington zu neuen KI-Standards sowie den Auftakt des UN-Dialogs zur KI-Governance kommende Woche in Genf. Wir hören uns morgen wieder. Bis dahin, alles Gute."
 }
