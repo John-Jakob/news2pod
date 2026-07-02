@@ -1,0 +1,88 @@
+{
+  "title": "KI Daily – 2. Juli 2026: Meta Compute, Sonnet 5, Jailbreak-Standard",
+  "teaser": "Meta überrascht die Märkte mit einem Cloud-Einstieg, Anthropic bringt ein leistungsstarkes neues Mittelklasse-Modell – und der gestrige Fable-5-Neustart hat eine wichtige Sicherheitskomponente, die wir heute genauer einordnen.",
+  "pubDate": "2026-07-02T06:00:00+02:00",
+  "duration_seconds": 395,
+  "model": "claude-sonnet-4-6",
+  "sources": [
+    {
+      "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "published": "2026-06-30"
+    },
+    {
+      "headline": "Introducing Claude Sonnet 5",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "published": "2026-06-30"
+    },
+    {
+      "headline": "Introducing Claude Sonnet 5 on AWS",
+      "source": "aws.amazon.com",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "Claude Fable 5 Returns, Anthropic Launches Sonnet 5",
+      "source": "it-connect.tech",
+      "url": "https://www.it-connect.tech/claude-fable-5-returns-worldwide-as-anthropic-launches-sonnet-5/",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "Claude Fable 5 Returns Globally: New Classifier Blocks Jailbreak",
+      "source": "techtimes.com",
+      "url": "https://www.techtimes.com/articles/319413/20260701/claude-fable-5-returns-globally-new-classifier-blocks-jailbreak-flags-more-code.htm",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "Anthropic Redeploys Fable 5 With Cross-Lab Jailbreak Rubric",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/alerts/anthropic-redeploys-fable-5-with-cross-lab-jailbreak-rubric",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "US lifts export controls on Anthropic's Claude Fable 5, global access resumes",
+      "source": "medianama.com",
+      "url": "https://www.medianama.com/2026/07/223-us-government-anthropic-claude-fable-5-export-controls-lifted/",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "US reverses export restrictions on Anthropic's Fable 5, Mythos 5 AI models",
+      "source": "computerworld.com",
+      "url": "https://www.computerworld.com/article/4191565/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2.html",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "Meta Is Planning a Cloud Business to Sell AI Computing Power",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "Meta shares surge on report of new AI cloud business",
+      "source": "techxplore.com",
+      "url": "https://techxplore.com/news/2026-07-meta-surge-ai-cloud-business.html",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "Meta launches cloud business to sell surplus AI compute capacity",
+      "source": "easternherald.com",
+      "url": "https://easternherald.com/2026/07/01/meta-compute-cloud-business-excess-ai-capacity-coreweave-nebius-2026-2/",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "Fable 5 Is Back: What Anthropic Gave Up to Get It Returned",
+      "source": "chatforest.com",
+      "url": "https://chatforest.com/builders-log/fable-5-returns-july-1-government-ban-lifted-redeployment-builder-guide/",
+      "published": "2026-07-01"
+    },
+    {
+      "headline": "Anthropic reactivates Fable, Mythos after securing government approval",
+      "source": "cybersecuritydive.com",
+      "url": "https://www.cybersecuritydive.com/news/anthropic-ai-mythos-fable-reenable/824214/",
+      "published": "2026-07-01"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, den zweiten Juli 2026.\n\n===\n\nDie größte Überraschung des gestrigen Tages kam nicht von einem KI-Labor, sondern von einem sozialen Netzwerk. Bloomberg berichtete am ersten Juli, dass Meta Platforms plant, ein eigenständiges Cloud-Geschäft aufzubauen. Das Projekt trägt den internen Namen Meta Compute und soll gleich auf zwei Wegen funktionieren: Erstens könnten externe Unternehmen über Metas Infrastruktur auf Metas eigene KI-Modelle zugreifen – ähnlich wie Amazon Bedrock das für Drittanbieter-Modelle tut. Zweitens prüft Meta, Rechenkapazität als Rohressource zu verkaufen, vergleichbar mit Spezialanbietern wie CoreWeave.\n\n\nMetas Aktie sprang an der Wall Street um mehr als sechs Prozent nach oben. Bloomberg zufolge will das Unternehmen direkt mit Amazon Web Services, Microsoft Azure und Google Cloud konkurrieren, indem es die überschüssige Rechenkapazität, die es beim Aufbau seiner KI-Ambitionen aufgebaut hat, monetarisiert.\n\n\n\nMeta plant für 2026 allein Investitionen von 115 bis 135 Milliarden Dollar in Rechenzentren und KI-Chips\n – Ausgaben, die Investoren bisher mit Skepsis beäugt haben. \nZuckerberg hat Meta auf das Ziel der Superintelligenz ausgerichtet\n, und nun soll die aufgebaute Infrastruktur auch direkt Geld einbringen. \nDie Ankündigung ließ allerdings die Kurse von CoreWeave und Nebius abstürzen, zwei KI-Cloud-Anbietern, die jeweils milliardenschwere Verträge mit Meta abgeschlossen haben und nun als potenzielle Konkurrenten dastehen.\n\n\nWichtig: \nBloomberg, Reuters und Barrons weisen alle darauf hin, dass die Pläne noch nicht von Meta offiziell bestätigt wurden und sich noch ändern können.\n Noch gibt es weder veröffentlichte Preismodelle noch einen Starttermin. Aber die Richtung ist klar.\n\n===\n\nDirekt Update zu Fable 5: Gestern wurde bereits berichtet, dass das Modell wieder global verfügbar ist. Was wir heute ergänzen: Die Rückkehr von Fable 5 ist mit einer wichtigen Sicherheitsneuerung verbunden, die über Anthropic hinausgeht.\n\n\nAnthropic hat einen neuen Cybersecurity-Klassifikator eingebaut, der den von Amazon gemeldeten Jailbreak in über 99 Prozent der Fälle blockiert – allerdings mit einem Kompromiss: mehr falsch positive Ergebnisse bei normalen Coding-Anfragen.\n\n\nNoch bedeutsamer ist ein gemeinsames Branchenvorhaben: \nDie Vorfälle haben deutlich gemacht, dass die Branche einen einheitlichen Standard für die Bewertung von KI-Jailbreaks braucht. Zusammen mit Amazon, Microsoft, Google und anderen Glasswing-Partnern hat Anthropic begonnen, ein solches gemeinsames Framework zu entwickeln.\n\n\n\nDas vorgeschlagene Framework würde Jailbreaks auf vier Dimensionen bewerten: Wie viel Fähigkeitsgewinn erzielt ein Angreifer, wie breit ist dieser Gewinn über verschiedene Angriffsziele, wie leicht lässt sich die Technik zur Waffe machen – und wie leicht ist sie entdeckbar oder bereits bekannt.\n\n\n\nEin gemeinsamer Schweregrad-Standard würde es Forschern und Unternehmenskunden erlauben, über Jailbreaks so zu sprechen, wie die IT-Sicherheitswelt schon seit Jahren über Software-Schwachstellen mit CVSS-Scores spricht.\n Das wäre ein echter Fortschritt gegenüber dem heutigen Zustand, wo jeder Vorfall politisch und technisch neu verhandelt wird.\n\n===\n\nUnd dann hat Anthropic gestern noch ein neues Modell veröffentlicht: Claude Sonnet 5. \nDas Modell ist Anthropics leistungsstärkstes und agentenorientiertes Mittelklasse-Modell. Es kann eigenständig Pläne schmieden, Browser und Terminals als Werkzeuge nutzen und autonom auf einem Niveau arbeiten, das noch vor wenigen Monaten größeren und teureren Modellen vorbehalten war.\n\n\n\nClaude Sonnet 5 ist als agentischstes Sonnet-Modell bisher konzipiert und kann Pläne erstellen, Werkzeuge wie Browser und Terminals einsetzen und autonom auf einem Level agieren, das früher nur große und teure Modelle erreichten.\n\n\nBesonders interessant ist die Positionierung: \nSonnet 5 verspricht eine Leistung nahe an Opus 4.8, aber zu deutlich niedrigeren Kosten. Ab sofort ist es das Standardmodell für die kostenlosen und Pro-Pläne.\n\n\n\nEs ist außerdem in Claude Code und auf der Claude-Plattform verfügbar, wo es mit einem Einführungspreis von zwei Dollar pro Million Input-Token und zehn Dollar pro Million Output-Token startet – gültig bis zum 31. August 2026, danach steigt der Preis auf drei respektive 15 Dollar.\n\n\n\nAuf der Sicherheitsseite zeigt Sonnet 5 zudem eine niedrigere Rate unerwünschter Verhaltensweisen wie Kooperation bei Missbrauch und Täuschung. Es ist besser darin, schädliche Anfragen abzulehnen und Prompt-Injection-Angriffen standzuhalten, und halluziniert seltener als sein Vorgänger Sonnet 4.6.\n\n\n===\n\nWas bedeutet das zusammengenommen? Der heutige Morgen zeigt: Der Wettbewerb um KI-Infrastruktur und KI-Modelle findet auf immer mehr Ebenen gleichzeitig statt. Meta drückt von der Infrastrukturseite in einen Markt, den bisher Amazon, Microsoft und Google dominierten. Anthropic liefert mit Sonnet 5 ein Modell, das die Grenze zwischen Mittelklasse und Spitzenklasse weiter einreißt. Und die Branche arbeitet – wenn auch noch zaghaft – an gemeinsamen Spielregeln für die Sicherheitsbewertung von Frontier-Modellen.\n\nFür morgen lohnt sich ein Blick darauf, ob Meta offizielle Preisdetails zu Meta Compute veröffentlicht – und wie Konkurrenten wie AWS und Google Cloud darauf reagieren.\n\nDas war dein KI Daily für den zweiten Juli. Bis morgen."
+}

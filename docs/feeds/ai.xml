@@ -19,6 +19,49 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 2. Juli 2026: Meta Compute, Sonnet 5, Jailbreak-Standard</title>
+      <description><![CDATA[<p>Meta überrascht die Märkte mit einem Cloud-Einstieg, Anthropic bringt ein leistungsstarkes neues Mittelklasse-Modell – und der gestrige Fable-5-Neustart hat eine wichtige Sicherheitskomponente, die wir heute genauer einordnen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/">Anthropic launches Claude Sonnet 5 as a cheaper way to run agents</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.anthropic.com/news/claude-sonnet-5">Introducing Claude Sonnet 5</a> <em>(anthropic.com)</em></li>
+<li><a href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/">Introducing Claude Sonnet 5 on AWS</a> <em>(aws.amazon.com)</em></li>
+<li><a href="https://www.it-connect.tech/claude-fable-5-returns-worldwide-as-anthropic-launches-sonnet-5/">Claude Fable 5 Returns, Anthropic Launches Sonnet 5</a> <em>(it-connect.tech)</em></li>
+<li><a href="https://www.techtimes.com/articles/319413/20260701/claude-fable-5-returns-globally-new-classifier-blocks-jailbreak-flags-more-code.htm">Claude Fable 5 Returns Globally: New Classifier Blocks Jailbreak</a> <em>(techtimes.com)</em></li>
+<li><a href="https://aiweekly.co/alerts/anthropic-redeploys-fable-5-with-cross-lab-jailbreak-rubric">Anthropic Redeploys Fable 5 With Cross-Lab Jailbreak Rubric</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://www.medianama.com/2026/07/223-us-government-anthropic-claude-fable-5-export-controls-lifted/">US lifts export controls on Anthropic's Claude Fable 5, global access resumes</a> <em>(medianama.com)</em></li>
+<li><a href="https://www.computerworld.com/article/4191565/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2.html">US reverses export restrictions on Anthropic's Fable 5, Mythos 5 AI models</a> <em>(computerworld.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">Meta Is Planning a Cloud Business to Sell AI Computing Power</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://techxplore.com/news/2026-07-meta-surge-ai-cloud-business.html">Meta shares surge on report of new AI cloud business</a> <em>(techxplore.com)</em></li>
+<li><a href="https://easternherald.com/2026/07/01/meta-compute-cloud-business-excess-ai-capacity-coreweave-nebius-2026-2/">Meta launches cloud business to sell surplus AI compute capacity</a> <em>(easternherald.com)</em></li>
+<li><a href="https://chatforest.com/builders-log/fable-5-returns-july-1-government-ban-lifted-redeployment-builder-guide/">Fable 5 Is Back: What Anthropic Gave Up to Get It Returned</a> <em>(chatforest.com)</em></li>
+<li><a href="https://www.cybersecuritydive.com/news/anthropic-ai-mythos-fable-reenable/824214/">Anthropic reactivates Fable, Mythos after securing government approval</a> <em>(cybersecuritydive.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Meta überrascht die Märkte mit einem Cloud-Einstieg, Anthropic bringt ein leistungsstarkes neues Mittelklasse-Modell – und der gestrige Fable-5-Neustart hat eine wichtige Sicherheitskomponente, die wir heute genauer einordnen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/">Anthropic launches Claude Sonnet 5 as a cheaper way to run agents</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.anthropic.com/news/claude-sonnet-5">Introducing Claude Sonnet 5</a> <em>(anthropic.com)</em></li>
+<li><a href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/">Introducing Claude Sonnet 5 on AWS</a> <em>(aws.amazon.com)</em></li>
+<li><a href="https://www.it-connect.tech/claude-fable-5-returns-worldwide-as-anthropic-launches-sonnet-5/">Claude Fable 5 Returns, Anthropic Launches Sonnet 5</a> <em>(it-connect.tech)</em></li>
+<li><a href="https://www.techtimes.com/articles/319413/20260701/claude-fable-5-returns-globally-new-classifier-blocks-jailbreak-flags-more-code.htm">Claude Fable 5 Returns Globally: New Classifier Blocks Jailbreak</a> <em>(techtimes.com)</em></li>
+<li><a href="https://aiweekly.co/alerts/anthropic-redeploys-fable-5-with-cross-lab-jailbreak-rubric">Anthropic Redeploys Fable 5 With Cross-Lab Jailbreak Rubric</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://www.medianama.com/2026/07/223-us-government-anthropic-claude-fable-5-export-controls-lifted/">US lifts export controls on Anthropic's Claude Fable 5, global access resumes</a> <em>(medianama.com)</em></li>
+<li><a href="https://www.computerworld.com/article/4191565/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2.html">US reverses export restrictions on Anthropic's Fable 5, Mythos 5 AI models</a> <em>(computerworld.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">Meta Is Planning a Cloud Business to Sell AI Computing Power</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://techxplore.com/news/2026-07-meta-surge-ai-cloud-business.html">Meta shares surge on report of new AI cloud business</a> <em>(techxplore.com)</em></li>
+<li><a href="https://easternherald.com/2026/07/01/meta-compute-cloud-business-excess-ai-capacity-coreweave-nebius-2026-2/">Meta launches cloud business to sell surplus AI compute capacity</a> <em>(easternherald.com)</em></li>
+<li><a href="https://chatforest.com/builders-log/fable-5-returns-july-1-government-ban-lifted-redeployment-builder-guide/">Fable 5 Is Back: What Anthropic Gave Up to Get It Returned</a> <em>(chatforest.com)</em></li>
+<li><a href="https://www.cybersecuritydive.com/news/anthropic-ai-mythos-fable-reenable/824214/">Anthropic reactivates Fable, Mythos after securing government approval</a> <em>(cybersecuritydive.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Meta überrascht die Märkte mit einem Cloud-Einstieg, Anthropic bringt ein leistungsstarkes neues Mittelklasse-Modell – und der gestrige Fable-5-Neustart hat eine wichtige Sicherheitskomponente, die wir heute genauer einordnen.</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-02</guid>
+      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-07-02.mp3" length="4751614" type="audio/mpeg"/>
+      <itunes:duration>6:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 1. Juli 2026: Fable 5 frei, GPT-5.6, Claude Science, Meituan</title>
       <description><![CDATA[<p>Anthropics Fable 5 kehrt heute nach fast drei Wochen erzwungener Pause zurück. Dazu: OpenAI zeigt seine neue Modell-Generation GPT-5.6, Anthropic eröffnet eine KI-Werkbank für Wissenschaftler, und Chinas Meituan trainiert ein Billionen-Parameter-Modell ohne einzige Nvidia-GPU.</p>
 <p><strong>Heutige Quellen:</strong></p>
