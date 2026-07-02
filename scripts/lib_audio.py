@@ -26,10 +26,10 @@ def split_script(script: str) -> list[str]:
 
 
 def _make_silence_wav(ffmpeg: str, dst: Path, seconds: float) -> None:
-    """Stereo-WAV mit Stille der gewünschten Länge."""
+    """Mono-WAV mit Stille der gewünschten Länge."""
     subprocess.run(
         [ffmpeg, "-y", "-loglevel", "error",
-         "-f", "lavfi", "-i", f"anullsrc=channel_layout=stereo:sample_rate={SAMPLE_RATE}",
+         "-f", "lavfi", "-i", f"anullsrc=channel_layout=mono:sample_rate={SAMPLE_RATE}",
          "-t", f"{seconds:.3f}",
          "-c:a", "pcm_s16le",
          str(dst)],
@@ -38,14 +38,15 @@ def _make_silence_wav(ffmpeg: str, dst: Path, seconds: float) -> None:
 
 
 def _normalize_to_wav(ffmpeg: str, src: Path, dst: Path) -> None:
-    """Wandelt einen TTS-Chunk in normiertes WAV (stereo, 44.1 kHz, 16-bit) um.
+    """Wandelt einen TTS-Chunk in normiertes WAV (mono, 44.1 kHz, 16-bit) um.
+    Sprache ist mono; das spart ~1/3 Dateigröße gegenüber Stereo.
     Akzeptiert MP3/WAV/PCM-Inputs. Bei reinem PCM brauchen wir extra-Argumente."""
     is_raw_pcm = src.suffix == ".pcm"
     cmd = [ffmpeg, "-y", "-loglevel", "error"]
     if is_raw_pcm:
         cmd += ["-f", "s16le", "-ar", str(SAMPLE_RATE), "-ac", "1"]
     cmd += ["-i", str(src),
-            "-ar", str(SAMPLE_RATE), "-ac", "2",
+            "-ar", str(SAMPLE_RATE), "-ac", "1",
             "-c:a", "pcm_s16le",
             str(dst)]
     subprocess.run(cmd, check=True)
@@ -66,7 +67,7 @@ def _concat_and_encode(ffmpeg: str, parts: list[Path], silence: Path,
         [ffmpeg, "-y", "-loglevel", "error",
          "-f", "concat", "-safe", "0", "-i", str(list_file),
          "-af", af,
-         "-c:a", "libmp3lame", "-b:a", "96k", "-ar", str(SAMPLE_RATE), "-ac", "2",
+         "-c:a", "libmp3lame", "-b:a", "64k", "-ar", str(SAMPLE_RATE), "-ac", "1",
          str(out_path)],
         check=True,
     )

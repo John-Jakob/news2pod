@@ -20,15 +20,21 @@ on:
         required: false
         default: false
 
+# Nie zwei Builds gleichzeitig (4 Trigger-Quellen: cron-job.org, 3 GH-Cron-Slots,
+# Heartbeat, manuell). Zweiter Run wartet, findet die Folge dann vor und skippt.
+concurrency:
+  group: daily-build
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           cache: 'pip'
@@ -45,6 +51,7 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           PODCAST_BASE_URL: ${{ vars.PODCAST_BASE_URL }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TOPIC_INPUT: ${{ github.event.inputs.topic }}
           FORCE_INPUT: ${{ github.event.inputs.force }}
         run: |
@@ -69,6 +76,7 @@ jobs:
             echo "Keine Änderungen."
           else
             git commit -m "daily episode $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           fi
 

@@ -57,7 +57,7 @@
       <itunes:summary>Meta überrascht die Märkte mit einem Cloud-Einstieg, Anthropic bringt ein leistungsstarkes neues Mittelklasse-Modell – und der gestrige Fable-5-Neustart hat eine wichtige Sicherheitskomponente, die wir heute genauer einordnen.</itunes:summary>
       <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-07-02</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-07-02.mp3" length="4751614" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-02/2026-07-02.mp3" length="4751614" type="audio/mpeg"/>
       <itunes:duration>6:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -100,7 +100,7 @@
       <itunes:summary>Anthropics Fable 5 kehrt heute nach fast drei Wochen erzwungener Pause zurück. Dazu: OpenAI zeigt seine neue Modell-Generation GPT-5.6, Anthropic eröffnet eine KI-Werkbank für Wissenschaftler, und Chinas Meituan trainiert ein Billionen-Parameter-Modell ohne einzige Nvidia-GPU.</itunes:summary>
       <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-07-01</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-07-01.mp3" length="6225860" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-01/2026-07-01.mp3" length="6225860" type="audio/mpeg"/>
       <itunes:duration>8:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -141,7 +141,7 @@
       <itunes:summary>Heute ist ein historischer Tag für die KI-Branche: Googles Gemini 3.5 Pro verpasst seinen Starttermin, der erste GitHub-Copilot-Abrechnungsmonat mit Verbrauchspreisen endet – und in Colorado tritt ein neues KI-Gesetz in Kraft. Das sind die größten Storys zum Abschluss des wichtigsten KI-Monats der Geschichte.</itunes:summary>
       <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-30</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-30.mp3" length="6229308" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-30/2026-06-30.mp3" length="6229308" type="audio/mpeg"/>
       <itunes:duration>8:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -168,7 +168,7 @@
       <itunes:summary>Coinbase halbiert seine KI-Kosten durch den Wechsel auf chinesische Modelle – und das ausgerechnet kurz vor den geplanten Börsengängen von OpenAI und Anthropic. Dazu: Eine neue Princeton-Studie zeigt, dass die meisten KI-Agenten als Unternehmenslenker kläglich scheitern.</itunes:summary>
       <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-29</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-29.mp3" length="4482970" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-29/2026-06-29.mp3" length="4482970" type="audio/mpeg"/>
       <itunes:duration>6:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -201,7 +201,7 @@
       <itunes:summary>OpenAI verabschiedet die letzte GPT-4-Generation aus ChatGPT – und kämpft gleichzeitig mit Anthropic um Marktanteile und Tokenpreise, bevor beide Unternehmen an die Börse gehen. Dazu: Warum kein einziges Flaggschiff-Modell den Juni überlebt hat.</itunes:summary>
       <pubDate>Sun, 28 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-28</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-28.mp3" length="4972923" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-28/2026-06-28.mp3" length="4972923" type="audio/mpeg"/>
       <itunes:duration>6:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -240,7 +240,7 @@
       <itunes:summary>OpenAI stellt GPT-5.6 vor – drei neue Modelle, aber die US-Regierung entscheidet, wer sie nutzen darf. Und Anthropic feiert einen Teilerfolg: Claude Mythos 5 ist nach zwei Wochen Zwangspause wieder freigegeben – für rund hundert ausgewählte US-Institutionen.</itunes:summary>
       <pubDate>Sat, 27 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-27</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-27.mp3" length="4866970" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-27/2026-06-27.mp3" length="4866970" type="audio/mpeg"/>
       <itunes:duration>6:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -281,7 +281,7 @@
       <itunes:summary>Google verliert in sechs Tagen vier Top-Forscher an die Konkurrenz und reorganisiert notfallmäßig sein KI-Coding-Team. Anthropic wirft Alibaba den größten Modell-Klau der Geschichte vor – und Amerikas Tech-Riesen schließen sich zusammen, um den KI-Jobschock abzufedern.</itunes:summary>
       <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-26</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-26.mp3" length="5445321" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-26/2026-06-26.mp3" length="5445321" type="audio/mpeg"/>
       <itunes:duration>7:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -316,7 +316,7 @@
       <itunes:summary>Google verschiebt Gemini 3.5 Pro offiziell auf Juli – ausgerechnet jetzt, da die Talentabwanderung zu OpenAI und Anthropic den Druck maximiert. Und auch GPT-5.6 lässt auf sich warten: Die Wettmärkte sind kollabiert.</itunes:summary>
       <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-25</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-25.mp3" length="4415574" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-25/2026-06-25.mp3" length="4415574" type="audio/mpeg"/>
       <itunes:duration>6:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -353,7 +353,7 @@
       <itunes:summary>Alphabet verliert zwei seiner wichtigsten KI-Forscher an OpenAI und Anthropic – und büßt über 250 Milliarden Dollar Börsenwert ein. Dazu: SpaceX verdient Milliarden als KI-Infrastruktur-Vermieter, OpenAI will die Welt mit KI absichern, und Getty Images macht Frieden mit ChatGPT.</itunes:summary>
       <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-24</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-24.mp3" length="5773524" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-24/2026-06-24.mp3" length="5773524" type="audio/mpeg"/>
       <itunes:duration>8:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -386,7 +386,7 @@
       <itunes:summary>Samsung schickt ChatGPT und Codex zu Hunderttausenden Mitarbeitern – einer der größten KI-Enterprise-Deals aller Zeiten. Außerdem: Die Five Eyes schlagen Alarm wegen KI-Cyberrisiken, ein brisantes NSA-Update im Anthropic-Fall und GPT-5.6 steht wohl kurz vor dem Start.</itunes:summary>
       <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-23</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-23.mp3" length="4869165" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-23/2026-06-23.mp3" length="4869165" type="audio/mpeg"/>
       <itunes:duration>6:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -423,7 +423,7 @@
       <itunes:summary>Zehn Tage nach dem US-Exportbann trifft Anthropic-Chef Dario Amodei die Trump-Regierung – ohne Ergebnis. Dazu: Sam Altman rechnet bei Stanford mit LLM-Kritikern ab, OpenAI legt seine Q1-Zahlen offen, und die EU kürt ihren Gewinner im Wettbewerb um ein europäisches Frontier-Modell.</itunes:summary>
       <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-22</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-22.mp3" length="5550334" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-22/2026-06-22.mp3" length="5550334" type="audio/mpeg"/>
       <itunes:duration>7:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -464,7 +464,7 @@
       <itunes:summary>Norwegen macht ernst und verbannt generative KI aus den Grundschulen. Außerdem: Das Tokenmaxxing-Debakel erschüttert die Unternehmenskassen – und bei Anthropics gesperrten Modellen gibt es ein erstes Lebenszeichen.</itunes:summary>
       <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-21</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-21.mp3" length="6058467" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-21/2026-06-21.mp3" length="6058467" type="audio/mpeg"/>
       <itunes:duration>8:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -499,7 +499,7 @@
       <itunes:summary>Innerhalb von nur zwei Tagen verliert Google zwei seiner wichtigsten KI-Köpfe: Noam Shazeer wechselt zu OpenAI, Nobelpreisträger John Jumper zu Anthropic. Dazu: kein Ende des Fable-5-Banns, und ein deutsches Gericht zwingt Google zur Berufung.</itunes:summary>
       <pubDate>Sat, 20 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-20</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-20.mp3" length="4675440" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-20/2026-06-20.mp3" length="4675440" type="audio/mpeg"/>
       <itunes:duration>6:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -534,7 +534,7 @@
       <itunes:summary>Anthropic eröffnet sein Seoul-Büro inmitten des laufenden Exportstreits – und signalisiert: Die Sperre könnte bald fallen. Dazu: SpaceX kauft Cursor für sechzig Milliarden Dollar, China liefert einen mächtigen Open-Source-Konkurrenten, und OpenAI behauptet, ChatGPT beantworte Gesundheitsfragen besser als Ärzte.</itunes:summary>
       <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-19</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-19.mp3" length="5096743" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-19/2026-06-19.mp3" length="5096743" type="audio/mpeg"/>
       <itunes:duration>7:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -567,7 +567,7 @@
       <itunes:summary>Der G7-Gipfel in Évian endet mit einem historischen Moment: Zum ersten Mal sitzen KI-CEOs mit Staatschefs am Tisch – und fordern eine US-geführte internationale KI-Allianz. Außerdem: Warum Microsoft für seinen KI-Assistenten ausgerechnet auf ein chinesisches Modell setzen könnte – und warum Analysten beim billionenschweren Infrastrukturrennen der Techkonzerne die Bremse ziehen.</itunes:summary>
       <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-18</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-18.mp3" length="4744404" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-18/2026-06-18.mp3" length="4744404" type="audio/mpeg"/>
       <itunes:duration>6:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -602,7 +602,7 @@
       <itunes:summary>Der G7-Gipfel in Évian endet heute – mit KI ganz oben auf der Agenda. Dazu: Das US-Justizministerium stellt sich hinter Elon Musks xAI, und DeepSeek schreibt mit seiner ersten Finanzierungsrunde Geschichte.</itunes:summary>
       <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-17</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-17.mp3" length="5457233" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-17/2026-06-17.mp3" length="5457233" type="audio/mpeg"/>
       <itunes:duration>7:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -643,7 +643,7 @@
       <itunes:summary>Während der G7-Gipfel in Évian in seinen zweiten Tag geht und KI-Chefs an einem Tisch mit Weltführern sitzen, verhandelt Anthropic in Washington um die Rückkehr seiner gesperrten Modelle. Dazu: scharfe Worte aus Brüssel und ein peinlicher Rückzieher von KPMG.</itunes:summary>
       <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-16</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-16.mp3" length="5501746" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-16/2026-06-16.mp3" length="5501746" type="audio/mpeg"/>
       <itunes:duration>7:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -682,7 +682,7 @@
       <itunes:summary>Der G7-Gipfel in Évian hat heute begonnen — und KI ist sofort mitten im Geschehen. Kanadas Premier Carney schlägt Alarm wegen der Anthropic-Sperre, OpenAI baut sein Unternehmens-Ökosystem aus, und die US-Regierung setzt ChatGPT im Kampf gegen Gesundheitsbetrug ein.</itunes:summary>
       <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-15</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-15.mp3" length="4644720" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-15/2026-06-15.mp3" length="4644720" type="audio/mpeg"/>
       <itunes:duration>6:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -727,7 +727,7 @@
       <itunes:summary>Die US-Regierung hat Anthropics stärkste KI-Modelle über Nacht abgeschaltet – ein Präzedenzfall. Dazu: der G7-Gipfel in Évian startet morgen mit KI auf der Agenda, der Bundestag beschließt Deutschlands KI-Gesetz, und ein deutsches Startup sammelt die größte Robotik-Finanzierungsrunde aller Zeiten ein.</itunes:summary>
       <pubDate>Sun, 14 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-14</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-14.mp3" length="6291375" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-14/2026-06-14.mp3" length="6291375" type="audio/mpeg"/>
       <itunes:duration>8:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -766,7 +766,7 @@
       <itunes:summary>Drei KI-Chefs beim G7-Gipfel, SpaceX legt an seinem ersten Handelstag um neunzehn Prozent zu, und ein deutsches Polit-Skandälchen um KI-generierte Reden sorgt für Debatten. Dazu: Chinas gewaltige KI-Infrastrukturpläne und die große Börsen-IPO-Welle.</itunes:summary>
       <pubDate>Sat, 13 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-13</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-13.mp3" length="4703026" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-13/2026-06-13.mp3" length="4703026" type="audio/mpeg"/>
       <itunes:duration>6:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -803,7 +803,7 @@
       <itunes:summary>Heute ist der Tag: SpaceX startet als größter Börsengang der Geschichte an der Nasdaq. Dazu: Anthropics neues Topmodell Claude Fable 5, Googles Gemini 3.5 Pro lässt weiter auf sich warten — und der EU AI Act zählt die Wochen bis zum Stichtag.</itunes:summary>
       <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-12</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-12.mp3" length="5758477" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-12/2026-06-12.mp3" length="5758477" type="audio/mpeg"/>
       <itunes:duration>7:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -842,7 +842,7 @@
       <itunes:summary>Heute ist IPO-Tag bei SpaceX: Der Preis steht, morgen beginnt der Handel. Dazu: Google veröffentlicht ein radikal schnelleres KI-Modell mit einem völlig anderen Architekturansatz, Anthropic kämpft mit Guardrail-Kritik und OpenAI besiegelt einen Enterprise-Deal mit Oracle.</itunes:summary>
       <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-11</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-11.mp3" length="5418363" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-11/2026-06-11.mp3" length="5418363" type="audio/mpeg"/>
       <itunes:duration>7:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -885,7 +885,7 @@
       <itunes:summary>Apple und die EU streiten ums Siri-KI-Update, SpaceX schreibt mit über 250 Milliarden Dollar Nachfrage Börsengeschichte, die EU zwingt WhatsApp zur KI-Öffnung – und OpenAI will das Chat-Zeitalter hinter sich lassen.</itunes:summary>
       <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-10</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-10.mp3" length="6061916" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-10/2026-06-10.mp3" length="6061916" type="audio/mpeg"/>
       <itunes:duration>8:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -922,7 +922,7 @@
       <itunes:summary>Apple enthüllt bei der WWDC eine komplett neu gebaute Siri auf Gemini-Basis — und gleichzeitig reicht OpenAI vertraulich seinen Börsengang-Antrag ein. Der KI-IPO-Sommer nimmt Fahrt auf.</itunes:summary>
       <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-09</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-09.mp3" length="4735313" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-09/2026-06-09.mp3" length="4735313" type="audio/mpeg"/>
       <itunes:duration>6:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -961,7 +961,7 @@
       <itunes:summary>Heute startet Apples WWDC mit Tim Cooks letztem KI-Versprechen. Dazu: Warum Washingtons KI-Zar sagt, KI sei das neue Klimathema – und wie Bernie Sanders die Tech-Giganten halb verstaatlichen will.</itunes:summary>
       <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-08</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-08.mp3" length="5049096" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-08/2026-06-08.mp3" length="5049096" type="audio/mpeg"/>
       <itunes:duration>7:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -994,7 +994,7 @@
       <itunes:summary>SpaceX wird zum mächtigsten KI-Rechenzentrum der Welt – Google zahlt fast eine Milliarde Dollar im Monat. Dazu: Die US-Regierung verhandelt eine Beteiligung an OpenAI, und Elon Musks xAI hat monatelang heimlich Claudes KI für eigene Modelle genutzt.</itunes:summary>
       <pubDate>Sun, 07 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-07</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-07.mp3" length="5365387" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-07/2026-06-07.mp3" length="5365387" type="audio/mpeg"/>
       <itunes:duration>7:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -1031,7 +1031,7 @@
       <itunes:summary>Der US-Kongress wagt sich an ein nationales KI-Gesetz – und löst damit eine heftige Debatte aus. Dazu: Anthropic reicht vertraulich seinen Börsenprospekt ein, während SpaceX in weniger als einer Woche sein historisches IPO anpeilt.</itunes:summary>
       <pubDate>Sat, 06 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-06</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-06.mp3" length="4918379" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-06/2026-06-06.mp3" length="4918379" type="audio/mpeg"/>
       <itunes:duration>6:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -1074,7 +1074,7 @@
       <itunes:summary>OpenAI macht ChatGPT heute mit dem neuen „Dreaming V3"-Speicher deutlich persönlicher — auch für Gratis-Nutzer. Dazu: Die EU schlägt zurück gegen Abhängigkeiten von US-Tech, und der SpaceX-Börsengang nimmt Fahrt auf.</itunes:summary>
       <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-05</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-05.mp3" length="5713338" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-05/2026-06-05.mp3" length="5713338" type="audio/mpeg"/>
       <itunes:duration>7:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -1113,7 +1113,7 @@
       <itunes:summary>SpaceX startet heute seinen Investoren-Roadshow für den größten Börsengang der US-Geschichte – mit xAI im Gepäck. Dazu: Anthropic enthüllt die erste vollautonome KI-Cyberattacke, Sam Altman lobbiert in Washington, und Google bringt multimodale KI auf den Laptop.</itunes:summary>
       <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-04</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-04.mp3" length="5488580" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-04/2026-06-04.mp3" length="5488580" type="audio/mpeg"/>
       <itunes:duration>7:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -1160,282 +1160,8 @@
       <itunes:summary>Trump unterzeichnet eine historische KI-Sicherheits-Verordnung, Microsoft präsentiert auf der Build-Konferenz gleich sieben neue KI-Modelle, und Florida zieht als erster US-Bundesstaat gegen OpenAI und Sam Altman vor Gericht. Dazu: Anthropic rast mit einem Börsengangantrag auf die Zielgerade.</itunes:summary>
       <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-06-03</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-03.mp3" length="5729638" type="audio/mpeg"/>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-03/2026-06-03.mp3" length="5729638" type="audio/mpeg"/>
       <itunes:duration>7:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 2. Juni 2026: Copilot-Schock &amp; KI als Cyberwaffe</title>
-      <description><![CDATA[<p>GitHub Copilot schaltet heute auf tokenbasierte Abrechnung um – und viele Entwickler sind entsetzt über explodierenden Kosten. Dazu: Der Financial-Times-Bericht über Iran und westliche KI-Modelle, Google Gemini 3.5 Pro im Anflug und Meta startet seine ersten KI-Abonnements.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">GitHub Copilot Is Moving to Usage-Based Billing</a> <em>(github.blog)</em></li>
-<li><a href="https://techjournal.org/github-copilot-token-billing-backlash">GitHub Copilot Token Billing Starts Today: Devs Report 10x-50x Cost Increases</a> <em>(techjournal.org)</em></li>
-<li><a href="https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/">'What a joke': GitHub Copilot's new token-based billing spurs consternation among devs</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://dataconomy.com/2026/06/01/github-copilot-token-pricing-backlash/">Microsoft Switches GitHub Copilot To Usage-based AI Token Billing</a> <em>(dataconomy.com)</em></li>
-<li><a href="https://www.techmeme.com/260531/p10">Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran's cyber operations</a> <em>(techmeme.com (via Financial Times))</em></li>
-<li><a href="https://www.implicator.ai/iran-turns-western-ai-models-into-a-sanctions-workaround/">Iran Uses Western AI to Stretch Cyber Arsenal</a> <em>(implicator.ai)</em></li>
-<li><a href="https://ai.google.dev/gemini-api/docs/changelog">Gemini 3.5 Flash – Google API Release Notes</a> <em>(ai.google.dev)</em></li>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Gemini 3.5: frontier intelligence with action</a> <em>(blog.google)</em></li>
-<li><a href="https://cryptobriefing.com/meta-ai-subscriptions-openai-ad-rivalry/">Meta plans AI subscriptions as rivals like OpenAI target its ad business</a> <em>(cryptobriefing.com)</em></li>
-<li><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">OpenAI ChatGPT Release Notes – Codex for Students, Goal Mode GA</a> <em>(help.openai.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>GitHub Copilot schaltet heute auf tokenbasierte Abrechnung um – und viele Entwickler sind entsetzt über explodierenden Kosten. Dazu: Der Financial-Times-Bericht über Iran und westliche KI-Modelle, Google Gemini 3.5 Pro im Anflug und Meta startet seine ersten KI-Abonnements.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">GitHub Copilot Is Moving to Usage-Based Billing</a> <em>(github.blog)</em></li>
-<li><a href="https://techjournal.org/github-copilot-token-billing-backlash">GitHub Copilot Token Billing Starts Today: Devs Report 10x-50x Cost Increases</a> <em>(techjournal.org)</em></li>
-<li><a href="https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/">'What a joke': GitHub Copilot's new token-based billing spurs consternation among devs</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://dataconomy.com/2026/06/01/github-copilot-token-pricing-backlash/">Microsoft Switches GitHub Copilot To Usage-based AI Token Billing</a> <em>(dataconomy.com)</em></li>
-<li><a href="https://www.techmeme.com/260531/p10">Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran's cyber operations</a> <em>(techmeme.com (via Financial Times))</em></li>
-<li><a href="https://www.implicator.ai/iran-turns-western-ai-models-into-a-sanctions-workaround/">Iran Uses Western AI to Stretch Cyber Arsenal</a> <em>(implicator.ai)</em></li>
-<li><a href="https://ai.google.dev/gemini-api/docs/changelog">Gemini 3.5 Flash – Google API Release Notes</a> <em>(ai.google.dev)</em></li>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Gemini 3.5: frontier intelligence with action</a> <em>(blog.google)</em></li>
-<li><a href="https://cryptobriefing.com/meta-ai-subscriptions-openai-ad-rivalry/">Meta plans AI subscriptions as rivals like OpenAI target its ad business</a> <em>(cryptobriefing.com)</em></li>
-<li><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">OpenAI ChatGPT Release Notes – Codex for Students, Goal Mode GA</a> <em>(help.openai.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>GitHub Copilot schaltet heute auf tokenbasierte Abrechnung um – und viele Entwickler sind entsetzt über explodierenden Kosten. Dazu: Der Financial-Times-Bericht über Iran und westliche KI-Modelle, Google Gemini 3.5 Pro im Anflug und Meta startet seine ersten KI-Abonnements.</itunes:summary>
-      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-02</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-02.mp3" length="5580113" type="audio/mpeg"/>
-      <itunes:duration>7:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 1. Juni 2026: Codex greift zu &amp; KI-Kostenrealität</title>
-      <description><![CDATA[<p>OpenAI lässt seinen Codex-Agenten jetzt autonom Windows-PCs bedienen – während Microsoft gleichzeitig Anthropics Claude Code aus dem eigenen Haus wirft. Dazu: CNN verklagt Perplexity, und Groupon entlässt ein Viertel der Belegschaft im Namen der KI.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/">OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://developers.openai.com/codex/changelog">OpenAI Codex Computer Use and mobile access on Windows – Changelog</a> <em>(developers.openai.com)</em></li>
-<li><a href="https://www.windowscentral.com/microsoft/microsoft-cancels-claude-code-licenses-shifting-developers-to-github-copilot-cli-a-move-likely-driven-by-financial-motives">Microsoft cancels Claude Code licenses, shifting developers to GitHub Copilot CLI</a> <em>(windowscentral.com)</em></li>
-<li><a href="https://opentools.ai/news/microsoft-cancels-claude-code-licenses-copilot-cli">Microsoft Cancels Claude Code Licenses, Pushes Engineers to Copilot CLI</a> <em>(opentools.ai)</em></li>
-<li><a href="https://sea.peoplemattersglobal.com/news/ai-and-emerging-tech/microsoft-cancels-claude-code-licences-after-engineers-use-it-too-much-49918">Microsoft cancels Claude Code licences after engineers use it too much</a> <em>(sea.peoplemattersglobal.com)</em></li>
-<li><a href="https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright">CNN sues Perplexity, alleging unlawful distribution of copyrighted content</a> <em>(cnn.com)</em></li>
-<li><a href="https://variety.com/2026/biz/news/cnn-sues-perplexity-alleging-copyright-infringement-1236760987/">CNN Sues AI Firm Perplexity, Alleging It Engaged in 'Massive Copyright Infringement'</a> <em>(variety.com)</em></li>
-<li><a href="https://www.fastcompany.com/91548945/groupon-layoffs-today-jobs-slashed-ai-native-pivot-stock-rises">Groupon layoffs today: jobs slashed in AI-native pivot, stock rises</a> <em>(fastcompany.com)</em></li>
-<li><a href="https://layoffhedge.com/company/groupon">Groupon Layoffs 2026 – 400 Jobs Cut, ~24% of Workforce, AI Restructuring Under 'Project Foundry'</a> <em>(layoffhedge.com)</em></li>
-<li><a href="https://dentro.de/ai/news/">GitHub Copilot shifts to metered AI billing</a> <em>(dentro.de/ai)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>OpenAI lässt seinen Codex-Agenten jetzt autonom Windows-PCs bedienen – während Microsoft gleichzeitig Anthropics Claude Code aus dem eigenen Haus wirft. Dazu: CNN verklagt Perplexity, und Groupon entlässt ein Viertel der Belegschaft im Namen der KI.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/">OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://developers.openai.com/codex/changelog">OpenAI Codex Computer Use and mobile access on Windows – Changelog</a> <em>(developers.openai.com)</em></li>
-<li><a href="https://www.windowscentral.com/microsoft/microsoft-cancels-claude-code-licenses-shifting-developers-to-github-copilot-cli-a-move-likely-driven-by-financial-motives">Microsoft cancels Claude Code licenses, shifting developers to GitHub Copilot CLI</a> <em>(windowscentral.com)</em></li>
-<li><a href="https://opentools.ai/news/microsoft-cancels-claude-code-licenses-copilot-cli">Microsoft Cancels Claude Code Licenses, Pushes Engineers to Copilot CLI</a> <em>(opentools.ai)</em></li>
-<li><a href="https://sea.peoplemattersglobal.com/news/ai-and-emerging-tech/microsoft-cancels-claude-code-licences-after-engineers-use-it-too-much-49918">Microsoft cancels Claude Code licences after engineers use it too much</a> <em>(sea.peoplemattersglobal.com)</em></li>
-<li><a href="https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright">CNN sues Perplexity, alleging unlawful distribution of copyrighted content</a> <em>(cnn.com)</em></li>
-<li><a href="https://variety.com/2026/biz/news/cnn-sues-perplexity-alleging-copyright-infringement-1236760987/">CNN Sues AI Firm Perplexity, Alleging It Engaged in 'Massive Copyright Infringement'</a> <em>(variety.com)</em></li>
-<li><a href="https://www.fastcompany.com/91548945/groupon-layoffs-today-jobs-slashed-ai-native-pivot-stock-rises">Groupon layoffs today: jobs slashed in AI-native pivot, stock rises</a> <em>(fastcompany.com)</em></li>
-<li><a href="https://layoffhedge.com/company/groupon">Groupon Layoffs 2026 – 400 Jobs Cut, ~24% of Workforce, AI Restructuring Under 'Project Foundry'</a> <em>(layoffhedge.com)</em></li>
-<li><a href="https://dentro.de/ai/news/">GitHub Copilot shifts to metered AI billing</a> <em>(dentro.de/ai)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>OpenAI lässt seinen Codex-Agenten jetzt autonom Windows-PCs bedienen – während Microsoft gleichzeitig Anthropics Claude Code aus dem eigenen Haus wirft. Dazu: CNN verklagt Perplexity, und Groupon entlässt ein Viertel der Belegschaft im Namen der KI.</itunes:summary>
-      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-01</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-06-01.mp3" length="5097684" type="audio/mpeg"/>
-      <itunes:duration>7:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 31. Mai 2026: Vibe statt Le Chat &amp; Europas KI-Stunde</title>
-      <description><![CDATA[<p>Das französische KI-Labor Mistral macht aus seinem Chatbot Le Chat eine vollwertige Agenten-Plattform namens Vibe – und greift damit OpenAI, Google und Anthropic direkt an. Dazu: Was der heutige Start der Handelsblatt-TECH-Konferenz über Europas KI-Ambitionen verrät, und wo der EU AI Act wirklich steht.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/">Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://mistral.ai/news/vibe-agent/">Vibe gets to work (Official Mistral announcement)</a> <em>(mistral.ai)</em></li>
-<li><a href="https://futurumgroup.com/insights/mistral-ai-shifts-to-full-stack-strategy-with-vibe-and-industrial-ai/">Mistral AI Shifts to Full-Stack Strategy With Vibe and Industrial AI</a> <em>(futurumgroup.com)</em></li>
-<li><a href="https://www.shopifreaks.com/mistral-ai-rebrands-le-chat-to-vibe-enters-industrial-engineering-with-airbus-and-bmw-and-announces-new-inference-data-center-near-paris/">Mistral AI rebrands Le Chat to Vibe, enters industrial engineering with Airbus and BMW</a> <em>(shopifreaks.com)</em></li>
-<li><a href="https://www.it-boltwise.de/tech-und-ki-aktien-profitieren-us-hoffnung-auf-laengere-feuerpause-im-iran.html">Tech- und KI-Aktien profitieren: US-Hoffnung auf längere Feuerpause im Iran</a> <em>(it-boltwise.de)</em></li>
-<li><a href="https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-europa-hat-beim-ki-rennen-noch-eine-zweite-chance/100228753.html">KI-Briefing: Europa hat beim KI-Rennen noch eine zweite Chance (Handelsblatt TECH Konferenz in Heilbronn)</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://www.scalewise-ai.de/blog/2026-05-digital-omnibus-einigung-eu-ai-act-fristen">EU AI Act Digital Omnibus – Digital Omnibus beschlossen: Die neuen EU AI Act-Fristen für den Mittelstand</a> <em>(scalewise-ai.de)</em></li>
-<li><a href="https://www.anthropic.com/news">Anthropic Nachrichten: Anthropic opens Milan office; co-founder remarks on Pope encyclical</a> <em>(anthropic.com)</em></li>
-<li><a href="https://mlq.ai/news/mistral-rebrands-le-chat-as-vibe-launches-autonomous-work-agent-for-enterprise/">Mistral Rebrands Le Chat as Vibe, Launches Autonomous Work Agent for Enterprise</a> <em>(mlq.ai)</em></li>
-<li><a href="https://www.ad-hoc-news.de/wirtschaft/eu-ai-act-fristen-verschoben-bussgelder-explodieren/69353045">EU AI Act: Fristen verschoben, Bußgelder explodieren</a> <em>(ad-hoc-news.de)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Das französische KI-Labor Mistral macht aus seinem Chatbot Le Chat eine vollwertige Agenten-Plattform namens Vibe – und greift damit OpenAI, Google und Anthropic direkt an. Dazu: Was der heutige Start der Handelsblatt-TECH-Konferenz über Europas KI-Ambitionen verrät, und wo der EU AI Act wirklich steht.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/">Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://mistral.ai/news/vibe-agent/">Vibe gets to work (Official Mistral announcement)</a> <em>(mistral.ai)</em></li>
-<li><a href="https://futurumgroup.com/insights/mistral-ai-shifts-to-full-stack-strategy-with-vibe-and-industrial-ai/">Mistral AI Shifts to Full-Stack Strategy With Vibe and Industrial AI</a> <em>(futurumgroup.com)</em></li>
-<li><a href="https://www.shopifreaks.com/mistral-ai-rebrands-le-chat-to-vibe-enters-industrial-engineering-with-airbus-and-bmw-and-announces-new-inference-data-center-near-paris/">Mistral AI rebrands Le Chat to Vibe, enters industrial engineering with Airbus and BMW</a> <em>(shopifreaks.com)</em></li>
-<li><a href="https://www.it-boltwise.de/tech-und-ki-aktien-profitieren-us-hoffnung-auf-laengere-feuerpause-im-iran.html">Tech- und KI-Aktien profitieren: US-Hoffnung auf längere Feuerpause im Iran</a> <em>(it-boltwise.de)</em></li>
-<li><a href="https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-europa-hat-beim-ki-rennen-noch-eine-zweite-chance/100228753.html">KI-Briefing: Europa hat beim KI-Rennen noch eine zweite Chance (Handelsblatt TECH Konferenz in Heilbronn)</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://www.scalewise-ai.de/blog/2026-05-digital-omnibus-einigung-eu-ai-act-fristen">EU AI Act Digital Omnibus – Digital Omnibus beschlossen: Die neuen EU AI Act-Fristen für den Mittelstand</a> <em>(scalewise-ai.de)</em></li>
-<li><a href="https://www.anthropic.com/news">Anthropic Nachrichten: Anthropic opens Milan office; co-founder remarks on Pope encyclical</a> <em>(anthropic.com)</em></li>
-<li><a href="https://mlq.ai/news/mistral-rebrands-le-chat-as-vibe-launches-autonomous-work-agent-for-enterprise/">Mistral Rebrands Le Chat as Vibe, Launches Autonomous Work Agent for Enterprise</a> <em>(mlq.ai)</em></li>
-<li><a href="https://www.ad-hoc-news.de/wirtschaft/eu-ai-act-fristen-verschoben-bussgelder-explodieren/69353045">EU AI Act: Fristen verschoben, Bußgelder explodieren</a> <em>(ad-hoc-news.de)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Das französische KI-Labor Mistral macht aus seinem Chatbot Le Chat eine vollwertige Agenten-Plattform namens Vibe – und greift damit OpenAI, Google und Anthropic direkt an. Dazu: Was der heutige Start der Handelsblatt-TECH-Konferenz über Europas KI-Ambitionen verrät, und wo der EU AI Act wirklich steht.</itunes:summary>
-      <pubDate>Sun, 31 May 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-05-31</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-31.mp3" length="4580773" type="audio/mpeg"/>
-      <itunes:duration>6:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 30. Mai 2026: Anthropic knackt fast die Billion &amp; Vibe</title>
-      <description><![CDATA[<p>Anthropic schlägt mit 65 Milliarden Dollar Finanzierung und einer Bewertung nahe einer Billion OpenAI vom Thron – und veröffentlicht gleichzeitig ein neues Modell. Dazu: Mistral verwandelt seinen Chatbot in einen vollwertigen KI-Agenten.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai">Anthropic's Valuation Nears $1 Trillion After Raising $65 Billion</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html">Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round</a> <em>(cnbc.com)</em></li>
-<li><a href="https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/">Anthropic raises $65 billion, nears $1T valuation ahead of IPO</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.hpcwire.com/aiwire/2026/05/29/anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation/">Anthropic Raises $65B in Series H Funding at $965B Post-Money Valuation</a> <em>(hpcwire.com)</em></li>
-<li><a href="https://the-decoder.de/">65-Milliarden-Finanzierung: Claude-Entwickler Anthropic kratzt an der Billionen-Marke</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/">Anthropic releases Opus 4.8 with new 'dynamic workflow' tool</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/">Anthropic releases Claude Opus 4.8</a> <em>(artificialintelligence-news.com)</em></li>
-<li><a href="https://www.macrumors.com/2026/05/28/anthropic-claude-opus-4-8/">Anthropic Launches Claude Opus 4.8 With Gains in Coding and Honesty</a> <em>(macrumors.com)</em></li>
-<li><a href="https://www.helpnetsecurity.com/2026/05/29/anthropic-claude-opus-4-8/">Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers</a> <em>(helpnetsecurity.com)</em></li>
-<li><a href="https://cybernews.com/ai-news/mistral-rebrands-vibe/">Mistral rebrands its chatbot to an AI agent called Vibe</a> <em>(cybernews.com)</em></li>
-<li><a href="https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/">Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai">Mistral AI launches Vibe, expands into industrial AI and announces data center push</a> <em>(venturebeat.com)</em></li>
-<li><a href="https://futurumgroup.com/insights/mistral-ai-shifts-to-full-stack-strategy-with-vibe-and-industrial-ai/">Mistral AI Shifts to Full-Stack Strategy With Vibe and Industrial AI</a> <em>(futurumgroup.com)</em></li>
-<li><a href="https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/">Sam Altman Says AI 'Jobs Apocalypse' Probably Won't Happen</a> <em>(time.com)</em></li>
-<li><a href="https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/">Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies</a> <em>(fortune.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Anthropic schlägt mit 65 Milliarden Dollar Finanzierung und einer Bewertung nahe einer Billion OpenAI vom Thron – und veröffentlicht gleichzeitig ein neues Modell. Dazu: Mistral verwandelt seinen Chatbot in einen vollwertigen KI-Agenten.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai">Anthropic's Valuation Nears $1 Trillion After Raising $65 Billion</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html">Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round</a> <em>(cnbc.com)</em></li>
-<li><a href="https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/">Anthropic raises $65 billion, nears $1T valuation ahead of IPO</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.hpcwire.com/aiwire/2026/05/29/anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation/">Anthropic Raises $65B in Series H Funding at $965B Post-Money Valuation</a> <em>(hpcwire.com)</em></li>
-<li><a href="https://the-decoder.de/">65-Milliarden-Finanzierung: Claude-Entwickler Anthropic kratzt an der Billionen-Marke</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/">Anthropic releases Opus 4.8 with new 'dynamic workflow' tool</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/">Anthropic releases Claude Opus 4.8</a> <em>(artificialintelligence-news.com)</em></li>
-<li><a href="https://www.macrumors.com/2026/05/28/anthropic-claude-opus-4-8/">Anthropic Launches Claude Opus 4.8 With Gains in Coding and Honesty</a> <em>(macrumors.com)</em></li>
-<li><a href="https://www.helpnetsecurity.com/2026/05/29/anthropic-claude-opus-4-8/">Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers</a> <em>(helpnetsecurity.com)</em></li>
-<li><a href="https://cybernews.com/ai-news/mistral-rebrands-vibe/">Mistral rebrands its chatbot to an AI agent called Vibe</a> <em>(cybernews.com)</em></li>
-<li><a href="https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/">Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai">Mistral AI launches Vibe, expands into industrial AI and announces data center push</a> <em>(venturebeat.com)</em></li>
-<li><a href="https://futurumgroup.com/insights/mistral-ai-shifts-to-full-stack-strategy-with-vibe-and-industrial-ai/">Mistral AI Shifts to Full-Stack Strategy With Vibe and Industrial AI</a> <em>(futurumgroup.com)</em></li>
-<li><a href="https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/">Sam Altman Says AI 'Jobs Apocalypse' Probably Won't Happen</a> <em>(time.com)</em></li>
-<li><a href="https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/">Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies</a> <em>(fortune.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Anthropic schlägt mit 65 Milliarden Dollar Finanzierung und einer Bewertung nahe einer Billion OpenAI vom Thron – und veröffentlicht gleichzeitig ein neues Modell. Dazu: Mistral verwandelt seinen Chatbot in einen vollwertigen KI-Agenten.</itunes:summary>
-      <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-05-30</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-30.mp3" length="5950947" type="audio/mpeg"/>
-      <itunes:duration>8:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 29. Mai 2026: Meta zahlt, Hassabis warnt &amp; Altmans Kehrtwende</title>
-      <description><![CDATA[<p>Meta führt weltweit kostenpflichtige KI-Abonnements ein, DeepMind-Chef Demis Hassabis rückt sein AGI-Datum auf 2029 vor – und Sam Altman räumt ein, mit seiner Jobs-Apokalypse-Prognose falsch gelegen zu haben. Das und mehr im heutigen KI Daily.</p>]]></description>
-      <content:encoded><![CDATA[<p>Meta führt weltweit kostenpflichtige KI-Abonnements ein, DeepMind-Chef Demis Hassabis rückt sein AGI-Datum auf 2029 vor – und Sam Altman räumt ein, mit seiner Jobs-Apokalypse-Prognose falsch gelegen zu haben. Das und mehr im heutigen KI Daily.</p>]]></content:encoded>
-      <itunes:summary>Meta führt weltweit kostenpflichtige KI-Abonnements ein, DeepMind-Chef Demis Hassabis rückt sein AGI-Datum auf 2029 vor – und Sam Altman räumt ein, mit seiner Jobs-Apokalypse-Prognose falsch gelegen zu haben. Das und mehr im heutigen KI Daily.</itunes:summary>
-      <pubDate>Fri, 29 May 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-05-29</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-29.mp3" length="4737821" type="audio/mpeg"/>
-      <itunes:duration>6:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 29. Mai 2026: Chip-Billionen, Papst &amp; die IPO-Welle</title>
-      <description><![CDATA[<p>SK Hynix und Micron stoßen gleichzeitig in den Billionen-Dollar-Club vor. Papst Leo XIV. ruft in seiner ersten Enzyklika zur „Entwaffnung" der KI auf. Und das große IPO-Rennen zwischen OpenAI und SpaceX nimmt Fahrt auf.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.euronews.com/business/2026/05/27/memory-chip-giants-sk-hynix-and-micron-cross-1tn-valuation-amid-ai-mania">Memory chip giants SK Hynix and Micron cross $1tn valuation amid AI mania</a> <em>(euronews.com)</em></li>
-<li><a href="https://www.benzinga.com/markets/tech/26/05/52811262/micron-vs-sk-hynix-best-memory-stock-2026">Micron Vs. SK Hynix: Which Of Wall Street's Trillion-Dollar Memory Stocks Win In 2026?</a> <em>(benzinga.com)</em></li>
-<li><a href="https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/">Pope Leo Uses First Major Papal Text to Warn About Dangers of AI</a> <em>(time.com)</em></li>
-<li><a href="https://www.washingtonpost.com/world/2026/05/25/pope-elevates-ai-ethics-religious-imperative-with-first-encyclical/">Pope elevates AI ethics to a religious imperative with first encyclical</a> <em>(washingtonpost.com)</em></li>
-<li><a href="https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html">Pope Leo's 'Magnifica humanitas': AI must serve humanity not concentrate power</a> <em>(vaticannews.va)</em></li>
-<li><a href="https://www.usccb.org/news/2026/first-encyclical-pope-leo-urges-world-disarm-ai-amid-increased-reliance">In first encyclical, Pope Leo urges world to 'disarm' AI amid increased reliance</a> <em>(usccb.org)</em></li>
-<li><a href="https://www.cnbc.com/2026/05/20/openai-ipo-filing.html">OpenAI to confidentially file for IPO as soon as Friday: Source</a> <em>(cnbc.com)</em></li>
-<li><a href="https://enterprisedna.co/resources/news/openai-ipo-confidential-filing-may-2026/">OpenAI Files Confidential IPO Papers, Eyes September</a> <em>(enterprisedna.co)</em></li>
-<li><a href="https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/">xAI burned $6.4B last year — SpaceX's IPO filing shows why the spending is far from over</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://ionanalytics.com/insights/dealogic/spacex-ipo-filing-reveals-risk-of-xai-grounding-musks-cash-cow-ecm-pulse-global/">SpaceX IPO filing reveals risk of xAI grounding Musk's cash cow</a> <em>(ionanalytics.com)</em></li>
-<li><a href="https://the-decoder.com/">Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a 'cute, simple proof'</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://llm-stats.com/ai-news">ByteDance discussing capex of up to $70B in 2026 for data centers and AI infrastructure</a> <em>(bloomberg.com (via llm-stats.com))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>SK Hynix und Micron stoßen gleichzeitig in den Billionen-Dollar-Club vor. Papst Leo XIV. ruft in seiner ersten Enzyklika zur „Entwaffnung" der KI auf. Und das große IPO-Rennen zwischen OpenAI und SpaceX nimmt Fahrt auf.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.euronews.com/business/2026/05/27/memory-chip-giants-sk-hynix-and-micron-cross-1tn-valuation-amid-ai-mania">Memory chip giants SK Hynix and Micron cross $1tn valuation amid AI mania</a> <em>(euronews.com)</em></li>
-<li><a href="https://www.benzinga.com/markets/tech/26/05/52811262/micron-vs-sk-hynix-best-memory-stock-2026">Micron Vs. SK Hynix: Which Of Wall Street's Trillion-Dollar Memory Stocks Win In 2026?</a> <em>(benzinga.com)</em></li>
-<li><a href="https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/">Pope Leo Uses First Major Papal Text to Warn About Dangers of AI</a> <em>(time.com)</em></li>
-<li><a href="https://www.washingtonpost.com/world/2026/05/25/pope-elevates-ai-ethics-religious-imperative-with-first-encyclical/">Pope elevates AI ethics to a religious imperative with first encyclical</a> <em>(washingtonpost.com)</em></li>
-<li><a href="https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html">Pope Leo's 'Magnifica humanitas': AI must serve humanity not concentrate power</a> <em>(vaticannews.va)</em></li>
-<li><a href="https://www.usccb.org/news/2026/first-encyclical-pope-leo-urges-world-disarm-ai-amid-increased-reliance">In first encyclical, Pope Leo urges world to 'disarm' AI amid increased reliance</a> <em>(usccb.org)</em></li>
-<li><a href="https://www.cnbc.com/2026/05/20/openai-ipo-filing.html">OpenAI to confidentially file for IPO as soon as Friday: Source</a> <em>(cnbc.com)</em></li>
-<li><a href="https://enterprisedna.co/resources/news/openai-ipo-confidential-filing-may-2026/">OpenAI Files Confidential IPO Papers, Eyes September</a> <em>(enterprisedna.co)</em></li>
-<li><a href="https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/">xAI burned $6.4B last year — SpaceX's IPO filing shows why the spending is far from over</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://ionanalytics.com/insights/dealogic/spacex-ipo-filing-reveals-risk-of-xai-grounding-musks-cash-cow-ecm-pulse-global/">SpaceX IPO filing reveals risk of xAI grounding Musk's cash cow</a> <em>(ionanalytics.com)</em></li>
-<li><a href="https://the-decoder.com/">Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a 'cute, simple proof'</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://llm-stats.com/ai-news">ByteDance discussing capex of up to $70B in 2026 for data centers and AI infrastructure</a> <em>(bloomberg.com (via llm-stats.com))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>SK Hynix und Micron stoßen gleichzeitig in den Billionen-Dollar-Club vor. Papst Leo XIV. ruft in seiner ersten Enzyklika zur „Entwaffnung" der KI auf. Und das große IPO-Rennen zwischen OpenAI und SpaceX nimmt Fahrt auf.</itunes:summary>
-      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-05-28</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-28.mp3" length="5025272" type="audio/mpeg"/>
-      <itunes:duration>6:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 28. Mai 2026: IPO-Update, Europa rüstet auf &amp; Chip-Deal</title>
-      <description><![CDATA[<p>OpenAIs S-1 ist eingereicht – der Börsengang nimmt Fahrt auf. Dazu: Europa reagiert auf Anthropics Mythos, BNP Paribas und Mistral schmieden eine Sicherheitspartnerschaft. Und Qualcomm landet einen spektakulären Chip-Deal mit ByteDance.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/bnp-paribas-works-with-mistral-to-prep-for-mythos-like-ai-models">BNP Paribas Works With Mistral to Prep for Mythos-Like AI Models</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://thenextweb.com/news/bnp-paribas-mistral-mythos-rival-sovereign-ai">BNP Paribas works with Mistral on a European answer to Anthropic's Mythos</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://www.aol.com/articles/bnp-paribas-steps-mistral-partnership-115243000.html">BNP Paribas steps up Mistral partnership to bolster rapid AI defences</a> <em>(reuters.com (via aol.com))</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance">Qualcomm Reaches AI Chip Supply Deal With ByteDance for Data Centers</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42313P:0-qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance-bloomberg-news-reports/">Qualcomm strikes AI chip deal with TikTok owner ByteDance, Bloomberg News reports</a> <em>(reuters.com (via tradingview.com))</em></li>
-<li><a href="https://www.roborhythms.com/openai-ipo-filing-2026/">OpenAI Just Filed for IPO and the 2026 Math Is Brutal</a> <em>(roborhythms.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/05/20/openai-ipo-filing.html">OpenAI to confidentially file for IPO as soon as Friday: Source</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.axios.com/2026/05/20/openai-ipo-spacex-musk">OpenAI prepares confidential IPO filing</a> <em>(axios.com)</em></li>
-<li><a href="https://fortune.com/2026/05/22/openai-ipo-filing-1-trillion-may-finally-answer-these-big-questions/">The big questions OpenAI's trillion-dollar IPO filing may finally answer</a> <em>(fortune.com)</em></li>
-<li><a href="https://www.finextra.com/newsarticle/47813/bnp-paribas-partners-mistral-to-strengthen-ai-defences">BNP Paribas partners Mistral to strengthen AI defences</a> <em>(finextra.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>OpenAIs S-1 ist eingereicht – der Börsengang nimmt Fahrt auf. Dazu: Europa reagiert auf Anthropics Mythos, BNP Paribas und Mistral schmieden eine Sicherheitspartnerschaft. Und Qualcomm landet einen spektakulären Chip-Deal mit ByteDance.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/bnp-paribas-works-with-mistral-to-prep-for-mythos-like-ai-models">BNP Paribas Works With Mistral to Prep for Mythos-Like AI Models</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://thenextweb.com/news/bnp-paribas-mistral-mythos-rival-sovereign-ai">BNP Paribas works with Mistral on a European answer to Anthropic's Mythos</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://www.aol.com/articles/bnp-paribas-steps-mistral-partnership-115243000.html">BNP Paribas steps up Mistral partnership to bolster rapid AI defences</a> <em>(reuters.com (via aol.com))</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance">Qualcomm Reaches AI Chip Supply Deal With ByteDance for Data Centers</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42313P:0-qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance-bloomberg-news-reports/">Qualcomm strikes AI chip deal with TikTok owner ByteDance, Bloomberg News reports</a> <em>(reuters.com (via tradingview.com))</em></li>
-<li><a href="https://www.roborhythms.com/openai-ipo-filing-2026/">OpenAI Just Filed for IPO and the 2026 Math Is Brutal</a> <em>(roborhythms.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/05/20/openai-ipo-filing.html">OpenAI to confidentially file for IPO as soon as Friday: Source</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.axios.com/2026/05/20/openai-ipo-spacex-musk">OpenAI prepares confidential IPO filing</a> <em>(axios.com)</em></li>
-<li><a href="https://fortune.com/2026/05/22/openai-ipo-filing-1-trillion-may-finally-answer-these-big-questions/">The big questions OpenAI's trillion-dollar IPO filing may finally answer</a> <em>(fortune.com)</em></li>
-<li><a href="https://www.finextra.com/newsarticle/47813/bnp-paribas-partners-mistral-to-strengthen-ai-defences">BNP Paribas partners Mistral to strengthen AI defences</a> <em>(finextra.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>OpenAIs S-1 ist eingereicht – der Börsengang nimmt Fahrt auf. Dazu: Europa reagiert auf Anthropics Mythos, BNP Paribas und Mistral schmieden eine Sicherheitspartnerschaft. Und Qualcomm landet einen spektakulären Chip-Deal mit ByteDance.</itunes:summary>
-      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-05-27</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-27.mp3" length="4397707" type="audio/mpeg"/>
-      <itunes:duration>6:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 27. Mai 2026: China, Codex &amp; Robotaxis</title>
-      <description><![CDATA[<p>China schränkt Auslandsreisen für KI-Spitzenkräfte ein, OpenAI's Codex übernimmt den Mac auch im Sperrbildschirm, und Pony AI hebt sein Robotaxi-Ziel an. Dazu: Anthropics Mythos-Modell hat inzwischen über 23.000 Sicherheitslücken aufgedeckt.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms">China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-on-fast-growth">Pony AI Lifts 2026 Robotaxi Fleet Goal to 3,500 on Fast Growth</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/">Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</a> <em>(securityweek.com)</em></li>
-<li><a href="https://www.heise.de/en/news/OpenAI-Codex-controls-Mac-even-in-locked-state-11306153.html">OpenAI Codex controls Mac even in locked state</a> <em>(heise.de)</em></li>
-<li><a href="https://www.sec.gov/Archives/edgar/data/0001969302/000110465926066016/tm2615604d1_ex99-1.htm">Pony AI Inc. Reports First Quarter 2026 Financial Results with Continued Growth</a> <em>(sec.gov (via Pony AI))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>China schränkt Auslandsreisen für KI-Spitzenkräfte ein, OpenAI's Codex übernimmt den Mac auch im Sperrbildschirm, und Pony AI hebt sein Robotaxi-Ziel an. Dazu: Anthropics Mythos-Modell hat inzwischen über 23.000 Sicherheitslücken aufgedeckt.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms">China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-26/pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-on-fast-growth">Pony AI Lifts 2026 Robotaxi Fleet Goal to 3,500 on Fast Growth</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/">Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</a> <em>(securityweek.com)</em></li>
-<li><a href="https://www.heise.de/en/news/OpenAI-Codex-controls-Mac-even-in-locked-state-11306153.html">OpenAI Codex controls Mac even in locked state</a> <em>(heise.de)</em></li>
-<li><a href="https://www.sec.gov/Archives/edgar/data/0001969302/000110465926066016/tm2615604d1_ex99-1.htm">Pony AI Inc. Reports First Quarter 2026 Financial Results with Continued Growth</a> <em>(sec.gov (via Pony AI))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>China schränkt Auslandsreisen für KI-Spitzenkräfte ein, OpenAI's Codex übernimmt den Mac auch im Sperrbildschirm, und Pony AI hebt sein Robotaxi-Ziel an. Dazu: Anthropics Mythos-Modell hat inzwischen über 23.000 Sicherheitslücken aufgedeckt.</itunes:summary>
-      <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-05-26</guid>
-      <enclosure url="https://john-jakob.github.io/news2pod/episodes/ai/2026-05-26.mp3" length="4871359" type="audio/mpeg"/>
-      <itunes:duration>6:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

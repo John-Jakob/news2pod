@@ -15,7 +15,7 @@ jobs:
       contents: read
       actions: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Check & dispatch
         env:
@@ -27,7 +27,7 @@ jobs:
           MISSING=()
           for f in topics/*.yaml; do
             slug=$(basename "$f" .yaml)
-            if [ ! -f "docs/episodes/$slug/$TODAY.mp3" ]; then
+            if [ ! -f "docs/episodes/$slug/$TODAY.json" ]; then
               MISSING+=("$slug")
             fi
           done

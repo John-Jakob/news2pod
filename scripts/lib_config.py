@@ -11,6 +11,7 @@ DOCS_DIR = ROOT / "docs"
 EPISODES_DIR = DOCS_DIR / "episodes"
 FEEDS_DIR = DOCS_DIR / "feeds"
 IMAGES_DIR = DOCS_DIR / "images"
+BUILD_DIR = ROOT / "build"   # lokale MP3-Ausgabe (gitignored); Hosting läuft über Releases
 
 SLUG_RE = re.compile(r"[a-z0-9][a-z0-9-]{0,39}")
 
@@ -32,6 +33,7 @@ def load_topic(slug: str) -> dict:
     cfg.setdefault("voice_model", "eleven_multilingual_v2")
     cfg.setdefault("target_minutes", 5)
     cfg.setdefault("cover_image", "default-cover.png")
+    cfg.setdefault("feed_max_episodes", 30)
     cfg.setdefault("title", slug.title())
     cfg.setdefault("description", f"Tägliches {cfg['title']}-Briefing.")
     return cfg

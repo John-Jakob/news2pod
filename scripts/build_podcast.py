@@ -16,6 +16,7 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from lib_config import (
+    BUILD_DIR,
     EPISODES_DIR,
     FEEDS_DIR,
     DOCS_DIR,
@@ -27,6 +28,7 @@ from lib_config import (
 from lib_research import research_and_write_script
 from lib_audio import synthesize_episode
 from lib_feed import build_feed, build_index, mp3_duration_seconds
+from lib_release import upload_episode
 
 
 def _recent_episode_summaries(episodes_dir: Path, n: int = 3) -> list[dict]:
@@ -60,13 +62,13 @@ def main() -> int:
 
     episodes_dir = EPISODES_DIR / args.slug
     episodes_dir.mkdir(parents=True, exist_ok=True)
-    mp3_path = episodes_dir / f"{date_str}.mp3"
+    mp3_path = BUILD_DIR / args.slug / f"{date_str}.mp3"
     meta_path = episodes_dir / f"{date_str}.json"
 
     if args.feed_only:
         print("Modus: nur Feed neu bauen.")
-    elif mp3_path.exists() and not args.force:
-        print(f"Folge existiert bereits: {mp3_path.relative_to(ROOT)} (nutze --force).")
+    elif meta_path.exists() and not args.force:
+        print(f"Folge existiert bereits: {meta_path.relative_to(ROOT)} (nutze --force).")
     else:
         target_words = int(topic["target_minutes"]) * 150
         recent = _recent_episode_summaries(episodes_dir, n=3)
@@ -91,19 +93,24 @@ def main() -> int:
         synthesize_episode(script=result["script"], topic=topic, out_path=mp3_path)
 
         duration_sec = mp3_duration_seconds(mp3_path)
+        size_bytes = mp3_path.stat().st_size
+        print(f"      Upload als Release-Asset ({args.slug}-{date_str})…")
+        mp3_url = upload_episode(args.slug, date_str, mp3_path)
+
         pub_iso = now.replace(hour=6, minute=0, second=0, microsecond=0).isoformat()
         meta = {
             "title": result["title"],
             "teaser": result["teaser"],
             "pubDate": pub_iso,
             "duration_seconds": duration_sec,
+            "size_bytes": size_bytes,
+            "mp3_url": mp3_url,
             "model": result["model"],
             "sources": result["sources"],
             "script": result["script"],
         }
         meta_path.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
-        size_kb = mp3_path.stat().st_size // 1024
-        print(f"      Audio: {mp3_path.relative_to(ROOT)} ({duration_sec}s, {size_kb} KB)")
+        print(f"      Audio: {mp3_url} ({duration_sec}s, {size_bytes // 1024} KB)")
 
     base = site_base_url()
     if not base:

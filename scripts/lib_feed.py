@@ -56,25 +56,30 @@ def build_feed(topic_cfg: dict, base_url: str, episodes_dir: Path, feed_path: Pa
     owner_name = topic_cfg.get("owner_name", "news2pod")
 
     items_xml: list[str] = []
-    for sidecar in sorted(episodes_dir.glob("*.json"), reverse=True):
-        if not DATE_RE.fullmatch(sidecar.stem):
-            continue
-        mp3 = sidecar.with_suffix(".mp3")
-        if not mp3.exists():
-            continue
+    sidecars = [s for s in sorted(episodes_dir.glob("*.json"), reverse=True)
+                if DATE_RE.fullmatch(s.stem)]
+    max_episodes = int(topic_cfg.get("feed_max_episodes", 30))
+    for sidecar in sidecars[:max_episodes]:
         meta = json.loads(sidecar.read_text(encoding="utf-8"))
         date = sidecar.stem  # YYYY-MM-DD
+        local_mp3 = sidecar.with_suffix(".mp3")
+        # Bevorzugt: Release-Asset-URL aus dem Sidecar. Legacy-Fallback: MP3 neben dem JSON.
+        mp3_url = meta.get("mp3_url")
+        if not mp3_url:
+            if not local_mp3.exists():
+                continue
+            mp3_url = f"{base_url}/episodes/{slug}/{date}.mp3" if base_url else f"episodes/{slug}/{date}.mp3"
         pub_iso = meta.get("pubDate", f"{date}T06:00:00+02:00")
         try:
             pub_dt = datetime.fromisoformat(pub_iso)
         except ValueError:
             pub_dt = datetime.fromisoformat(f"{date}T06:00:00+02:00")
-        size = mp3.stat().st_size
-        duration_sec = int(meta.get("duration_seconds") or mp3_duration_seconds(mp3))
+        size = int(meta.get("size_bytes") or (local_mp3.stat().st_size if local_mp3.exists() else 0))
+        duration_sec = int(meta.get("duration_seconds")
+                           or (mp3_duration_seconds(local_mp3) if local_mp3.exists() else 300))
         ep_title = meta.get("title") or f"{title} – {date}"
         ep_desc = meta.get("teaser") or ""
         shownotes = _shownotes_html(meta)
-        mp3_url = f"{base_url}/episodes/{slug}/{date}.mp3" if base_url else f"episodes/{slug}/{date}.mp3"
         guid = f"{slug}-{date}"
 
         items_xml.append(f"""    <item>
