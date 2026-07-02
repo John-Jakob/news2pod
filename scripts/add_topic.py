@@ -19,7 +19,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from lib_config import TOPICS_DIR
 
 DEFAULT_VOICE = "pNInz6obpgDQGcFmaJgB"  # Adam, multilingual
-MODEL = os.environ.get("NEWS2POD_MODEL", "claude-sonnet-4-6")
+MODEL = os.environ.get("NEWS2POD_MODEL", "claude-sonnet-5")
 
 
 def slugify(s: str) -> str:
@@ -48,7 +48,7 @@ Anforderungen:
 
 Antworte ausschliesslich mit einem JSON-Array ohne Markdown-Codefences. Jeder Eintrag ist ein Objekt {{"domain": "domain.tld", "name": "Anzeigename", "why": "kurze Begründung in einem Satz"}}.
 """
-    response = client.messages.create(model=MODEL, max_tokens=2500,
+    response = client.messages.create(model=MODEL, max_tokens=4000,
                                        messages=[{"role": "user", "content": prompt}])
     raw = "".join(b.text for b in response.content if getattr(b, "type", "") == "text").strip()
     raw = re.sub(r"^```(?:json)?", "", raw).strip()

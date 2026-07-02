@@ -5,7 +5,7 @@ import os
 import re
 from anthropic import Anthropic
 
-MODEL = os.environ.get("NEWS2POD_MODEL", "claude-sonnet-4-6")
+MODEL = os.environ.get("NEWS2POD_MODEL", "claude-sonnet-5")
 
 
 def _extract_tag(text: str, tag: str) -> str:
@@ -81,10 +81,12 @@ Hier das vollständige, gesprochene Skript ohne Sprecher-Namen, ohne Markdown.
 </script>
 """
 
+    # Sonnet 5: adaptives Thinking ist per Default an und zählt ins max_tokens-Budget;
+    # der neue Tokenizer braucht ~30% mehr Tokens für denselben Text. Daher großzügig.
     response = client.messages.create(
         model=MODEL,
-        max_tokens=8000,
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 15}],
+        max_tokens=16000,
+        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 15}],
         messages=[{"role": "user", "content": user_msg}],
     )
 
