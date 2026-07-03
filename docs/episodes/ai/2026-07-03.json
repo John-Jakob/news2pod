@@ -1,0 +1,24 @@
+{
+  "title": "KI Daily – 3. Juli 2026: Ruhiger Tag, Gemini 3.5 Flash Demos, OpenAI-Störung",
+  "teaser": "Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Google zeigt neue Demos zu Gemini 3.5 Flash, während OpenAI mit Problemen in seinen Behörden-Workspaces zu kämpfen hat.",
+  "pubDate": "2026-07-03T06:00:00+02:00",
+  "duration_seconds": 210,
+  "size_bytes": 1680657,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-03/2026-07-03.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Gemini 3.5 — Google DeepMind (Modellseite mit neuen Gemini 3.5 Flash Demos)",
+      "source": "deepmind.google",
+      "url": "https://deepmind.google/models/gemini/",
+      "published": "aktualisiert ca. 4 Stunden vor Redaktionsschluss, 2026-07-03"
+    },
+    {
+      "headline": "OpenAI Status: laufende Probleme in FedRAMP-Workspaces",
+      "source": "status.openai.com",
+      "url": "https://status.openai.com/",
+      "published": "ca. 1 Tag vor Redaktionsschluss, 2026-07-02"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 3. Juli 2026. Nach mehreren Tagen mit großen Produktankündigungen ist es heute rund um Künstliche Intelligenz spürbar ruhiger geworden. Wir haben die vergangenen 24 Stunden trotzdem genau durchsucht und zwei Entwicklungen gefunden, die es wert sind, kurz eingeordnet zu werden.\n\n===\n\nGoogle DeepMind hat seine offizielle Modellseite zu Gemini drei Punkt fünf aktualisiert. Vor wenigen Tagen hatte Google den für Juli angekündigten Start von Gemini drei Punkt fünf Pro verschoben. Jetzt zeigt DeepMind auf derselben Seite erstmals ausführliche Demonstrationen zur kleineren, schnelleren Variante Gemini drei Punkt fünf Flash. In den gezeigten Beispielen erstellt das Modell binnen sechzig Sekunden mehrere Entwürfe für Zahlungs-Oberflächen, generiert vierundsechzig Fraktal-Varianten in hoher Geschwindigkeit und baut nach der Lektüre des ursprünglichen AlphaGo-Forschungspapiers eigenständig ein funktionierendes Spiel. Außerdem koordiniert das Modell mehrere KI-Agenten gleichzeitig, etwa um aus wenigen Vorgaben ein komplettes Marken-Konzept für eine Spendenaktion zu entwickeln oder unstrukturierte Datensätze automatisch neu zu ordnen. Ein festes Startdatum für die größere Pro-Version nennt Google weiterhin nicht. Die neuen, sehr konkreten Demos deuten aber darauf hin, dass zumindest die Flash-Variante von Gemini drei Punkt fünf jetzt breiter sichtbar wird. Wir bleiben an dem Thema dran und melden uns, sobald es zur Pro-Version handfeste Neuigkeiten gibt.\n\n===\n\nZweitens ein kurzer Blick zu OpenAI. Auf der eigenen Statusseite des Unternehmens war von Problemen bei den speziellen FedRAMP-Workspaces die Rede, also jenen besonders abgesicherten Umgebungen, über die US-Behörden ChatGPT und Codex regelkonform nutzen. Die Kernfunktionen seien inzwischen wiederhergestellt, teilte OpenAI mit. Einzelne Funktionen wie Codex selbst, die Workspace-Analyse, die Gesprächssuche, die Suche nach eigenen GPTs, Nutzereinladungen sowie der Download der Compliance-Protokolle liefen zum Zeitpunkt der Meldung aber noch nicht wieder vollständig. Man arbeite an einer Lösung, hieß es weiter. Für sich genommen ist das eine technische Randnotiz. Sie zeigt aber, wie viel Gewicht inzwischen auf den speziellen Behörden-Umgebungen von OpenAI liegt, seit US-Behörden zunehmend auf solche regulierten KI-Systeme setzen.\n\n===\n\nDas war's für heute mit einer bewusst kompakten Ausgabe. Nach den großen Ankündigungen der vergangenen Tage, von Microsofts neuer KI-Einheit über die Debatte in Washington bis zum vorläufigen UN-Bericht zur KI-Sicherheit, war der Nachrichtenfluss heute überschaubar, und wir wollten dir lieber eine kurze, verlässliche Ausgabe liefern als Themen aufzublähen. Wir behalten für dich im Blick, wann Googles Gemini drei Punkt fünf Pro tatsächlich startet und wie sich die Lage bei OpenAI und rund um die KI-Regulierung weiterentwickelt. Bis morgen bei KI Daily."
+}

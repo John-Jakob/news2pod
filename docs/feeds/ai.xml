@@ -19,6 +19,27 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 3. Juli 2026: Ruhiger Tag, Gemini 3.5 Flash Demos, OpenAI-Störung</title>
+      <description><![CDATA[<p>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Google zeigt neue Demos zu Gemini 3.5 Flash, während OpenAI mit Problemen in seinen Behörden-Workspaces zu kämpfen hat.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://deepmind.google/models/gemini/">Gemini 3.5 — Google DeepMind (Modellseite mit neuen Gemini 3.5 Flash Demos)</a> <em>(deepmind.google)</em></li>
+<li><a href="https://status.openai.com/">OpenAI Status: laufende Probleme in FedRAMP-Workspaces</a> <em>(status.openai.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Google zeigt neue Demos zu Gemini 3.5 Flash, während OpenAI mit Problemen in seinen Behörden-Workspaces zu kämpfen hat.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://deepmind.google/models/gemini/">Gemini 3.5 — Google DeepMind (Modellseite mit neuen Gemini 3.5 Flash Demos)</a> <em>(deepmind.google)</em></li>
+<li><a href="https://status.openai.com/">OpenAI Status: laufende Probleme in FedRAMP-Workspaces</a> <em>(status.openai.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Google zeigt neue Demos zu Gemini 3.5 Flash, während OpenAI mit Problemen in seinen Behörden-Workspaces zu kämpfen hat.</itunes:summary>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-03</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-03/2026-07-03.mp3" length="1680657" type="audio/mpeg"/>
+      <itunes:duration>3:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 3. Juli 2026: Microsoft Frontier, Washingtons KI-Standards, UN-Bericht</title>
       <description><![CDATA[<p>Microsoft gründet eine milliardenschwere Einheit für KI-Einführung bei Unternehmen, Washington verhandelt über freiwillige KI-Standards, und ein UN-Gremium warnt vor einer Regulierungslücke bei Künstlicher Intelligenz. Außerdem: neue Google-Tools und eine Warnung vor einer KI-Investitionsblase.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -1103,53 +1124,6 @@
       <guid isPermaLink="false">ai-2026-06-04</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-04/2026-06-04.mp3" length="5488580" type="audio/mpeg"/>
       <itunes:duration>7:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 3. Juni 2026: Trump-Dekret, Microsoft Build &amp; Floridas OpenAI-Klage</title>
-      <description><![CDATA[<p>Trump unterzeichnet eine historische KI-Sicherheits-Verordnung, Microsoft präsentiert auf der Build-Konferenz gleich sieben neue KI-Modelle, und Florida zieht als erster US-Bundesstaat gegen OpenAI und Sam Altman vor Gericht. Dazu: Anthropic rast mit einem Börsengangantrag auf die Zielgerade.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html">Trump signs AI executive order asking companies to give government early access to models</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.axios.com/2026/06/02/trump-signs-new-ai-executive-order">Trump dodges AI rules for now with latest executive order</a> <em>(axios.com)</em></li>
-<li><a href="https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/">Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security</a> <em>(whitehouse.gov)</em></li>
-<li><a href="https://www.androidheadlines.com/2026/06/trump-signs-voluntary-ai-executive-order-frontier-models.html">Trump Signs Executive Order Requesting AI Companies for Early Access to Advanced Models</a> <em>(androidheadlines.com)</em></li>
-<li><a href="https://www.wilmerhale.com/en/insights/client-alerts/20260602-new-executive-order-addressing-early-government-access-to-frontier-ai-models">New Executive Order Addressing Early Government Access to Frontier AI Models</a> <em>(wilmerhale.com)</em></li>
-<li><a href="https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/">Microsoft Build 2026: Be yourself at work</a> <em>(blogs.microsoft.com)</em></li>
-<li><a href="https://www.theneuron.ai/explainer-articles/everything-microsoft-announced-at-microsoft-build-2026-explained/">Microsoft Build 2026: Everything Microsoft Announced</a> <em>(theneuron.ai)</em></li>
-<li><a href="https://www.tomsguide.com/news/live/microsoft-build-2026">Biggest Microsoft Build 2026 announcements — agentic AI, RTX Spark Dev Box, GitHub Copilot app, new MAI models, and more</a> <em>(tomsguide.com)</em></li>
-<li><a href="https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt">Florida sues OpenAI and Sam Altman over alleged safety lapses</a> <em>(npr.org)</em></li>
-<li><a href="https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/">Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.cbsnews.com/news/florida-openai-chatgpt-lawsuit-sam-altman/">Florida is the first state to sue OpenAI over child safety risks</a> <em>(cbsnews.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/">Anthropic files to go public</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.anthropic.com/news/confidential-draft-s1-sec">Anthropic confidentially submits draft S-1 to the SEC</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897">Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public</a> <em>(nbcnews.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html">Microsoft and Google take on Anthropic and OpenAI in AI coding models</a> <em>(cnbc.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Trump unterzeichnet eine historische KI-Sicherheits-Verordnung, Microsoft präsentiert auf der Build-Konferenz gleich sieben neue KI-Modelle, und Florida zieht als erster US-Bundesstaat gegen OpenAI und Sam Altman vor Gericht. Dazu: Anthropic rast mit einem Börsengangantrag auf die Zielgerade.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html">Trump signs AI executive order asking companies to give government early access to models</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.axios.com/2026/06/02/trump-signs-new-ai-executive-order">Trump dodges AI rules for now with latest executive order</a> <em>(axios.com)</em></li>
-<li><a href="https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/">Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security</a> <em>(whitehouse.gov)</em></li>
-<li><a href="https://www.androidheadlines.com/2026/06/trump-signs-voluntary-ai-executive-order-frontier-models.html">Trump Signs Executive Order Requesting AI Companies for Early Access to Advanced Models</a> <em>(androidheadlines.com)</em></li>
-<li><a href="https://www.wilmerhale.com/en/insights/client-alerts/20260602-new-executive-order-addressing-early-government-access-to-frontier-ai-models">New Executive Order Addressing Early Government Access to Frontier AI Models</a> <em>(wilmerhale.com)</em></li>
-<li><a href="https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/">Microsoft Build 2026: Be yourself at work</a> <em>(blogs.microsoft.com)</em></li>
-<li><a href="https://www.theneuron.ai/explainer-articles/everything-microsoft-announced-at-microsoft-build-2026-explained/">Microsoft Build 2026: Everything Microsoft Announced</a> <em>(theneuron.ai)</em></li>
-<li><a href="https://www.tomsguide.com/news/live/microsoft-build-2026">Biggest Microsoft Build 2026 announcements — agentic AI, RTX Spark Dev Box, GitHub Copilot app, new MAI models, and more</a> <em>(tomsguide.com)</em></li>
-<li><a href="https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt">Florida sues OpenAI and Sam Altman over alleged safety lapses</a> <em>(npr.org)</em></li>
-<li><a href="https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/">Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.cbsnews.com/news/florida-openai-chatgpt-lawsuit-sam-altman/">Florida is the first state to sue OpenAI over child safety risks</a> <em>(cbsnews.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/">Anthropic files to go public</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.anthropic.com/news/confidential-draft-s1-sec">Anthropic confidentially submits draft S-1 to the SEC</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897">Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public</a> <em>(nbcnews.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html">Microsoft and Google take on Anthropic and OpenAI in AI coding models</a> <em>(cnbc.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Trump unterzeichnet eine historische KI-Sicherheits-Verordnung, Microsoft präsentiert auf der Build-Konferenz gleich sieben neue KI-Modelle, und Florida zieht als erster US-Bundesstaat gegen OpenAI und Sam Altman vor Gericht. Dazu: Anthropic rast mit einem Börsengangantrag auf die Zielgerade.</itunes:summary>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-03</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-03/2026-06-03.mp3" length="5729638" type="audio/mpeg"/>
-      <itunes:duration>7:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
