@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 4. Juli 2026: Anthropic und Samsung, Metas KI-Agenten-Dämpfer, Tesla-Budget</title>
+      <description><![CDATA[<p>Anthropic sondiert einen eigenen KI-Chip mit Samsung, Meta-Chef Zuckerberg räumt Verzögerungen bei KI-Agenten ein, und Tesla deckelt die KI-Ausgaben seiner Mitarbeiter. Außerdem: neue Sicherheitsdetails zu Anthropics Fable 5.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/">Anthropic is discussing a new custom chip with Samsung</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4">Anthropic in Talks With Samsung for Custom AI Chip: Information</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip">Anthropic in Talks With Samsung to Manufacture Custom AI Chip</a> <em>(theinformation.com)</em></li>
+<li><a href="https://www.techtimes.com/articles/319637/20260703/meta-ai-agents-behind-schedule-zuckerberg-tells-staff-145b-bet-hasnt-delivered.htm">Meta AI Agents Behind Schedule: Zuckerberg Tells Staff $145B Bet Hasn't Delivered</a> <em>(techtimes.com)</em></li>
+<li><a href="https://ca.finance.yahoo.com/news/meta-ai-agents-not-advancing-145200723.html">Meta AI agents not advancing as quickly as planned, Zuckerberg tells staff: report</a> <em>(ca.finance.yahoo.com)</em></li>
+<li><a href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework">More details on Fable 5's cyber safeguards and our jailbreak framework</a> <em>(anthropic.com)</em></li>
+<li><a href="https://www.theinformation.com/">The Information: Tesla imposes $200/week AI spending limit for staff</a> <em>(theinformation.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Anthropic sondiert einen eigenen KI-Chip mit Samsung, Meta-Chef Zuckerberg räumt Verzögerungen bei KI-Agenten ein, und Tesla deckelt die KI-Ausgaben seiner Mitarbeiter. Außerdem: neue Sicherheitsdetails zu Anthropics Fable 5.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/">Anthropic is discussing a new custom chip with Samsung</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4">Anthropic in Talks With Samsung for Custom AI Chip: Information</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip">Anthropic in Talks With Samsung to Manufacture Custom AI Chip</a> <em>(theinformation.com)</em></li>
+<li><a href="https://www.techtimes.com/articles/319637/20260703/meta-ai-agents-behind-schedule-zuckerberg-tells-staff-145b-bet-hasnt-delivered.htm">Meta AI Agents Behind Schedule: Zuckerberg Tells Staff $145B Bet Hasn't Delivered</a> <em>(techtimes.com)</em></li>
+<li><a href="https://ca.finance.yahoo.com/news/meta-ai-agents-not-advancing-145200723.html">Meta AI agents not advancing as quickly as planned, Zuckerberg tells staff: report</a> <em>(ca.finance.yahoo.com)</em></li>
+<li><a href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework">More details on Fable 5's cyber safeguards and our jailbreak framework</a> <em>(anthropic.com)</em></li>
+<li><a href="https://www.theinformation.com/">The Information: Tesla imposes $200/week AI spending limit for staff</a> <em>(theinformation.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Anthropic sondiert einen eigenen KI-Chip mit Samsung, Meta-Chef Zuckerberg räumt Verzögerungen bei KI-Agenten ein, und Tesla deckelt die KI-Ausgaben seiner Mitarbeiter. Außerdem: neue Sicherheitsdetails zu Anthropics Fable 5.</itunes:summary>
+      <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-04</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-04/2026-07-04.mp3" length="2944984" type="audio/mpeg"/>
+      <itunes:duration>6:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 3. Juli 2026: Ruhiger Tag, Gemini 3.5 Flash Demos, OpenAI-Störung</title>
       <description><![CDATA[<p>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Google zeigt neue Demos zu Gemini 3.5 Flash, während OpenAI mit Problemen in seinen Behörden-Workspaces zu kämpfen hat.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -1085,45 +1116,6 @@
       <guid isPermaLink="false">ai-2026-06-05</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-05/2026-06-05.mp3" length="5713338" type="audio/mpeg"/>
       <itunes:duration>7:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 4. Juni 2026: SpaceX-Roadshow, KI-Spionage &amp; Altman in DC</title>
-      <description><![CDATA[<p>SpaceX startet heute seinen Investoren-Roadshow für den größten Börsengang der US-Geschichte – mit xAI im Gepäck. Dazu: Anthropic enthüllt die erste vollautonome KI-Cyberattacke, Sam Altman lobbiert in Washington, und Google bringt multimodale KI auf den Laptop.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html">SpaceX targets fixed $135 IPO price for roadshow, source says</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.abhs.in/blog/spacex-ipo-1-75-trillion-spcx-nasdaq-june-12-starlink-roadshow-2026">SpaceX $1.75T IPO: SPCX Lists June 12, Roadshow Starts June 4</a> <em>(abhs.in)</em></li>
-<li><a href="https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack">What we learned mapping a year's worth of AI-enabled cyber threats</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.anthropic.com/news/disrupting-AI-espionage">Disrupting the first reported AI-orchestrated cyber espionage campaign</a> <em>(anthropic.com)</em></li>
-<li><a href="https://cryptobriefing.com/anthropic-ai-cyber-threats-analysis/">Anthropic analysis reveals AI's role in escalating cyber threats</a> <em>(cryptobriefing.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/03/open-ai-altman-congress-trump-eo.html">OpenAI CEO Sam Altman meets with lawmakers, Trump officials in DC</a> <em>(cnbc.com)</em></li>
-<li><a href="https://money.usnews.com/investing/news/articles/2026-06-03/openais-altman-to-urge-us-lawmakers-not-to-require-ai-model-approvals">OpenAI's Altman to urge US lawmakers not to require AI model approvals</a> <em>(reuters.com / usnews.com)</em></li>
-<li><a href="https://www.anthropic.com/news/confidential-draft-s1-sec">Anthropic confidentially submits draft S-1 to the SEC</a> <em>(anthropic.com)</em></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/anthropic-files-confidential-1-joins-161008569.html">Anthropic Files Confidential S-1: Joins $3 Trillion AI IPO Race</a> <em>(finance.yahoo.com)</em></li>
-<li><a href="https://the-decoder.de/">Googles Gemma 4 12B bringt multimodale KI mit Text, Bild und Audio auf handelsübliche Laptops</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://theaiinsider.tech/2026/06/03/anthropic-expands-ai-cybersecurity-initiative-to-150-organisations-worldwide/">Anthropic Expands AI Cybersecurity Initiative to 150 Organisations Worldwide</a> <em>(theaiinsider.tech)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>SpaceX startet heute seinen Investoren-Roadshow für den größten Börsengang der US-Geschichte – mit xAI im Gepäck. Dazu: Anthropic enthüllt die erste vollautonome KI-Cyberattacke, Sam Altman lobbiert in Washington, und Google bringt multimodale KI auf den Laptop.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html">SpaceX targets fixed $135 IPO price for roadshow, source says</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.abhs.in/blog/spacex-ipo-1-75-trillion-spcx-nasdaq-june-12-starlink-roadshow-2026">SpaceX $1.75T IPO: SPCX Lists June 12, Roadshow Starts June 4</a> <em>(abhs.in)</em></li>
-<li><a href="https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack">What we learned mapping a year's worth of AI-enabled cyber threats</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.anthropic.com/news/disrupting-AI-espionage">Disrupting the first reported AI-orchestrated cyber espionage campaign</a> <em>(anthropic.com)</em></li>
-<li><a href="https://cryptobriefing.com/anthropic-ai-cyber-threats-analysis/">Anthropic analysis reveals AI's role in escalating cyber threats</a> <em>(cryptobriefing.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/03/open-ai-altman-congress-trump-eo.html">OpenAI CEO Sam Altman meets with lawmakers, Trump officials in DC</a> <em>(cnbc.com)</em></li>
-<li><a href="https://money.usnews.com/investing/news/articles/2026-06-03/openais-altman-to-urge-us-lawmakers-not-to-require-ai-model-approvals">OpenAI's Altman to urge US lawmakers not to require AI model approvals</a> <em>(reuters.com / usnews.com)</em></li>
-<li><a href="https://www.anthropic.com/news/confidential-draft-s1-sec">Anthropic confidentially submits draft S-1 to the SEC</a> <em>(anthropic.com)</em></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/anthropic-files-confidential-1-joins-161008569.html">Anthropic Files Confidential S-1: Joins $3 Trillion AI IPO Race</a> <em>(finance.yahoo.com)</em></li>
-<li><a href="https://the-decoder.de/">Googles Gemma 4 12B bringt multimodale KI mit Text, Bild und Audio auf handelsübliche Laptops</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://theaiinsider.tech/2026/06/03/anthropic-expands-ai-cybersecurity-initiative-to-150-organisations-worldwide/">Anthropic Expands AI Cybersecurity Initiative to 150 Organisations Worldwide</a> <em>(theaiinsider.tech)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>SpaceX startet heute seinen Investoren-Roadshow für den größten Börsengang der US-Geschichte – mit xAI im Gepäck. Dazu: Anthropic enthüllt die erste vollautonome KI-Cyberattacke, Sam Altman lobbiert in Washington, und Google bringt multimodale KI auf den Laptop.</itunes:summary>
-      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-04</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-04/2026-06-04.mp3" length="5488580" type="audio/mpeg"/>
-      <itunes:duration>7:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
