@@ -1,0 +1,24 @@
+{
+  "title": "KI Daily – 5. Juli 2026: Ruhiger Sonntag, Midjourney vor Gericht, Genf startet",
+  "teaser": "Ein ungewöhnlich stiller Nachrichtentag in der KI-Welt: Wir blicken auf den Rechtsstreit zwischen Midjourney und großen Hollywood-Studios sowie auf den bevorstehenden UN-Governance-Dialog in Genf.",
+  "pubDate": "2026-07-05T06:00:00+02:00",
+  "duration_seconds": 226,
+  "size_bytes": 1809389,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-05/2026-07-05.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Midjourney will Disney, Universal und Warner Bros. vor Gericht zur Offenlegung ihrer KI-Nutzung zwingen",
+      "source": "llm-stats.com (Quelle: Variety)",
+      "url": "https://llm-stats.com/ai-news",
+      "published": "ca. 14 Stunden vor Abruf (5. Juli 2026)"
+    },
+    {
+      "headline": "UN-Wissenschaftsgremium: Globaler KI-Governance-Dialog beginnt am 6. Juli in Genf",
+      "source": "news.un.org",
+      "url": "https://news.un.org/en/story/2026/07/1167848",
+      "published": "berichtet vor 3 Tagen, Genf-Termin: 6. Juli 2026"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Sonntag, 5. Juli 2026.\n\nVorweg ein ehrlicher Hinweis: Der heutige Tag bringt im Vergleich zu den vergangenen Tagen deutlich weniger frische, eigenständige Meldungen aus der KI-Branche. Die großen Themen der letzten Woche, von Anthropics Fable 5 über die Samsung-Chip-Gespräche bis zu Metas Agenten-Problemen, laufen weiter im Hintergrund, aber echte neue Fakten mit Datum von heute oder gestern sind rar. Deshalb halten wir die heutige Ausgabe kürzer und konzentrieren uns auf zwei Themen, die wir sauber belegen können.\n\n===\n\nDas erste Thema kommt aus der Welt der generativen Bildmodelle und des Urheberrechts. Laut einem Bericht der Fachzeitschrift Variety verlangt der Bildgenerator-Anbieter Midjourney vor Gericht, dass die Studios Disney, Universal und Warner Bros. offenlegen, wie sie selbst künstliche Intelligenz in ihren eigenen Unternehmen einsetzen. \nMidjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement.\n Der Hintergrund: Die drei Studios hatten Midjourney bereits im vergangenen Jahr wegen mutmaßlicher Urheberrechtsverletzungen verklagt, weil das Unternehmen Bild- und Videomodelle unter anderem mit geschütztem Filmmaterial trainiert haben soll. Mit dem Gegenzug will Midjourney offenbar zeigen, dass auch die klagenden Studios selbst intensiv auf KI-Werkzeuge setzen, etwa in Produktion, Marketing oder Postproduktion. Ein cleverer juristischer Schachzug, der die Debatte um Trainingsdaten und KI-Nutzung in der Kreativbranche neu befeuert, auch wenn der Ausgang des eigentlichen Verfahrens weiterhin offen ist.\n\n===\n\nDas zweite Thema ist eher ein Blick nach vorn als eine klassische Eilmeldung, aber es ist konkret terminiert und deshalb relevant. Der vorläufige Bericht des unabhängigen wissenschaftlichen UN-Gremiums zu künstlicher Intelligenz, den wir bereits Anfang der Woche besprochen hatten, bekommt nun einen direkten politischen Anschluss. \nDie Arbeit des Gremiums fließt in den UN Global Dialogue on AI Governance ein, der am 6. Juli 2026 in Genf beginnt, wo Mitgliedstaaten über internationale Ansätze zur Steuerung der Technologie diskutieren werden.\n Die Kernbotschaft der Wissenschaftlerinnen und Wissenschaftler bleibt dabei unverändert dringlich. \nDer Bericht warnt, dass das Zeitfenster für eine wirksame globale Governance zwar noch offen ist, aber nicht mehr lange offenbleiben könnte.\n Genf wird damit zur ersten großen Bühne, auf der Regierungen weltweit versuchen müssen, aus dieser wissenschaftlichen Warnung konkrete Regeln zu machen, während sich das Tempo der Modellentwicklung bei Anthropic, OpenAI, Google und anderen längst nicht verlangsamt hat.\n\n===\n\nDas war unser kompaktes Update für heute. Schon morgen richtet sich der Blick nach Genf, wenn der UN-Dialog zur KI-Governance seine Arbeit aufnimmt, und wir erwarten, dass die laufenden Themen rund um Exportkontrollen, Agenten-Ökonomie und neue Modellgenerationen in den kommenden Tagen wieder mit mehr Substanz zurückkehren. Bis dahin: Danke fürs Zuhören und bis morgen bei KI Daily."
+}
