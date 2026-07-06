@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 6. Juli 2026: Genf-Dialog startet, Musk-Altman-Prozess, Grok Imagine fertig</title>
+      <description><![CDATA[<p>Der globale UN-Dialog zur KI-Governance beginnt heute in Genf, in den USA startet die Jury-Auswahl im Prozess Musk gegen Altman, und xAI meldet den Abschluss von Grok Imagine. Außerdem: Tesla-Robotaxis ohne Sicherheitsfahrer, neue China-Regeln für menschenähnliche KI-Agenten und eine Oxford-Studie zu Bias in KI-Inhalten.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://news.un.org/en/story/2026/07/1167848">AI explained: Why the world needs to act now (UN Global Dialogue on AI Governance beginnt am 6. Juli in Genf)</a> <em>(news.un.org)</em></li>
+<li><a href="https://www.cbsnews.com/tag/openai/">Jury selection begins in Musk vs. Altman legal battle</a> <em>(cbsnews.com)</em></li>
+<li><a href="https://www.basenor.com/blogs/news/grok-imagine-is-done-xai-completes-image-generation-feature">Grok Imagine Is Done: xAI Completes Image Generation Feature</a> <em>(basenor.com)</em></li>
+<li><a href="https://llm-stats.com/ai-news">Tesla rolls out Robotaxi service without a safety monitor in Miami (via The Information)</a> <em>(llm-stats.com)</em></li>
+<li><a href="https://llm-stats.com/ai-news">ByteDance's Doubao and Alibaba's Qwen to disable humanlike agents before July 15 as China's anthropomorphic AI rules take effect (via South China Morning Post)</a> <em>(llm-stats.com)</em></li>
+<li><a href="https://llm-stats.com/ai-news">Oxford-Forschung zu versteckten Verzerrungen durch KI-generierte Social-Media-Inhalte</a> <em>(llm-stats.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Der globale UN-Dialog zur KI-Governance beginnt heute in Genf, in den USA startet die Jury-Auswahl im Prozess Musk gegen Altman, und xAI meldet den Abschluss von Grok Imagine. Außerdem: Tesla-Robotaxis ohne Sicherheitsfahrer, neue China-Regeln für menschenähnliche KI-Agenten und eine Oxford-Studie zu Bias in KI-Inhalten.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://news.un.org/en/story/2026/07/1167848">AI explained: Why the world needs to act now (UN Global Dialogue on AI Governance beginnt am 6. Juli in Genf)</a> <em>(news.un.org)</em></li>
+<li><a href="https://www.cbsnews.com/tag/openai/">Jury selection begins in Musk vs. Altman legal battle</a> <em>(cbsnews.com)</em></li>
+<li><a href="https://www.basenor.com/blogs/news/grok-imagine-is-done-xai-completes-image-generation-feature">Grok Imagine Is Done: xAI Completes Image Generation Feature</a> <em>(basenor.com)</em></li>
+<li><a href="https://llm-stats.com/ai-news">Tesla rolls out Robotaxi service without a safety monitor in Miami (via The Information)</a> <em>(llm-stats.com)</em></li>
+<li><a href="https://llm-stats.com/ai-news">ByteDance's Doubao and Alibaba's Qwen to disable humanlike agents before July 15 as China's anthropomorphic AI rules take effect (via South China Morning Post)</a> <em>(llm-stats.com)</em></li>
+<li><a href="https://llm-stats.com/ai-news">Oxford-Forschung zu versteckten Verzerrungen durch KI-generierte Social-Media-Inhalte</a> <em>(llm-stats.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Der globale UN-Dialog zur KI-Governance beginnt heute in Genf, in den USA startet die Jury-Auswahl im Prozess Musk gegen Altman, und xAI meldet den Abschluss von Grok Imagine. Außerdem: Tesla-Robotaxis ohne Sicherheitsfahrer, neue China-Regeln für menschenähnliche KI-Agenten und eine Oxford-Studie zu Bias in KI-Inhalten.</itunes:summary>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-06</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-06/2026-07-06.mp3" length="2759410" type="audio/mpeg"/>
+      <itunes:duration>5:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 5. Juli 2026: Ruhiger Sonntag, Midjourney vor Gericht, Genf startet</title>
       <description><![CDATA[<p>Ein ungewöhnlich stiller Nachrichtentag in der KI-Welt: Wir blicken auf den Rechtsstreit zwischen Midjourney und großen Hollywood-Studios sowie auf den bevorstehenden UN-Governance-Dialog in Genf.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -1057,43 +1086,6 @@
       <guid isPermaLink="false">ai-2026-06-07</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-07/2026-06-07.mp3" length="5365387" type="audio/mpeg"/>
       <itunes:duration>7:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 6. Juni 2026: Great American AI Act, Anthropic IPO &amp; SpaceX-Countdown</title>
-      <description><![CDATA[<p>Der US-Kongress wagt sich an ein nationales KI-Gesetz – und löst damit eine heftige Debatte aus. Dazu: Anthropic reicht vertraulich seinen Börsenprospekt ein, während SpaceX in weniger als einer Woche sein historisches IPO anpeilt.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/">Bipartisan AI draft proposes three-year preemption of state laws</a> <em>(rollcall.com)</em></li>
-<li><a href="https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act">Obernolte, Trahan release a discussion draft of the Great American AI Act</a> <em>(obernolte.house.gov)</em></li>
-<li><a href="https://www.axios.com/2026/06/04/house-draft-bill-regulate-ai">What's inside the House draft bill to regulate AI</a> <em>(axios.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html">Anthropic confidentially files IPO prospectus with SEC</a> <em>(cnbc.com)</em></li>
-<li><a href="https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/">Anthropic confidentially files for IPO after raising $65 billion at a $965 billion valuation</a> <em>(fortune.com)</em></li>
-<li><a href="https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/">Anthropic releases Opus 4.8 with new 'dynamic workflow' tool</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.anthropic.com/news/claude-opus-4-8">Introducing Claude Opus 4.8</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html">SpaceX targets fixed $135 IPO price for roadshow, source says</a> <em>(cnbc.com)</em></li>
-<li><a href="https://capital.com/en-int/learn/ipo/spacex-ipo">SpaceX IPO targets June 12, 2026, Nasdaq listing under SPCX</a> <em>(capital.com)</em></li>
-<li><a href="https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed">Colorado AI Act Amended and Effective Date Delayed</a> <em>(hunton.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Der US-Kongress wagt sich an ein nationales KI-Gesetz – und löst damit eine heftige Debatte aus. Dazu: Anthropic reicht vertraulich seinen Börsenprospekt ein, während SpaceX in weniger als einer Woche sein historisches IPO anpeilt.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/">Bipartisan AI draft proposes three-year preemption of state laws</a> <em>(rollcall.com)</em></li>
-<li><a href="https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act">Obernolte, Trahan release a discussion draft of the Great American AI Act</a> <em>(obernolte.house.gov)</em></li>
-<li><a href="https://www.axios.com/2026/06/04/house-draft-bill-regulate-ai">What's inside the House draft bill to regulate AI</a> <em>(axios.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html">Anthropic confidentially files IPO prospectus with SEC</a> <em>(cnbc.com)</em></li>
-<li><a href="https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/">Anthropic confidentially files for IPO after raising $65 billion at a $965 billion valuation</a> <em>(fortune.com)</em></li>
-<li><a href="https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/">Anthropic releases Opus 4.8 with new 'dynamic workflow' tool</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.anthropic.com/news/claude-opus-4-8">Introducing Claude Opus 4.8</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html">SpaceX targets fixed $135 IPO price for roadshow, source says</a> <em>(cnbc.com)</em></li>
-<li><a href="https://capital.com/en-int/learn/ipo/spacex-ipo">SpaceX IPO targets June 12, 2026, Nasdaq listing under SPCX</a> <em>(capital.com)</em></li>
-<li><a href="https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed">Colorado AI Act Amended and Effective Date Delayed</a> <em>(hunton.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Der US-Kongress wagt sich an ein nationales KI-Gesetz – und löst damit eine heftige Debatte aus. Dazu: Anthropic reicht vertraulich seinen Börsenprospekt ein, während SpaceX in weniger als einer Woche sein historisches IPO anpeilt.</itunes:summary>
-      <pubDate>Sat, 06 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-06</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-06/2026-06-06.mp3" length="4918379" type="audio/mpeg"/>
-      <itunes:duration>6:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

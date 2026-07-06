@@ -1,0 +1,48 @@
+{
+  "title": "KI Daily – 6. Juli 2026: Genf-Dialog startet, Musk-Altman-Prozess, Grok Imagine fertig",
+  "teaser": "Der globale UN-Dialog zur KI-Governance beginnt heute in Genf, in den USA startet die Jury-Auswahl im Prozess Musk gegen Altman, und xAI meldet den Abschluss von Grok Imagine. Außerdem: Tesla-Robotaxis ohne Sicherheitsfahrer, neue China-Regeln für menschenähnliche KI-Agenten und eine Oxford-Studie zu Bias in KI-Inhalten.",
+  "pubDate": "2026-07-06T06:00:00+02:00",
+  "duration_seconds": 344,
+  "size_bytes": 2759410,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-06/2026-07-06.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "AI explained: Why the world needs to act now (UN Global Dialogue on AI Governance beginnt am 6. Juli in Genf)",
+      "source": "news.un.org",
+      "url": "https://news.un.org/en/story/2026/07/1167848",
+      "published": "ca. 2. Juli 2026 (Ankündigung vor Dialogbeginn am 6. Juli 2026)"
+    },
+    {
+      "headline": "Jury selection begins in Musk vs. Altman legal battle",
+      "source": "cbsnews.com",
+      "url": "https://www.cbsnews.com/tag/openai/",
+      "published": "6. Juli 2026 (Montag)"
+    },
+    {
+      "headline": "Grok Imagine Is Done: xAI Completes Image Generation Feature",
+      "source": "basenor.com",
+      "url": "https://www.basenor.com/blogs/news/grok-imagine-is-done-xai-completes-image-generation-feature",
+      "published": "5. Juli 2026"
+    },
+    {
+      "headline": "Tesla rolls out Robotaxi service without a safety monitor in Miami (via The Information)",
+      "source": "llm-stats.com",
+      "url": "https://llm-stats.com/ai-news",
+      "published": "6. Juli 2026"
+    },
+    {
+      "headline": "ByteDance's Doubao and Alibaba's Qwen to disable humanlike agents before July 15 as China's anthropomorphic AI rules take effect (via South China Morning Post)",
+      "source": "llm-stats.com",
+      "url": "https://llm-stats.com/ai-news",
+      "published": "6. Juli 2026"
+    },
+    {
+      "headline": "Oxford-Forschung zu versteckten Verzerrungen durch KI-generierte Social-Media-Inhalte",
+      "source": "llm-stats.com",
+      "url": "https://llm-stats.com/ai-news",
+      "published": "6. Juli 2026"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Montag, den sechsten Juli zweitausendsechsundzwanzig. Heute mischen sich Weltpolitik, ein prominenter Gerichtsprozess und mehrere Produkt-Updates aus der KI-Branche. Hier ist der Überblick.\n===\nWir beginnen in Genf. Dort startet heute offiziell der erste globale UN-Dialog zur KI-Governance, über dessen Vorbereitung wir gestern schon kurz gesprochen haben. \nEin wissenschaftliches Gremium der Vereinten Nationen hat betont, dass sein Beitrag in den UN-Dialog zur KI-Governance einfließt, der am 6. Juli 2026 in Genf beginnt und bei dem Mitgliedsstaaten internationale Ansätze zur Steuerung der Technologie diskutieren werden.\n \nDas Gremium ist dabei klar: Künstliche Intelligenz sei an sich weder gut noch schlecht, ihre Wirkung hänge davon ab, welche Entscheidungen Regierungen, Unternehmen und Gesellschaften heute träfen.\n \nDie Technologie verändere bereits jetzt Wissenschaft, Gesundheitswesen, Bildung und Volkswirtschaften weltweit.\n Für die kommenden Tage ist Genf damit der zentrale Ort, an dem sich Diplomatie und KI-Industrie treffen.\n===\nEin zweites großes Thema kommt aus den USA, und zwar aus dem Gerichtssaal. \nLaut CBS News hat am Montag die Jury-Auswahl im Rechtsstreit zwischen den Tech-Größen Elon Musk und Sam Altman begonnen.\n \nDer Sender ordnet den Fall als besonders bedeutsam ein und beschreibt ihn als einen Prozess, der zu einem entscheidenden Zeitpunkt für die KI-Branche kommt, für eine Technologie, die enorme Fortschritte bringen, aber auch die Menschheit tiefgreifend verändern könnte.\n Der Streit zwischen den beiden früheren OpenAI-Mitstreitern dreht sich im Kern um die Ausrichtung des Unternehmens und begleitet die Branche schon seit Jahren, mit wechselnden juristischen Etappen auf beiden Seiten. Mit dem Start der Jury-Auswahl rückt nun die öffentliche Verhandlung dieser Grundsatzfrage näher, und es dürfte in den kommenden Wochen intensive Berichterstattung über Zeugenaussagen und interne Dokumente geben.\n===\nVon xAI gibt es ein kurzes, aber inhaltsreiches Update. \nElon Musk hat am 5. Juli über seinen Account mitgeteilt: \"Done with Grok Imagine.\"\n \nDie Ankündigung markiert den Abschluss der Entwicklung an der Bild- und Videofunktion und positioniert Grok damit fester im multimodalen Wettbewerb.\n Offizielle technische Details von xAI selbst stehen noch aus, die Ankündigung stammt bislang direkt von Musk persönlich.\n===\nAuch aus der Automobil- und Robotik-Ecke gibt es Bewegung. Laut einem Bericht des Fachmediums The Information, aufgegriffen vom Branchendienst llm-stats.com, hat \nTesla seinen Robotaxi-Dienst in Miami gestartet, seiner fünften Stadt, und zwar erstmals ohne Sicherheitsfahrer an Bord, während das Unternehmen eine Ausweitung auf ein Dutzend US-Bundesstaaten bis Ende des Jahres anstrebt.\n Der Schritt zeigt, wie sehr Tesla im Wettlauf um autonome Mobilität aufs Tempo drückt, auch wenn Sicherheitsfragen bei einem Verzicht auf die menschliche Rückfallebene naturgemäß im Raum bleiben.\n===\nEin regulatorisches Signal kommt aus China. Nach einem Bericht der South China Morning Post, ebenfalls über llm-stats.com verbreitet, \nmüssen die chinesischen Anbieter ByteDance mit seinem Assistenten Doubao und Alibaba mit seinem Modell Qwen menschenähnliche und von Nutzern erstellte KI-Agenten noch vor dem 15. Juli deaktivieren, weil dann Chinas neue Vorschriften für anthropomorphe KI-Interaktionen in Kraft treten.\n Damit reiht sich China in die wachsende Zahl von Regulierungsansätzen ein, die gezielt auf KI-Systeme abzielen, die sich im Umgang besonders menschlich geben.\n===\nZum Schluss noch ein Blick in die Forschung. Eine neue Untersuchung aus Oxford, ebenfalls über den Aggregator llm-stats.com bekannt geworden, zeigt: \nKI-Werkzeuge, die Social-Media-Beiträge erstellen, bearbeiten oder einordnen, können versteckte Verzerrungen einbringen, die sich dann durch Online-Netzwerke verbreiten und öffentliche Meinung formen.\n Das unterstreicht erneut, wie wichtig eine genaue Prüfung von KI-gestützten Inhalten in sozialen Medien bleibt, gerade weil solche Effekte oft erst im Zusammenspiel vieler einzelner Beiträge sichtbar werden.\n===\nDas war dein KI Daily-Briefing für heute. Die Woche in Genf dürfte in den kommenden Tagen noch mehr Substanz liefern, sobald aus dem UN-Dialog erste konkrete Ergebnisse kommen, und auch der Prozess zwischen Musk und Altman wird uns sicher weiter beschäftigen. Wir bleiben dran und melden uns morgen wieder mit den wichtigsten Entwicklungen aus der Welt der künstlichen Intelligenz. Bis dahin, einen guten Start in die Woche."
+}
