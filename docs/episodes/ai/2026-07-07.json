@@ -1,0 +1,48 @@
+{
+  "title": "KI Daily – 7. Juli 2026: Anthropic vs. China, TeraWulf-Deal, OpenAI-Voice",
+  "teaser": "Anthropic gerät zwischen die Fronten mit China, ein Rechenzentrums-Gigant bindet sich für zwanzig Jahre an das Unternehmen, und OpenAI schickt schnellere Sprachmodelle ins Rennen. Das und mehr im heutigen KI Daily-Briefing.",
+  "pubDate": "2026-07-07T06:00:00+02:00",
+  "duration_seconds": 346,
+  "size_bytes": 2774666,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-07/2026-07-07.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Why Anthropic alleges Chinese firms are \"distilling\" knowledge from Claude",
+      "source": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/",
+      "published": "2026-07-06"
+    },
+    {
+      "headline": "Why Alibaba Just Banned Its Employees From Using Anthropic's Claude Code",
+      "source": "inc.com",
+      "url": "https://www.inc.com/moses-jeanfrancois/alibaba-just-banned-employees-from-using-anthropic-claude-code/91369958",
+      "published": "2026-07-06"
+    },
+    {
+      "headline": "TeraWulf shares soar after Anthropic leases data center in Kentucky",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
+      "published": "2026-07-06"
+    },
+    {
+      "headline": "TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack",
+      "source": "investors.terawulf.com",
+      "url": "https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack",
+      "published": "2026-07-06"
+    },
+    {
+      "headline": "A global workspace in language models",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "published": "ca. 14 Stunden vor Abruf (6./7. Juli 2026)"
+    },
+    {
+      "headline": "OpenAI releases gpt-realtime-2.1 and gpt-realtime-2.1-mini",
+      "source": "releasebot.io (OpenAI Release Notes)",
+      "url": "https://releasebot.io/updates/openai",
+      "published": "2026-07-07"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Dienstag, den 7. Juli 2026. Heute geht es um wachsende Spannungen zwischen Anthropic und chinesischen Tech-Konzernen, einen milliardenschweren Rechenzentrums-Deal in Kentucky, neue Einblicke in das Innenleben von Sprachmodellen und ein frisches Modell-Update von OpenAI. Los geht's.\n===\nDen Auftakt macht ein Konflikt, der die Fronten zwischen amerikanischen und chinesischen KI-Firmen weiter verhärtet. Die Washington Post berichtet, <cite index=\"1-1\">amerikanische Tech-Firmen werfen ihren chinesischen Rivalen vor, deren Chatbots gezielt als Nachhilfelehrer zu benutzen, um die eigenen KI-Systeme klüger zu machen</cite>. Fast zeitgleich meldet das Magazin Inc., dass <cite index=\"2-1\">ausgerechnet der chinesische Handelsriese Alibaba seinen eigenen Mitarbeitenden verboten hat, Anthropics Coding-Werkzeug Claude Code zu nutzen</cite>. Die Episode zeigt, wie tief das Misstrauen mittlerweile in beide Richtungen reicht. Auf der einen Seite fürchtet Anthropic, dass sein Wissen unkontrolliert absorbiert wird, auf der anderen Seite schottet sich ein chinesischer Konzern selbst vor amerikanischer KI-Software ab, vermutlich aus Sorge um Daten- und Wettbewerbssicherheit. Der Vorgang reiht sich ein in eine ganze Serie von Auseinandersetzungen der vergangenen Wochen um Exportkontrollen, Zugriffsrechte und die Frage, wessen Modelle wo überhaupt noch laufen dürfen.\n===\nHandfester wird es bei der Infrastruktur. Der auf digitale Infrastruktur spezialisierte Betreiber TeraWulf hat <cite index=\"4-1\">einen zwanzigjährigen Mietvertrag mit Anthropic für seinen Rechenzentrums-Campus abgeschlossen</cite>. Firmenchef Paul Prager sagte, <cite index=\"3-1\">der Anthropic-Vertrag bestätige die eigene Strategie und schaffe eine langfristige Einnahmequelle mit einem der weltweit führenden KI-Unternehmen</cite>. Im gleichen Atemzug <cite index=\"3-2\">verkaufte TeraWulf seine fünfzig Prozent an einem Rechenzentrum im texanischen Abernathy an eine Investorengruppe unter Führung von Fluidstack</cite>. Bemerkenswert ist der Weg, den TeraWulf hinter sich hat, denn <cite index=\"3-3\">das Unternehmen ist eigentlich ein Krypto-Miner, der sich auf KI-Rechenzentren verlegt hat</cite>, ein Kurswechsel, der <cite index=\"3-4\">der Aktie in diesem Jahr bereits ein Plus von mehr als achtzig Prozent beschert hat</cite>. Der Deal unterstreicht, wie sehr Anthropic inzwischen als verlässlicher Großkunde für Rechenkapazität gilt und wie stark der Bedarf an neuen Stromkapazitäten für Künstliche Intelligenz in den USA weiter wächst.\n===\nAuch inhaltlich hat Anthropic heute etwas Neues vorgelegt. Das Unternehmen veröffentlichte <cite index=\"5-1\">Interpretierbarkeitsforschung zu den internen Gedankenprozessen von Claude unter dem Titel Ein globaler Arbeitsraum in Sprachmodellen</cite>. Im Kern geht es darum, wie sich so etwas wie ein zentraler Denkraum im Inneren des Modells beobachten lässt, in dem verschiedene interne Prozesse Informationen austauschen, ähnlich einem Konzept aus der Kognitionswissenschaft. Solche Arbeiten sind Teil von Anthropics andauerndem Versuch, die sogenannte Blackbox der eigenen Modelle transparenter zu machen, um besser zu verstehen, warum ein System zu einer bestimmten Antwort oder Handlung kommt. Für die Debatte um Sicherheit und Kontrolle von KI-Systemen ist das relevant, weil ein tieferes Verständnis interner Abläufe langfristig helfen könnte, unerwünschtes Verhalten frühzeitig zu erkennen, bevor es in der realen Anwendung auftaucht.\n===\nZum Abschluss noch ein Produkt-Update von OpenAI. Das Unternehmen hat <cite index=\"6-1\">zwei neue Echtzeit-Modelle veröffentlicht, GPT Realtime 2.1 und eine kleinere Mini-Version, für sprachbasierte und multimodale Anwendungen mit sehr geringer Verzögerung</cite>. Nach eigenen Angaben <cite index=\"6-2\">senkt OpenAI durch verbessertes Caching die sogenannte p95-Latenz bei allen Echtzeit-Sprachmodellen um mindestens fünfundzwanzig Prozent</cite>, zusätzlich <cite index=\"6-3\">verbessern sich die Erkennung von Zahlen und Buchstaben, der Umgang mit Stille und Hintergrundgeräuschen sowie das Verhalten bei Unterbrechungen durch Nutzer</cite>. Solche Verbesserungen klingen technisch, sind aber genau das Rückgrat für die wachsende Zahl an Sprachassistenten und Voice-Agenten, die Unternehmen gerade in Kundenservice und Support ausrollen. Je schneller und robuster ein Modell auf gesprochene Sprache reagiert, desto eher wird es in echten Telefon- oder App-Gesprächen eingesetzt, ohne dass Nutzerinnen und Nutzer die typischen Aussetzer und Verzögerungen bemerken.\n===\nZum Ausblick, in Genf geht heute der erste UN-Dialog zur KI-Governance zu Ende, direkt im Anschluss startet dort der ITU-Gipfel AI for Good, wir behalten die Ergebnisse für euch im Blick. Und bei OpenAI wird in den kommenden Tagen mit der breiteren Freigabe der neuen GPT-5.6-Modellfamilie Sol, Terra und Luna gerechnet, bislang läuft der Zugang nur eingeschränkt über ausgewählte Partner. Das war dein KI Daily für heute. Danke fürs Zuhören und bis morgen."
+}

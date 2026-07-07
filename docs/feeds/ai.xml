@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 7. Juli 2026: Anthropic vs. China, TeraWulf-Deal, OpenAI-Voice</title>
+      <description><![CDATA[<p>Anthropic gerät zwischen die Fronten mit China, ein Rechenzentrums-Gigant bindet sich für zwanzig Jahre an das Unternehmen, und OpenAI schickt schnellere Sprachmodelle ins Rennen. Das und mehr im heutigen KI Daily-Briefing.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/">Why Anthropic alleges Chinese firms are "distilling" knowledge from Claude</a> <em>(washingtonpost.com)</em></li>
+<li><a href="https://www.inc.com/moses-jeanfrancois/alibaba-just-banned-employees-from-using-anthropic-claude-code/91369958">Why Alibaba Just Banned Its Employees From Using Anthropic's Claude Code</a> <em>(inc.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html">TeraWulf shares soar after Anthropic leases data center in Kentucky</a> <em>(cnbc.com)</em></li>
+<li><a href="https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack">TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack</a> <em>(investors.terawulf.com)</em></li>
+<li><a href="https://www.anthropic.com/research/global-workspace">A global workspace in language models</a> <em>(anthropic.com)</em></li>
+<li><a href="https://releasebot.io/updates/openai">OpenAI releases gpt-realtime-2.1 and gpt-realtime-2.1-mini</a> <em>(releasebot.io (OpenAI Release Notes))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Anthropic gerät zwischen die Fronten mit China, ein Rechenzentrums-Gigant bindet sich für zwanzig Jahre an das Unternehmen, und OpenAI schickt schnellere Sprachmodelle ins Rennen. Das und mehr im heutigen KI Daily-Briefing.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/">Why Anthropic alleges Chinese firms are "distilling" knowledge from Claude</a> <em>(washingtonpost.com)</em></li>
+<li><a href="https://www.inc.com/moses-jeanfrancois/alibaba-just-banned-employees-from-using-anthropic-claude-code/91369958">Why Alibaba Just Banned Its Employees From Using Anthropic's Claude Code</a> <em>(inc.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html">TeraWulf shares soar after Anthropic leases data center in Kentucky</a> <em>(cnbc.com)</em></li>
+<li><a href="https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack">TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack</a> <em>(investors.terawulf.com)</em></li>
+<li><a href="https://www.anthropic.com/research/global-workspace">A global workspace in language models</a> <em>(anthropic.com)</em></li>
+<li><a href="https://releasebot.io/updates/openai">OpenAI releases gpt-realtime-2.1 and gpt-realtime-2.1-mini</a> <em>(releasebot.io (OpenAI Release Notes))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Anthropic gerät zwischen die Fronten mit China, ein Rechenzentrums-Gigant bindet sich für zwanzig Jahre an das Unternehmen, und OpenAI schickt schnellere Sprachmodelle ins Rennen. Das und mehr im heutigen KI Daily-Briefing.</itunes:summary>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-07</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-07/2026-07-07.mp3" length="2774666" type="audio/mpeg"/>
+      <itunes:duration>5:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 6. Juli 2026: Genf-Dialog startet, Musk-Altman-Prozess, Grok Imagine fertig</title>
       <description><![CDATA[<p>Der globale UN-Dialog zur KI-Governance beginnt heute in Genf, in den USA startet die Jury-Auswahl im Prozess Musk gegen Altman, und xAI meldet den Abschluss von Grok Imagine. Außerdem: Tesla-Robotaxis ohne Sicherheitsfahrer, neue China-Regeln für menschenähnliche KI-Agenten und eine Oxford-Studie zu Bias in KI-Inhalten.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -1053,39 +1082,6 @@
       <guid isPermaLink="false">ai-2026-06-08</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-08/2026-06-08.mp3" length="5049096" type="audio/mpeg"/>
       <itunes:duration>7:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 7. Juni 2026: SpaceX als KI-Infrastruktur, OpenAI &amp; Staat, xAI-Affäre</title>
-      <description><![CDATA[<p>SpaceX wird zum mächtigsten KI-Rechenzentrum der Welt – Google zahlt fast eine Milliarde Dollar im Monat. Dazu: Die US-Regierung verhandelt eine Beteiligung an OpenAI, und Elon Musks xAI hat monatelang heimlich Claudes KI für eigene Modelle genutzt.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/">SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://finance.yahoo.com/sectors/technology/article/spacex-to-rent-ai-capacity-to-google-for-920-million-per-month-200639544.html">SpaceX to rent AI capacity to Google for $920 million per month</a> <em>(finance.yahoo.com)</em></li>
-<li><a href="https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/">Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html">Trump administration, OpenAI discussing possible government stake in the AI startup</a> <em>(cnbc.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/">The Trump administration might take an equity stake in OpenAI</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.squaredtech.co/meta-hatch-ai-agent-new-200month-paid-product-explained">Meta Hatch AI Agent: New $200/Month Paid Product Explained</a> <em>(squaredtech.co)</em></li>
-<li><a href="https://www.aljazeera.com/economy/2026/6/5/anthropic-urges-ai-labs-to-pause-warns-humans-risk-losing-control">Anthropic urges AI labs to pause, warns humans risk losing control</a> <em>(aljazeera.com)</em></li>
-<li><a href="https://www.scientificamerican.com/article/anthropic-warns-ai-may-soon-begin-recursive-self-improvement/">Anthropic warns AI may soon begin recursive self-improvement</a> <em>(scientificamerican.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>SpaceX wird zum mächtigsten KI-Rechenzentrum der Welt – Google zahlt fast eine Milliarde Dollar im Monat. Dazu: Die US-Regierung verhandelt eine Beteiligung an OpenAI, und Elon Musks xAI hat monatelang heimlich Claudes KI für eigene Modelle genutzt.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/">SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://finance.yahoo.com/sectors/technology/article/spacex-to-rent-ai-capacity-to-google-for-920-million-per-month-200639544.html">SpaceX to rent AI capacity to Google for $920 million per month</a> <em>(finance.yahoo.com)</em></li>
-<li><a href="https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/">Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html">Trump administration, OpenAI discussing possible government stake in the AI startup</a> <em>(cnbc.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/">The Trump administration might take an equity stake in OpenAI</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.squaredtech.co/meta-hatch-ai-agent-new-200month-paid-product-explained">Meta Hatch AI Agent: New $200/Month Paid Product Explained</a> <em>(squaredtech.co)</em></li>
-<li><a href="https://www.aljazeera.com/economy/2026/6/5/anthropic-urges-ai-labs-to-pause-warns-humans-risk-losing-control">Anthropic urges AI labs to pause, warns humans risk losing control</a> <em>(aljazeera.com)</em></li>
-<li><a href="https://www.scientificamerican.com/article/anthropic-warns-ai-may-soon-begin-recursive-self-improvement/">Anthropic warns AI may soon begin recursive self-improvement</a> <em>(scientificamerican.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>SpaceX wird zum mächtigsten KI-Rechenzentrum der Welt – Google zahlt fast eine Milliarde Dollar im Monat. Dazu: Die US-Regierung verhandelt eine Beteiligung an OpenAI, und Elon Musks xAI hat monatelang heimlich Claudes KI für eigene Modelle genutzt.</itunes:summary>
-      <pubDate>Sun, 07 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-07</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-07/2026-06-07.mp3" length="5365387" type="audio/mpeg"/>
-      <itunes:duration>7:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
