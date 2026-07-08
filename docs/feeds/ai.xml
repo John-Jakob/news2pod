@@ -19,6 +19,33 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 8. Juli 2026: OpenAI unter Regierungsaufsicht, Gemini-Verzögerung, Meta-Eingeständnis</title>
+      <description><![CDATA[<p>Die US-Regierung nimmt Einfluss auf den Start von OpenAIs neuem Flaggschiffmodell, Google verschiebt Gemini 3.5 Pro für einen kompletten Neubau, und Mark Zuckerberg räumt bei Meta intern ein, dass die KI-Agenten-Strategie noch nicht liefert. Außerdem: neue Stimmen für Grok Voice von xAI.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model">OpenAI limits GPT-5.6 Sol access to Trump administration partners</a> <em>(foxnews.com)</em></li>
+<li><a href="https://openai.com/index/previewing-gpt-5-6-sol/">Previewing GPT-5.6 Sol: a next-generation model</a> <em>(openai.com)</em></li>
+<li><a href="https://finance.biggo.com/news/6f0c6bb2-795f-4c57-9d09-6db691d7638a">Google Delays Gemini 3.5 Pro Launch to July 17 for Full Architectural Rebuild</a> <em>(finance.biggo.com)</em></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/laying-off-8-000-employees-121545621.html">After Laying Off 8,000 Employees, Zuckerberg Admits Meta's AI 'Hasn't Really Accelerated' As Expected</a> <em>(finance.yahoo.com)</em></li>
+<li><a href="https://x.ai/news/new-flagship-voices">21 New Flagship Grok Voices</a> <em>(x.ai)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Die US-Regierung nimmt Einfluss auf den Start von OpenAIs neuem Flaggschiffmodell, Google verschiebt Gemini 3.5 Pro für einen kompletten Neubau, und Mark Zuckerberg räumt bei Meta intern ein, dass die KI-Agenten-Strategie noch nicht liefert. Außerdem: neue Stimmen für Grok Voice von xAI.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model">OpenAI limits GPT-5.6 Sol access to Trump administration partners</a> <em>(foxnews.com)</em></li>
+<li><a href="https://openai.com/index/previewing-gpt-5-6-sol/">Previewing GPT-5.6 Sol: a next-generation model</a> <em>(openai.com)</em></li>
+<li><a href="https://finance.biggo.com/news/6f0c6bb2-795f-4c57-9d09-6db691d7638a">Google Delays Gemini 3.5 Pro Launch to July 17 for Full Architectural Rebuild</a> <em>(finance.biggo.com)</em></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/laying-off-8-000-employees-121545621.html">After Laying Off 8,000 Employees, Zuckerberg Admits Meta's AI 'Hasn't Really Accelerated' As Expected</a> <em>(finance.yahoo.com)</em></li>
+<li><a href="https://x.ai/news/new-flagship-voices">21 New Flagship Grok Voices</a> <em>(x.ai)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Die US-Regierung nimmt Einfluss auf den Start von OpenAIs neuem Flaggschiffmodell, Google verschiebt Gemini 3.5 Pro für einen kompletten Neubau, und Mark Zuckerberg räumt bei Meta intern ein, dass die KI-Agenten-Strategie noch nicht liefert. Außerdem: neue Stimmen für Grok Voice von xAI.</itunes:summary>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-08</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-08/2026-07-08.mp3" length="2970061" type="audio/mpeg"/>
+      <itunes:duration>6:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 7. Juli 2026: Anthropic vs. China, TeraWulf-Deal, OpenAI-Voice</title>
       <description><![CDATA[<p>Anthropic gerät zwischen die Fronten mit China, ein Rechenzentrums-Gigant bindet sich für zwanzig Jahre an das Unternehmen, und OpenAI schickt schnellere Sprachmodelle ins Rennen. Das und mehr im heutigen KI Daily-Briefing.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -1043,45 +1070,6 @@
       <guid isPermaLink="false">ai-2026-06-09</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-09/2026-06-09.mp3" length="4735313" type="audio/mpeg"/>
       <itunes:duration>6:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 8. Juni 2026: WWDC, Sacks-Signal &amp; Sanders-Steuer</title>
-      <description><![CDATA[<p>Heute startet Apples WWDC mit Tim Cooks letztem KI-Versprechen. Dazu: Warum Washingtons KI-Zar sagt, KI sei das neue Klimathema – und wie Bernie Sanders die Tech-Giganten halb verstaatlichen will.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.macrumors.com/roundup/wwdc/">Apple WWDC 2026: Keynote starts June 8 — Gemini-powered Siri, iOS 27, Tim Cook's final keynote</a> <em>(macrumors.com)</em></li>
-<li><a href="https://www.redsharknews.com/apple-wwdc-2026-siri-gemini-ios-27">WWDC 2026: new Siri, Gemini deal and iOS 27</a> <em>(redsharknews.com)</em></li>
-<li><a href="https://www.newsweek.com/wwdc-2026-everything-apple-is-expected-to-announce-on-june-8-12016937">WWDC 2026: Everything Apple Is Expected to Announce on June 8</a> <em>(newsweek.com)</em></li>
-<li><a href="https://www.nationpress.com/international/david-sacks-ai-is-the-new-climate-change">David Sacks: 'AI Is the New Climate Change'</a> <em>(nationpress.com)</em></li>
-<li><a href="https://finance.yahoo.com/economy/policy/articles/bernie-sanders-introduce-bill-giving-135431485.html">Bernie Sanders to introduce bill giving the public a 50% stake in top AI companies</a> <em>(yahoo.com/finance)</em></li>
-<li><a href="https://fortune.com/2026/06/03/bernie-sanders-ai-ownership-sovereign-wealth-fund-electrification/">Bernie Sanders wants Americans to own a piece of AI. The Trump White House seems to agree</a> <em>(fortune.com)</em></li>
-<li><a href="https://www.nzz.ch/themen/kuenstliche-intelligenz-ki">SpaceX targets June 12 Nasdaq debut at $1.75 trillion valuation</a> <em>(nzz.ch)</em></li>
-<li><a href="https://dentro.de/ai/news/">SpaceX S-1 filing reveals xAI's $2.4B Q1 loss and Anthropic compute deal</a> <em>(dentro.de/ai)</em></li>
-<li><a href="https://www.nzz.ch/themen/kuenstliche-intelligenz-ki">Pope Leo XIV: 'Magnifica Humanitas' — reactions and policy implications continue</a> <em>(nzz.ch)</em></li>
-<li><a href="https://www.brookings.edu/articles/understanding-pope-leos-ai-encyclical/">Understanding Pope Leo's AI encyclical</a> <em>(brookings.edu)</em></li>
-<li><a href="https://news.aibase.com/news/28716">Apple WWDC 2026 Preview: Cook's Final Show Before Retirement, Siri to Introduce Google Gemini</a> <em>(news.aibase.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Heute startet Apples WWDC mit Tim Cooks letztem KI-Versprechen. Dazu: Warum Washingtons KI-Zar sagt, KI sei das neue Klimathema – und wie Bernie Sanders die Tech-Giganten halb verstaatlichen will.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.macrumors.com/roundup/wwdc/">Apple WWDC 2026: Keynote starts June 8 — Gemini-powered Siri, iOS 27, Tim Cook's final keynote</a> <em>(macrumors.com)</em></li>
-<li><a href="https://www.redsharknews.com/apple-wwdc-2026-siri-gemini-ios-27">WWDC 2026: new Siri, Gemini deal and iOS 27</a> <em>(redsharknews.com)</em></li>
-<li><a href="https://www.newsweek.com/wwdc-2026-everything-apple-is-expected-to-announce-on-june-8-12016937">WWDC 2026: Everything Apple Is Expected to Announce on June 8</a> <em>(newsweek.com)</em></li>
-<li><a href="https://www.nationpress.com/international/david-sacks-ai-is-the-new-climate-change">David Sacks: 'AI Is the New Climate Change'</a> <em>(nationpress.com)</em></li>
-<li><a href="https://finance.yahoo.com/economy/policy/articles/bernie-sanders-introduce-bill-giving-135431485.html">Bernie Sanders to introduce bill giving the public a 50% stake in top AI companies</a> <em>(yahoo.com/finance)</em></li>
-<li><a href="https://fortune.com/2026/06/03/bernie-sanders-ai-ownership-sovereign-wealth-fund-electrification/">Bernie Sanders wants Americans to own a piece of AI. The Trump White House seems to agree</a> <em>(fortune.com)</em></li>
-<li><a href="https://www.nzz.ch/themen/kuenstliche-intelligenz-ki">SpaceX targets June 12 Nasdaq debut at $1.75 trillion valuation</a> <em>(nzz.ch)</em></li>
-<li><a href="https://dentro.de/ai/news/">SpaceX S-1 filing reveals xAI's $2.4B Q1 loss and Anthropic compute deal</a> <em>(dentro.de/ai)</em></li>
-<li><a href="https://www.nzz.ch/themen/kuenstliche-intelligenz-ki">Pope Leo XIV: 'Magnifica Humanitas' — reactions and policy implications continue</a> <em>(nzz.ch)</em></li>
-<li><a href="https://www.brookings.edu/articles/understanding-pope-leos-ai-encyclical/">Understanding Pope Leo's AI encyclical</a> <em>(brookings.edu)</em></li>
-<li><a href="https://news.aibase.com/news/28716">Apple WWDC 2026 Preview: Cook's Final Show Before Retirement, Siri to Introduce Google Gemini</a> <em>(news.aibase.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Heute startet Apples WWDC mit Tim Cooks letztem KI-Versprechen. Dazu: Warum Washingtons KI-Zar sagt, KI sei das neue Klimathema – und wie Bernie Sanders die Tech-Giganten halb verstaatlichen will.</itunes:summary>
-      <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-08</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-08/2026-06-08.mp3" length="5049096" type="audio/mpeg"/>
-      <itunes:duration>7:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
