@@ -19,6 +19,33 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 9. Juli 2026: GPT-5.6 startet, Grok 4.5, Anthropic contra China</title>
+      <description><![CDATA[<p>OpenAI macht GPT-5.6 heute für alle öffentlich zugänglich, xAI kontert mit Grok 4.5, und im Streit zwischen Anthropic und China eskaliert der Vorwurf einer Sicherheits-Backdoor. Außerdem: Microsoft ersetzt OpenAI und Anthropic in eigenen Apps.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/">OpenAI gets permission to roll out GPT-5.6 to the public on July 9</a> <em>(engadget.com)</em></li>
+<li><a href="https://x.ai/news/grok-4-5">Introducing Grok 4.5</a> <em>(x.ai)</em></li>
+<li><a href="https://www.basenor.com/blogs/news/grok-4-5-is-here-6-things-you-need-to-know">Grok 4.5 Is Here: 6 Things You Need to Know</a> <em>(basenor.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html">China warns about AI risks with Anthropic's Claude Code</a> <em>(cnbc.com)</em></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html">Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>OpenAI macht GPT-5.6 heute für alle öffentlich zugänglich, xAI kontert mit Grok 4.5, und im Streit zwischen Anthropic und China eskaliert der Vorwurf einer Sicherheits-Backdoor. Außerdem: Microsoft ersetzt OpenAI und Anthropic in eigenen Apps.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/">OpenAI gets permission to roll out GPT-5.6 to the public on July 9</a> <em>(engadget.com)</em></li>
+<li><a href="https://x.ai/news/grok-4-5">Introducing Grok 4.5</a> <em>(x.ai)</em></li>
+<li><a href="https://www.basenor.com/blogs/news/grok-4-5-is-here-6-things-you-need-to-know">Grok 4.5 Is Here: 6 Things You Need to Know</a> <em>(basenor.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html">China warns about AI risks with Anthropic's Claude Code</a> <em>(cnbc.com)</em></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html">Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>OpenAI macht GPT-5.6 heute für alle öffentlich zugänglich, xAI kontert mit Grok 4.5, und im Streit zwischen Anthropic und China eskaliert der Vorwurf einer Sicherheits-Backdoor. Außerdem: Microsoft ersetzt OpenAI und Anthropic in eigenen Apps.</itunes:summary>
+      <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-09</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-09/2026-07-09.mp3" length="3082493" type="audio/mpeg"/>
+      <itunes:duration>6:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 8. Juli 2026: OpenAI unter Regierungsaufsicht, Gemini-Verzögerung, Meta-Eingeständnis</title>
       <description><![CDATA[<p>Die US-Regierung nimmt Einfluss auf den Start von OpenAIs neuem Flaggschiffmodell, Google verschiebt Gemini 3.5 Pro für einen kompletten Neubau, und Mark Zuckerberg räumt bei Meta intern ein, dass die KI-Agenten-Strategie noch nicht liefert. Außerdem: neue Stimmen für Grok Voice von xAI.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -1033,43 +1060,6 @@
       <guid isPermaLink="false">ai-2026-06-10</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-10/2026-06-10.mp3" length="6061916" type="audio/mpeg"/>
       <itunes:duration>8:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 9. Juni 2026: Apple Siri KI, OpenAI IPO &amp; die große Börsen-Welle</title>
-      <description><![CDATA[<p>Apple enthüllt bei der WWDC eine komplett neu gebaute Siri auf Gemini-Basis — und gleichzeitig reicht OpenAI vertraulich seinen Börsengang-Antrag ein. Der KI-IPO-Sommer nimmt Fahrt auf.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/">WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.npr.org/2026/06/08/nx-s1-5847937/apple-wwdc-2026-siri-ai-tim-cook">Hey, Siri: Apple just announced a long-awaited AI update</a> <em>(npr.org)</em></li>
-<li><a href="https://www.popsci.com/gear/apple-wwdc-announcements-2026/">Apple WWDC 2026 keynote highlights and all announcements</a> <em>(popsci.com)</em></li>
-<li><a href="https://www.techradar.com/news/live/apple-wwdc-2026-live">Apple WWDC 2026 as it happened: Siri AI, iOS 27, macOS Golden Gate</a> <em>(techradar.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market">OpenAI Files Confidentially for IPO as Rivals Race to Market</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://abc7ny.com/post/openai-files-confidential-sec-paperwork-ipo-opening-door-wall-street-debut/19259780/">OpenAI files confidential SEC paperwork for IPO</a> <em>(abc7ny.com (AP))</em></li>
-<li><a href="https://www.pymnts.com/artificial-intelligence-2/2026/openai-confidential-ipo-filing-joins-race-for-largest-public-listing-ever/">OpenAI confidential IPO filing joins race for largest public listing ever</a> <em>(pymnts.com)</em></li>
-<li><a href="https://capital.com/en-int/learn/ipo/spacex-ipo">SpaceX targets June 12 Nasdaq debut — pricing June 11</a> <em>(capital.com)</em></li>
-<li><a href="https://www.bloomberg.com/graphics/2026-spacex-ipo-stock-market-nasdaq-listings/">How SpaceX's Dream of a Record-Breaking IPO Stacks Up</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.resultsense.com/news/2026-06-03-chatgpt-one-billion-users/">ChatGPT crosses 1 billion monthly active users — fastest app in history</a> <em>(resultsense.com (via Reuters))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Apple enthüllt bei der WWDC eine komplett neu gebaute Siri auf Gemini-Basis — und gleichzeitig reicht OpenAI vertraulich seinen Börsengang-Antrag ein. Der KI-IPO-Sommer nimmt Fahrt auf.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/">WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.npr.org/2026/06/08/nx-s1-5847937/apple-wwdc-2026-siri-ai-tim-cook">Hey, Siri: Apple just announced a long-awaited AI update</a> <em>(npr.org)</em></li>
-<li><a href="https://www.popsci.com/gear/apple-wwdc-announcements-2026/">Apple WWDC 2026 keynote highlights and all announcements</a> <em>(popsci.com)</em></li>
-<li><a href="https://www.techradar.com/news/live/apple-wwdc-2026-live">Apple WWDC 2026 as it happened: Siri AI, iOS 27, macOS Golden Gate</a> <em>(techradar.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market">OpenAI Files Confidentially for IPO as Rivals Race to Market</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://abc7ny.com/post/openai-files-confidential-sec-paperwork-ipo-opening-door-wall-street-debut/19259780/">OpenAI files confidential SEC paperwork for IPO</a> <em>(abc7ny.com (AP))</em></li>
-<li><a href="https://www.pymnts.com/artificial-intelligence-2/2026/openai-confidential-ipo-filing-joins-race-for-largest-public-listing-ever/">OpenAI confidential IPO filing joins race for largest public listing ever</a> <em>(pymnts.com)</em></li>
-<li><a href="https://capital.com/en-int/learn/ipo/spacex-ipo">SpaceX targets June 12 Nasdaq debut — pricing June 11</a> <em>(capital.com)</em></li>
-<li><a href="https://www.bloomberg.com/graphics/2026-spacex-ipo-stock-market-nasdaq-listings/">How SpaceX's Dream of a Record-Breaking IPO Stacks Up</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.resultsense.com/news/2026-06-03-chatgpt-one-billion-users/">ChatGPT crosses 1 billion monthly active users — fastest app in history</a> <em>(resultsense.com (via Reuters))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Apple enthüllt bei der WWDC eine komplett neu gebaute Siri auf Gemini-Basis — und gleichzeitig reicht OpenAI vertraulich seinen Börsengang-Antrag ein. Der KI-IPO-Sommer nimmt Fahrt auf.</itunes:summary>
-      <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-09</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-09/2026-06-09.mp3" length="4735313" type="audio/mpeg"/>
-      <itunes:duration>6:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

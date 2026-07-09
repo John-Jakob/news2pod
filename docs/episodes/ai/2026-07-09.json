@@ -1,0 +1,42 @@
+{
+  "title": "KI Daily – 9. Juli 2026: GPT-5.6 startet, Grok 4.5, Anthropic contra China",
+  "teaser": "OpenAI macht GPT-5.6 heute für alle öffentlich zugänglich, xAI kontert mit Grok 4.5, und im Streit zwischen Anthropic und China eskaliert der Vorwurf einer Sicherheits-Backdoor. Außerdem: Microsoft ersetzt OpenAI und Anthropic in eigenen Apps.",
+  "pubDate": "2026-07-09T06:00:00+02:00",
+  "duration_seconds": 385,
+  "size_bytes": 3082493,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-09/2026-07-09.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "OpenAI gets permission to roll out GPT-5.6 to the public on July 9",
+      "source": "engadget.com",
+      "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/",
+      "published": "2026-07-08"
+    },
+    {
+      "headline": "Introducing Grok 4.5",
+      "source": "x.ai",
+      "url": "https://x.ai/news/grok-4-5",
+      "published": "2026-07-08"
+    },
+    {
+      "headline": "Grok 4.5 Is Here: 6 Things You Need to Know",
+      "source": "basenor.com",
+      "url": "https://www.basenor.com/blogs/news/grok-4-5-is-here-6-things-you-need-to-know",
+      "published": "2026-07-08"
+    },
+    {
+      "headline": "China warns about AI risks with Anthropic's Claude Code",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+      "published": "2026-07-09 (vor ca. 2 Stunden)"
+    },
+    {
+      "headline": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
+      "source": "bloomberg.com (via finance.yahoo.com)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html",
+      "published": "2026-07-08"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Thursday, 9. July 2026.\n===\nWir starten mit einem Update zur Geschichte von gestern. OpenAI hatte sein neues Modell GPT-5.6 zunächst nur einem kleinen Kreis von Regierungspartnern zugänglich gemacht, weil die Trump-Administration im Rahmen einer Cybersicherheits-Verordnung eine Vorab-Prüfung verlangt hatte. Firmen sollten demnach ihre stärksten Modelle dreißig Tage vor der Veröffentlichung freiwillig der Regierung zur Prüfung vorlegen. OpenAI selbst hatte damals betont, man wolle nicht, dass ein solcher staatlicher Zugriffsprozess zum Dauerzustand wird, sich der Prüfung aber dennoch unterziehen. Jetzt, nur wenige Tage später, ist der Knoten geplatzt. OpenAI hat angekündigt, alle drei Varianten von GPT-5.6, also Sol, Luna und Terra, ab heute, Donnerstag, dem neunten Juli, weltweit öffentlich freizugeben. Laut Axios hat die Trump-Administration die breitere Freigabe erteilt, nachdem das Modell zusätzliche Tests durchlaufen hat und es weitere Gespräche mit dem Unternehmen gab. Die zusätzlichen Prüfungen führte demnach das Center for AI Standards and Innovation im US-Handelsministerium durch, wofür OpenAI eigens technische Fachleute nach Washington schickte, um Fragen direkt vor Ort zu klären. Preislich positioniert sich OpenAI breit gefächert. Sol gilt als das bislang leistungsstärkste Modell des Unternehmens, Terra ist für den Alltagsgebrauch gedacht und soll bei etwa der Leistung von GPT-5.5 liegen, aber nur halb so teuer sein, während Luna als günstigste Variante den Einstiegspreis markiert. Der Fall zeigt exemplarisch, wie eng Modellveröffentlichungen in den USA inzwischen mit staatlicher Prüfung verzahnt sind.\n===\nAuch bei xAI, dem Unternehmen von Elon Musk, das inzwischen unter der Marke SpaceXAI auftritt, gibt es einen neuen Meilenstein. Gestern wurde Grok 4.5 vorgestellt, nach eigenen Angaben das bislang stärkste Modell des Unternehmens, ausgerichtet auf Programmieraufgaben, autonome Agenten und Wissensarbeit. Trainiert wurde es auf einer neuen Grundarchitektur mit dem Namen 1,5 Billionen Parameter V9, unter Einsatz zehntausender Nvidia-GB300-Grafikchips in den Rechenzentren des Unternehmens in Memphis. Elon Musk selbst bezeichnete Grok 4.5 als, Zitat, ein Modell der Opus-Klasse, und positioniert es damit gegen die stärksten Modelle von Anthropic und OpenAI. Praktisch relevant ist vor allem die breite Einbindung. Grok 4.5 ist über die xAI-Programmierschnittstelle, in der Entwicklungsumgebung Cursor sowie als Plugin für Microsoft Word, PowerPoint und Excel verfügbar. In der Europäischen Union ist das Modell nach Angaben des Unternehmens allerdings noch nicht nutzbar, eine Freigabe wird erst für Mitte Juli erwartet.\n===\nIm Verhältnis zwischen Anthropic und China gibt es eine neue Wendung, die wir als Update zur Geschichte vom Dienstag einordnen. Damals ging es um Anthropics Vorwurf, chinesische Firmen würden über sogenannte Distillation gezielt Wissen aus dem Modell Claude abschöpfen, woraufhin Alibaba seinen Mitarbeitenden die Nutzung von Claude Code untersagte. Jetzt schlägt der Ball zurück. Der Sender CNBC berichtet, dass chinesische Behörden ihrerseits vor Sicherheitsrisiken im Zusammenhang mit Anthropics Programmierwerkzeug Claude Code gewarnt haben, konkret vor einer sogenannten Backdoor. Anthropic hat auf die Vorwürfe reagiert und erklärt, es habe sich dabei um ein Experiment aus dem vergangenen Frühjahr gehandelt, das dem Schutz vor genau jener Distillation dienen sollte, also dem Abschöpfen von Modellwissen durch Konkurrenten. Das Unternehmen verwies zudem darauf, dass seine Nutzungsbedingungen ohnehin den Einsatz durch Organisationen verbieten, die mehrheitlich chinesischen Eigentümern gehören. Der Schlagabtausch zeigt, wie sehr sich der Wettlauf um KI-Modelle inzwischen zu einem sicherheitspolitischen Streit zwischen den USA und China zugespitzt hat, bei dem beide Seiten sich gegenseitig unlauterer Methoden bezichtigen.\n===\nUnd auch bei Microsoft tut sich etwas im Verhältnis zu den großen KI-Anbietern. Bloomberg berichtet, dass Microsoft in einigen Softwareprodukten wie Excel und Outlook damit beginnt, OpenAI und Anthropic durch eigene, unternehmenseigene Modelle zu ersetzen. Ziel sei es, die Kosten für den Einsatz künstlicher Intelligenz zu senken. Der Schritt zeigt, wie groß der Preisdruck in der Branche mittlerweile ist, selbst für einen der engsten Partner und größten Investoren von OpenAI. Für Microsoft dürfte es dabei auch darum gehen, technologische Unabhängigkeit von externen Modellanbietern aufzubauen, während gleichzeitig die Partnerschaft mit OpenAI in anderen Bereichen weiterläuft. Für Kundinnen und Kunden dürfte davon zunächst wenig sichtbar werden, für die Wettbewerbslandschaft zwischen den großen Modellanbietern ist es aber ein bemerkenswertes Signal, dass selbst ein so enger Partner wie Microsoft zunehmend auf eigene Modelle setzt, statt sich allein auf externe Anbieter zu verlassen.\n===\nDas war dein KI Daily-Briefing. Im Blick behalten solltest du weiterhin die Verzögerung von Googles Gemini 3.5 Pro, dessen Start ja auf den siebzehnten Juli verschoben wurde, sowie den Prozess zwischen Elon Musk und Sam Altman, der diese Woche mit der Jury-Auswahl begonnen hat. Wir hören uns morgen wieder. Bis dahin, alles Gute."
+}
