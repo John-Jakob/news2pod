@@ -1,0 +1,42 @@
+{
+  "title": "KI Daily – 10. Juli 2026: SK Hynix an der Nasdaq, Grok-Nutzerschwund, Metas Foto-Streit",
+  "teaser": "Der Speicherchip-Hersteller SK Hynix startet an der Nasdaq, xAI kämpft trotz Grok 4.5 mit sinkenden Nutzerzahlen, und Metas neues Bildmodell sorgt für Ärger um Instagram-Fotos ohne Einwilligung.",
+  "pubDate": "2026-07-10T06:00:00+02:00",
+  "duration_seconds": 345,
+  "size_bytes": 2760664,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-10/2026-07-10.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "SK Hynix vor Nasdaq-Start: Nachfrage soll Angebot massiv übersteigen",
+      "source": "ariva.de",
+      "url": "https://www.ariva.de/news/tagesvorschau-termine-am-10-juli-2026-12063804",
+      "published": "2026-07-09 (Vorschau auf den 10. Juli 2026)"
+    },
+    {
+      "headline": "Micron (MU) Stock Price Prediction July 2026: Anthropic Deal and 22% Pullback",
+      "source": "tradingkey.com",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262015351-micron-mu-stock-price-prediction-july-2026-anthropic-skhy-tradingkey",
+      "published": "2026-07 (SK Hynix Nasdaq-Listing am 10. Juli 2026)"
+    },
+    {
+      "headline": "SpaceX Debuts Expanded Version of Grok AI Model",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-readies-expansion-of-grok-ai-model/",
+      "published": "2026-07-09"
+    },
+    {
+      "headline": "Virtual Resurrection and Meta AI Comes for Your Selfies",
+      "source": "usnews.com",
+      "url": "https://www.usnews.com/news/u-s-news-decision-points/articles/2026-07-09/virtual-resurrection-and-meta-ai-comes-for-your-selfies",
+      "published": "2026-07-09"
+    },
+    {
+      "headline": "OpenAI Bio Bug Bounty",
+      "source": "openai.com",
+      "url": "https://openai.com/news/",
+      "published": "2026-07-09"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 10. Juli 2026. Nachdem in den vergangenen Tagen gleich drei große KI-Labore neue Spitzenmodelle veröffentlicht haben, ist es heute etwas ruhiger auf der Modell-Seite. Stattdessen geht es um Geld, um Nutzerzahlen und um eine hitzige Debatte über KI und Persönlichkeitsrechte. Vier Themen haben wir für dich zusammengetragen, dazu eine kurze Randnotiz.\n\n===\n\nWir beginnen mit der Börse, denn dort zeigt sich gerade sehr konkret, wie viel Kapital derzeit in die Infrastruktur hinter der künstlichen Intelligenz fließt. Der südkoreanische Speicherchip-Hersteller SK Hynix startet heute unter dem Kürzel SKHY an der Nasdaq in New York, mit einem Volumen von rund 28 Milliarden Dollar. SK Hynix ist neben Nvidia einer der wichtigsten Zulieferer für Hochleistungsspeicher, der in KI-Beschleunigern verbaut wird, und gilt als direkter Konkurrent zum US-Speicherhersteller Micron. Laut einer Vorschau der Nachrichtenagentur dpa-AFX für den heutigen Handelstag soll die Nachfrage nach den Aktien das Angebot deutlich übersteigen. Für Beobachter ist der Börsengang ein weiteres Signal dafür, dass der Wettbewerb um Speicherchips für KI-Rechenzentren inzwischen fast genauso im Rampenlicht steht wie der Wettlauf um die Sprachmodelle selbst.\n\n===\n\nBei den Sprachmodellen gibt es unterdessen ein Update zur Geschichte rund um Grok 4.5, das gestern breit für die Öffentlichkeit ausgerollt wurde. Elon Musk bezeichnete das neue Modell von xAI als Opus-Klasse, allerdings schneller, effizienter im Tokenverbrauch und günstiger als Anthropics Spitzenmodell. Gleichzeitig zeigen Daten des Analysehauses Apptopia, die vom Wirtschaftsportal PYMNTS aufgegriffen wurden, dass die täglichen Nutzerzahlen der Grok-App seit April um rund 28 Prozent gesunken sind, trotz der schnellen Modellfolge. Hintergrund ist offenbar eine größere strategische Wette. Nach der Fusion von SpaceX und xAI im Februar, die den kombinierten Konzern mit etwa 1,25 Billionen Dollar bewertet, spekulieren Beobachter, dass Musk Grok künftig direkt in eigene Hardware einbauen könnte, etwa in ein mögliches SpaceX-Gerät, um unabhängig von App Stores und Mobilfunkanbietern an Nutzer zu kommen.\n\n===\n\nFür gesellschaftlichen Wirbel sorgt derweil eine Entscheidung von Meta. Das neue Bildmodell Muse Image erlaubt es, öffentliche Instagram-Profile automatisch als Grundlage für KI-generierte Bilder zu nutzen, solange Nutzerinnen und Nutzer dem nicht aktiv widersprechen. Wie das Magazin Wired berichtet, reicht es aus, ein öffentliches Profil in einem Prompt zu markieren, damit Metas KI das Aussehen dieser Person für neue Bilder verwendet. Auf einer Hilfeseite weist Meta demnach ausdrücklich darauf hin, dass Nutzer nicht benachrichtigt werden, wenn Inhalte mit ihrem Abbild erstellt werden. Die Regelung reiht sich ein in eine wachsende Debatte darüber, wie viel Kontrolle Menschen über ihr digitales Abbild noch haben, wenn generative KI serienmäßig in soziale Netzwerke eingebaut wird, und dürfte Datenschützer in den kommenden Tagen weiter beschäftigen.\n\n===\n\nAuf der regulatorischen Seite tut sich derweil etwas auf US-Bundesstaatenebene. Der Bundesstaat Illinois hat nach Angaben von US News neue Beschränkungen für den Einsatz großer KI-Modelle eingeführt, während auf Bundesebene weiterhin ein einheitliches Regelwerk fehlt. Parallel dazu berichtet das Wall Street Journal, aufgegriffen im selben Überblick, dass Unternehmen zunehmend interne KI-Botschafterinnen und Botschafter einsetzen, um skeptische Belegschaften vom täglichen Einsatz der Technologie zu überzeugen. Beide Entwicklungen zeigen, dass der Umgang mit KI am Arbeitsplatz und in der Gesellschaft längst nicht mehr nur eine Frage der Modellleistung ist, sondern zunehmend eine Frage von Vertrauen, Kontrolle und klaren Regeln.\n\n===\n\nKurz erwähnt sei noch, dass OpenAI gestern ein eigenes Bio Bug Bounty-Programm gestartet hat. Details sind bislang knapp, das Unternehmen ordnet das Programm aber ausdrücklich seiner Sicherheitsabteilung zu, mutmaßlich um gezielt nach Schwachstellen zu suchen, die im Zusammenhang mit biologischen Risiken frontier-fähiger Modelle stehen könnten. Wir behalten das für dich im Blick, sobald mehr Details bekannt werden.\n\n===\n\nDamit sind wir durch für heute. In den kommenden Tagen dürfte sich zeigen, wie sich der Nasdaq-Handelsstart von SK Hynix auf die gesamte Speicherchip-Branche auswirkt, und ob Meta auf den Gegenwind bei Muse Image reagiert. Wir behalten außerdem im Blick, wann Googles überarbeitetes Gemini 3.5 Pro tatsächlich startet. Das war dein KI Daily-Briefing. Danke fürs Zuhören und bis morgen."
+}
