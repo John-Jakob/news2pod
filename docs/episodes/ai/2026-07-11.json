@@ -1,0 +1,42 @@
+{
+  "title": "KI Daily – 11. Juli 2026: Bernanke bei Anthropic, Musk-Lob, ChatGPT Work",
+  "teaser": "Ben Bernanke wird Aufseher bei Anthropic, Elon Musk lobt den Rivalen überraschend offen, und OpenAI legt bei ChatGPT mit einem neuen Work-Agenten nach. Ein kompaktes Update zu einem eher ruhigen Nachrichtentag.",
+  "pubDate": "2026-07-11T06:00:00+02:00",
+  "duration_seconds": 268,
+  "size_bytes": 2149817,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-11/2026-07-11.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Anthropic Appoints Former Fed Chair Bernanke to Long-Term Benefit Trust",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/former-fed-chairman-ben-bernanke-joins-anthropic-oversight-trust",
+      "published": "2026-07-09"
+    },
+    {
+      "headline": "Anthropic appoints former Fed Chair Ben Bernanke to its independent trust",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/09/anthropic-fed-chair-bernanke-independent-trust.html",
+      "published": "2026-07-09"
+    },
+    {
+      "headline": "Musk calls rival Anthropic the current frontrunner in AI",
+      "source": "finance.yahoo.com (Investing.com)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/musk-calls-rival-anthropic-current-185914796.html",
+      "published": "2026-07-09/10"
+    },
+    {
+      "headline": "OpenAI unveils ChatGPT Work agent, GPT-5.6 models now available",
+      "source": "9to5mac.com",
+      "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
+      "published": "2026-07-09"
+    },
+    {
+      "headline": "Introducing Muse Spark 1.1",
+      "source": "ai.meta.com",
+      "url": "https://ai.meta.com/blog/",
+      "published": "2026-07-09"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Samstag, den elften Juli zweitausendsechsundzwanzig.\n\nDie Nachrichtenlage heute ist etwas ruhiger als in den vergangenen Tagen, dafür gibt es eine handvoll handfester Entwicklungen, vor allem rund um Anthropic. Wir bringen dir die vier wichtigsten Geschichten, kompakt und eingeordnet.\n===\nDen Anfang macht eine personelle Überraschung bei Anthropic. Das Unternehmen hat den früheren Chef der amerikanischen Notenbank, Ben Bernanke, in seinen sogenannten Long-Term Benefit Trust berufen. Dieses Gremium soll laut Bloomberg dafür sorgen, dass Anthropic seiner öffentlichen Mission verpflichtet bleibt, auch wenn kommerzielle Interessen wachsen. Bernanke ist damit einer der prominentesten externen Aufpasser, die sich ein KI-Labor bislang ins Boot geholt hat. Reuters und CNBC bestätigten die Personalie unabhängig voneinander. Die Berufung fällt in eine Phase, in der Anthropic zunehmend als politisch und wirtschaftlich einflussreicher Akteur wahrgenommen wird, und in der Fragen nach Kontrolle und Governance bei führenden KI-Firmen lauter werden.\n===\nPassend dazu eine bemerkenswerte Wortmeldung von Elon Musk. Der xAI-Gründer sagte, Anthropic sei derzeit ganz offensichtlich der Frontrunner in der Künstlichen Intelligenz, ein seltenes Lob eines direkten Konkurrenten. Berichten von Investing-Punkt-com und Yahoo Finance zufolge unterstreicht die Aussage, wie sehr sich der Wettbewerb zwischen den großen Laboren derzeit zuspitzt. Dass ausgerechnet Musk, dessen eigenes Unternehmen mit Grok im selben Markt antritt, Anthropic öffentlich Anerkennung zollt, wird in der Branche als Signal gewertet, wie stark sich die Kräfteverhältnisse zwischen den führenden KI-Anbietern gerade verschieben.\n===\nEin Update gibt es außerdem zur GPT-5.6-Story von Donnerstag. OpenAI hat bei einem Livestream nicht nur den allgemeinen Rollout von GPT-5.6 bestätigt, sondern auch neue Produkte vorgestellt. Dazu gehören ein neuer ChatGPT-Work-Agent für Unternehmenskunden, eine überarbeitete Desktop-App mit integriertem Codex sowie ein neuer Hosted-Sites-Dienst, mit dem Kunden direkt aus ChatGPT heraus Webseiten veröffentlichen können. Laut OpenAI setzt insbesondere die Sol-Variante von GPT-5.6 neue Bestwerte bei Programmieraufgaben, Wissensarbeit, Cybersicherheit und Wissenschaft, bei gleichzeitig geringeren Kosten pro Anfrage. Die Ankündigung, zuerst von 9to5Mac aufgegriffen, zeigt, dass OpenAI nach dem Start von GPT-5.6 nun zügig nachlegt und ChatGPT stärker in Richtung eines eigenständigen Arbeits-Tools für Unternehmen weiterentwickelt.\n===\nKurz erwähnt sei auch eine Neuigkeit von Meta. Auf dem hauseigenen KI-Blog kündigte das Unternehmen Muse Spark eins-Punkt-eins an, ein Update seiner Bildgenerierungsmodelle, das auf die erst wenige Tage zuvor vorgestellten Muse-Image- und Muse-Video-Modelle folgt. Details zu konkreten Verbesserungen hält Meta bislang zurück, die Ankündigung zeigt aber, dass der Konzern sein Modellportfolio im Bereich Bild- und Videogenerierung trotz der jüngsten Sparmaßnahmen und öffentlicher Selbstkritik von Mark Zuckerberg weiter in hohem Tempo ausbaut.\n===\nDas war dein KI Daily für heute. Im Blick behalten solltest du weiterhin den für den siebzehnten Juli angekündigten Start von Googles Gemini dreieinhalb Pro, außerdem dürfte die Debatte um Aufsicht und Governance bei den großen KI-Laboren nach der Bernanke-Personalie weiter an Fahrt gewinnen. Wir hören uns morgen wieder. Bis dahin, alles Gute."
+}
