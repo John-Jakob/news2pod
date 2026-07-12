@@ -1,0 +1,18 @@
+{
+  "title": "KI Daily – 12. Juli 2026: Ruhiger Sonntag, kurzes Update",
+  "teaser": "Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Statt neuer großer Ankündigungen gibt es heute nur ein kleines, aber verifiziertes Update aus dem xAI-Ökosystem. Ein kompaktes Briefing zum Sonntag.",
+  "pubDate": "2026-07-12T06:00:00+02:00",
+  "duration_seconds": 176,
+  "size_bytes": 1409402,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-12/2026-07-12.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Grok Build Changelog: laufende technische Verbesserungen am Coding-Tool",
+      "source": "x.ai",
+      "url": "https://x.ai/build/changelog",
+      "published": "12. Juli 2026 (vor ca. 7 Stunden)"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Sonntag, den 12. Juli 2026.\n\n===\n\nBevor es losgeht, kurz zur Einordnung: Die vergangenen Tage waren dicht getaktet, mit der Berufung von Ben Bernanke in Anthropics Aufsichtsgremium, dem Lob von Elon Musk für den Rivalen Anthropic, dem Start der GPT-fünf-Punkt-sechs-Modelle bei OpenAI und dem Rollout von Grok viereinhalb bei xAI. Für die vergangenen vierundzwanzig Stunden haben wir intensiv recherchiert, konnten aber keine neuen, eigenständig verifizierten Großmeldungen aus seriösen Quellen finden, die über das bereits Berichtete hinausgehen. Viele der kursierenden Artikel waren entweder reine Wiederholungen älterer Meldungen, unklar datiert, oder stammten aus Quellen, die unseren journalistischen Standards nicht genügen. Deshalb bleibt die heutige Ausgabe bewusst kurz, statt auf Basis dünner Quellenlage zu spekulieren.\n\n===\n\nEin kleines, aber bestätigtes Detail gibt es dennoch aus dem xAI-Umfeld. Im offiziellen Änderungsprotokoll für das hauseigene Coding-Werkzeug namens Grok Build wurden in den letzten Stunden mehrere technische Verbesserungen veröffentlicht. Nutzer können frühere Nachrichten jetzt direkt im Verlauf bearbeiten und erneut absenden, die Sitzungsverwaltung wurde stabiler gemacht, und auch die Anzeige von Verzeichnissen in größeren Code-Repositories funktioniert nun zuverlässiger. Es handelt sich um inkrementelle Pflegearbeiten an einem bestehenden Entwicklerprodukt, nicht um einen neuen Modell-Release, aber es zeigt, dass xAI sein Ökosystem rund um Grok weiter aktiv ausbaut, auch abseits der großen Modell-Ankündigungen der letzten Woche.\n\nDarüber hinaus deutete sich in verschiedenen Marktbeobachtungen an, dass Investitionen in KI-Infrastruktur weiterhin ein zentrales Thema für Risikokapitalgeber bleiben. Belastbare, klar datierte Einzelmeldungen dazu aus den letzten vierundzwanzig Stunden ließen sich für diese Ausgabe allerdings nicht eindeutig verifizieren, weshalb wir hier bewusst auf Details verzichten.\n\n===\n\nDas war es auch schon für heute. Wir gehen davon aus, dass sich das Tempo in den kommenden Tagen wieder erhöht, insbesondere rund um die Konkurrenz zwischen OpenAI, Anthropic und xAI sowie mögliche neue regulatorische Schritte in Europa und den USA. Wir bleiben dran und melden uns morgen wieder mit einem ausführlicheren Briefing. Bis dahin, einen schönen Sonntag und danke fürs Zuhören."
+}
