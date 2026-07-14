@@ -1,0 +1,48 @@
+{
+  "title": "KI Daily – 14. Juli 2026: Meta zieht Muse Image zurück, Anthropic kontert",
+  "teaser": "Meta schaltet seinen neuen Bildgenerator nach Datenschutz-Kritik ab, Anthropic verlängert den Gratiszugang zu Claude Fable als Antwort auf OpenAIs neues Sol-Modell, und Mistral zeigt mit Robostral Navigate ein Robotik-Modell, das mit nur einer Kamera auskommt.",
+  "pubDate": "2026-07-14T06:00:00+02:00",
+  "duration_seconds": 373,
+  "size_bytes": 2988243,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-14/2026-07-14.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "New Meta AI App Disabled After Pushback",
+      "source": "kfiam640.iheart.com",
+      "url": "https://kfiam640.iheart.com/content/2026-07-13-new-meta-ai-app-disabled-after-pushback/",
+      "published": "vor ca. 15 Stunden (13. Juli 2026)"
+    },
+    {
+      "headline": "Meta's AI Image Tool Lasted Three Days Before the User Outrage Won",
+      "source": "gadgetreview.com",
+      "url": "https://www.gadgetreview.com/metas-ai-image-tool-lasted-three-days-before-the-user-outrage-won",
+      "published": "vor ca. 13 Stunden"
+    },
+    {
+      "headline": "Key Feature of Meta's Muse Image Axed",
+      "source": "aibusiness.com",
+      "url": "https://aibusiness.com/generative-ai/key-feature-meta-s-muse-image-axed",
+      "published": "vor ca. 14 Stunden"
+    },
+    {
+      "headline": "AI Model Wars: Anthropic Extends Fable Access Again After OpenAI's Sol Release",
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/",
+      "published": "vor ca. 12 Stunden (13. Juli 2026)"
+    },
+    {
+      "headline": "Robostral Navigate: single-camera AI navigation",
+      "source": "mistral.ai",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "published": "vor ca. 12 Stunden"
+    },
+    {
+      "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-starts-localizing-claude-pricing-153459202.html",
+      "published": "vor ca. 11 Stunden"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Dienstag, 14. Juli 2026. Im Fokus heute stehen ein schneller Rückzieher bei Meta, ein neuer Schub im Wettstreit zwischen OpenAI und Anthropic, ein frisches Robotik-Modell aus Frankreich und ein Blick auf den indischen Markt für Claude. Vier Geschichten, die zeigen, wie eng Produktentscheidungen, Konkurrenzdruck und globale Marktstrategien in der Branche derzeit ineinandergreifen.\n\n===\n\nBeginnen wir mit Meta. Der Konzern hat seinen erst wenige Tage alten Bildgenerator Muse Image wieder abgeschaltet. Das Tool war zusammen mit einer Vorschau auf das Video-Werkzeug Muse Video eingeführt worden und sollte zeigen, wie ernst Meta die generative Bildbearbeitung nimmt. Der Grund für das Aus war massive Kritik an der Herkunft der Trainingsdaten. Die Funktion hatte öffentlich einsehbare Instagram-Inhalte genutzt, ohne dass die betroffenen Nutzerinnen und Nutzer ausdrücklich zugestimmt hatten. Die Schauspielergewerkschaft SAG-AFTRA und die Talentagentur CAA übten scharfe Kritik an diesem Vorgehen. Meta selbst räumte ein, man habe mit der Funktion daneben gelegen, im Original hieß es, sie habe missed the mark. Nach Berichten mehrerer Fachmedien war das Tool nur rund drei Tage aktiv, bevor der öffentliche Druck zur Abschaltung führte. Die Episode zeigt erneut, wie heikel der Umgang mit Trainingsdaten aus sozialen Netzwerken für die großen Plattformen bleibt, gerade wenn es um Bilder echter Menschen geht.\n\n===\n\nIm Wettstreit zwischen OpenAI und Anthropic gibt es ein handfestes Update. Anthropic hat den kostenlosen Zugang zu seinem Modell Claude Fable 5 für zahlende Abonnentinnen und Abonnenten bis zum 19. Juli verlängert, und zwar bereits zum zweiten Mal innerhalb einer Woche. Zuvor durften Nutzerinnen und Nutzer bereits bis zu die Hälfte ihres wöchentlichen Nutzungslimits für Fable einsetzen. Beobachter werten die neuerliche Verlängerung als direkte Reaktion auf den Start der neuen OpenAI-Modellreihe GPT-5.6, zu der auch die Variante namens Sol gehört. OpenAI hatte erklärt, Sol und die anderen neuen Modelle seien bei Programmieraufgaben leistungsfähiger als Anthropics Fable, und dass Fable bei bestimmten wissenschaftlichen Anfragen aus Sicherheitsgründen auf ein älteres Modell zurückfalle. Anthropic betonte im Gegenzug, das leistungsstärkere Basismodell Mythos solle künftig breiter verfügbar gemacht werden, derzeit aber weiterhin nur rund hundertfünfzig ausgewählten Organisationen in mehr als fünfzehn Ländern offenstehen. Die öffentlich ausgetragene Konkurrenz zwischen den beiden Firmen, die sich in den vergangenen Monaten auch persönlich zwischen den beiden Chefs zugespitzt hatte, setzt sich damit unvermindert fort.\n\n===\n\nAus Frankreich kommt eine substanzielle Neuigkeit von Mistral. Das Unternehmen hat mit Robostral Navigate sein erstes Modell für sogenannte verkörperte Navigation vorgestellt, also für Roboter, die sich eigenständig durch reale Umgebungen bewegen sollen. Das Besondere daran, das acht Milliarden Parameter große Modell kommt mit einer einzigen gewöhnlichen Kamera aus, ganz ohne Tiefensensoren oder Lidar, wie sie bei ähnlichen Systemen sonst üblich sind. Es verarbeitet einfache Bildinformationen zusammen mit natürlichsprachlichen Anweisungen, etwa um eine Lobby zu verlassen und in einen bestimmten Raum zu gehen, und erreicht laut Mistral rund siebenundsiebzig Prozent auf dem gängigen Navigationsbenchmark R2R-CE. Die Kombination aus punktbasierter Navigation und bestärkendem Lernen soll dabei laufende Verbesserungen ermöglichen. Trainiert wurde das System vollständig in Simulation, wodurch es sich grundsätzlich auf unterschiedliche Roboterplattformen übertragen lassen soll. Für Mistral ist das ein weiterer Schritt in Richtung physischer KI, nachdem das Unternehmen zuletzt bereits mit Industriepartnern wie dem Chipausrüster ASML oder der Reederei CMA CGM zusammengearbeitet hat.\n\n===\n\nAuch bei Anthropic selbst gibt es eine kleinere, aber bezeichnende Meldung zum Geschäft. Das Unternehmen beginnt damit, die Preise für Claude in Indien zu lokalisieren. Nutzerinnen und Nutzer dort sehen ab sofort Abonnements, die in indischen Rupien statt in US-Dollar abgerechnet werden. Indien gilt für Anthropic nach den Vereinigten Staaten als der zweitwichtigste Markt weltweit. Die Anpassung unterstreicht, wie stark internationales Wachstum inzwischen zur Strategie der großen KI-Anbieter gehört, gerade in Märkten mit hoher Preissensibilität und einer besonders großen Entwickler-Community. Für Anthropic dürfte die Maßnahme helfen, gegenüber lokal günstigeren Angeboten konkurrenzfähig zu bleiben.\n\n===\n\nZum Ausblick: Die Konkurrenz zwischen OpenAI und Anthropic dürfte in den kommenden Tagen weiter an Fahrt aufnehmen, insbesondere bei Coding- und Agenten-Funktionen, wo beide Unternehmen aktuell um jeden Prozentpunkt Benchmark-Vorsprung ringen. Auch bei Meta wird sich zeigen, ob und in welcher überarbeiteten Form Muse Image zurückkehrt und wie der Konzern künftig mit Einwilligungsfragen bei generativen Bildwerkzeugen umgeht. Wir behalten das für dich im Blick. Das war dein KI Daily-Briefing für heute. Danke fürs Zuhören und bis morgen."
+}
