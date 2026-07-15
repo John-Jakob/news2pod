@@ -1,0 +1,36 @@
+{
+  "title": "KI Daily – 15. Juli 2026: Claude für Lehrkräfte, Hassabis fordert KI-Aufsicht",
+  "teaser": "Anthropic startet ein kostenloses Bildungsangebot für US-Lehrkräfte, und Google-DeepMind-Chef Demis Hassabis fordert eine staatlich geführte Aufsicht über die mächtigsten KI-Modelle. Ein kompaktes Update an einem ruhigeren Nachrichtentag.",
+  "pubDate": "2026-07-15T06:00:00+02:00",
+  "duration_seconds": 264,
+  "size_bytes": 2112618,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-15/2026-07-15.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html",
+      "published": "2026-07-14"
+    },
+    {
+      "headline": "Anthropic Introduces Claude for Teachers",
+      "source": "edsurge.com",
+      "url": "https://www.edsurge.com/news/anthropic-introduces-claude-for-teachers",
+      "published": "2026-07-14"
+    },
+    {
+      "headline": "Anthropic launches free Claude for Teachers",
+      "source": "thehill.com",
+      "url": "https://thehill.com/policy/technology/5968601-claude-for-teachers-launch/",
+      "published": "2026-07-14"
+    },
+    {
+      "headline": "Introducing Claude for Teachers",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "published": "2026-07-14"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Mittwoch, den 15. Juli 2026.\n\nVorab ehrlich gesagt: Der Nachrichtenfluss rund um Künstliche Intelligenz ist heute überschaubar. Nach den turbulenten Tagen rund um Metas Muse Image und den Modell-Duellen zwischen Anthropic und OpenAI gibt es in den vergangenen 24 Stunden vor allem zwei Meldungen, die wirklich Substanz haben. Wir konzentrieren uns heute ganz auf die.\n\n===\n\nDie größte Meldung kommt von Anthropic. \nAnthropic hat am Dienstag eine kostenlose Version seines Chatbots speziell für Lehrkräfte gestartet, während immer mehr Pädagogen Künstliche Intelligenz im Unterricht einsetzen.\n \nDas Unternehmen teilte mit, dass die Plattform Claude for Teachers US-Lehrkräften von der Grundschule bis zur Oberstufe Zugang zu einer Bibliothek an Unterrichtswerkzeugen sowie eine direkte Anbindung an evidenzbasierte Lehrpläne bietet, die an Bildungsstandards in allen fünfzig Bundesstaaten ausgerichtet sind.\n \nDamit reagiert Anthropic auf eine zunehmend umkämpfte Konkurrenz im Bildungsbereich, zu der bereits OpenAIs ChatGPT for Teachers, Microsofts Elevate for Educators und Googles AI Educator Series zählen.\n Besonders wichtig für Schulen dürfte der Datenschutz sein: \nAnthropic betont, dass Daten von Claude for Teachers nicht für das Training der eigenen Modelle verwendet werden und dass Schülerinformationen durch eine eigene K-12-Datenschutzvereinbarung geschützt sind, die den Vorgaben des US-Bildungsdatenschutzgesetzes FERPA entspricht.\n Begleitet wird der Start von einer Kooperation mit der amerikanischen Lehrergewerkschaft, mit der gemeinsame Sicherheitsstandards für den Schuleinsatz entwickelt werden sollen. \nWer sich bis zum 30. Juni 2027 registriert, erhält ein volles Jahr kostenlosen Zugang.\n\n\n===\n\nDie zweite wichtige Meldung kommt von Google DeepMind. \nFirmenchef Demis Hassabis erklärte in einem am Dienstag veröffentlichten Beitrag, dass dringendes Handeln nötig sei, um Risiken durch allgemeine Künstliche Intelligenz zu begegnen, also den Punkt, an dem KI-Systeme menschliche Fähigkeiten erreichen oder übertreffen.\n \nEr warnte, dass die heutigen Spitzenmodelle bereits Herausforderungen für die Cybersicherheit mit sich bringen und dass weitere Risiken, etwa im nuklearen und biologischen Bereich, absehbar hinzukommen könnten.\n \nAls Lösung schlug Hassabis eine von der US-Regierung überwachte öffentlich-private Partnerschaft vor, die diese Bedrohungen adressieren soll.\n \nDer Vorstoß kommt nur einen Monat, nachdem Hassabis gemeinsam mit Anthropic-Chef Dario Amodei bei einem G7-Treffen mit Regierungschefs, darunter Präsident Trump, für eine von den USA geführte internationale Koalition zur Gestaltung von KI-Regeln und Standards geworben hatte.\n Weißes Haus, Außenministerium und Handelsministerium haben sich dazu bislang nicht öffentlich geäußert. Der Vorschlag zeigt, wie sehr sich die Debatte um KI-Sicherheit derzeit von einzelnen Unternehmensrichtlinien hin zu der Frage verschiebt, wer auf staatlicher Ebene überhaupt die Aufsicht über die mächtigsten Modelle der Welt übernehmen soll.\n\n===\n\nZum Ausblick: In den kommenden Tagen wird mit Spannung erwartet, ob Google DeepMind sein überarbeitetes Modell Gemini 3.5 Pro wie angekündigt veröffentlicht, nachdem das Unternehmen die Architektur zuletzt komplett neu aufgebaut hat. Ob das gelingt, dürfte auch zeigen, wie eng Hassabis' Ruf nach mehr staatlicher Aufsicht mit dem eigenen Wettbewerbsdruck im Modell-Rennen zusammenhängt. Für heute war das schon unser Überblick. Morgen sind wir wieder mit den wichtigsten Entwicklungen aus der Welt der Künstlichen Intelligenz für dich da. Bis dahin, mach's gut."
+}
