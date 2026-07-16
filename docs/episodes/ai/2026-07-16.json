@@ -1,0 +1,30 @@
+{
+  "title": "KI Daily – 16. Juli 2026: Update zu Hassabis' KI-Aufsicht, Dimon warnt vor Mythos",
+  "teaser": "Ruhiger Newstag: Wir liefern das entscheidende Update zu Demis Hassabis' Forderung nach einer KI-Aufsichtsbehörde und eine kurze Meldung zu Jamie Dimons Warnung vor Anthropics Mythos-Modell.",
+  "pubDate": "2026-07-16T06:00:00+02:00",
+  "duration_seconds": 262,
+  "size_bytes": 2099661,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-16/2026-07-16.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html",
+      "published": "vor ca. 1 Tag (14. Juli 2026, weiterhin aktuell)"
+    },
+    {
+      "headline": "Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind",
+      "published": "vor 19 Stunden"
+    },
+    {
+      "headline": "Dimon Warns of Broad Mythos Access, Calling It a Real Issue",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/latest/anthropic",
+      "published": "vor ca. 4-7 Stunden"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily Briefing für Thursday, den 16. Juli 2026. Die Nachrichtenlage rund um Künstliche Intelligenz ist heute deutlich ruhiger als in den vergangenen Tagen. Es gibt kein neues Modell und keine große Übernahme zu vermelden. Dafür aber ein substanzielles Update zu einer Geschichte, die wir gestern schon angerissen haben, und eine kurze, aber bemerkenswerte Meldung aus der Finanzwelt. Wir halten die Folge deshalb heute etwas kürzer.\n===\nUpdate zu Demis Hassabis und seinem Ruf nach einer KI Aufsicht. Gestern hatten wir berichtet, dass der Google DeepMind Chef eine US geführte Aufsichtsstelle für Künstliche Intelligenz fordert. Jetzt liegt mehr Substanz vor. \nHassabis, der Nobelpreisträger hinter Gemini, legt den Plan in einem persönlichen Manifest dar, das am Dienstagmorgen veröffentlicht wurde, mit dem Titel A Framework for Frontier AI and the Dawning of a New Age.\n Darin wird er konkreter als zuvor. \nHassabis fordert die USA auf, einen neuen KI-Wachhund einzurichten, mit der Macht, die fortschrittlichsten Modelle der Welt zu überprüfen und im Gefahrenfall eine branchenweite Verlangsamung zu koordinieren.\n \nIn einem Interview mit Axios sagte Hassabis, die Zeit sei gekommen für einen systematischeren Ansatz bei der KI-Regulierung, finanziert von der Industrie, besetzt mit erstklassigen Fachleuten und letztlich gegenüber der US-Regierung rechenschaftspflichtig.\n \nDie heutigen KI-bezogenen Cyberrisiken seien erst Warnschüsse, sagte er aus seiner Londoner Basis.\n \nInnerhalb von achtzehn Monaten, so seine Einschätzung, könnten diese Fähigkeiten sowie weitaus gravierendere biologische und nukleare Bedrohungen in offenen Modellen stecken, außerhalb der Kontrolle jeder Regierung.\n Man stehe womöglich in den, Zitat, \"foothills of the singularity\". Gegenüber CNBC hatte Hassabis zuvor erklärt: \nMan habe bereits gesehen, welche Herausforderungen Spitzenmodelle für die Cybersicherheit darstellen, und auch andere Bedrohungen einschließlich nuklearer und biologischer Risiken könnten bald entstehen, wenn die Fähigkeiten weiter zunehmen.\n \nDie Äußerungen kommen einen Monat, nachdem Hassabis zusammen mit Anthropic-Chef Dario Amodei bei einem G7-Treffen mit Tech-Führungskräften und Staatschefs, darunter Donald Trump, für eine US-geführte Koalition zur Festlegung von KI-Regeln und Standards geworben hatte.\n Das Weiße Haus, das Außenministerium und das Handelsministerium wurden um Stellungnahme gebeten, eine Antwort steht bislang aus.\n===\nZweite Meldung, kurz und knapp aus der Finanzwelt. Laut einer aktuellen Meldung von Bloomberg hat JPMorgan-Chef Jamie Dimon vor einem breiten Zugang zu Anthropics leistungsstärkstem Modell Mythos gewarnt und dies als, so die Formulierung, ein reales Problem bezeichnet. Mythos ist jene Modellvariante von Anthropic, bei der bestimmte Sicherheitsvorkehrungen im Bereich Cybersicherheit aufgehoben sind und die bislang nur ausgewählten, geprüften Partnern zur Verfügung steht. Weitere Details zu Dimons genauer Begründung lagen zum Zeitpunkt dieser Aufzeichnung noch nicht vor. Wir bleiben an dem Thema dran und melden uns, sobald mehr bekannt ist.\n===\nDas war es auch schon für heute. Ein bewusst kurzes Briefing, weil die Faktenlage schlicht dünn war und wir lieber weniger senden als Spekulatives. Wir erwarten in den kommenden Tagen mehr Klarheit darüber, wie Regierungen und Unternehmen auf Hassabis' Vorschlag reagieren, und ob sich die Sorgen rund um Anthropics Mythos-Modell konkretisieren. Morgen sind wir wieder für dich da mit dem nächsten KI Daily Briefing. Bis dahin, mach's gut."
+}
