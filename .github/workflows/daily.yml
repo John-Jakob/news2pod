@@ -61,13 +61,18 @@ jobs:
           if [ -n "$TOPIC_INPUT" ]; then
             python scripts/build_podcast.py "$TOPIC_INPUT" $FORCE
           else
+            # Alle Topics bauen; Fehler einzelner Topics nicht verschlucken, sondern
+            # am Ende den Job fehlschlagen lassen, damit die ntfy-Alarmierung greift.
+            FAIL=0
             for f in topics/*.yaml; do
               slug=$(basename "$f" .yaml)
-              python scripts/build_podcast.py "$slug" $FORCE || echo "::warning::Build für $slug fehlgeschlagen"
+              python scripts/build_podcast.py "$slug" $FORCE || { echo "::error::Build für $slug fehlgeschlagen"; FAIL=1; }
             done
+            exit $FAIL
           fi
 
       - name: Commit & push
+        if: ${{ !cancelled() }}   # auch bei Teil-Fehlern erfolgreiche Topics committen
         run: |
           git config user.name "news2pod-bot"
           git config user.email "bot@news2pod.local"
