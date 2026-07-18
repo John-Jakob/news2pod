@@ -1,0 +1,36 @@
+{
+  "title": "KI Daily – 18. Juli 2026: Kimi K3 fordert USA heraus, xAI verklagt Nutzer",
+  "teaser": "Moonshot AI schließt mit dem offenen Modell Kimi K3 zu den US-Vorreitern auf, während China Vorwürfe der Modell-Destillation zurückweist. Außerdem: xAI verklagt erstmals einen eigenen Nutzer wegen Grok-generierten Missbrauchsmaterials, und Elon Musk kündigt ein neues Zwei-Billionen-Parameter-Modell an.",
+  "pubDate": "2026-07-18T06:00:00+02:00",
+  "duration_seconds": 344,
+  "size_bytes": 2758156,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-18/2026-07-18.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Moonshot Unveils Kimi K3 AI Model, Narrowing Gap With US Rivals",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+      "published": "2026-07-17, aktualisiert 2026-07-18"
+    },
+    {
+      "headline": "China Dismisses Claim that It Illicitly Extracts Foreign AI Tech",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
+      "published": "2026-07-18"
+    },
+    {
+      "headline": "xAI Files First-Ever Lawsuit Against User for Grok Child Abuse Material",
+      "source": "easternherald.com",
+      "url": "https://easternherald.com/2026/07/17/xai-grok-child-abuse-lawsuit/",
+      "published": "2026-07-17"
+    },
+    {
+      "headline": "xAI's 2T Model: What Musk Just Revealed About Grok's Successor",
+      "source": "basenor.com",
+      "url": "https://www.basenor.com/blogs/news/xais-2t-model-what-musk-just-revealed-about-groks-successor",
+      "published": "2026-07-17 (Musk-Statement 'late Thursday')"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, den 18. Juli 2026. Heute geht es vor allem um den KI-Wettlauf zwischen den USA und China, um einen beispiellosen Rechtsstreit rund um den Chatbot Grok und um die nächste Modell-Generation von xAI.\n\n===\n\nBeginnen wir in Shanghai, bei Moonshot AI. Das chinesische Unternehmen hat gestern sein neues Modell Kimi K3 veröffentlicht, ein offenes, frei zugängliches Sprachmodell mit rund 2,8 Billionen Parametern. Laut Bloomberg positioniert sich Kimi K3 in Benchmarks nahe an den besten Systemen aus den USA und soll in der Gesamtleistung nur noch von Anthropics Claude Fable 5 und OpenAIs GPT-5.6 übertroffen werden. Berichten zufolge kommt das Modell mit einem sehr großen Kontextfenster von rund einer Million Token für visuelle Eingaben und ist bereits über die Kimi-App, Kimi Work, Kimi Code und eine Programmierschnittstelle nutzbar. Die vollständigen Modellgewichte sollen Ende des Monats folgen. Weil das Modell offen zugänglich ist, können Entwicklerinnen und Entwickler weltweit es herunterladen und für eigene Zwecke anpassen. Für Bloomberg ist das ein weiteres Zeichen dafür, wie schnell chinesische KI-Labore den technologischen Abstand zu den US-Vorreitern schließen.\n\n===\n\nGenau dieser Aufholprozess sorgt gerade für diplomatischen Zündstoff. Auf der World AI Conference in Shanghai wies der stellvertretende chinesische Außenminister Liu Bin am Samstag Vorwürfe zurück, wonach chinesische KI-Firmen unrechtmäßig Ergebnisse westlicher Spitzenmodelle destillieren, um damit ihre eigenen Systeme zu trainieren. Solche Vorwürfe waren zuvor unter anderem von Anthropic öffentlich erhoben worden. Liu bezeichnete die internationale Debatte über sogenannte Modell-Destillation als irreführend und kontraproduktiv, ohne die Vereinigten Staaten dabei direkt beim Namen zu nennen. Der Schlagabtausch zeigt, wie sehr sich der Wettbewerb zwischen amerikanischen und chinesischen KI-Anbietern inzwischen auch auf die politische Bühne verlagert, gerade jetzt, wo Modelle wie Kimi K3 technologisch so dicht an die Spitze heranrücken.\n\n===\n\nEin ganz anderes, aber ebenso bedeutsames Thema kommt von xAI, dem Unternehmen hinter dem Chatbot Grok. Berichten zufolge hat xAI erstmals überhaupt selbst zivilrechtlich gegen einen eigenen Nutzer geklagt. Betroffen ist ein Mann aus South Carolina, der bereits strafrechtlich wegen sexueller Ausbeutung Minderjähriger angeklagt ist und Grok genutzt haben soll, um entsprechendes Missbrauchsmaterial zu erzeugen. xAI erklärte, man habe im Zusammenhang mit solchen Verstößen bereits mehr als zweiundfünfzigtausend Konten gesperrt und rund dreiundsiebzigtausend Meldungen an Kinderschutzbehörden weitergeleitet. Die Zivilklage ist bemerkenswert, weil damit erstmals ein KI-Unternehmen direkt und öffentlich gegen einen missbräuchlichen Nutzer vorgeht, statt den Fall allein den Strafverfolgungsbehörden zu überlassen. Der Fall dürfte als Präzedenzfall dafür gelten, wie KI-Anbieter künftig rechtlich gegen den Missbrauch ihrer Systeme vorgehen.\n\n===\n\nWährend xAI seine Plattform also rechtlich absichert, blickt Firmenchef Elon Musk bereits nach vorn. In einer Antwort auf der Plattform X kündigte er an, dass das nächste große xAI-Modell mit rund zwei Billionen Parametern sein erstes Training abschließe und schon im August verfügbar sein könnte. Das wäre ein Sprung von etwa einem Drittel gegenüber dem aktuellen Modell mit eineinhalb Billionen Parametern, das derzeit Grok 4.5 antreibt. Musk deutete an, das neue Modell könne Kimi K3 möglicherweise übertreffen, blieb dabei aber vorsichtig und sprach nur von einer Möglichkeit. Geschwindigkeit und Kosten pro Anfrage sollen nahe am aktuellen Niveau bleiben, sodass Nutzerinnen und Nutzer keine spürbar langsameren oder teureren Antworten erwarten müssten. Damit reiht sich xAI in ein Wettrennen ein, das durch Kimi K3 gerade erst wieder zusätzlichen Schwung bekommen hat.\n\n===\n\nDas war's für heute. Zusammengefasst: China zeigt mit Kimi K3, wie schnell es technologisch aufholt, während der Streit um Modell-Destillation den politischen Ton zwischen Washington und Peking verschärft. Gleichzeitig ringt die Branche um Verantwortung, wie der beispiellose Rechtsstreit von xAI zeigt, und gleichzeitig um die nächste Generation noch größerer Modelle. Im Hintergrund bereitet sich derweil auch Anthropic auf einen möglichen Börsengang vor, mit ersten Gesprächen zwischen Banken und Investoren, wie zuletzt berichtet wurde. Ob Musks Modell mit zwei Billionen Parametern seine hohen Erwartungen einlösen kann, wird sich in den kommenden Wochen zeigen. Wir hören uns morgen wieder, hier bei KI Daily. Einen schönen Samstag noch."
+}
