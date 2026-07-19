@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 19. Juli 2026: Anthropic sondiert Meta-Deal, xAI plant schon Grok 4.6</title>
+      <description><![CDATA[<p>Ein ruhiges Wochenende in der KI-Welt: Anthropic verhandelt offenbar über einen Zehn-Milliarden-Dollar-Rechenleistungsdeal mit Meta, xAI bestätigt bereits einen Nachfolger für Grok 4.5, und Google DeepMind stellt seinen Plan gegen den Missbrauch von KI in der Biologie vor.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html">Anthropic in early talks with Meta to acquire compute power</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.basenor.com/blogs/news/grok-4-6-confirmed-what-we-know-from-the-xai-roadmap">Grok 4.6 Confirmed: What We Know From the xAI Roadmap</a> <em>(basenor.com)</em></li>
+<li><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">Google DeepMind and Isomorphic Labs approach to bioresilience</a> <em>(deepmind.google)</em></li>
+<li><a href="https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/">Examining Google DeepMind's AI bioresilience push</a> <em>(artificialintelligence-news.com)</em></li>
+<li><a href="https://openai.com/news/">OpenAI News: GPT-Red: Unlocking Self-Improvement for Robustness</a> <em>(openai.com)</em></li>
+<li><a href="https://openai.com/news/">OpenAI News: Why teens deserve access to safe AI</a> <em>(openai.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Ein ruhiges Wochenende in der KI-Welt: Anthropic verhandelt offenbar über einen Zehn-Milliarden-Dollar-Rechenleistungsdeal mit Meta, xAI bestätigt bereits einen Nachfolger für Grok 4.5, und Google DeepMind stellt seinen Plan gegen den Missbrauch von KI in der Biologie vor.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html">Anthropic in early talks with Meta to acquire compute power</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.basenor.com/blogs/news/grok-4-6-confirmed-what-we-know-from-the-xai-roadmap">Grok 4.6 Confirmed: What We Know From the xAI Roadmap</a> <em>(basenor.com)</em></li>
+<li><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">Google DeepMind and Isomorphic Labs approach to bioresilience</a> <em>(deepmind.google)</em></li>
+<li><a href="https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/">Examining Google DeepMind's AI bioresilience push</a> <em>(artificialintelligence-news.com)</em></li>
+<li><a href="https://openai.com/news/">OpenAI News: GPT-Red: Unlocking Self-Improvement for Robustness</a> <em>(openai.com)</em></li>
+<li><a href="https://openai.com/news/">OpenAI News: Why teens deserve access to safe AI</a> <em>(openai.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Ein ruhiges Wochenende in der KI-Welt: Anthropic verhandelt offenbar über einen Zehn-Milliarden-Dollar-Rechenleistungsdeal mit Meta, xAI bestätigt bereits einen Nachfolger für Grok 4.5, und Google DeepMind stellt seinen Plan gegen den Missbrauch von KI in der Biologie vor.</itunes:summary>
+      <pubDate>Sun, 19 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-19</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-19/2026-07-19.mp3" length="3137036" type="audio/mpeg"/>
+      <itunes:duration>6:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 18. Juli 2026: Kimi K3 fordert USA heraus, xAI verklagt Nutzer</title>
       <description><![CDATA[<p>Moonshot AI schließt mit dem offenen Modell Kimi K3 zu den US-Vorreitern auf, während China Vorwürfe der Modell-Destillation zurückweist. Außerdem: xAI verklagt erstmals einen eigenen Nutzer wegen Grok-generierten Missbrauchsmaterials, und Elon Musk kündigt ein neues Zwei-Billionen-Parameter-Modell an.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -895,39 +924,6 @@
       <guid isPermaLink="false">ai-2026-06-19</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-19/2026-06-19.mp3" length="5096743" type="audio/mpeg"/>
       <itunes:duration>7:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 18. Juni 2026: G7-KI-Koalition, Microsoft &amp; DeepSeek, Capex-Warnung</title>
-      <description><![CDATA[<p>Der G7-Gipfel in Évian endet mit einem historischen Moment: Zum ersten Mal sitzen KI-CEOs mit Staatschefs am Tisch – und fordern eine US-geführte internationale KI-Allianz. Außerdem: Warum Microsoft für seinen KI-Assistenten ausgerechnet auf ein chinesisches Modell setzen könnte – und warum Analysten beim billionenschweren Infrastrukturrennen der Techkonzerne die Bremse ziehen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/amp/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html">CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.fastcompany.com/91561045/g7-wraps-openai-anthropic-meet-world-leaders-discuss-future-ai">As G7 wraps, OpenAI and Anthropic meet with world leaders to discuss the future of AI</a> <em>(fastcompany.com)</em></li>
-<li><a href="https://www.axios.com/2026/06/16/microsoft-copilot-cowork-tokenmaxxing-cowork">Microsoft explores DeepSeek for Copilot Cowork</a> <em>(axios.com)</em></li>
-<li><a href="https://thenextweb.com/news/microsoft-deepseek-copilot-cowork">Microsoft DeepSeek: a Chinese model for Copilot Cowork?</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://windowsreport.com/microsoft-could-turn-to-deepseek-v4-to-cut-copilot-cowork-costs/">Microsoft Could Turn to DeepSeek V4 to Cut Copilot Cowork Costs</a> <em>(windowsreport.com)</em></li>
-<li><a href="https://the-decoder.de/">Analyse: Hyperscaler könnten KI-Ausbau bald nicht mehr aus dem laufenden Geschäft finanzieren</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://www.anthropic.com/news/fable-mythos-access">Anthropic Statement on the US government directive to suspend access to Fable 5 and Mythos 5</a> <em>(anthropic.com)</em></li>
-<li><a href="https://andrew.ooo/answers/fable-5-mythos-5-export-control-suspension-june-2026/">Lutnick floats Trusted Partners framework at G7 for AI model export access</a> <em>(andrew.ooo)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Der G7-Gipfel in Évian endet mit einem historischen Moment: Zum ersten Mal sitzen KI-CEOs mit Staatschefs am Tisch – und fordern eine US-geführte internationale KI-Allianz. Außerdem: Warum Microsoft für seinen KI-Assistenten ausgerechnet auf ein chinesisches Modell setzen könnte – und warum Analysten beim billionenschweren Infrastrukturrennen der Techkonzerne die Bremse ziehen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/amp/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html">CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.fastcompany.com/91561045/g7-wraps-openai-anthropic-meet-world-leaders-discuss-future-ai">As G7 wraps, OpenAI and Anthropic meet with world leaders to discuss the future of AI</a> <em>(fastcompany.com)</em></li>
-<li><a href="https://www.axios.com/2026/06/16/microsoft-copilot-cowork-tokenmaxxing-cowork">Microsoft explores DeepSeek for Copilot Cowork</a> <em>(axios.com)</em></li>
-<li><a href="https://thenextweb.com/news/microsoft-deepseek-copilot-cowork">Microsoft DeepSeek: a Chinese model for Copilot Cowork?</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://windowsreport.com/microsoft-could-turn-to-deepseek-v4-to-cut-copilot-cowork-costs/">Microsoft Could Turn to DeepSeek V4 to Cut Copilot Cowork Costs</a> <em>(windowsreport.com)</em></li>
-<li><a href="https://the-decoder.de/">Analyse: Hyperscaler könnten KI-Ausbau bald nicht mehr aus dem laufenden Geschäft finanzieren</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://www.anthropic.com/news/fable-mythos-access">Anthropic Statement on the US government directive to suspend access to Fable 5 and Mythos 5</a> <em>(anthropic.com)</em></li>
-<li><a href="https://andrew.ooo/answers/fable-5-mythos-5-export-control-suspension-june-2026/">Lutnick floats Trusted Partners framework at G7 for AI model export access</a> <em>(andrew.ooo)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Der G7-Gipfel in Évian endet mit einem historischen Moment: Zum ersten Mal sitzen KI-CEOs mit Staatschefs am Tisch – und fordern eine US-geführte internationale KI-Allianz. Außerdem: Warum Microsoft für seinen KI-Assistenten ausgerechnet auf ein chinesisches Modell setzen könnte – und warum Analysten beim billionenschweren Infrastrukturrennen der Techkonzerne die Bremse ziehen.</itunes:summary>
-      <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-18</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-18/2026-06-18.mp3" length="4744404" type="audio/mpeg"/>
-      <itunes:duration>6:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

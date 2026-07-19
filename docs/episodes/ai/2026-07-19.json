@@ -1,0 +1,48 @@
+{
+  "title": "KI Daily – 19. Juli 2026: Anthropic sondiert Meta-Deal, xAI plant schon Grok 4.6",
+  "teaser": "Ein ruhiges Wochenende in der KI-Welt: Anthropic verhandelt offenbar über einen Zehn-Milliarden-Dollar-Rechenleistungsdeal mit Meta, xAI bestätigt bereits einen Nachfolger für Grok 4.5, und Google DeepMind stellt seinen Plan gegen den Missbrauch von KI in der Biologie vor.",
+  "pubDate": "2026-07-19T06:00:00+02:00",
+  "duration_seconds": 392,
+  "size_bytes": 3137036,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-19/2026-07-19.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Anthropic in early talks with Meta to acquire compute power",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+      "published": "2026-07-17"
+    },
+    {
+      "headline": "Grok 4.6 Confirmed: What We Know From the xAI Roadmap",
+      "source": "basenor.com",
+      "url": "https://www.basenor.com/blogs/news/grok-4-6-confirmed-what-we-know-from-the-xai-roadmap",
+      "published": "2026-07-18"
+    },
+    {
+      "headline": "Google DeepMind and Isomorphic Labs approach to bioresilience",
+      "source": "deepmind.google",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published": "2026-07-16"
+    },
+    {
+      "headline": "Examining Google DeepMind's AI bioresilience push",
+      "source": "artificialintelligence-news.com",
+      "url": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+      "published": "2026-07-16"
+    },
+    {
+      "headline": "OpenAI News: GPT-Red: Unlocking Self-Improvement for Robustness",
+      "source": "openai.com",
+      "url": "https://openai.com/news/",
+      "published": "2026-07-16"
+    },
+    {
+      "headline": "OpenAI News: Why teens deserve access to safe AI",
+      "source": "openai.com",
+      "url": "https://openai.com/news/",
+      "published": "2026-07-17"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Sonntag, 19. Juli 2026. Vorweg ganz ehrlich: Der Nachrichtenfluss aus der Branche war in den letzten vierundzwanzig Stunden vergleichsweise ruhig, kein neuer Modell-Knaller, keine große Regulierungsentscheidung. Statt uns etwas herbeizureden, gibt es heute deshalb ein kompakteres Briefing mit den Meldungen, die wirklich belastbar sind und sich auf verlässliche Quellen stützen.\n\n===\n\nBeginnen wir mit einer möglichen Milliarden-Allianz zwischen zwei eigentlich gegensätzlichen Playern. Anthropic führt einem Bericht von CNBC zufolge sehr frühe Gespräche mit Meta, um Rechenkapazität für künstliche Intelligenz anzumieten. Die New York Times beziffert den möglichen Deal auf rund zehn Milliarden Dollar. Meta selbst wollte sich dazu offiziell nicht äußern, die Meta-Aktie zog nach der Meldung am Freitag jedoch von ihren Tagestiefs an. Bemerkenswert ist der Kontext: Erst vor wenigen Wochen hatte Anthropic einen ähnlichen Deal mit Elon Musks SpaceX geschlossen, um über dessen Colossus-Rechenzentrum zusätzliche Kapazität für zahlende Claude-Nutzer zu sichern. Meta selbst plant für dieses Jahr Investitionen von bis zu hundertfünfundvierzig Milliarden Dollar in seine KI-Infrastruktur, unter anderem in Rechenzentren, und hatte zuletzt signalisiert, stärker ins Cloud-Computing-Geschäft einsteigen zu wollen, um die enormen Ausgaben besser zu monetarisieren. Mit Dave Brown wechselt zudem ein langjähriger Amazon-Web-Services-Manager zu Meta, was die Cloud-Ambitionen des Konzerns unterstreicht. Sollte der Deal mit Anthropic tatsächlich zustande kommen, wäre das ein weiteres Beispiel dafür, wie eng Konkurrenten und Infrastrukturanbieter in der aktuellen KI-Landschaft mittlerweile verflochten sind.\n\n===\n\nBei xAI gibt es ein kurzes, aber vielsagendes Update. Nur zwei Tage, nachdem das Unternehmen sein neues Modell Grok 4.5 veröffentlicht hatte, bestätigte Elon Musk auf der Plattform X in einer knappen Antwort, dass bereits an einem Nachfolger namens Grok 4.6 gearbeitet wird. Eine offizielle Ankündigung, einen Zeitplan oder Details zu neuen Fähigkeiten gab es nicht. Zur Einordnung, was Grok 4.5 überhaupt kann: Das Modell basiert nach Angaben von xAI auf einem Fundament-Modell mit eineinhalb Billionen Parametern, verarbeitet rund achtzig Anfragen pro Sekunde und soll im sogenannten SWE-Marathon-Benchmark neunundzwanzig Prozent erreichen, was laut xAI über dem Wert von Anthropics Claude Opus vier komma acht liegt. Preislich liegt Grok 4.5 bei zwei Dollar pro Million Eingabe-Tokens und sechs Dollar pro Million Ausgabe-Tokens. Dass Musk schon so kurz nach dem Launch öffentlich einen Nachfolger bestätigt, passt zu seiner bereits früher angekündigten Strategie, Modell-Updates im Zwei-Wochen-Rhythmus auszurollen, und zeigt, wie sehr sich das Entwicklungstempo bei xAI weiter beschleunigt.\n\n===\n\nAus der Forschung kommt eine Meldung von Google DeepMind und der Schwesterfirma Isomorphic Labs. Beide haben gemeinsam ihren Ansatz zur sogenannten Bioresilienz vorgestellt, also dem Versuch, den Missbrauch von KI-Modellen im Bereich Biologie zu verhindern und gleichzeitig deren Nutzen für die Vorbereitung auf Krankheitsausbrüche zu erschließen. Nach eigenen Angaben haben die beiden Organisationen im vergangenen Jahr mehr als fünfzehn Partnerschaften mit Regierungsbehörden, Biosicherheitsorganisationen und Forschungsgruppen aufgebaut. Das Dilemma dahinter benennt DeepMind selbst ganz offen: Je besser Modelle wie Gemini biologisches Wissen verstehen, desto größer wird auch das Missbrauchspotenzial, etwa wenn es darum geht, Wissenslücken für schädliche Zwecke zu schließen. Für die kommenden sechs bis zwölf Monate kündigt DeepMind an, die Zusammenarbeit auf Bereiche wie Bedrohungsanalyse, die Bewertung von KI-Agenten und den Schutz vor sogenannten Jailbreaks auszuweiten, in Abstimmung mit dem industrieweiten Frontier Model Forum. Konkret geht es dabei auch um die Frage, wie man mit besonders heiklen Trainingsdaten aus der Virologie umgeht, ohne legitime wissenschaftliche Forschung unnötig zu blockieren.\n\n===\n\nAuch OpenAI hat in den vergangenen Tagen zwei kurz aufeinanderfolgende Beiträge im eigenen Sicherheits-Newsroom veröffentlicht. Am sechzehnten Juli ging es unter dem Titel GPT-Red um ein Verfahren, mit dem Modelle durch eine Art Selbstverbesserung robuster gegen Angriffe werden sollen. Einen Tag später, am siebzehnten Juli, folgte ein Beitrag mit dem Titel „Warum Teenager Zugang zu sicherer KI verdienen“, der sich mit der Frage beschäftigt, wie Jugendliche von KI-Werkzeugen profitieren können, ohne dabei unnötigen Risiken ausgesetzt zu sein. Viele Details dazu hat OpenAI bislang nur knapp skizziert, doch beide Themen fügen sich in eine größere Debatte ein, die die Branche seit Monaten begleitet: Wie lässt sich die schnelle Verbreitung immer leistungsfähigerer Modelle mit angemessenem Jugend- und Sicherheitsschutz vereinbaren, ohne die Innovation auszubremsen.\n\n===\n\nDas war es auch schon für dieses eher ruhige Wochenende. Spannend bleibt, ob aus den frühen Gesprächen zwischen Anthropic und Meta tatsächlich ein Vertrag wird und wie xAI den nächsten Grok-Schritt konkret ausgestaltet. Wir behalten beides für dich im Auge und melden uns, sobald es dazu Neues gibt. Danke fürs Zuhören und bis morgen bei KI Daily."
+}
