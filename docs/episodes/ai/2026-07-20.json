@@ -1,0 +1,24 @@
+{
+  "title": "KI Daily – 20. Juli 2026: Ruhiger Tag, Claude Fable 5 und Brain-to-Robot aus China",
+  "teaser": "Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Anthropic schraubt an den Nutzungslimits von Claude Fable 5, und ein chinesisches Start-up zeigt eine Plattform, die Roboter per Gedanken steuern soll.",
+  "pubDate": "2026-07-20T06:00:00+02:00",
+  "duration_seconds": 207,
+  "size_bytes": 1660595,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-20/2026-07-20.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Anthropic passt Zugriff auf Claude Fable 5 in Abo-Stufen an",
+      "source": "llm-stats.com",
+      "url": "https://llm-stats.com/ai-news",
+      "published": "20. Juli 2026 (laut @claudeai / Anthropic)"
+    },
+    {
+      "headline": "Chinesisches Start-up BrainCo stellt Brain-to-Robot-Plattform vor",
+      "source": "llm-stats.com (Bericht der South China Morning Post)",
+      "url": "https://llm-stats.com/ai-news",
+      "published": "19./20. Juli 2026"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Monday, 20. Juli 2026.\n\nVorab ehrlich gesagt: Der heutige Nachrichtentag in der KI-Branche ist ungewöhnlich ruhig. Nach den großen Wochen mit neuen Modellen, Milliarden-Deals und Regulierungsdebatten gibt es innerhalb der letzten vierundzwanzig Stunden nur wenige wirklich neue, belastbare Meldungen. Deshalb fällt die heutige Ausgabe kürzer aus als sonst, dafür konzentrieren wir uns auf das, was tatsächlich bestätigt ist.\n\n===\n\nDie konkreteste Neuigkeit kommt von Anthropic. Das Unternehmen passt heute die Verfügbarkeit seines Spitzenmodells Claude Fable 5 in seinen Abonnements an. Ab dem 20. Juli ist Fable 5 in den Tarifen Max und Team Premium künftig nur noch mit der Hälfte der bisherigen Nutzungslimits enthalten. Nutzer der günstigeren Pro- und Team-Standard-Tarife erhalten stattdessen Zugriff über separat abgerechnete Nutzungsguthaben. Für Unternehmen und Entwickler, die ihre Arbeitsabläufe auf Fable 5 aufgebaut haben, bedeutet das konkret: Wer viel mit dem Modell arbeitet, sollte sein Budget und seine Kontingente in den kommenden Tagen genau im Blick behalten, da die neue Regelung direkt Kosten und Verfügbarkeit betrifft. Die Änderung reiht sich ein in eine längere Serie von Preis- und Zugriffsanpassungen, mit denen Anthropic seit der Einführung von Fable 5 im Sommer versucht, hohe Nachfrage, Rechenkapazität und Preis in Einklang zu bringen.\n\n===\n\nDie zweite Meldung kommt aus China. Das Start-up BrainCo aus Hangzhou hat nach eigenen Angaben eine neue Plattform vorgestellt, mit der sich Roboter direkt über ein EEG-Headset steuern lassen. Das Unternehmen bezeichnet es als die weltweit erste integrierte Brain-to-Robot-Plattform dieser Art, berichtet die South China Morning Post. Details zur genauen Funktionsweise, zur Genauigkeit der Steuerung oder zu möglichen kommerziellen Anwendungen sind bislang nur spärlich bekannt, weshalb an dieser Stelle noch Vorsicht angebracht ist. Sollte sich die Technologie bestätigen, wäre das ein weiterer Baustein in der wachsenden chinesischen Ambition, nicht nur bei Sprachmodellen, sondern auch bei der Verbindung von KI, Neurotechnologie und Robotik international mitzuspielen. Wir behalten das Thema im Auge und melden uns, sobald belastbarere Informationen vorliegen.\n\n===\n\nDas war es für heute. Die großen Baustellen bleiben natürlich weiter offen: der mögliche Rechenzentrums-Deal zwischen Anthropic und Meta, der Streit um Zugriffsrechte auf besonders leistungsfähige Modelle wie Anthropics Mythos, und die internationale Debatte um eine mögliche globale Aufsichtsbehörde für KI. Sobald es dort belastbare neue Entwicklungen gibt, hörst du es zuerst hier. Bis dahin wünsche ich dir einen guten Start in die Woche. Das war dein KI Daily-Briefing, bis morgen."
+}

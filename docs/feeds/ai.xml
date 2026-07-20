@@ -19,6 +19,27 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 20. Juli 2026: Ruhiger Tag, Claude Fable 5 und Brain-to-Robot aus China</title>
+      <description><![CDATA[<p>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Anthropic schraubt an den Nutzungslimits von Claude Fable 5, und ein chinesisches Start-up zeigt eine Plattform, die Roboter per Gedanken steuern soll.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://llm-stats.com/ai-news">Anthropic passt Zugriff auf Claude Fable 5 in Abo-Stufen an</a> <em>(llm-stats.com)</em></li>
+<li><a href="https://llm-stats.com/ai-news">Chinesisches Start-up BrainCo stellt Brain-to-Robot-Plattform vor</a> <em>(llm-stats.com (Bericht der South China Morning Post))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Anthropic schraubt an den Nutzungslimits von Claude Fable 5, und ein chinesisches Start-up zeigt eine Plattform, die Roboter per Gedanken steuern soll.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://llm-stats.com/ai-news">Anthropic passt Zugriff auf Claude Fable 5 in Abo-Stufen an</a> <em>(llm-stats.com)</em></li>
+<li><a href="https://llm-stats.com/ai-news">Chinesisches Start-up BrainCo stellt Brain-to-Robot-Plattform vor</a> <em>(llm-stats.com (Bericht der South China Morning Post))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Anthropic schraubt an den Nutzungslimits von Claude Fable 5, und ein chinesisches Start-up zeigt eine Plattform, die Roboter per Gedanken steuern soll.</itunes:summary>
+      <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-20</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-20/2026-07-20.mp3" length="1660595" type="audio/mpeg"/>
+      <itunes:duration>3:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 19. Juli 2026: Anthropic sondiert Meta-Deal, xAI plant schon Grok 4.6</title>
       <description><![CDATA[<p>Ein ruhiges Wochenende in der KI-Welt: Anthropic verhandelt offenbar über einen Zehn-Milliarden-Dollar-Rechenleistungsdeal mit Meta, xAI bestätigt bereits einen Nachfolger für Grok 4.5, und Google DeepMind stellt seinen Plan gegen den Missbrauch von KI in der Biologie vor.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -889,41 +910,6 @@
       <guid isPermaLink="false">ai-2026-06-20</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-20/2026-06-20.mp3" length="4675440" type="audio/mpeg"/>
       <itunes:duration>6:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 19. Juni 2026: Anthropic in Seoul, Cursor-Deal &amp; KI-Gesundheit</title>
-      <description><![CDATA[<p>Anthropic eröffnet sein Seoul-Büro inmitten des laufenden Exportstreits – und signalisiert: Die Sperre könnte bald fallen. Dazu: SpaceX kauft Cursor für sechzig Milliarden Dollar, China liefert einen mächtigen Open-Source-Konkurrenten, und OpenAI behauptet, ChatGPT beantworte Gesundheitsfragen besser als Ärzte.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.digitaltoday.co.kr/en/view/66935/anthropic-seoul-office-faces-early-test-as-export-controls-seen-easing-within-days">Update: Anthropic Seoul office faces early test as export controls seen easing within days</a> <em>(digitaltoday.co.kr)</em></li>
-<li><a href="https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem">Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.benzinga.com/markets/tech/26/06/53267847/anthropic-eyes-south-korea-expansion-ahead-of-ipo-with-seoul-office-and-partnerships">Anthropic Eyes South Korea Growth Ahead Of IPO With Seoul Office, New Partnerships</a> <em>(benzinga.com)</em></li>
-<li><a href="https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-tops-open-weights-intelligence-index-with-score-of-51">Z.ai's open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost</a> <em>(venturebeat.com)</em></li>
-<li><a href="https://www.techtimes.com/articles/318543/20260617/glm-52-open-weights-live-top-coding-benchmark-api-use-carries-china-data-risk.htm">GLM-5.2 Open Weights Live: Top Coding Benchmark, but API Use Carries China Data Risk</a> <em>(techtimes.com)</em></li>
-<li><a href="https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/">ChatGPT's new health upgrade beats doctor-written answers, OpenAI says</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/article/spacex-announces-60-billion-cursor-deal-to-boost-ai-coding-125509159.html">SpaceX announces $60 billion Cursor deal to boost AI coding</a> <em>(finance.yahoo.com)</em></li>
-<li><a href="https://mlq.ai/news/spacex-acquires-ai-coding-startup-cursor-for-60-billion-in-all-stock-deal/">SpaceX Acquires AI Coding Startup Cursor for $60 Billion in All-Stock Deal</a> <em>(mlq.ai)</em></li>
-<li><a href="https://www.explainx.ai/blog/us-government-bans-fable-5-mythos-5-anthropic-export-control-2026">Fable 5 &amp; Mythos 5 export ban update – June 17, 2026</a> <em>(explainx.ai)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Anthropic eröffnet sein Seoul-Büro inmitten des laufenden Exportstreits – und signalisiert: Die Sperre könnte bald fallen. Dazu: SpaceX kauft Cursor für sechzig Milliarden Dollar, China liefert einen mächtigen Open-Source-Konkurrenten, und OpenAI behauptet, ChatGPT beantworte Gesundheitsfragen besser als Ärzte.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.digitaltoday.co.kr/en/view/66935/anthropic-seoul-office-faces-early-test-as-export-controls-seen-easing-within-days">Update: Anthropic Seoul office faces early test as export controls seen easing within days</a> <em>(digitaltoday.co.kr)</em></li>
-<li><a href="https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem">Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.benzinga.com/markets/tech/26/06/53267847/anthropic-eyes-south-korea-expansion-ahead-of-ipo-with-seoul-office-and-partnerships">Anthropic Eyes South Korea Growth Ahead Of IPO With Seoul Office, New Partnerships</a> <em>(benzinga.com)</em></li>
-<li><a href="https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-tops-open-weights-intelligence-index-with-score-of-51">Z.ai's open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost</a> <em>(venturebeat.com)</em></li>
-<li><a href="https://www.techtimes.com/articles/318543/20260617/glm-52-open-weights-live-top-coding-benchmark-api-use-carries-china-data-risk.htm">GLM-5.2 Open Weights Live: Top Coding Benchmark, but API Use Carries China Data Risk</a> <em>(techtimes.com)</em></li>
-<li><a href="https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/">ChatGPT's new health upgrade beats doctor-written answers, OpenAI says</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/article/spacex-announces-60-billion-cursor-deal-to-boost-ai-coding-125509159.html">SpaceX announces $60 billion Cursor deal to boost AI coding</a> <em>(finance.yahoo.com)</em></li>
-<li><a href="https://mlq.ai/news/spacex-acquires-ai-coding-startup-cursor-for-60-billion-in-all-stock-deal/">SpaceX Acquires AI Coding Startup Cursor for $60 Billion in All-Stock Deal</a> <em>(mlq.ai)</em></li>
-<li><a href="https://www.explainx.ai/blog/us-government-bans-fable-5-mythos-5-anthropic-export-control-2026">Fable 5 &amp; Mythos 5 export ban update – June 17, 2026</a> <em>(explainx.ai)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Anthropic eröffnet sein Seoul-Büro inmitten des laufenden Exportstreits – und signalisiert: Die Sperre könnte bald fallen. Dazu: SpaceX kauft Cursor für sechzig Milliarden Dollar, China liefert einen mächtigen Open-Source-Konkurrenten, und OpenAI behauptet, ChatGPT beantworte Gesundheitsfragen besser als Ärzte.</itunes:summary>
-      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-19</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-19/2026-06-19.mp3" length="5096743" type="audio/mpeg"/>
-      <itunes:duration>7:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
