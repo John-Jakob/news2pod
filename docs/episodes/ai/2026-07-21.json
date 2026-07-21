@@ -1,0 +1,36 @@
+{
+  "title": "KI Daily – 21. Juli 2026: Kimi K3 stößt an Grenzen, Grok 4.6 im Endspurt",
+  "teaser": "Moonshot AI muss wegen Rechenkapazität neue Kimi-K3-Abos pausieren, xAI meldet Fortschritte bei Grok 4.6 und startet Grok für Excel, und Samsung baut wegen des KI-Speicherbooms um. Ein kompaktes Update an einem ruhigeren Dienstag.",
+  "pubDate": "2026-07-21T06:00:00+02:00",
+  "duration_seconds": 269,
+  "size_bytes": 2153787,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-21/2026-07-21.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Moonshot AI stoppt neue Kimi-K3-Abos wegen Kapazitätsengpässen (AP-Quelle)",
+      "source": "techstartups.com",
+      "url": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+      "published": "20. Juli 2026"
+    },
+    {
+      "headline": "Elon Musk: Grok 4.6 (2 Billionen Parameter) vor Trainingsabschluss, soll Kimi K3 übertreffen",
+      "source": "tradingkey.com",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262040652-spacex-ai-musk-kimi-k3-tsla-xai-grok4-6-tradingkey",
+      "published": "20. Juli 2026 (vor ca. 20 Stunden)"
+    },
+    {
+      "headline": "Grok for Excel ist live: xAI bringt Grok 4.5 in Microsofts Tabellenkalkulation",
+      "source": "basenor.com",
+      "url": "https://www.basenor.com/blogs/news/grok-for-excel-is-live-what-you-need-to-know",
+      "published": "21. Juli 2026 (vor ca. 11 Stunden)"
+    },
+    {
+      "headline": "Samsung streicht US-Stellen und verlagert Funktionen nach Texas, während KI-Speicherchips boomen",
+      "source": "techstartups.com",
+      "url": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+      "published": "20. Juli 2026"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Dienstag, den 21. Juli 2026. Der Nachrichtenfluss ist heute überschaubar, deshalb konzentrieren wir uns auf drei handfeste Entwicklungen, zwei davon sind direkte Updates zu Geschichten, die wir hier bereits eingeordnet haben.\n\n===\n\nErstes Thema ist ein Update zur chinesischen Kimi K drei. Das Modell des Start-ups Moonshot AI hatte erst vor wenigen Tagen mit seiner Größe und seiner Leistung für Aufsehen gesorgt. Jetzt zeigt sich die Kehrseite des Erfolgs. Laut einem Bericht, der sich auf die Nachrichtenagentur AP beruft, hat Moonshot vorübergehend gestoppt, neue Abonnements für Kimi K drei anzunehmen. Der Grund ist simpel, die Nachfrage ist so stark gestiegen, dass die verfügbare Rechenkapazität des Unternehmens an ihre Grenzen stößt. Bestehende Nutzerinnen und Nutzer können den Dienst weiter verwenden, für Neukunden ist vorerst aber Schluss. Die Episode zeigt ein Muster, das im chinesischen KI-Sektor öfter auftritt. Der Zugang zu den leistungsfähigsten Nvidia-Chips bleibt durch US-Exportkontrollen eingeschränkt, wodurch chinesische Anbieter bei plötzlichem Nutzeransturm schneller an Kapazitätsgrenzen stoßen als amerikanische Konkurrenten. Der Fall unterstreicht damit, dass im globalen KI-Wettlauf längst nicht mehr nur die Modellqualität entscheidet, sondern zunehmend auch, wer zuverlässig genügend Rechenleistung bereitstellen kann.\n\n===\n\nZweites Thema, ebenfalls ein Update, diesmal zu xAI und dem angekündigten Zwei-Billionen-Parameter-Modell. Firmenchef Elon Musk hat auf der Plattform X mitgeteilt, das Training von Grok vier komma sechs befinde sich in der finalen Phase, unterstützt durch den firmeneigenen Colossus-Rechencluster. Ziel sei es, in der Effizienz mit Kimi K drei mitzuhalten oder das chinesische Modell sogar zu übertreffen, das mit rund zwei komma acht Billionen Parametern derzeit als eines der größten verfügbaren Modelle gilt. Parallel dazu hat xAI ein neues Produkt live geschaltet, Grok für Excel. Das Add-in bringt die Fähigkeiten von Grok vier komma fünf direkt in Microsofts Tabellenkalkulation, inklusive Unterstützung beim Aufbau von Finanzmodellen und der Analyse von Marktdaten. Zusammen mit bereits verfügbaren Erweiterungen für Word und PowerPoint positioniert sich xAI damit zunehmend als direkter Konkurrent zu Microsofts eigenem Copilot.\n\n===\n\nDrittes Thema kommt aus der Hardware-Welt und zeigt, wie stark der KI-Boom die Chipindustrie umbaut. Samsung Electronics hat einem Bericht zufolge Stellen in seinen US-Standorten gestrichen und Funktionen der Zentrale stärker nach Texas verlagert. Der Hintergrund ist eine zunehmende Kluft innerhalb des Konzerns. Die Halbleitersparte profitiert von der stark gestiegenen Nachfrage nach Speicherchips für KI-Anwendungen und rechnet mit deutlich höheren Gewinnen. Die Sparten für Smartphones, Fernseher und Haushaltsgeräte kämpfen dagegen mit höheren Bauteilkosten und scharfer Konkurrenz durch Apple und chinesische Hersteller. Samsung bestreitet, dass ein umfassender globaler Umbau des Konsumgütergeschäfts bevorstehe, und begründet die Verlagerung mit einer besseren Anbindung an das wachsende Technologie-Ökosystem in Texas. Der Fall reiht sich damit in ein Muster ein, das derzeit die gesamte Branche prägt, mehr Kapital fließt in KI-Chips und Rechenzentren, während in anderen Unternehmensbereichen gespart wird.\n\n===\n\nZum Ausblick, in den kommenden Tagen dürfte sich zeigen, wie es mit den Rechenkapazitäten bei Moonshot weitergeht und ob xAI seinen Zeitplan für Grok vier komma sechs einhalten kann. Auch die Frage, wie chinesische Anbieter künftig mit Kapazitätsengpässen umgehen, bleibt ein Thema, das wir für dich im Auge behalten. Das war dein KI Daily für heute. Danke fürs Zuhören und bis morgen."
+}
