@@ -1,0 +1,42 @@
+{
+  "title": "KI Daily – 24. Juli 2026: Google-Rekordquartal, Samsung prüft Mistral",
+  "teaser": "Alphabet knackt mit seinen Zahlen alle Erwartungen und schraubt die KI-Investitionen auf über 200 Milliarden Dollar, Samsung liebäugelt laut Financial Times mit einem Einstieg bei Mistral, und Google DeepMind stellt eine neue Biosicherheits-Strategie vor. Außerdem: OpenAI startet Gesundheitsfunktionen in ChatGPT, und xAI bringt Grok 4.5 auf alle Plattformen.",
+  "pubDate": "2026-07-24T06:00:00+02:00",
+  "duration_seconds": 404,
+  "size_bytes": 3232958,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-24/2026-07-24.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Google übertrifft Erwartungen erneut – Investitionen 2026 übersteigen 200 Milliarden Dollar, Samsung prüft Mistral-Beteiligung, USA und China planen KI-Regel-Gespräche im September",
+      "source": "heise.de",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "published": "2026-07-23/24 (Themenseite, 1 Tag alt)"
+    },
+    {
+      "headline": "Alphabet hebt Investitionsprognose 2026 auf bis zu 205 Milliarden Dollar an, Google Cloud wächst 82 Prozent",
+      "source": "llm-stats.com",
+      "url": "https://llm-stats.com/ai-news",
+      "published": "vor 13 Stunden"
+    },
+    {
+      "headline": "Google DeepMind and Isomorphic Labs approach to bioresilience",
+      "source": "deepmind.google",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published": "vor 18 Stunden"
+    },
+    {
+      "headline": "OpenAI: Launching Health in ChatGPT",
+      "source": "openai.com",
+      "url": "https://openai.com/news/",
+      "published": "2026-07-23"
+    },
+    {
+      "headline": "xAI says bringing Grok 4.5 to iOS, Android, Web, and X",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/xai-says-bringing-grok-4-5-to-ios-android-web-and-x-thefly-news",
+      "published": "vor 11 Stunden"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 24. Juli 2026. Heute geht es um Rekordzahlen bei Google, ein mögliches Investment von Samsung bei Mistral, diplomatische Annäherung zwischen den USA und China in Sachen KI-Regulierung, eine neue Sicherheitsinitiative von Google DeepMind sowie frische Produktstarts von OpenAI und xAI.\n===\nBeginnen wir mit den größten Nachrichten des Tages aus der Wirtschaft. Google-Mutter Alphabet hat gestern Quartalszahlen vorgelegt, die erneut über den Erwartungen lagen. Umsatz und Gewinn legten deutlich zu, gleichzeitig aber steigen die Investitionen weiter kräftig. Für das laufende Jahr rechnet Alphabet nun mit Investitionen von bis zu 205 Milliarden Dollar, weil die Nachfrage nach Rechenleistung das Angebot weiterhin übersteigt. Google Cloud wuchs im zweiten Quartal um 82 Prozent. Parallel dazu tobt im Rechenzentrumsgeschäft ein Wettlauf um die stärkste Hardware, Nvidia will mit dem Einsatz eigener Vera-Rubin-Racks einem Konkurrenzprodukt von AMD zuvorkommen. Die Zahlen zeigen, wie sehr der KI-Boom inzwischen die Bilanzen der großen Plattformkonzerne prägt, aber auch, wie teuer dieses Wachstum bleibt.\n===\nBei den europäischen Playern gibt es ebenfalls Bewegung. Laut einem Bericht der Financial Times, den heise.de aufgreift, prüft der südkoreanische Elektronikkonzern Samsung eine Beteiligung am französischen KI-Start-up Mistral. Die Logik dahinter, Mistral benötigt für seine Modelle Speicherchips, und genau die stellt Samsung her. Sollte der Einstieg zustande kommen, wäre das ein weiteres Signal, dass Chip- und Hardwarehersteller zunehmend direkt in KI-Labore investieren, um sich Nachfrage und Einfluss auf die Wertschöpfungskette zu sichern. Mistral gilt in Europa als wichtigster Hoffnungsträger im globalen Wettbewerb um Sprachmodelle, ein finanzstarker Partner aus Asien könnte dem Unternehmen zusätzliches Kapital und einen gesicherten Zugang zu Speicherchips verschaffen.\n===\nAuf der regulatorischen Seite bahnt sich etwas Bemerkenswertes an. Laut heise.de wollen die USA und China im September offenbar über gemeinsame KI-Regeln sprechen. Die Gespräche sollen auf amerikanischer Seite von Finanzminister Bessent geleitet werden. Nach Monaten der Konfrontation um Chipexporte und Technologievorherrschaft wäre das ein erster Schritt in Richtung eines gemeinsamen Rahmens für den Umgang mit den Risiken fortgeschrittener KI-Systeme. Wie belastbar ein solcher Dialog wird, bleibt abzuwarten, das Thema betrifft schließlich zentrale sicherheitspolitische Interessen beider Länder.\n===\nAuch bei der KI-Sicherheitsforschung selbst gibt es Neuigkeiten. Google DeepMind hat gemeinsam mit der Schwesterfirma Isomorphic Labs eine neue gemeinsame Strategie zur sogenannten Bioresilienz vorgestellt. Ziel ist es einerseits, zu verhindern, dass Akteure die eigenen KI-Modelle missbrauchen, um biologische Bedrohungen zu entwickeln, und andererseits, Regierungen, Forschern und Biosicherheitsexperten zu helfen, Ausbrüche schneller zu erkennen und zu bekämpfen. In den vergangenen zwölf Monaten seien dazu mehr als fünfzehn Partnerschaften mit Regierungsstellen, Biosicherheitsorganisationen und Forschungseinrichtungen aufgebaut worden. Aufbauend auf Vorarbeiten wie AlphaFold und dem Wirkstoff-Designsystem von Isomorphic Labs erhalten nun ausgewählte Forscherinnen und Forscher Zugang zu den neuesten KI-Systemen von Google DeepMind, um etwa die Entwicklung von Impfstoffen und anderen Gegenmaßnahmen zu beschleunigen. Ein Beispiel dafür, wie die großen KI-Labore versuchen, Sicherheitsbedenken und wissenschaftlichen Nutzen ihrer Modelle zusammenzudenken.\n===\nAuch bei den Produkten selbst tut sich etwas. OpenAI hat gestern in seinem Newsroom die Funktion Health in ChatGPT angekündigt, mit der Nutzerinnen und Nutzer gesundheitsbezogene Fragen direkt im Chatbot klären können sollen. Es ist die jüngste einer ganzen Reihe von Ankündigungen aus den vergangenen Tagen, zuvor hatte OpenAI unter anderem ein Angebot für kleine Unternehmen sowie eine neue Präsenz-Funktion vorgestellt. Die Ausweitung in sensible Bereiche wie Gesundheit dürfte erneut Fragen nach Datenschutz und Verlässlichkeit aufwerfen, Details zur konkreten Umsetzung hat OpenAI bislang aber nur knapp veröffentlicht.\n===\nAuch bei xAI gibt es ein Update. Elon Musks Unternehmen hat sein Modell Grok 4.5 nun auf allen Plattformen ausgerollt, es läuft ab sofort auf grok.com, auf X sowie in den Apps für iOS und Android. Nach eigenen Angaben von xAI folgt Grok 4.5 im Alltag zuverlässiger dem, was Nutzer tatsächlich fragen, behält den Überblick über längere Gespräche und kann auch komplexere Aufgaben von Anfang bis Ende erledigen, etwa das Erstellen einer Tabelle oder das Umwandeln einer Gliederung in Folien. Damit zieht xAI mit der breiten Verfügbarkeit nach, nachdem das Modell zuvor bereits für zahlende Abonnenten freigeschaltet worden war.\n===\nDas war dein KI Daily-Briefing für heute. Zusammengefasst, Google verdient prächtig, investiert aber noch kräftiger, Samsung könnte bei Mistral einsteigen, USA und China suchen im September das Gespräch über gemeinsame KI-Regeln, und sowohl bei der Sicherheitsforschung als auch bei den Produkten von OpenAI und xAI bewegt sich einiges. Wir behalten für dich im Blick, ob aus der Prüfung bei Samsung ein echter Deal wird und was die amerikanisch-chinesischen Gespräche im September tatsächlich bringen. Bis morgen, und einen guten Start in den Tag."
+}

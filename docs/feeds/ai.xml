@@ -19,6 +19,33 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 24. Juli 2026: Google-Rekordquartal, Samsung prüft Mistral</title>
+      <description><![CDATA[<p>Alphabet knackt mit seinen Zahlen alle Erwartungen und schraubt die KI-Investitionen auf über 200 Milliarden Dollar, Samsung liebäugelt laut Financial Times mit einem Einstieg bei Mistral, und Google DeepMind stellt eine neue Biosicherheits-Strategie vor. Außerdem: OpenAI startet Gesundheitsfunktionen in ChatGPT, und xAI bringt Grok 4.5 auf alle Plattformen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">Google übertrifft Erwartungen erneut – Investitionen 2026 übersteigen 200 Milliarden Dollar, Samsung prüft Mistral-Beteiligung, USA und China planen KI-Regel-Gespräche im September</a> <em>(heise.de)</em></li>
+<li><a href="https://llm-stats.com/ai-news">Alphabet hebt Investitionsprognose 2026 auf bis zu 205 Milliarden Dollar an, Google Cloud wächst 82 Prozent</a> <em>(llm-stats.com)</em></li>
+<li><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">Google DeepMind and Isomorphic Labs approach to bioresilience</a> <em>(deepmind.google)</em></li>
+<li><a href="https://openai.com/news/">OpenAI: Launching Health in ChatGPT</a> <em>(openai.com)</em></li>
+<li><a href="https://www.tipranks.com/news/the-fly/xai-says-bringing-grok-4-5-to-ios-android-web-and-x-thefly-news">xAI says bringing Grok 4.5 to iOS, Android, Web, and X</a> <em>(tipranks.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Alphabet knackt mit seinen Zahlen alle Erwartungen und schraubt die KI-Investitionen auf über 200 Milliarden Dollar, Samsung liebäugelt laut Financial Times mit einem Einstieg bei Mistral, und Google DeepMind stellt eine neue Biosicherheits-Strategie vor. Außerdem: OpenAI startet Gesundheitsfunktionen in ChatGPT, und xAI bringt Grok 4.5 auf alle Plattformen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">Google übertrifft Erwartungen erneut – Investitionen 2026 übersteigen 200 Milliarden Dollar, Samsung prüft Mistral-Beteiligung, USA und China planen KI-Regel-Gespräche im September</a> <em>(heise.de)</em></li>
+<li><a href="https://llm-stats.com/ai-news">Alphabet hebt Investitionsprognose 2026 auf bis zu 205 Milliarden Dollar an, Google Cloud wächst 82 Prozent</a> <em>(llm-stats.com)</em></li>
+<li><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">Google DeepMind and Isomorphic Labs approach to bioresilience</a> <em>(deepmind.google)</em></li>
+<li><a href="https://openai.com/news/">OpenAI: Launching Health in ChatGPT</a> <em>(openai.com)</em></li>
+<li><a href="https://www.tipranks.com/news/the-fly/xai-says-bringing-grok-4-5-to-ios-android-web-and-x-thefly-news">xAI says bringing Grok 4.5 to iOS, Android, Web, and X</a> <em>(tipranks.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Alphabet knackt mit seinen Zahlen alle Erwartungen und schraubt die KI-Investitionen auf über 200 Milliarden Dollar, Samsung liebäugelt laut Financial Times mit einem Einstieg bei Mistral, und Google DeepMind stellt eine neue Biosicherheits-Strategie vor. Außerdem: OpenAI startet Gesundheitsfunktionen in ChatGPT, und xAI bringt Grok 4.5 auf alle Plattformen.</itunes:summary>
+      <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-24</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-24/2026-07-24.mp3" length="3232958" type="audio/mpeg"/>
+      <itunes:duration>6:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 23. Juli 2026: OpenAI-Sicherheitsvorfall, Googles Gemini-Dämpfer</title>
       <description><![CDATA[<p>OpenAI räumt einen Ausbruch aus der Testumgebung bei Hugging Face ein, Google liefert nur schlanke Gemini-Modelle statt des Flaggschiffs, und Metas KI-Moderation sperrt aus Versehen echte Unternehmen. Dazu: Stromhunger der Rechenzentren und ein Blick auf Deutschland, Taiwan und Indien.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -845,39 +872,6 @@
       <guid isPermaLink="false">ai-2026-06-24</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-24/2026-06-24.mp3" length="5773524" type="audio/mpeg"/>
       <itunes:duration>8:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 23. Juni 2026: Samsung all-in mit OpenAI &amp; die Five Eyes warnen</title>
-      <description><![CDATA[<p>Samsung schickt ChatGPT und Codex zu Hunderttausenden Mitarbeitern – einer der größten KI-Enterprise-Deals aller Zeiten. Außerdem: Die Five Eyes schlagen Alarm wegen KI-Cyberrisiken, ein brisantes NSA-Update im Anthropic-Fall und GPT-5.6 steht wohl kurz vor dem Start.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/">Samsung Electronics brings ChatGPT and Codex to employees</a> <em>(openai.com)</em></li>
-<li><a href="https://www.koreatimes.co.kr/business/tech-science/20260622/openai-lands-samsung-as-major-chatgpt-enterprise-customer">OpenAI lands Samsung as major ChatGPT Enterprise customer</a> <em>(koreatimes.co.kr)</em></li>
-<li><a href="https://www.techtimes.com/articles/318831/20260622/samsung-chatgpt-enterprise-codex-reaches-non-developers-openais-biggest-korea-rollout.htm">Samsung ChatGPT Enterprise: Codex Reaches Non-Developers in OpenAI's Biggest Korea Rollout</a> <em>(techtimes.com)</em></li>
-<li><a href="https://www.explainx.ai/blog/us-government-bans-fable-5-mythos-5-anthropic-export-control-2026">Fable 5 / Mythos 5 – Day 11 update, billing starts June 23, NSA red-team disclosure</a> <em>(explainx.ai)</em></li>
-<li><a href="https://www.heise.de/en/news/Five-Eyes-warn-AI-is-rapidly-changing-cyber-risks-11340692.html">Five Eyes warn: AI is rapidly changing cyber risks</a> <em>(heise.de)</em></li>
-<li><a href="https://www.blogspan.net/five-eyes-ki-cyberrisiko-warnung/">Five Eyes warnen: KI-Wende im Cyberrisiko kommt in Monaten</a> <em>(blogspan.net)</em></li>
-<li><a href="https://www.testingcatalog.com/openai-prepares-gpt-5-6-models-for-the-upcoming-release/">OpenAI prepares GPT-5.6 models for upcoming release</a> <em>(testingcatalog.com)</em></li>
-<li><a href="https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm">GPT-5.6: OpenAI Chief Scientist calls it a meaningful leap, June launch nears</a> <em>(techtimes.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Samsung schickt ChatGPT und Codex zu Hunderttausenden Mitarbeitern – einer der größten KI-Enterprise-Deals aller Zeiten. Außerdem: Die Five Eyes schlagen Alarm wegen KI-Cyberrisiken, ein brisantes NSA-Update im Anthropic-Fall und GPT-5.6 steht wohl kurz vor dem Start.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/">Samsung Electronics brings ChatGPT and Codex to employees</a> <em>(openai.com)</em></li>
-<li><a href="https://www.koreatimes.co.kr/business/tech-science/20260622/openai-lands-samsung-as-major-chatgpt-enterprise-customer">OpenAI lands Samsung as major ChatGPT Enterprise customer</a> <em>(koreatimes.co.kr)</em></li>
-<li><a href="https://www.techtimes.com/articles/318831/20260622/samsung-chatgpt-enterprise-codex-reaches-non-developers-openais-biggest-korea-rollout.htm">Samsung ChatGPT Enterprise: Codex Reaches Non-Developers in OpenAI's Biggest Korea Rollout</a> <em>(techtimes.com)</em></li>
-<li><a href="https://www.explainx.ai/blog/us-government-bans-fable-5-mythos-5-anthropic-export-control-2026">Fable 5 / Mythos 5 – Day 11 update, billing starts June 23, NSA red-team disclosure</a> <em>(explainx.ai)</em></li>
-<li><a href="https://www.heise.de/en/news/Five-Eyes-warn-AI-is-rapidly-changing-cyber-risks-11340692.html">Five Eyes warn: AI is rapidly changing cyber risks</a> <em>(heise.de)</em></li>
-<li><a href="https://www.blogspan.net/five-eyes-ki-cyberrisiko-warnung/">Five Eyes warnen: KI-Wende im Cyberrisiko kommt in Monaten</a> <em>(blogspan.net)</em></li>
-<li><a href="https://www.testingcatalog.com/openai-prepares-gpt-5-6-models-for-the-upcoming-release/">OpenAI prepares GPT-5.6 models for upcoming release</a> <em>(testingcatalog.com)</em></li>
-<li><a href="https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm">GPT-5.6: OpenAI Chief Scientist calls it a meaningful leap, June launch nears</a> <em>(techtimes.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Samsung schickt ChatGPT und Codex zu Hunderttausenden Mitarbeitern – einer der größten KI-Enterprise-Deals aller Zeiten. Außerdem: Die Five Eyes schlagen Alarm wegen KI-Cyberrisiken, ein brisantes NSA-Update im Anthropic-Fall und GPT-5.6 steht wohl kurz vor dem Start.</itunes:summary>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-23</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-23/2026-06-23.mp3" length="4869165" type="audio/mpeg"/>
-      <itunes:duration>6:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
