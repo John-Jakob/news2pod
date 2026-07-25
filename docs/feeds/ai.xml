@@ -19,6 +19,31 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 25. Juli 2026: Claude Opus 5 und Voice-Wettlauf</title>
+      <description><![CDATA[<p>Anthropic bringt mit Claude Opus 5 ein günstigeres Spitzenmodell, während OpenAI und Anthropic ihre Sprachassistenten auf dem Desktop aufrüsten. Ein bewusst kompaktes Briefing an einem ruhigeren Nachrichtentag.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html">Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.bloomberg.com/latest/anthropic">Anthropic Unveils More Cost-Efficient Model for Everyday Tasks</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/">OpenAI's new voice mode makes it to the ChatGPT desktop app</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html">AMD to invest up to $5 billion in Anthropic as part of computing power deal</a> <em>(cnbc.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Anthropic bringt mit Claude Opus 5 ein günstigeres Spitzenmodell, während OpenAI und Anthropic ihre Sprachassistenten auf dem Desktop aufrüsten. Ein bewusst kompaktes Briefing an einem ruhigeren Nachrichtentag.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html">Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.bloomberg.com/latest/anthropic">Anthropic Unveils More Cost-Efficient Model for Everyday Tasks</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/">OpenAI's new voice mode makes it to the ChatGPT desktop app</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html">AMD to invest up to $5 billion in Anthropic as part of computing power deal</a> <em>(cnbc.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Anthropic bringt mit Claude Opus 5 ein günstigeres Spitzenmodell, während OpenAI und Anthropic ihre Sprachassistenten auf dem Desktop aufrüsten. Ein bewusst kompaktes Briefing an einem ruhigeren Nachrichtentag.</itunes:summary>
+      <pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-25</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-25/2026-07-25.mp3" length="2843420" type="audio/mpeg"/>
+      <itunes:duration>5:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 24. Juli 2026: Google-Rekordquartal, Samsung prüft Mistral</title>
       <description><![CDATA[<p>Alphabet knackt mit seinen Zahlen alle Erwartungen und schraubt die KI-Investitionen auf über 200 Milliarden Dollar, Samsung liebäugelt laut Financial Times mit einem Einstieg bei Mistral, und Google DeepMind stellt eine neue Biosicherheits-Strategie vor. Außerdem: OpenAI startet Gesundheitsfunktionen in ChatGPT, und xAI bringt Grok 4.5 auf alle Plattformen.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -835,43 +860,6 @@
       <guid isPermaLink="false">ai-2026-06-25</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-25/2026-06-25.mp3" length="4415574" type="audio/mpeg"/>
       <itunes:duration>6:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 24. Juni 2026: Google blutet Talente, SpaceX wird KI-Vermieter</title>
-      <description><![CDATA[<p>Alphabet verliert zwei seiner wichtigsten KI-Forscher an OpenAI und Anthropic – und büßt über 250 Milliarden Dollar Börsenwert ein. Dazu: SpaceX verdient Milliarden als KI-Infrastruktur-Vermieter, OpenAI will die Welt mit KI absichern, und Getty Images macht Frieden mit ChatGPT.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html">Alphabet shares fall roughly 7% as Noam Shazeer leaves for OpenAI and John Jumper leaves for Anthropic</a> <em>(cnbc.com)</em></li>
-<li><a href="https://letsdatascience.com/news/alphabet-shares-slide-after-high-profile-ai-researcher-exits-2425c84d">Alphabet Shares Slide After High-Profile AI Researcher Exits</a> <em>(letsdatascience.com)</em></li>
-<li><a href="https://www.taipeitimes.com/News/biz/archives/2026/06/22/2003859496">Nobel Prize AI researcher John Jumper leaves Google to Anthropic</a> <em>(taipeitimes.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html">SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion</a> <em>(cnbc.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/">SpaceX inks compute deal with Reflection AI, an open source AI lab</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://siliconangle.com/2026/06/22/openai-expands-daybreak-patch-planet-full-gpt-5-5-cyber-release/">OpenAI expands Daybreak with Patch the Planet and full GPT-5.5-Cyber release</a> <em>(siliconangle.com)</em></li>
-<li><a href="https://openai.com/index/patch-the-planet/">Patch the Planet: a Daybreak initiative to support open source maintainers</a> <em>(openai.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal">Getty Images Strikes Deal with OpenAI, Sending Getty's Stock Soaring</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/">OpenAI signs deal to show Getty's images in ChatGPT results</a> <em>(engadget.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html">China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist</a> <em>(cnbc.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Alphabet verliert zwei seiner wichtigsten KI-Forscher an OpenAI und Anthropic – und büßt über 250 Milliarden Dollar Börsenwert ein. Dazu: SpaceX verdient Milliarden als KI-Infrastruktur-Vermieter, OpenAI will die Welt mit KI absichern, und Getty Images macht Frieden mit ChatGPT.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html">Alphabet shares fall roughly 7% as Noam Shazeer leaves for OpenAI and John Jumper leaves for Anthropic</a> <em>(cnbc.com)</em></li>
-<li><a href="https://letsdatascience.com/news/alphabet-shares-slide-after-high-profile-ai-researcher-exits-2425c84d">Alphabet Shares Slide After High-Profile AI Researcher Exits</a> <em>(letsdatascience.com)</em></li>
-<li><a href="https://www.taipeitimes.com/News/biz/archives/2026/06/22/2003859496">Nobel Prize AI researcher John Jumper leaves Google to Anthropic</a> <em>(taipeitimes.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html">SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion</a> <em>(cnbc.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/">SpaceX inks compute deal with Reflection AI, an open source AI lab</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://siliconangle.com/2026/06/22/openai-expands-daybreak-patch-planet-full-gpt-5-5-cyber-release/">OpenAI expands Daybreak with Patch the Planet and full GPT-5.5-Cyber release</a> <em>(siliconangle.com)</em></li>
-<li><a href="https://openai.com/index/patch-the-planet/">Patch the Planet: a Daybreak initiative to support open source maintainers</a> <em>(openai.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal">Getty Images Strikes Deal with OpenAI, Sending Getty's Stock Soaring</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/">OpenAI signs deal to show Getty's images in ChatGPT results</a> <em>(engadget.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html">China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist</a> <em>(cnbc.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Alphabet verliert zwei seiner wichtigsten KI-Forscher an OpenAI und Anthropic – und büßt über 250 Milliarden Dollar Börsenwert ein. Dazu: SpaceX verdient Milliarden als KI-Infrastruktur-Vermieter, OpenAI will die Welt mit KI absichern, und Getty Images macht Frieden mit ChatGPT.</itunes:summary>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-24</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-24/2026-06-24.mp3" length="5773524" type="audio/mpeg"/>
-      <itunes:duration>8:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

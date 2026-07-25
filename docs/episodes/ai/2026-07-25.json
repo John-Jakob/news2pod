@@ -1,0 +1,36 @@
+{
+  "title": "KI Daily – 25. Juli 2026: Claude Opus 5 und Voice-Wettlauf",
+  "teaser": "Anthropic bringt mit Claude Opus 5 ein günstigeres Spitzenmodell, während OpenAI und Anthropic ihre Sprachassistenten auf dem Desktop aufrüsten. Ein bewusst kompaktes Briefing an einem ruhigeren Nachrichtentag.",
+  "pubDate": "2026-07-25T06:00:00+02:00",
+  "duration_seconds": 355,
+  "size_bytes": 2843420,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-25/2026-07-25.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
+      "published": "2026-07-24"
+    },
+    {
+      "headline": "Anthropic Unveils More Cost-Efficient Model for Everyday Tasks",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/latest/anthropic",
+      "published": "2026-07-24/25"
+    },
+    {
+      "headline": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "published": "2026-07-24"
+    },
+    {
+      "headline": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+      "published": "2026-07-22"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Samstag, den 25. Juli 2026.\n\nDer Nachrichtentag in der KI-Welt ist heute etwas ruhiger als sonst, deshalb konzentrieren wir uns auf die zwei wirklich substanziellen Entwicklungen und halten die Folge bewusst kompakt.\n\n===\n\nIm Mittelpunkt steht heute Anthropic. Das Unternehmen hat sein neues Spitzenmodell vorgestellt, Claude Opus 5. \nAnthropic kündigte sein neuestes KI-Modell Claude Opus 5 an, das laut Unternehmen seine leistungsstärkste und zugleich kosteneffizienteste Variante ist.\n Im Vergleich zur Konkurrenz gibt sich Anthropic selbstbewusst, aber differenziert. \nOpus 5 übertrifft das Modell Fable 5 bei Coding- und Wissensarbeit-Auswertungen, ist aber nicht auf dem neuesten Stand bei riskanten Fähigkeiten mit doppeltem Verwendungszweck wie Cybersicherheit.\n Hintergrund ist ein spürbarer Stimmungswandel bei den Kunden. \nAnthropic musste sich auf eine kostenbewusstere Kundschaft einstellen, bei der Unternehmen weniger bereit sind zu experimentieren, ohne ein klares Bild vom Return on Investment zu haben.\n Dianne Penn, bei Anthropic zuständig für Produktmanagement im Forschungsbereich, brachte es gegenüber dem Sender CNBC so auf den Punkt: \nUnternehmen suchten in Feedback und Kundenbasis nach Wert, und ein günstigeres Modell, das keine vergleichbare Qualität liefere, sei schlicht nicht nützlich.\n Zur Einordnung: Anthropic steht seit einigen Monaten stärker in der öffentlichen Beobachtung. \nDas Unternehmen war seit der Veröffentlichung eines Modells namens Claude Mythos Preview im April verstärkt in der Kritik, das laut eigenen Angaben besonders leistungsfähig in der Cybersicherheit war und darauf spezialisiert, Schwachstellen in Software aufzuspüren und auszunutzen.\n \nIm Juni veröffentlichte Anthropic dann eine überarbeitete Version namens Mythos 5 sowie eine als sicher eingestufte Variante namens Fable 5 für den allgemeinen Einsatz.\n Claude Opus 5 reiht sich also in diese Modellfamilie ein und soll vor allem im Unternehmensgeschäft für ein besseres Preis-Leistungs-Verhältnis sorgen. Passend dazu hatte Anthropic erst vor wenigen Tagen für frisches Rechenkapital gesorgt. \nDer Chiphersteller AMD kündigte an, bis zu fünf Milliarden Dollar in Anthropic zu investieren, im Rahmen einer Vereinbarung über Rechenleistung.\n Diese Kombination aus mehr Rechenkapazität und einem günstigeren Flaggschiff-Modell zeigt, wohin die Reise bei Anthropic geht, nämlich stärker in Richtung Massenmarkt und Unternehmenskunden.\n\n===\n\nZweite Geschichte des Tages ist ein kleiner, aber bezeichnender Wettlauf zwischen OpenAI und Anthropic bei Sprachassistenten. OpenAI hat sein Sprachfeature für ChatGPT nun auch auf den Desktop gebracht. \nOpenAI teilte am Donnerstag mit, die ChatGPT-Desktop-App um Unterstützung für ChatGPT Voice erweitert zu haben, wodurch Nutzer per Sprache mit der App KI-Agenten steuern und Aufgaben auf ihrem Computer erledigen können.\n Technisch basiert das Ganze auf einer neuen Modellfamilie. \nDie neue Funktion nutzt OpenAIs neue Familie von Sprachmodellen namens ChatGPT Live, die erst vor kurzem eingeführt wurde.\n Praktisch heißt das laut OpenAI: \nChatGPT Voice funktioniert sowohl mit ChatGPT Work als auch mit Codex und kann zudem auf Computer-Use-Fähigkeiten zugreifen, um Webseiten und Apps zu durchsuchen.\n Gegenüber der bisherigen mobilen Version ist das ein deutlicher Funktionssprung. \nDie mobile Version von ChatGPT Voice punktete beim Start vor allem mit flüssigeren Gesprächen und besserem Umgang mit Unterbrechungen, konnte aber noch keine Aktionen auf dem Smartphone ausführen, während das Desktop-Update komplexere, mehrstufige Befehle zulässt und auf Rückfragen von ChatGPT reagieren kann.\n Interessant ist der Seitenhieb auf die Konkurrenz direkt im selben Bericht. \nAuch Anthropic hat seinen Sprachmodus für Claude aktualisiert, der auf die firmeneigenen Opus-, Sonnet- und Haiku-Modelle zugreifen kann, um Aufgaben in Anwendungen wie Gmail, Kalender, Slack, Notion und Canva zu erledigen.\n Beide Anbieter setzen also aktuell parallel auf sprachgesteuerte Assistenten, die nicht mehr nur antworten, sondern selbstständig Aufgaben am Rechner übernehmen sollen. Das dürfte sich in den kommenden Wochen zu einem der zentralen Wettbewerbsfelder zwischen den beiden Unternehmen entwickeln.\n\n===\n\nDas war es auch schon mit den wirklich verifizierten, frischen Geschichten für heute. Andere Themen, die gerade kursieren, etwa mögliche neue Exportregeln Chinas für KI-Chips oder weitere Gespräche zwischen Washington und Peking, ließen sich innerhalb der letzten vierundzwanzig Stunden nicht sauber genug belegen, weshalb wir sie heute bewusst außen vor lassen.\n\nFür die kommende Woche lohnt sich ein Blick darauf, ob Claude Opus 5 in unabhängigen Benchmarks hält, was Anthropic verspricht, und ob OpenAI mit dem Voice-Update auf dem Desktop tatsächlich mehr Nutzer zu echten Agenten-Workflows bewegt. Beides dürfte die Debatte um Kosten und Nutzen von KI im Unternehmensalltag weiter prägen.\n\nDas war dein KI Daily-Briefing. Danke fürs Zuhören und bis morgen."
+}
