@@ -1,0 +1,30 @@
+{
+  "title": "KI Daily – 26. Juli 2026: ChatGPT-Ausfall, Deepfake-Betrug, Europas Rechenzentren",
+  "teaser": "Ein ruhigerer Nachrichtentag in der KI-Welt: ein erneuter weltweiter ChatGPT-Ausfall, eine Betrugswelle mit KI-Deepfakes in Deutschland und eine neue Studie zu Europas Rückstand beim Rechenzentrumsausbau.",
+  "pubDate": "2026-07-26T06:00:00+02:00",
+  "duration_seconds": 228,
+  "size_bytes": 1832168,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-26/2026-07-26.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "OpenAI Confirms ChatGPT is Down Worldwide",
+      "source": "macobserver.com",
+      "url": "https://www.macobserver.com/news/chatgpt-is-down-worldwide-what-we-know-about-todays-outage/",
+      "published": "vor ca. 17 Stunden (26. Juli 2026)"
+    },
+    {
+      "headline": "KI-Deepfakes und Phishing: So treffen Betrugsmaschen Smartphones in Deutschland",
+      "source": "it-boltwise.de",
+      "url": "https://www.it-boltwise.de/ki-deepfakes-und-phishing-so-treffen-betrugsmaschen-smartphones-in-deutschland-2.html",
+      "published": "26. Juli 2026"
+    },
+    {
+      "headline": "KI treibt Ausbau von Rechenzentren – Europa droht weiter zurückzufallen",
+      "source": "retail-news.de",
+      "url": "https://retail-news.de/rechenzentren-ki-europa-roland-berger-2026/",
+      "published": "26. Juli 2026"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily Briefing für Sonntag, den 26. Juli 2026.\n\nDie Nachrichtenlage rund um Künstliche Intelligenz ist heute deutlich ruhiger als in den vergangenen Tagen. Es gibt keine neuen Modell-Releases oder Milliarden-Deals zu vermelden, dafür aber drei Entwicklungen, die einen genaueren Blick wert sind.\n\n===\n\nZum Auftakt ein technisches Ärgernis mit Symbolcharakter. ChatGPT war heute erneut weltweit gestört. Nutzerinnen und Nutzer in den USA, Europa, Indien, Japan und Australien meldeten Probleme beim Einloggen, mitten in Gesprächen wurden Sitzungen abgebrochen, ältere Chats ließen sich nicht mehr öffnen. Betroffen waren offenbar vor allem die Login- und Authentifizierungssysteme, nicht das Sprachmodell selbst. Besonders bemerkenswert ist der Zeitpunkt. Erst zwei Tage zuvor, am 23. Juli, hatte OpenAI einen separaten Ausfall von ChatGPT, Codex und der eigenen Schnittstelle zu bewältigen, der fast 24 Stunden bis zur vollständigen Behebung brauchte. Dass nun so kurz danach schon der nächste Vorfall folgt, sorgt in sozialen Netzwerken für wachsende Kritik an der Zuverlässigkeit der OpenAI-Infrastruktur. Eine Ursache hat das Unternehmen bislang nicht genannt.\n\n===\n\nZweitens ein Warnsignal aus der Finanzwelt. Sicherheitsbehörden in Deutschland und Großbritannien berichten von einer neuen Welle KI-gestützter Betrugsmaschen, die gezielt Smartphone-Nutzer angreifen. Die Kombination aus klassischem Telefontrick und KI-generierten Medien führt zu hohen Schäden, etwa durch gefälschte Überweisungsabläufe und gestohlene Zugangsdaten. Neben klassischem Phishing warnen die Behörden inzwischen ausdrücklich vor Video-Betrug, bei dem in Echtzeit erzeugte Deepfake-Bilder eingesetzt werden, um in Video-Calls sensible Bankdaten und Zugangscodes abzugreifen. Immerhin zeigen internationale Ermittlungen auch einen Lichtblick, konsequente Abschaltungen der genutzten Plattformen können die Angriffswellen zumindest zeitweise eindämmen.\n\n===\n\nDrittens ein Blick auf die große strukturelle Frage hinter dem KI-Boom, den Ausbau von Rechenzentren. Eine neue Studie der Unternehmensberatung Roland Berger unterstreicht, dass Rechenzentren zunehmend zum entscheidenden Faktor für wirtschaftliches Wachstum werden, angetrieben durch die steigende Nachfrage nach KI-Anwendungen in den führenden Volkswirtschaften. Für Europa, so die Studie, wird es entscheidend sein, den Ausbau von Stromnetzen, Energieversorgung und Genehmigungsverfahren deutlich zu beschleunigen, um im globalen Wettbewerb mit den USA und China nicht weiter zurückzufallen. Das passt zu der Debatte, die wir hier in den vergangenen Tagen schon verfolgt haben, um den Rechenzentrums-Ausbau als Standortfrage für Deutschland und Europa.\n\n===\n\nDas war dein KI Daily Briefing für heute. Ein ruhigerer Tag ohne große Produktankündigungen, aber mit drei Geschichten, die zeigen, wie eng Infrastruktur, Sicherheit und Wettbewerbsfähigkeit inzwischen mit der KI-Entwicklung verwoben sind. Wir melden uns morgen wieder mit den wichtigsten Entwicklungen. Bis dahin, alles Gute und einen schönen Sonntag."
+}
