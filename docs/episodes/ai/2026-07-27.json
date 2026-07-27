@@ -1,0 +1,18 @@
+{
+  "title": "KI Daily – 27. Juli 2026: Das größte offene KI-Modell aller Zeiten",
+  "teaser": "Moonshot AI veröffentlicht mit Kimi K3 das bislang größte frei verfügbare KI-Modell der Geschichte. Da die Nachrichtenlage heute sonst dünn war, gibt es eine kürzere Ausgabe von KI Daily.",
+  "pubDate": "2026-07-27T06:00:00+02:00",
+  "duration_seconds": 198,
+  "size_bytes": 1591841,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-27/2026-07-27.mp3",
+  "model": "claude-sonnet-5",
+  "sources": [
+    {
+      "headline": "Moonshot AI veröffentlicht Kimi K3 als offene Gewichte – größtes Open-Weight-Modell der Geschichte",
+      "source": "buildfastwithai.com",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026",
+      "published": "26./27. Juli 2026 (Release um 00:00 UTC am 27. Juli)"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Montag, den 27. Juli 2026.\n\nVorweg ein kurzer Hinweis. Die Nachrichtenlage rund um Künstliche Intelligenz ist heute im Vergleich zu den vergangenen Tagen deutlich ruhiger. Wir haben nur eine Meldung gefunden, die unseren Kriterien für Aktualität und Quellenlage wirklich standhält. Deshalb fällt die heutige Folge kürzer aus als sonst, lieber kompakt und verlässlich als aufgebauscht.\n\n===\n\nIm Zentrum steht heute Moonshot AI. Das chinesische Unternehmen hat sein Modell Kimi K drei als offene Gewichte veröffentlicht, und zwar pünktlich um Mitternacht koordinierter Weltzeit in der Nacht auf heute. Damit ist Kimi K drei nach übereinstimmenden Berichten das größte frei herunterladbare KI-Modell, das es je gegeben hat. Das Modell umfasst rund zwei Komma acht Billionen Parameter, die vollständigen Gewichte kommen auf etwa ein Komma vier Terabyte, komprimiert mit dem sogenannten MXFP4-Format. Frei verfügbar heißt hier aber nicht automatisch günstig nutzbar. Wer ein Modell dieser Größe tatsächlich selbst betreiben will, braucht entweder einen leistungsstarken Server mit mehreren Grafikprozessoren oder einen Anbieter, der das Hosting übernimmt, und das kostet in beiden Fällen real Geld. Das Herunterladen der Gewichte ist kostenlos, der Betrieb ist es nicht.\n\nEingeordnet in den größeren Zusammenhang setzt Kimi K drei den Trend der vergangenen Wochen fort, in dem offene Modelle zunehmend mit den geschlossenen Spitzenmodellen der großen US-Anbieter konkurrieren. Erst vor wenigen Tagen hatten wir über Anthropics neues Modell Opus fünf berichtet, das im geschlossenen, kostenpflichtigen Segment antritt. Mit Kimi K drei bekommt nun die offene Seite ein Modell, das in Größe und Anspruch in eine ähnliche Liga vorstößt, allerdings zu einem völlig anderen Preismodell. Für Entwickler und Unternehmen bedeutet das vor allem eines, nämlich dass sich ein genauer Vergleich lohnt, bevor man sich auf ein teures Abonnement bei einem der etablierten Anbieter festlegt.\n\nAndere Meldungen des Tages, etwa zu angeblichen Sicherheitsvorfällen bei einzelnen Anbietern oder zu neuen Investitionszahlen, ließen sich innerhalb der letzten vierundzwanzig Stunden nicht ausreichend über verlässliche Quellen absichern. Wir lassen solche Gerüchte deshalb bewusst außen vor, statt sie ungeprüft weiterzugeben.\n\n===\n\nDas war dein kompaktes KI Daily-Briefing für heute. Wir bleiben an den offenen Fragen dran, etwa daran, wie sich die Kosten für das Hosting so großer offener Modelle wie Kimi K drei tatsächlich entwickeln und ob weitere Anbieter mit eigenen offenen Gegenmodellen nachziehen. Morgen sind wir mit hoffentlich wieder mehr verifizierten Nachrichten zurück. Bis dahin, einen guten Start in die Woche."
+}
