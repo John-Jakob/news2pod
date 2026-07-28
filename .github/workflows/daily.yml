@@ -5,9 +5,10 @@ on:
     # GitHub-Actions-Schedules sind unzuverlässig (skippen gelegentlich ganze Slots).
     # Darum mehrere Versuche; das Build-Skript erkennt eine bereits vorhandene Folge
     # des Tages und überspringt die teuren Schritte – nur Feed wird ggf. neu gebaut.
-    - cron: '30 3 * * *'  # 04:30/05:30 Berlin (Winter/Sommer) – Haupt-Slot
-    - cron: '30 4 * * *'  # 05:30/06:30 Berlin – Backup
-    - cron: '0 6 * * *'   # 07:00/08:00 Berlin – letzter Backup, definitiv vor Mittag
+    # Mo-Sa; sonntags kein Podcast (build_podcast.py skippt Sonntage zusätzlich selbst).
+    - cron: '30 3 * * 1-6'  # 04:30/05:30 Berlin (Winter/Sommer) – Haupt-Slot
+    - cron: '30 4 * * 1-6'  # 05:30/06:30 Berlin – Backup
+    - cron: '0 6 * * 1-6'   # 07:00/08:00 Berlin – letzter Backup, definitiv vor Mittag
   workflow_dispatch:
     inputs:
       topic:

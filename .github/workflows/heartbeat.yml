@@ -5,7 +5,7 @@ name: Heartbeat – ensure today's episode exists
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # 11:00/12:00 Berlin
+    - cron: '0 10 * * 1-6'  # 11:00/12:00 Berlin, Mo-Sa (So: kein Podcast geplant)
   workflow_dispatch:
 
 jobs:
@@ -23,6 +23,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
+          if [ "$(TZ=Europe/Berlin date +%u)" = "7" ]; then
+            echo "Sonntag – kein Podcast geplant, Check übersprungen."
+            exit 0
+          fi
           TODAY=$(TZ=Europe/Berlin date +%Y-%m-%d)
           MISSING=()
           for f in topics/*.yaml; do

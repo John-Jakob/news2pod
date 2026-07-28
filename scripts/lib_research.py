@@ -15,7 +15,8 @@ def _extract_tag(text: str, tag: str) -> str:
 
 def research_and_write_script(topic_cfg: dict, target_words: int = 750,
                               today_human: str | None = None,
-                              recent_episodes: list[dict] | None = None) -> dict:
+                              recent_episodes: list[dict] | None = None,
+                              window_hours: int = 24) -> dict:
     """Recherchiert aktuelle News via web_search und liefert ein fertiges Podcast-Skript."""
     client = Anthropic()
 
@@ -35,17 +36,24 @@ def research_and_write_script(topic_cfg: dict, target_words: int = 750,
             + "".join(lines)
         )
 
+    weekend_note = ""
+    if window_hours > 24:
+        weekend_note = (
+            "\nDies ist die Montagsausgabe nach dem Wochenende: Das Zeitfenster umfasst "
+            "Samstag und Sonntag. Erwähne im Skript kurz, dass es der Wochenend-Rückblick ist."
+        )
+
     user_msg = f"""Du bist Chefredakteur eines deutschsprachigen Tages-Podcasts mit dem Titel "{topic_cfg['title']}".{recent_block}
 
 AUFGABE:
-1. Nutze die Websuche und recherchiere die wichtigsten Nachrichten der LETZTEN 24 STUNDEN zu folgendem Themenfeld:
+1. Nutze die Websuche und recherchiere die wichtigsten Nachrichten der LETZTEN {window_hours} STUNDEN zu folgendem Themenfeld:{weekend_note}
 
 {topic_cfg.get('research_prompt', topic_cfg.get('description', ''))}
 
 2. Bevorzuge diese seriösen Quellen (recherchiere aber gerne breiter, solange die Quelle journalistischen Standards genügt):
 {sources_hint}
 
-3. STRIKTE AKTUALITÄT: Nur Meldungen mit Veröffentlichungsdatum in den letzten 24 Stunden. Wenn Datum unklar, in Suche ergänzen: "today", "yesterday", "heute", oder konkretes Datum. Storys mit unklarem Datum verwirfst du.
+3. STRIKTE AKTUALITÄT: Nur Meldungen mit Veröffentlichungsdatum in den letzten {window_hours} Stunden. Wenn Datum unklar, in Suche ergänzen: "today", "yesterday", "heute", oder konkretes Datum. Storys mit unklarem Datum verwirfst du.
 
 4. Verifiziere jede Behauptung mit mindestens einer seriösen Quelle. Lass im Zweifel weg, statt zu spekulieren.
 

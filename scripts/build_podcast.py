@@ -67,18 +67,26 @@ def main() -> int:
 
     if args.feed_only:
         print("Modus: nur Feed neu bauen.")
+    elif now.weekday() == 6 and not args.force:
+        # Zeitplan Mo–Sa; die Montagsfolge deckt das Wochenende über ein 48h-Fenster ab.
+        print("Sonntag – keine neue Folge geplant (--force überschreibt). Feed wird aktualisiert.")
     elif meta_path.exists() and not args.force:
         print(f"Folge existiert bereits: {meta_path.relative_to(ROOT)} (nutze --force).")
     else:
+        # Montag: 48h-Fenster, damit Samstag/Sonntag abgedeckt sind (sonst 24h).
+        window_hours = 48 if now.weekday() == 0 else 24
         target_words = int(topic["target_minutes"]) * 150
         recent = _recent_episode_summaries(episodes_dir, n=3)
         if recent:
             print(f"[1/3] Recherche & Skript ({args.slug}, ~{target_words} Wörter, Dedup gegen {len(recent)} letzte Folge(n))…")
         else:
             print(f"[1/3] Recherche & Skript ({args.slug}, ~{target_words} Wörter)…")
+        if window_hours != 24:
+            print(f"      Zeitfenster: {window_hours}h (Wochenend-Ausgabe)")
         result = research_and_write_script(topic, target_words=target_words,
                                            today_human=today_human,
-                                           recent_episodes=recent)
+                                           recent_episodes=recent,
+                                           window_hours=window_hours)
         word_count = len(result["script"].split())
         chunk_count = result["script"].count("===") + 1
         usage = result.get("usage") or {}
