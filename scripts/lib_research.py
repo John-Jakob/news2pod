@@ -81,13 +81,27 @@ Hier das vollständige, gesprochene Skript ohne Sprecher-Namen, ohne Markdown.
 </script>
 """
 
+    # Kosten-Stellschrauben (überschreibbar pro Topic-YAML):
+    # - research_model: z.B. claude-haiku-4-5 als Budget-Variante
+    # - search_max_uses: jede Such-Runde vergrößert den abgerechneten Kontext
+    # - research_effort: drosselt Thinking/Token-Spend (Sonnet/Opus; Haiku kann kein effort)
+    model = topic_cfg.get("research_model") or MODEL
+    max_searches = int(topic_cfg.get("search_max_uses", 8))
+    is_haiku = "haiku" in model
+    # Haiku unterstützt weder die 20260209-Suche (dynamic filtering) noch effort.
+    search_tool = "web_search_20250305" if is_haiku else "web_search_20260209"
+    kwargs = {}
+    if not is_haiku:
+        kwargs["output_config"] = {"effort": topic_cfg.get("research_effort", "medium")}
+
     # Sonnet 5: adaptives Thinking ist per Default an und zählt ins max_tokens-Budget;
     # der neue Tokenizer braucht ~30% mehr Tokens für denselben Text. Daher großzügig.
     response = client.messages.create(
-        model=MODEL,
+        model=model,
         max_tokens=16000,
-        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 15}],
+        tools=[{"type": search_tool, "name": "web_search", "max_uses": max_searches}],
         messages=[{"role": "user", "content": user_msg}],
+        **kwargs,
     )
 
     full_text = "\n".join(b.text for b in response.content if getattr(b, "type", "") == "text")
@@ -109,6 +123,10 @@ Hier das vollständige, gesprochene Skript ohne Sprecher-Namen, ohne Markdown.
         "title": title,
         "teaser": teaser,
         "sources": sources,
-        "model": MODEL,
+        "model": model,
+        "usage": {
+            "input_tokens": response.usage.input_tokens,
+            "output_tokens": response.usage.output_tokens,
+        },
         "raw": full_text,
     }

@@ -81,7 +81,9 @@ def main() -> int:
                                            recent_episodes=recent)
         word_count = len(result["script"].split())
         chunk_count = result["script"].count("===") + 1
+        usage = result.get("usage") or {}
         print(f"      Skript: {word_count} Wörter, {chunk_count} Blöcke, {len(result['sources'])} Quellen.")
+        print(f"      Tokens: {usage.get('input_tokens', '?')} in / {usage.get('output_tokens', '?')} out ({result['model']})")
 
         if not result["script"].strip():
             print("FEHLER: Leeres Skript erhalten. Abbruch.", file=sys.stderr)
@@ -106,6 +108,7 @@ def main() -> int:
             "size_bytes": size_bytes,
             "mp3_url": mp3_url,
             "model": result["model"],
+            "usage": result.get("usage"),
             "sources": result["sources"],
             "script": result["script"],
         }

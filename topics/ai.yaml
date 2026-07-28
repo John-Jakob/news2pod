@@ -2,6 +2,12 @@ slug: ai
 title: KI Daily
 description: Dein 5-Minuten-Briefing zu Künstlicher Intelligenz – täglich frisch um 6 Uhr.
 language: de
+# --- Recherche / Kosten ---
+# research_model: claude-haiku-4-5  # Budget-Option (~1/2 Preis); auskommentiert = Sonnet 5
+search_max_uses: 8                  # Such-Runden pro Lauf (Haupt-Kostentreiber; vorher 15)
+research_effort: medium             # low | medium | high – drosselt Thinking-Tokens
+
+# --- TTS ---
 tts_provider: openai                # openai | elevenlabs
 voice: sage                         # OpenAI: alloy, ash, ballad, coral, echo, fable, nova, onyx, sage, shimmer
 tts_model: gpt-4o-mini-tts          # günstig + steuerbar via instructions
