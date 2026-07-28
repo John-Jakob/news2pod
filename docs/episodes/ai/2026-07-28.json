@@ -1,0 +1,15 @@
+{
+  "title": "KI Daily",
+  "teaser": "",
+  "pubDate": "2026-07-28T06:00:00+02:00",
+  "duration_seconds": 72,
+  "size_bytes": 577454,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-28/2026-07-28.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 83568,
+    "output_tokens": 2185
+  },
+  "sources": [],
+  "script": "I habe das Limit für Websuchen in diesem Durchgang erreicht. Ich versuche es erneut mit einer einzelnen, gezielten Suche.\nEs scheint, dass ich für diesen Antwortzyklus keine weiteren Websuchen mehr durchführen kann. Ich versuche es in einem neuen Anlauf.\nIch habe in diesem Antwortversuch das Limit an Websuchen bereits ausgeschöpft. Lass mich das im nächsten Versuch neu ansetzen.\nLeider konnte ich in diesem Durchgang keine Websuche mehr ausführen – das Such-Limit für diese Anfrage wurde bereits erreicht (offenbar durch mehrere frühere Versuche, deren Ergebnisse leer zurückkamen). Da ich laut Vorgabe keine Behauptungen ohne verifizierte, aktuelle Quellen aufstellen und keine URLs oder Fakten erfinden darf, kann ich für diese Anfrage kein seriöses, faktenbasiertes Skript erstellen.\n\nBitte stoß die Anfrage noch einmal an (ggf. in einer neuen Nachricht) – dann kann ich frische Recherchen zu den KI-Nachrichten der letzten 24 Stunden durchführen und daraus das Podcast-Skript im gewünschten Format erstellen."
+}

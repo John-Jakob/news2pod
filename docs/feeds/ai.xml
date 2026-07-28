@@ -19,6 +19,17 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily</title>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:summary></itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-28</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-28/2026-07-28.mp3" length="577454" type="audio/mpeg"/>
+      <itunes:duration>1:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 27. Juli 2026: Das größte offene KI-Modell aller Zeiten</title>
       <description><![CDATA[<p>Moonshot AI veröffentlicht mit Kimi K3 das bislang größte frei verfügbare KI-Modell der Geschichte. Da die Nachrichtenlage heute sonst dünn war, gibt es eine kürzere Ausgabe von KI Daily.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -787,45 +798,6 @@
       <guid isPermaLink="false">ai-2026-06-28</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-28/2026-06-28.mp3" length="4972923" type="audio/mpeg"/>
       <itunes:duration>6:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 27. Juni 2026: GPT-5.6 kommt, Mythos darf zurück</title>
-      <description><![CDATA[<p>OpenAI stellt GPT-5.6 vor – drei neue Modelle, aber die US-Regierung entscheidet, wer sie nutzen darf. Und Anthropic feiert einen Teilerfolg: Claude Mythos 5 ist nach zwei Wochen Zwangspause wieder freigegeben – für rund hundert ausgewählte US-Institutionen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump">OpenAI releases powerful new GPT-5.6 model under restrictions</a> <em>(axios.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/">OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn't be the norm</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://9to5mac.com/2026/06/26/openai-upgrading-chatgpt-and-codex-with-new-gpt-5-6-models-in-limited-release/">OpenAI upgrading ChatGPT and Codex with new GPT-5.6 models in limited release</a> <em>(9to5mac.com)</em></li>
-<li><a href="https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov">OpenAI unveils GPT-5.6 Sol, Terra and Luna models</a> <em>(venturebeat.com)</em></li>
-<li><a href="https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies">US releases powerful Anthropic model Mythos to some US companies</a> <em>(semafor.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model">Anthropic's Mythos 5 AI Model Cleared by US for Wider Use</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://9to5mac.com/2026/06/26/anthropic-cleared-to-release-claude-mythos-5-to-over-100-us-institutions/">Anthropic cleared to release Claude Mythos 5 to over 100 US institutions</a> <em>(9to5mac.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html">Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies</a> <em>(cnbc.com)</em></li>
-<li><a href="https://thehill.com/policy/technology/5943549-anthropic-mythos-5-access/">Federal government permits release of Anthropic's Mythos model to select companies</a> <em>(thehill.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/">Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.nbcnews.com/tech/tech-news/us-government-gives-anthropic-green-light-limited-re-release-mythos-5-rcna352018">US government gives Anthropic green light for limited re-release of Mythos 5</a> <em>(nbcnews.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>OpenAI stellt GPT-5.6 vor – drei neue Modelle, aber die US-Regierung entscheidet, wer sie nutzen darf. Und Anthropic feiert einen Teilerfolg: Claude Mythos 5 ist nach zwei Wochen Zwangspause wieder freigegeben – für rund hundert ausgewählte US-Institutionen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump">OpenAI releases powerful new GPT-5.6 model under restrictions</a> <em>(axios.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/">OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn't be the norm</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://9to5mac.com/2026/06/26/openai-upgrading-chatgpt-and-codex-with-new-gpt-5-6-models-in-limited-release/">OpenAI upgrading ChatGPT and Codex with new GPT-5.6 models in limited release</a> <em>(9to5mac.com)</em></li>
-<li><a href="https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov">OpenAI unveils GPT-5.6 Sol, Terra and Luna models</a> <em>(venturebeat.com)</em></li>
-<li><a href="https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies">US releases powerful Anthropic model Mythos to some US companies</a> <em>(semafor.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model">Anthropic's Mythos 5 AI Model Cleared by US for Wider Use</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://9to5mac.com/2026/06/26/anthropic-cleared-to-release-claude-mythos-5-to-over-100-us-institutions/">Anthropic cleared to release Claude Mythos 5 to over 100 US institutions</a> <em>(9to5mac.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html">Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies</a> <em>(cnbc.com)</em></li>
-<li><a href="https://thehill.com/policy/technology/5943549-anthropic-mythos-5-access/">Federal government permits release of Anthropic's Mythos model to select companies</a> <em>(thehill.com)</em></li>
-<li><a href="https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/">Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.nbcnews.com/tech/tech-news/us-government-gives-anthropic-green-light-limited-re-release-mythos-5-rcna352018">US government gives Anthropic green light for limited re-release of Mythos 5</a> <em>(nbcnews.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>OpenAI stellt GPT-5.6 vor – drei neue Modelle, aber die US-Regierung entscheidet, wer sie nutzen darf. Und Anthropic feiert einen Teilerfolg: Claude Mythos 5 ist nach zwei Wochen Zwangspause wieder freigegeben – für rund hundert ausgewählte US-Institutionen.</itunes:summary>
-      <pubDate>Sat, 27 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-27</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-27/2026-06-27.mp3" length="4866970" type="audio/mpeg"/>
-      <itunes:duration>6:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
