@@ -19,14 +19,28 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
-      <title>KI Daily</title>
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <itunes:summary></itunes:summary>
+      <title>KI Daily – 28. Juli 2026: Nvidias 250-Milliarden-Wette und der Kampf um offene Modelle</title>
+      <description><![CDATA[<p>Nvidia plant offenbar gigantische Garantien für ein neues OpenAI-Rechenzentrum, während über zwanzig Tech-Konzerne die US-Regierung zur Förderung offener KI-Modelle drängen. Außerdem: Googles Gemini Spark wächst in den USA, Europa wartet weiter.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.finanznachrichten.de/nachrichten-2026-07/69132202-der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-tasche-013.htm">Nvidia plant offenbar 250-Milliarden-Dollar-Garantien für gigantisches OpenAI-Rechenzentrum</a> <em>(finanznachrichten.de)</em></li>
+<li><a href="https://www.ariva.de/aktien/nvidia-corp-aktie/news/der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-rsf-12081296">Über 20 Tech-Konzerne fordern US-Regierung zur Unterstützung offener KI-Modelle auf</a> <em>(ariva.de)</em></li>
+<li><a href="https://www.it-boltwise.de/gemini-spark-ki-agent-fuer-google-workspace-jetzt-auch-fuer-ai-ultra.html">Google erweitert Gemini Spark auf günstigeren AI-Pro-Tarif in den USA – Europa bleibt außen vor</a> <em>(it-boltwise.de)</em></li>
+<li><a href="https://www.androidauthority.com/google-gemini-spark-wider-rollout-3690952/">Gemini Spark Rollout: Google AI Pro-Nutzer in den USA erhalten Zugang, EWR weiter ausgeschlossen</a> <em>(androidauthority.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Nvidia plant offenbar gigantische Garantien für ein neues OpenAI-Rechenzentrum, während über zwanzig Tech-Konzerne die US-Regierung zur Förderung offener KI-Modelle drängen. Außerdem: Googles Gemini Spark wächst in den USA, Europa wartet weiter.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.finanznachrichten.de/nachrichten-2026-07/69132202-der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-tasche-013.htm">Nvidia plant offenbar 250-Milliarden-Dollar-Garantien für gigantisches OpenAI-Rechenzentrum</a> <em>(finanznachrichten.de)</em></li>
+<li><a href="https://www.ariva.de/aktien/nvidia-corp-aktie/news/der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-rsf-12081296">Über 20 Tech-Konzerne fordern US-Regierung zur Unterstützung offener KI-Modelle auf</a> <em>(ariva.de)</em></li>
+<li><a href="https://www.it-boltwise.de/gemini-spark-ki-agent-fuer-google-workspace-jetzt-auch-fuer-ai-ultra.html">Google erweitert Gemini Spark auf günstigeren AI-Pro-Tarif in den USA – Europa bleibt außen vor</a> <em>(it-boltwise.de)</em></li>
+<li><a href="https://www.androidauthority.com/google-gemini-spark-wider-rollout-3690952/">Gemini Spark Rollout: Google AI Pro-Nutzer in den USA erhalten Zugang, EWR weiter ausgeschlossen</a> <em>(androidauthority.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Nvidia plant offenbar gigantische Garantien für ein neues OpenAI-Rechenzentrum, während über zwanzig Tech-Konzerne die US-Regierung zur Förderung offener KI-Modelle drängen. Außerdem: Googles Gemini Spark wächst in den USA, Europa wartet weiter.</itunes:summary>
       <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">ai-2026-07-28</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-28/2026-07-28.mp3" length="577454" type="audio/mpeg"/>
-      <itunes:duration>1:12</itunes:duration>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-28/2026-07-28.mp3" length="2307805" type="audio/mpeg"/>
+      <itunes:duration>4:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>

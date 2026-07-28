@@ -1,15 +1,40 @@
 {
-  "title": "KI Daily",
-  "teaser": "",
+  "title": "KI Daily – 28. Juli 2026: Nvidias 250-Milliarden-Wette und der Kampf um offene Modelle",
+  "teaser": "Nvidia plant offenbar gigantische Garantien für ein neues OpenAI-Rechenzentrum, während über zwanzig Tech-Konzerne die US-Regierung zur Förderung offener KI-Modelle drängen. Außerdem: Googles Gemini Spark wächst in den USA, Europa wartet weiter.",
   "pubDate": "2026-07-28T06:00:00+02:00",
-  "duration_seconds": 72,
-  "size_bytes": 577454,
+  "duration_seconds": 288,
+  "size_bytes": 2307805,
   "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-28/2026-07-28.mp3",
   "model": "claude-sonnet-5",
   "usage": {
-    "input_tokens": 83568,
-    "output_tokens": 2185
+    "input_tokens": 162426,
+    "output_tokens": 5078
   },
-  "sources": [],
-  "script": "I habe das Limit für Websuchen in diesem Durchgang erreicht. Ich versuche es erneut mit einer einzelnen, gezielten Suche.\nEs scheint, dass ich für diesen Antwortzyklus keine weiteren Websuchen mehr durchführen kann. Ich versuche es in einem neuen Anlauf.\nIch habe in diesem Antwortversuch das Limit an Websuchen bereits ausgeschöpft. Lass mich das im nächsten Versuch neu ansetzen.\nLeider konnte ich in diesem Durchgang keine Websuche mehr ausführen – das Such-Limit für diese Anfrage wurde bereits erreicht (offenbar durch mehrere frühere Versuche, deren Ergebnisse leer zurückkamen). Da ich laut Vorgabe keine Behauptungen ohne verifizierte, aktuelle Quellen aufstellen und keine URLs oder Fakten erfinden darf, kann ich für diese Anfrage kein seriöses, faktenbasiertes Skript erstellen.\n\nBitte stoß die Anfrage noch einmal an (ggf. in einer neuen Nachricht) – dann kann ich frische Recherchen zu den KI-Nachrichten der letzten 24 Stunden durchführen und daraus das Podcast-Skript im gewünschten Format erstellen."
+  "sources": [
+    {
+      "headline": "Nvidia plant offenbar 250-Milliarden-Dollar-Garantien für gigantisches OpenAI-Rechenzentrum",
+      "source": "finanznachrichten.de",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69132202-der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-tasche-013.htm",
+      "published": "2026-07-27"
+    },
+    {
+      "headline": "Über 20 Tech-Konzerne fordern US-Regierung zur Unterstützung offener KI-Modelle auf",
+      "source": "ariva.de",
+      "url": "https://www.ariva.de/aktien/nvidia-corp-aktie/news/der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-rsf-12081296",
+      "published": "2026-07-27"
+    },
+    {
+      "headline": "Google erweitert Gemini Spark auf günstigeren AI-Pro-Tarif in den USA – Europa bleibt außen vor",
+      "source": "it-boltwise.de",
+      "url": "https://www.it-boltwise.de/gemini-spark-ki-agent-fuer-google-workspace-jetzt-auch-fuer-ai-ultra.html",
+      "published": "2026-07-26/27"
+    },
+    {
+      "headline": "Gemini Spark Rollout: Google AI Pro-Nutzer in den USA erhalten Zugang, EWR weiter ausgeschlossen",
+      "source": "androidauthority.com",
+      "url": "https://www.androidauthority.com/google-gemini-spark-wider-rollout-3690952/",
+      "published": "2026-07-24"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Tuesday, 28. Juli 2026.\n\nWir beginnen heute mit einer Summe, die selbst in dieser Branche für Aufsehen sorgt. Nach Berichten aus der vergangenen Nacht verhandelt der Chiphersteller Nvidia offenbar über Garantien in Höhe von rund 250 Milliarden US-Dollar für OpenAI. \nGleichzeitig plant Nvidia Garantien über 250 Milliarden US-Dollar für OpenAI – für ein Rechenzentrum, das alle bisherigen Dimensionen sprengt.\n Das dahinterstehende Projekt könnte insgesamt rund 500 Milliarden Dollar kosten, so die Berichte. Es wäre ein weiterer Baustein in der ohnehin schon gigantischen Investitionskette rund um Rechenleistung für künstliche Intelligenz, die Nvidia, Microsoft und andere Schwergewichte seit Monaten aufbauen.\n\n===\n\nIm selben Atemzug kommt eine politische Botschaft aus der Industrie selbst. \nMehr als 20 Technologieunternehmen drängen die Regierung der Vereinigten Staaten, offene Modelle für künstliche Intelligenz zu unterstützen. Zu den Unterzeichnern gehören Nvidia, Microsoft, Meta, IBM, Dell, Palantir und die private US-amerikanische Wagniskapitalfirma Andreessen Horowitz.\n Der Vorstoß fällt in eine Zeit, in der offene chinesische Modelle wie Kimi K3 zuletzt für Aufsehen gesorgt haben und die Frage, wer die technologische Hoheit über offene Gewichte hat, für die USA politisch immer wichtiger wird. Dass ausgerechnet Chip- und Infrastrukturkonzerne diesen Brief unterschreiben, zeigt: Es geht nicht nur um Ideologie, sondern auch ums Geschäft. Offene Modelle treiben die Nachfrage nach Rechenleistung, auf der sie am Ende laufen müssen, und genau davon profitieren Firmen wie Nvidia oder Dell besonders stark.\n\n===\n\nEin drittes Thema betrifft den Alltag vieler Nutzerinnen und Nutzer direkter. Google baut seinen KI-Agenten Gemini Spark weiter aus. Bislang war der Dienst vor allem den teuren Ultra-Abonnements vorbehalten, jetzt öffnet Google ihn auch für die günstigeren AI Pro-Tarife. \nGoogle macht seinen autonomen KI-Assistenten breiter verfügbar und schaltet Gemini Spark jetzt auch für Abonnenten des günstigeren AI Pro-Tarifs frei. Der Zugriff kostet laut Meldung rund 20 Euro pro Monat, nachdem das Angebot zuvor an ein AI Ultra-Abo mit 100 bis 200 Euro monatlich gebunden war. Der Rollout startete am 23. und 24. Juli 2026 zunächst in den USA, weitere Länder sollen zeitnah folgen.\n Für Nutzer in Deutschland und der übrigen EU bleibt der Dienst allerdings weiterhin gesperrt. \nSpark ist überall verfügbar, wo Gemini Apps laufen, außer im Europäischen Wirtschaftsraum, in Großbritannien, der Schweiz und Nigeria. Das gilt ausdrücklich auch fürs Ultra-Abo, mit dem der Agent sonst weltweit läuft.\n Wer hierzulande also einen vollwertigen KI-Agenten nutzen möchte, greift derzeit eher zu Angeboten von OpenAI oder Anthropic.\n\n===\n\nWas bedeutet das in der Summe? Die Geldsummen rund um Nvidia und OpenAI zeigen, dass das Wettrüsten bei Rechenzentren noch lange nicht an seine Grenzen stößt, im Gegenteil, die Dimensionen wachsen weiter. Der gemeinsame Vorstoß für offene Modelle zeigt gleichzeitig, dass sich die US-Industrie zunehmend Sorgen um die Konkurrenz aus China macht und politischen Druck aufbaut, um nicht ins Hintertreffen zu geraten. Und der zögerliche Rollout von Gemini Spark in Europa erinnert einmal mehr daran, dass viele der spannendsten KI-Produkte hierzulande später oder gar nicht ankommen, während in den USA längst der nächste Preisschritt gemacht wird.\n\nZum Ausblick: In wenigen Tagen, am 2. August, tritt einer der zentralen Bausteine des europäischen KI-Gesetzes in Kraft, mit verbindlichen Pflichten für viele KI-Systeme auf dem europäischen Markt. Wir behalten das für euch im Blick. Das war dein KI Daily für heute. Bleibt neugierig, und bis morgen."
 }
