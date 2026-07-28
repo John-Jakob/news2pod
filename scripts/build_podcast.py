@@ -96,6 +96,13 @@ def main() -> int:
         if not result["script"].strip():
             print("FEHLER: Leeres Skript erhalten. Abbruch.", file=sys.stderr)
             return 2
+        if not result["sources"] or word_count < 200:
+            # Recherche fehlgeschlagen (z.B. Websuche lieferte leere Ergebnisse) –
+            # nicht publizieren; Fehler-Exit löst ntfy aus und der nächste Cron-Slot
+            # bzw. Heartbeat versucht es automatisch erneut.
+            print(f"FEHLER: Recherche unbrauchbar ({len(result['sources'])} Quellen, "
+                  f"{word_count} Wörter) – Folge wird NICHT publiziert.", file=sys.stderr)
+            return 3
 
         provider = topic.get("tts_provider", "elevenlabs" if topic.get("voice_id") else "openai")
         voice_label = topic.get("voice") or topic.get("voice_id") or "default"

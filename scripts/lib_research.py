@@ -54,6 +54,7 @@ AUFGABE:
 {sources_hint}
 
 3. STRIKTE AKTUALITÄT: Nur Meldungen mit Veröffentlichungsdatum in den letzten {window_hours} Stunden. Wenn Datum unklar, in Suche ergänzen: "today", "yesterday", "heute", oder konkretes Datum. Storys mit unklarem Datum verwirfst du.
+   Dein Suchbudget ist begrenzt: Wenn eine Suche keine oder leere Ergebnisse liefert, wiederhole sie nicht ähnlich, sondern formuliere deutlich breiter (z.B. "AI news today" statt spezifischer Firmensuche).
 
 4. Verifiziere jede Behauptung mit mindestens einer seriösen Quelle. Lass im Zweifel weg, statt zu spekulieren.
 
