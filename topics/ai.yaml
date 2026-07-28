@@ -5,6 +5,7 @@ language: de
 # --- Recherche / Kosten ---
 # research_model: claude-haiku-4-5  # Budget-Option (~1/2 Preis); auskommentiert = Sonnet 5
 search_max_uses: 8                  # Such-Runden pro Lauf (Haupt-Kostentreiber; vorher 15)
+search_tool_version: web_search_20250305  # 28.07.26: 20260209 lieferte nur leere Ergebnisse; bei Gelegenheit zurücktesten
 research_effort: medium             # low | medium | high – drosselt Thinking-Tokens
 
 # --- TTS ---

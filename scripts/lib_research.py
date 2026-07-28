@@ -98,7 +98,8 @@ Hier das vollständige, gesprochene Skript ohne Sprecher-Namen, ohne Markdown.
     max_searches = int(topic_cfg.get("search_max_uses", 8))
     is_haiku = "haiku" in model
     # Haiku unterstützt weder die 20260209-Suche (dynamic filtering) noch effort.
-    search_tool = "web_search_20250305" if is_haiku else "web_search_20260209"
+    default_search = "web_search_20250305" if is_haiku else "web_search_20260209"
+    search_tool = topic_cfg.get("search_tool_version", default_search)
     kwargs = {}
     if not is_haiku:
         kwargs["output_config"] = {"effort": topic_cfg.get("research_effort", "medium")}
