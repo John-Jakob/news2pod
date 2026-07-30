@@ -19,6 +19,29 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 30. Juli 2026: Deutschlands KI-Aufsicht startet, DeepMind verliert AlphaFold-Kern</title>
+      <description><![CDATA[<p>Die Bundesnetzagentur übernimmt ab sofort die KI-Marktaufsicht in Deutschland, und bei Google DeepMind bricht mit dem AlphaFold-Team ein weiteres Stück wissenschaftliches Kronjuwel Richtung Anthropic weg. Ein kompaktes Update zu einem eher ruhigen Nachrichtentag.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.heise.de/news/Neue-Befugnisse-Bundesnetzagentur-uebernimmt-KI-Aufsicht-in-Deutschland-11383935.html">Bundesnetzagentur übernimmt KI-Aufsicht in Deutschland – KI-MIG tritt in Kraft</a> <em>(heise.de)</em></li>
+<li><a href="https://www.blogspan.net/ki-mig-bundesnetzagentur-ki-aufsicht/">KI-MIG in Kraft: Bundesnetzagentur wird zentrale KI-Aufsicht, vier Tage vor EU-Frist</a> <em>(blogspan.net)</em></li>
+<li><a href="https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/">Deepmind dismantles its AlphaFold team as key authors leave for Anthropic</a> <em>(the-decoder.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Die Bundesnetzagentur übernimmt ab sofort die KI-Marktaufsicht in Deutschland, und bei Google DeepMind bricht mit dem AlphaFold-Team ein weiteres Stück wissenschaftliches Kronjuwel Richtung Anthropic weg. Ein kompaktes Update zu einem eher ruhigen Nachrichtentag.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.heise.de/news/Neue-Befugnisse-Bundesnetzagentur-uebernimmt-KI-Aufsicht-in-Deutschland-11383935.html">Bundesnetzagentur übernimmt KI-Aufsicht in Deutschland – KI-MIG tritt in Kraft</a> <em>(heise.de)</em></li>
+<li><a href="https://www.blogspan.net/ki-mig-bundesnetzagentur-ki-aufsicht/">KI-MIG in Kraft: Bundesnetzagentur wird zentrale KI-Aufsicht, vier Tage vor EU-Frist</a> <em>(blogspan.net)</em></li>
+<li><a href="https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/">Deepmind dismantles its AlphaFold team as key authors leave for Anthropic</a> <em>(the-decoder.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Die Bundesnetzagentur übernimmt ab sofort die KI-Marktaufsicht in Deutschland, und bei Google DeepMind bricht mit dem AlphaFold-Team ein weiteres Stück wissenschaftliches Kronjuwel Richtung Anthropic weg. Ein kompaktes Update zu einem eher ruhigen Nachrichtentag.</itunes:summary>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-07-30</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-30/2026-07-30.mp3" length="1952122" type="audio/mpeg"/>
+      <itunes:duration>4:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 29. Juli 2026: Wenn die KI-Branche sich selbst bremsen will</title>
       <description><![CDATA[<p>Über tausend Mitarbeiter von OpenAI, Anthropic und Meta fordern die US-Regierung auf, das Tempo der KI-Entwicklung zu drosseln. Außerdem: Amazon zieht sich von eigenen KI-Modellen zurück, Microsoft greift Anthropic bei Cybersicherheit an, und das Agentenprotokoll MCP bekommt ein großes Update.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -781,33 +804,6 @@
       <guid isPermaLink="false">ai-2026-06-30</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-30/2026-06-30.mp3" length="6229308" type="audio/mpeg"/>
       <itunes:duration>8:39</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 29. Juni 2026: Flucht zu China-Modellen, KI-Agenten als schlechte CEOs</title>
-      <description><![CDATA[<p>Coinbase halbiert seine KI-Kosten durch den Wechsel auf chinesische Modelle – und das ausgerechnet kurz vor den geplanten Börsengängen von OpenAI und Anthropic. Dazu: Eine neue Princeton-Studie zeigt, dass die meisten KI-Agenten als Unternehmenslenker kläglich scheitern.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/">Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://ceobench.com/">CEO-Bench: Can Agents Play the Long Game?</a> <em>(ceobench.com / arxiv.org)</em></li>
-<li><a href="https://the-decoder.de/">US-Regierung gibt Anthropics Claude Mythos 5 für kritische Infrastruktur wieder frei</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://the-decoder.de/">Laut Anthropic-Umfrage sieht knapp die Hälfte der Claude-Nutzer die KI bei mindestens 50 Prozent ihrer Arbeitsaufgaben als einsetzbar</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://the-decoder.de/">Sina Weibos VibeThinker-3B erreicht mit nur drei Milliarden Parametern das Niveau von Modellen, die bis zu 333-mal größer sind</a> <em>(the-decoder.de)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Coinbase halbiert seine KI-Kosten durch den Wechsel auf chinesische Modelle – und das ausgerechnet kurz vor den geplanten Börsengängen von OpenAI und Anthropic. Dazu: Eine neue Princeton-Studie zeigt, dass die meisten KI-Agenten als Unternehmenslenker kläglich scheitern.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/">Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test</a> <em>(the-decoder.com)</em></li>
-<li><a href="https://ceobench.com/">CEO-Bench: Can Agents Play the Long Game?</a> <em>(ceobench.com / arxiv.org)</em></li>
-<li><a href="https://the-decoder.de/">US-Regierung gibt Anthropics Claude Mythos 5 für kritische Infrastruktur wieder frei</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://the-decoder.de/">Laut Anthropic-Umfrage sieht knapp die Hälfte der Claude-Nutzer die KI bei mindestens 50 Prozent ihrer Arbeitsaufgaben als einsetzbar</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://the-decoder.de/">Sina Weibos VibeThinker-3B erreicht mit nur drei Milliarden Parametern das Niveau von Modellen, die bis zu 333-mal größer sind</a> <em>(the-decoder.de)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Coinbase halbiert seine KI-Kosten durch den Wechsel auf chinesische Modelle – und das ausgerechnet kurz vor den geplanten Börsengängen von OpenAI und Anthropic. Dazu: Eine neue Princeton-Studie zeigt, dass die meisten KI-Agenten als Unternehmenslenker kläglich scheitern.</itunes:summary>
-      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-06-29</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-06-29/2026-06-29.mp3" length="4482970" type="audio/mpeg"/>
-      <itunes:duration>6:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

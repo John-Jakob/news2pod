@@ -1,0 +1,34 @@
+{
+  "title": "KI Daily – 30. Juli 2026: Deutschlands KI-Aufsicht startet, DeepMind verliert AlphaFold-Kern",
+  "teaser": "Die Bundesnetzagentur übernimmt ab sofort die KI-Marktaufsicht in Deutschland, und bei Google DeepMind bricht mit dem AlphaFold-Team ein weiteres Stück wissenschaftliches Kronjuwel Richtung Anthropic weg. Ein kompaktes Update zu einem eher ruhigen Nachrichtentag.",
+  "pubDate": "2026-07-30T06:00:00+02:00",
+  "duration_seconds": 243,
+  "size_bytes": 1952122,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-30/2026-07-30.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 188986,
+    "output_tokens": 4767
+  },
+  "sources": [
+    {
+      "headline": "Bundesnetzagentur übernimmt KI-Aufsicht in Deutschland – KI-MIG tritt in Kraft",
+      "source": "heise.de",
+      "url": "https://www.heise.de/news/Neue-Befugnisse-Bundesnetzagentur-uebernimmt-KI-Aufsicht-in-Deutschland-11383935.html",
+      "published": "vor 11 Stunden"
+    },
+    {
+      "headline": "KI-MIG in Kraft: Bundesnetzagentur wird zentrale KI-Aufsicht, vier Tage vor EU-Frist",
+      "source": "blogspan.net",
+      "url": "https://www.blogspan.net/ki-mig-bundesnetzagentur-ki-aufsicht/",
+      "published": "vor 10 Stunden"
+    },
+    {
+      "headline": "Deepmind dismantles its AlphaFold team as key authors leave for Anthropic",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/",
+      "published": "vor 14 Stunden"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, den 30. Juli 2026.\n\nHeute ist tatsächlich ein etwas ruhigerer Tag im KI-Nachrichtenzyklus, nachdem die letzten Tage von der Debatte um ein Tempolimit für die KI-Entwicklung und von großen Modell-Ankündigungen geprägt waren. Zwei Geschichten stechen in den letzten vierundzwanzig Stunden aber heraus, und beide haben es in sich.\n\nZunächst nach Deutschland. Seit Mittwoch hat die Bundesrepublik eine KI-Aufsichtsbehörde mit echten Befugnissen. Mit dem Inkrafttreten des sogenannten KI-Marktüberwachungs- und Innovationsförderungsgesetzes, kurz KI-MIG, übernimmt die Bundesnetzagentur eine zentrale Rolle bei der Durchsetzung der europäischen KI-Verordnung in Deutschland. Konkret bedeutet das: Die Behörde, die bislang vor allem für Strom, Gas, Post und Telekommunikation zuständig war, wird künftig zentrale Marktüberwachungsbehörde, nationale Anlaufstelle sowie offizielle Beschwerdestelle für Verstöße gegen die EU-Vorgaben. Bemerkenswert ist der Zeitpunkt. Das Gesetz trat nur einen Tag nach seiner Veröffentlichung im Bundesgesetzblatt in Kraft, und zwar gerade einmal vier Tage, bevor am 2. August die Haupt-Übergangsfrist der europäischen KI-Verordnung endet. Kritische Stimmen merken an, dass die Strukturen damit erst in letzter Minute scharfgeschaltet werden, kurz bevor Unternehmen europaweit unter die vollen Transparenz- und Aufsichtspflichten fallen. Für Firmen, die KI-Systeme in Deutschland entwickeln, anbieten oder betreiben, ist die Bundesnetzagentur ab sofort der zentrale Ansprechpartner, während Spezialbehörden wie die BaFin für den Finanzsektor zuständig bleiben.\n\nDie zweite große Geschichte des Tages kommt aus dem Innersten der KI-Forschung. Google DeepMind verliert den Kern seines einstigen Vorzeigeteams, das für den Durchbruch bei AlphaFold verantwortlich war. Nach John Jumper, der bereits vor einigen Wochen seinen Wechsel zu Anthropic angekündigt hatte, folgen ihm nun auch seine langjährigen Mitstreiter Jonas Adler und Alexander Pritzel. Alle drei hatten zuvor noch versucht, DeepMind im Rennen um agentenbasierte Programmierwerkzeuge zu helfen, als Teil eines internen Teams mit dem Namen Code Strike. Ein DeepMind-Mitarbeiter, der anonym bleiben wollte, beschrieb gegenüber der Financial Times, dass alle drei enorm wichtige Kernmitglieder gewesen seien und ihr Abgang intern für echte Überraschung gesorgt habe. DeepMind selbst betonte öffentlich den Stolz auf das wissenschaftliche Erbe von AlphaFold, das schließlich auch die Gründung von Isomorphic Labs inspiriert habe, dem unternehmenseigenen Ableger für KI-gestützte Medikamentenforschung. Bei Anthropic wiederum passt der Zugang perfekt ins Bild, denn das Unternehmen hatte erst vor Kurzem mit Claude Science eine eigene Sparte für Biologie und Wirkstoffforschung gestartet. Für Beobachter der Branche ist das ein weiteres Signal dafür, wie stark der Wettbewerb um Spitzenforscher inzwischen auch jenseits der reinen Sprachmodell-Entwicklung tobt, nämlich direkt im Bereich der wissenschaftlichen KI-Anwendungen.\n\nDas war es heute mit den wirklich belastbaren Neuigkeiten der letzten vierundzwanzig Stunden. Die großen Themen der vergangenen Tage, von der Debatte um ein internationales Tempolimit für KI-Entwicklung bis zu neuen Modellen wie Kimi K3, bleiben natürlich weiter relevant, und wir werden berichten, sobald es dort echte neue Entwicklungen gibt. Für morgen lohnt sich ein Blick darauf, wie die deutsche Wirtschaft auf die neue Aufsichtsstruktur reagiert und ob Google DeepMind personelle Antworten auf den Abgang seines AlphaFold-Teams präsentiert.\n\nDas war dein KI Daily-Briefing. Bleib neugierig, und bis morgen."
+}
