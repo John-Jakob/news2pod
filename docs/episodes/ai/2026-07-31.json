@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 31. Juli 2026: Milliardendeal für KI-Infrastruktur, EU baut Gigafabriken",
+  "teaser": "Nscale kauft Anyscale für 1,65 Milliarden Dollar, die EU startet ihre Ausschreibung für KI-Gigafabriken, und Microsoft positioniert sich nach einem Rekordquartal offener gegen OpenAI und Anthropic. Außerdem: neue Zahlen von OpenAI und ein starker Auftritt von xAI im Sprach-Benchmark.",
+  "pubDate": "2026-07-31T06:00:00+02:00",
+  "duration_seconds": 411,
+  "size_bytes": 3291263,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-31/2026-07-31.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 172263,
+    "output_tokens": 5672
+  },
+  "sources": [
+    {
+      "headline": "Nscale übernimmt Anyscale für rund 1,65 Milliarden Dollar",
+      "source": "prnewswire.com / techcrunch.com (via unite.ai)",
+      "url": "https://www.unite.ai/nscale-buys-anyscale-to-move-up-the-ai-compute-stack/",
+      "published": "2026-07-30"
+    },
+    {
+      "headline": "EU eröffnet Ausschreibung für sieben KI-Gigafabriken mit 10 Milliarden Euro",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-07-30"
+    },
+    {
+      "headline": "Microsoft tritt nach Rekordquartal offener gegen OpenAI und Anthropic an",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "published": "2026-07-29"
+    },
+    {
+      "headline": "OpenAI-Finanzchefin: Juli-Umsatz übertraf gesamtes zweites Quartal",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
+      "published": "2026-07-29"
+    },
+    {
+      "headline": "xAI veröffentlicht Grok Voice Think Fast 2.0 und übertrifft GPT-Realtime bei Sprachbenchmark",
+      "source": "aiweekly.co (testingcatalog.com)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-07-29"
+    },
+    {
+      "headline": "AWS wächst im zweiten Quartal um 37 Prozent auf 42,2 Milliarden Dollar",
+      "source": "aiweekly.co (qz.com)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-07-29/30"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 31. Juli 2026.\n\nWir beginnen heute mit einem großen Deal im Bereich der KI-Infrastruktur. Der britische KI-Cloud-Anbieter Nscale hat eine endgültige Vereinbarung getroffen, Anyscale zu übernehmen. Anyscale ist die Firma hinter dem quelloffenen Ray-Framework, mit dem sich Trainings- und Inferenz-Workloads über tausende Grafikprozessoren verteilen lassen. Bloomberg beziffert den Deal auf rund eins Komma sechs fünf Milliarden Dollar. Etwa zweihundert Mitarbeitende aus den USA, Europa und Indien wechseln zu Nscale, während die Marke Anyscale und ihre Kunden wie Coinbase, Runway und Bedrock Robotics bestehen bleiben. Wichtig dabei: Das offene Ray-Projekt selbst gehört seit vergangenem Oktober der PyTorch Foundation und bleibt community-geführt. \nDie Übernahme, angekündigt am 30. Juli 2026, puts a workload-orchestration layer on top of Nscale's GPU fleet and moves Anyscale's roughly 200 staff across the United States, Europe and India into the London-based company.\n Anyscale-Chef Keerti Melkote nennt das kombinierte Unternehmen den ersten vollintegrierten KI-Hyperscaler. Der Deal zeigt, wie sehr sich der Wettlauf um KI-Infrastruktur inzwischen auf die gesamte Wertschöpfungskette erstreckt, von der Stromerzeugung über Rechenzentren bis zur Software-Orchestrierung.\n\n===\n\nAuch auf europäischer Ebene tut sich etwas bei der KI-Infrastruktur. Die EU-Kommission hat am 30. Juli offiziell ihre Ausschreibung für sieben sogenannte KI-Gigafabriken eröffnet. Zehn Milliarden Euro an öffentlichen Mitteln stehen bereit, insgesamt sollen mit privaten Investitionen rund dreißig Milliarden Euro zusammenkommen. \nSieben geplante Standorte sollen jeweils mindestens einhunderttausend KI-Chips beherbergen, das entspricht etwa dem Vierfachen der aktuellen Rechenzentrumskapazität in der EU.\n Das Bewerbungsfenster läuft bis zum zwölften November, die Vergabe wird für Mitte 2027 erwartet. Eine informelle Vorabrunde hatte bereits Interesse aus sechzig Standorten in sechzehn Mitgliedstaaten gezeigt. Europa versucht damit, im globalen Wettlauf um Rechenkapazität nicht endgültig den Anschluss zu verlieren.\n\n===\n\nIn den USA meldet Microsoft ein Rekordquartal und positioniert sich dabei deutlicher als bisher gegen seine wichtigsten Partner und Konkurrenten OpenAI und Anthropic. \nDas Unternehmen berichtete von neunzig Milliarden Dollar Umsatz und einem Nettogewinn von fünfunddreißig Komma acht Milliarden Dollar.\n Zwar rät Microsofts Führung Unternehmenskunden weiterhin, die Spitzenmodelle von OpenAI und Anthropic in ihren Mix einzubauen, doch die eigentliche Botschaft lautet, sich nicht zu sehr auf einen einzigen Anbieter zu verlassen. \nMicrosoft stellte am Mittwoch eigene KI-Modelle, Werkzeuge und sogar einen Konkurrenten zum Anthropic-Modell Mythos vor und kündigte gegenüber der Wall Street weiteres Wachstum an.\n Das unterstreicht, wie sehr sich die einstige enge Partnerschaft zwischen Microsoft und OpenAI zu einer Konkurrenzbeziehung mit eigenen Interessen wandelt.\n\n===\n\nBei OpenAI selbst gibt es unterdessen neue Zahlen, die die Wettbewerbslage einordnen helfen. In einem internen Treffen erklärte Finanzchefin Sarah Friar den Mitarbeitenden, dass der annualisierte Umsatz im Juli höher lag als im gesamten zweiten Quartal. \nOpenAI-Finanzchefin Sarah Friar und Verwaltungsratschef Bret Taylor sprachen am Mittwoch in einem internen Meeting zu den Mitarbeitenden, wobei Friar erklärte, die annualisierte wiederkehrende Umsatzrate im Juli habe die Werte des gesamten zweiten Quartals übertroffen.\n Der Hintergrund ist klar: \nOpenAI steht unter Druck, seine Bewertung von achthundertzweiundfünfzig Milliarden Dollar angesichts eines möglichen Börsengangs zu rechtfertigen, während sich das Wettbewerbsumfeld mit Anthropic, Google und günstigeren offenen Modellen aus China ständig verändert.\n Besonders erwähnt wurde dabei Kimi K3 von Moonshot AI aus China, das laut eigenen Angaben auf einigen Benchmarks sogar die stärksten Systeme von OpenAI und Anthropic übertrifft.\n\n===\n\nAuch im Bereich der Sprachmodelle für Voice-Anwendungen gibt es Bewegung. xAI hat am 29. Juli ein neues Modell namens Grok Voice Think Fast Version zwei veröffentlicht. \nDas Modell erreichte 82,9 Prozent im Sprach-zu-Sprach-Benchmark von Artificial Analysis, ein deutlicher Sprung gegenüber 75,7 Prozent bei der Vorgängerversion, und liegt damit vor GPT-Realtime 2.1 und Gemini 3.1 Flash.\n Die Zeit bis zur ersten Audioantwort sank spürbar, ebenso die Fehlerquote bei der Transkription. Parallel dazu meldete Amazon für sein Cloud-Geschäft AWS das schnellste Wachstum seit über vier Jahren. \nAWS erzielte im zweiten Quartal 42,2 Milliarden Dollar Umsatz, ein Plus von 37 Prozent gegenüber dem Vorjahr, und CEO Andy Jassy erklärte, die KI- und Chip-Geschäfte hätten jeweils Umsatzraten von mehr als 25 Milliarden Dollar überschritten.\n Beide Meldungen zeigen, wie stark die Nachfrage nach KI-Infrastruktur und sprachbasierten Anwendungen derzeit weiter zunimmt.\n\n===\n\nDas war's für heute. Zusammengefasst: Die Infrastruktur-Schlacht um Rechenleistung geht in eine neue Runde, sowohl durch Übernahmen wie Nscale-Anyscale als auch durch staatliche Investitionen wie die europäischen Gigafabriken. Gleichzeitig positionieren sich die großen Anbieter, von Microsoft bis xAI, zunehmend gegeneinander statt nur gemeinsam gegen die Konkurrenz aus Fernost. Wir bleiben dran und melden uns morgen wieder mit den wichtigsten Entwicklungen. Bis dahin, einen guten Start ins Wochenende."
+}
