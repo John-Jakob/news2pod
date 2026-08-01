@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 1. August 2026: EU-Kennzeichnungspflicht startet, Google zeigt Robotik-Comeback",
+  "teaser": "Die EU-Transparenzpflicht für KI-Inhalte startet, Google DeepMind kontert die Kritik mit neuen Robotik-Modellen, und Anthropics Forschungsmodell knackt nebenbei einen Post-Quanten-Verschlüsselungskandidaten. Das und mehr im heutigen Briefing.",
+  "pubDate": "2026-08-01T06:00:00+02:00",
+  "duration_seconds": 360,
+  "size_bytes": 2886470,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-01/2026-08-01.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 180721,
+    "output_tokens": 5608
+  },
+  "sources": [
+    {
+      "headline": "EU AI Act: Transparenzpflichten für KI-Inhalte treten am 2. August in Kraft",
+      "source": "it-daily.net",
+      "url": "https://www.it-daily.net/shortnews/eu-ai-act-startet",
+      "published": "2026-07-31"
+    },
+    {
+      "headline": "EU AI Act: Kennzeichnungspflicht für KI-Inhalte ab 2. August",
+      "source": "borncity.com",
+      "url": "https://borncity.com/news/eu-ai-act-kennzeichnungspflicht-fuer-ki-inhalte-ab-2-august/",
+      "published": "2026-07-30"
+    },
+    {
+      "headline": "DeepMind ships Gemini Robotics 2, adapts to new robot bodies in hours",
+      "source": "aiweekly.co (via deepmind.google)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-07-31"
+    },
+    {
+      "headline": "Alphabet-Aktie steigt nach Vorstellung neuer Robotik-KI-Modelle",
+      "source": "tradingkey.com",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262067418-stock-google-alphabet-goog-gemini-llm-price-predittion-ai-tradingkey",
+      "published": "2026-07-31"
+    },
+    {
+      "headline": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
+      "published": "2026-07-31 (aktualisiert)"
+    },
+    {
+      "headline": "AI to ROI News & Analysis: Claude Mythos Preview findet Schwachstelle in Post-Quanten-Kandidat HAWK",
+      "source": "ai2roi.substack.com",
+      "url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-july-0f0",
+      "published": "2026-07-31"
+    },
+    {
+      "headline": "Moonshot's Kimi Uses 20,000 Nvidia Chip Cluster From Alibaba",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+      "published": "2026-07-31"
+    },
+    {
+      "headline": "Nvidia, Microsoft und Dutzende weitere Firmen warnen vor verfrühter Regulierung offener KI-Modelle",
+      "source": "ai2roi.substack.com",
+      "url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-july-0f0",
+      "published": "2026-07-31"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Samstag, den 1. August 2026.\n\nHeute ein kompakteres Update, denn der große Umbruch kommt erst morgen. Trotzdem gibt es einige Entwicklungen, die den Blick wert sind, von Regulierung über Robotik bis zu einem ungewöhnlichen Forschungsfund bei Anthropic.\n\n===\n\nBeginnen wir mit der Regulierung, denn die betrifft ab morgen praktisch jedes Unternehmen, das KI einsetzt. Am 2. August treten die Transparenzregeln aus Artikel 50 der europäischen KI-Verordnung in Kraft. Wer in der EU einen Chatbot betreibt oder KI-generierte Inhalte veröffentlicht, muss ab diesem Zeitpunkt kenntlich machen, dass eine Maschine im Spiel ist. Chatbots und ähnliche automatisierte Systeme müssen ihre Natur offenlegen, sofern das nicht ohnehin offensichtlich ist, und Deepfakes sowie andere KI-generierte oder manipulierte Bild-, Audio- und Videoinhalte sollen eine technische Kennung tragen, etwa in Form maschinenlesbarer Marker. Für viele Unternehmen endet damit eine mehrjährige Übergangsphase, die im August 2024 mit dem Inkrafttreten der Verordnung begann. Wichtig zu wissen, die Anbieter großer Modelle wie OpenAI, Google und Meta müssen sicherstellen, dass KI-generierte Inhalte maschinenlesbar markiert werden, vorrangig durch Wasserzeichen oder Metadaten. Einige strengere Pflichten für Hochrisiko-Systeme wurden durch den kürzlich verabschiedeten Digital Omnibus allerdings auf Ende 2027 und 2028 verschoben, die Kennzeichnungspflicht für allgemeine KI-Inhalte bleibt davon aber unberührt.\n\n===\n\nBei Google DeepMind gibt es nach Wochen der Kritik nun ein deutliches Lebenszeichen. Das Labor hat Gemini Robotics 2 veröffentlicht, eine Suite aus drei Modellen für die Steuerung von Robotern, darunter ein Modell für ganzkörperliche humanoide Steuerung, ein Modell für mehrstufige Planung und Zusammenarbeit mehrerer Roboter sowie eine On-Device-Variante, die sich innerhalb weniger Stunden an neue Roboterkörper anpassen kann. Die Ankündigung kam gut an, die Google-Mutter Alphabet legte an der Börse spürbar zu. Die Aktie stieg am Freitag um fast drei Prozent im vorbörslichen Handel, nachdem die neuen Robotik-Modelle Sorgen über hohe Investitionen und die Monetarisierung von KI etwas gedämpft hatten. Das ist auch deshalb bemerkenswert, weil Google zuletzt in die Defensive geraten war. Laut einem Bericht von Axios trägt schlechte Stimmung unter den Beschäftigten zu verzögerten Modellveröffentlichungen bei DeepMind bei, und das mit Spannung erwartete Modell Gemini 3.5 Pro liegt laut Bloomberg Monate hinter dem Zeitplan zurück. Der Robotik-Vorstoß wirkt daher wie ein gezielter Kontrapunkt zur Debatte, ob Google im KI-Rennen den Anschluss verliert.\n\n===\n\nBei Anthropic sorgt unterdessen ein internes Forschungsergebnis für Aufsehen. Das noch unveröffentlichte Modell Claude Mythos Preview hat eine strukturelle Schwäche in HAWK gefunden, einem Kandidaten für ein Post-Quanten-Signaturverfahren, das gerade vom amerikanischen Standardisierungsinstitut NIST geprüft wurde, und dabei dessen effektive Schlüsselstärke halbiert. Das Ergebnis war so gravierend, dass die Entwickler von HAWK das Verfahren noch am selben Tag aus dem NIST-Prüfprozess zurückzogen. Das Modell arbeitete dabei über rund sechzig Stunden weitgehend eigenständig und verbrauchte Rechenleistung im Wert von etwa hunderttausend Dollar, um eine Gitter-Symmetrie zu finden, die zwei Jahre lang menschlichen Prüfern entgangen war. Zwei Forscher benötigten anschließend fast einen Monat, um das Ergebnis zu verifizieren.\n\n===\n\nEin Blick nach China zeigt, wie abhängig auch dortige KI-Vorzeigeprojekte weiterhin von westlicher Hardware sind. Das chinesische Unternehmen Moonshot nutzt für sein Modell Kimi eine Rechenkapazität von rund zwanzigtausend Nvidia-Chips, die über eine Vereinbarung mit Alibaba bereitgestellt wird. Diese Hardware bildet einen erheblichen Teil der gesamten Rechenkapazität, die Moonshot für seine Kimi-Modelle nutzt. Das Modell Kimi K3 hatte erst kürzlich mit einem offenen Sprachmodell für Aufsehen gesorgt, das in einigen Metriken nahezu auf Augenhöhe mit führenden Modellen von OpenAI und Anthropic liegt.\n\n===\n\nZum Abschluss noch ein Blick auf die Regulierungsdebatte in den USA. Nvidia, Microsoft und mehr als zwei Dutzend weitere Unternehmen haben einen offenen Brief unterzeichnet, der Washington davor warnt, verfrühte Beschränkungen für offene KI-Modelle einzuführen. Der Vorstoß zeigt, dass die Industrie versucht, der wachsenden politischen Diskussion um Sicherheitsauflagen für frei verfügbare Modelle zuvorzukommen.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Der wichtigste Termin liegt bereits morgen vor uns, wenn die EU-Kennzeichnungspflicht offiziell startet, wir werden berichten, wie die ersten Reaktionen aus der Branche ausfallen. Bleib neugierig, bis morgen."
+}
