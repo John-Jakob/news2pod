@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 3. August 2026: Wochenend-Rückblick zu DeepSeek-Hackerangriff und neuen Gesetzen</title>
+      <description><![CDATA[<p>Der Wochenend-Rückblick: Ein chinesischer Hacker lässt DeepSeek autonom Server angreifen, Kalifornien und die EU starten parallel neue KI-Transparenzgesetze, und Google kassiert seine AI-Studio-App zugunsten von Gemini.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html">Chinesischer Hacker nutzt DeepSeek über Hermes Agent für autonome Cyberangriffe</a> <em>(thehackernews.com)</em></li>
+<li><a href="https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/">Unit 42: Autonomous AI Cyber Attack Campaign</a> <em>(unit42.paloaltonetworks.com)</em></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/">Hacker uses DeepSeek AI to autonomously attack vulnerable servers</a> <em>(bleepingcomputer.com)</em></li>
+<li><a href="https://regulations.ai/regulations/RAI-US-CA-AB85300-2025">California AI Transparency Act (SB 942/AB 853) wird am 2. August operativ</a> <em>(regulations.ai)</em></li>
+<li><a href="https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august">Commission starts enforcing AI Act rules and new transparency requirements on 2 August</a> <em>(digital-strategy.ec.europa.eu)</em></li>
+<li><a href="https://9to5google.com/2026/07/31/gemini-ai-studio-app/">Google cancels AI Studio mobile app, folds features into Gemini</a> <em>(9to5google.com)</em></li>
+<li><a href="https://www.thebridgechronicle.com/tech/google-ai-studio-app-discontinued-gemini-app-builder-mp99">Google Scraps Standalone AI Studio App, Gemini Will Build Apps Directly Instead</a> <em>(thebridgechronicle.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: Ein chinesischer Hacker lässt DeepSeek autonom Server angreifen, Kalifornien und die EU starten parallel neue KI-Transparenzgesetze, und Google kassiert seine AI-Studio-App zugunsten von Gemini.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html">Chinesischer Hacker nutzt DeepSeek über Hermes Agent für autonome Cyberangriffe</a> <em>(thehackernews.com)</em></li>
+<li><a href="https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/">Unit 42: Autonomous AI Cyber Attack Campaign</a> <em>(unit42.paloaltonetworks.com)</em></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/">Hacker uses DeepSeek AI to autonomously attack vulnerable servers</a> <em>(bleepingcomputer.com)</em></li>
+<li><a href="https://regulations.ai/regulations/RAI-US-CA-AB85300-2025">California AI Transparency Act (SB 942/AB 853) wird am 2. August operativ</a> <em>(regulations.ai)</em></li>
+<li><a href="https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august">Commission starts enforcing AI Act rules and new transparency requirements on 2 August</a> <em>(digital-strategy.ec.europa.eu)</em></li>
+<li><a href="https://9to5google.com/2026/07/31/gemini-ai-studio-app/">Google cancels AI Studio mobile app, folds features into Gemini</a> <em>(9to5google.com)</em></li>
+<li><a href="https://www.thebridgechronicle.com/tech/google-ai-studio-app-discontinued-gemini-app-builder-mp99">Google Scraps Standalone AI Studio App, Gemini Will Build Apps Directly Instead</a> <em>(thebridgechronicle.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Der Wochenend-Rückblick: Ein chinesischer Hacker lässt DeepSeek autonom Server angreifen, Kalifornien und die EU starten parallel neue KI-Transparenzgesetze, und Google kassiert seine AI-Studio-App zugunsten von Gemini.</itunes:summary>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-03</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-03/2026-08-03.mp3" length="2635694" type="audio/mpeg"/>
+      <itunes:duration>5:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 1. August 2026: EU-Kennzeichnungspflicht startet, Google zeigt Robotik-Comeback</title>
       <description><![CDATA[<p>Die EU-Transparenzpflicht für KI-Inhalte startet, Google DeepMind kontert die Kritik mit neuen Robotik-Modellen, und Anthropics Forschungsmodell knackt nebenbei einen Post-Quanten-Verschlüsselungskandidaten. Das und mehr im heutigen Briefing.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -751,37 +782,6 @@
       <guid isPermaLink="false">ai-2026-07-03</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-03/2026-07-03.mp3" length="1680657" type="audio/mpeg"/>
       <itunes:duration>3:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 3. Juli 2026: Microsoft Frontier, Washingtons KI-Standards, UN-Bericht</title>
-      <description><![CDATA[<p>Microsoft gründet eine milliardenschwere Einheit für KI-Einführung bei Unternehmen, Washington verhandelt über freiwillige KI-Standards, und ein UN-Gremium warnt vor einer Regulierungslücke bei Künstlicher Intelligenz. Außerdem: neue Google-Tools und eine Warnung vor einer KI-Investitionsblase.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html">Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit</a> <em>(cnbc.com)</em></li>
-<li><a href="https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/">Microsoft launches its own AI deployment company with $2.5 billion commitment</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.investing.com/news/stock-market-news/microsoft-launches-firm-to-help-companies-adopt-ai-with-25-billion-4773238">Microsoft launches firm to help companies adopt AI with $2.5 billion (Reuters)</a> <em>(investing.com)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">KI-Themenseite: Washington verhandelt mit KI-Unternehmen über Standards, Sam Altman mit überraschendem Angebot</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">KI-Themenseite: Digitalminister sucht in London Blaupause für deutsches KI-Sicherheitsinstitut</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://news.un.org/en/story/2026/07/1167848">AI explained: Why the world needs to act now (UN scientific panel preliminary report)</a> <em>(news.un.org)</em></li>
-<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">KI-Themenseite: Google stellt Nano Banana 2 Lite vor, Gemini Omni Flash für Entwickler verfügbar; Bundesregierung plant KI-Taskforce; Microsoft baut erneut Stellen ab; BIZ warnt vor KI-Investitionsblase</a> <em>(heise.de)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Microsoft gründet eine milliardenschwere Einheit für KI-Einführung bei Unternehmen, Washington verhandelt über freiwillige KI-Standards, und ein UN-Gremium warnt vor einer Regulierungslücke bei Künstlicher Intelligenz. Außerdem: neue Google-Tools und eine Warnung vor einer KI-Investitionsblase.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html">Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit</a> <em>(cnbc.com)</em></li>
-<li><a href="https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/">Microsoft launches its own AI deployment company with $2.5 billion commitment</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.investing.com/news/stock-market-news/microsoft-launches-firm-to-help-companies-adopt-ai-with-25-billion-4773238">Microsoft launches firm to help companies adopt AI with $2.5 billion (Reuters)</a> <em>(investing.com)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">KI-Themenseite: Washington verhandelt mit KI-Unternehmen über Standards, Sam Altman mit überraschendem Angebot</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">KI-Themenseite: Digitalminister sucht in London Blaupause für deutsches KI-Sicherheitsinstitut</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://news.un.org/en/story/2026/07/1167848">AI explained: Why the world needs to act now (UN scientific panel preliminary report)</a> <em>(news.un.org)</em></li>
-<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">KI-Themenseite: Google stellt Nano Banana 2 Lite vor, Gemini Omni Flash für Entwickler verfügbar; Bundesregierung plant KI-Taskforce; Microsoft baut erneut Stellen ab; BIZ warnt vor KI-Investitionsblase</a> <em>(heise.de)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Microsoft gründet eine milliardenschwere Einheit für KI-Einführung bei Unternehmen, Washington verhandelt über freiwillige KI-Standards, und ein UN-Gremium warnt vor einer Regulierungslücke bei Künstlicher Intelligenz. Außerdem: neue Google-Tools und eine Warnung vor einer KI-Investitionsblase.</itunes:summary>
-      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-02</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-02/2026-07-02.mp3" length="3017709" type="audio/mpeg"/>
-      <itunes:duration>6:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

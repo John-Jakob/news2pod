@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 3. August 2026: Wochenend-Rückblick zu DeepSeek-Hackerangriff und neuen Gesetzen",
+  "teaser": "Der Wochenend-Rückblick: Ein chinesischer Hacker lässt DeepSeek autonom Server angreifen, Kalifornien und die EU starten parallel neue KI-Transparenzgesetze, und Google kassiert seine AI-Studio-App zugunsten von Gemini.",
+  "pubDate": "2026-08-03T06:00:00+02:00",
+  "duration_seconds": 329,
+  "size_bytes": 2635694,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-03/2026-08-03.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 115153,
+    "output_tokens": 4441
+  },
+  "sources": [
+    {
+      "headline": "Chinesischer Hacker nutzt DeepSeek über Hermes Agent für autonome Cyberangriffe",
+      "source": "thehackernews.com",
+      "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+      "published": "2026-08-01"
+    },
+    {
+      "headline": "Unit 42: Autonomous AI Cyber Attack Campaign",
+      "source": "unit42.paloaltonetworks.com",
+      "url": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
+      "published": "2026-08-01"
+    },
+    {
+      "headline": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+      "source": "bleepingcomputer.com",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+      "published": "2026-08-01"
+    },
+    {
+      "headline": "California AI Transparency Act (SB 942/AB 853) wird am 2. August operativ",
+      "source": "regulations.ai",
+      "url": "https://regulations.ai/regulations/RAI-US-CA-AB85300-2025",
+      "published": "2026-08-02"
+    },
+    {
+      "headline": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+      "source": "digital-strategy.ec.europa.eu",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "published": "2026-08-02"
+    },
+    {
+      "headline": "Google cancels AI Studio mobile app, folds features into Gemini",
+      "source": "9to5google.com",
+      "url": "https://9to5google.com/2026/07/31/gemini-ai-studio-app/",
+      "published": "2026-07-31"
+    },
+    {
+      "headline": "Google Scraps Standalone AI Studio App, Gemini Will Build Apps Directly Instead",
+      "source": "thebridgechronicle.com",
+      "url": "https://www.thebridgechronicle.com/tech/google-ai-studio-app-discontinued-gemini-app-builder-mp99",
+      "published": "2026-08-01"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Montag, 3. August 2026. Da heute die erste Ausgabe nach dem Wochenende ist, blicken wir zurück auf die wichtigsten Entwicklungen von Samstag und Sonntag.\n\n===\n\nDie auffälligste Meldung des Wochenendes kommt aus der Cybersicherheit. Sicherheitsforscher von Palo Alto Networks, konkret das Team Unit 42, haben eine Kampagne aufgedeckt, bei der ein chinesischsprachiger Akteur das KI-Modell DeepSeek über das quelloffene Framework Hermes Agent gesteuert hat, um Cyberangriffe weitgehend autonom durchzuführen. Der Akteur, der unter den Aliassen knaithe und KnYuan auftritt, gab per Telegram nur eine erste Anweisung, danach suchte das System selbstständig nach angreifbaren Servern und passenden Exploits. Die Forscher stießen auf die Kampagne, weil Hermes Agent versehentlich einen eigenen Webserver startete und dabei API-Schlüssel, Angriffsskripte und Ziellisten offenlegte. Insgesamt wurden mehr als vierhundertsechzig Ziele ins Visier genommen. Bei rein autonomen Angriffen über Langflow und n8n blieb der Erfolg aus, doch in parallelen, eher manuell gesteuerten Operationen gelangen dem Akteur drei bestätigte Kompromittierungen über eine Schwachstelle in Citrix NetScaler sowie Zugriffe auf mehrere Marimo-Notebook-Instanzen. Bemerkenswert ist, dass der Angreifer testweise auch westliche Modelle wie Claude Code und OpenAIs Codex einsetzte, diese aber kaum nutzte. Die Forscher betonen, dass die eigentliche Wirkung begrenzt blieb, der Vorfall aber zeigt, dass ein funktionierender, durchgängiger Workflow für autonome offensive KI-Operationen inzwischen real existiert.\n\n===\n\nAm Sonntag, dem zweiten August, sind zwei bedeutende Regulierungen gleichzeitig in Kraft getreten, eine in der EU und eine in Kalifornien. In der EU beginnt die Europäische Kommission zusammen mit den nationalen Behörden nun offiziell mit der Durchsetzung des AI Acts, begleitet von neuen Transparenzregeln. Chatbots und andere interaktive KI-Systeme müssen Nutzern ab sofort mitteilen, dass sie es mit einer Maschine zu tun haben, und Deepfakes müssen gekennzeichnet werden. Parallel dazu wurde in Kalifornien der California AI Transparency Act operativ, ursprünglich als SB 942 bekannt und durch das Gesetz AB 853 zeitlich angepasst. Der Termin wurde bewusst auf den zweiten August gelegt, um sich am Zeitplan des europäischen KI-Gesetzes zu orientieren. Betroffen sind sogenannte covered providers, also Anbieter generativer KI-Systeme mit mehr als einer Million monatlichen Nutzern in Kalifornien. Sie müssen künftig ein kostenloses, öffentliches Erkennungswerkzeug für KI-Inhalte anbieten, Nutzern eine sichtbare KI-Kennzeichnung ermöglichen und unsichtbare, maschinenlesbare Wasserzeichen in KI-generierte Bilder, Videos und Audiodateien einbetten. Damit ziehen die USA auf Bundesstaatenebene erstmals mit einer vergleichbar umfassenden Kennzeichnungspflicht nach, wie sie in Europa gerade angelaufen ist.\n\n===\n\nBei Google gab es am Wochenende eine kleinere, aber bezeichnende Kurskorrektur. Der Konzern hat die für Android und iOS geplante, eigenständige AI-Studio-App gestoppt, obwohl sich rund achthunderttausend Nutzerinnen und Nutzer in über hundertsechzig Ländern dafür vorregistriert hatten. Statt einer separaten App sollen die Funktionen zum Erstellen eigener Anwendungen künftig direkt in die Gemini-App integriert werden, sowohl auf Mobilgeräten als auch auf dem Desktop. Das AI-Studio-Team begründete den Schritt damit, dass man Nutzern nicht noch eine weitere App zumuten wolle, sondern Anwendungen ganz natürlich aus alltäglichen Gesprächen mit Gemini heraus entstehen sollen. Die Webversion von AI Studio bleibt davon unberührt und soll weiterentwickelt werden, vor allem für Entwicklerinnen und Entwickler, die von der ersten Idee bis zum fertigen Produkt arbeiten. Beobachter werten den Schritt als Teil einer größeren Konsolidierung bei Google, das seine KI-Angebote rund um Gemini, AI Studio, Antigravity und DeepMind zunehmend in weniger, dafür einheitlicheren Anwendungen bündeln will.\n\n===\n\nDamit war es ein vergleichsweise ruhiges, aber inhaltlich dichtes Wochenende, geprägt von der Frage, wie offene KI-Modelle für Angriffe missbraucht werden können, und von einem globalen Wettlauf um Transparenzregeln zwischen Kalifornien und der EU. Diese Woche dürfte sich zeigen, wie Unternehmen auf die neuen Kennzeichnungspflichten reagieren und ob weitere Details zur DeepSeek-Kampagne bekannt werden. Das war dein KI Daily-Briefing für heute. Bis morgen."
+}
