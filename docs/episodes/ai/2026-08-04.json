@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 4. August 2026: EU verschärft Kontrolle, Karp attackiert KI-Labore",
+  "teaser": "Die EU-Kommission kann KI-Modelle jetzt vorab prüfen und Anbieter empfindlich sanktionieren. Außerdem: Palantir-Chef Karp legt nach einem Rekordquartal nach gegen OpenAI und Anthropic, und Milliardenbeteiligungen an den KI-Laboren verzerren die Gewinne der Tech-Konzerne.",
+  "pubDate": "2026-08-04T06:00:00+02:00",
+  "duration_seconds": 345,
+  "size_bytes": 2762127,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-04/2026-08-04.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 131244,
+    "output_tokens": 4741
+  },
+  "sources": [
+    {
+      "headline": "EU-Kommission erhält neue Vollmachten zur Kontrolle von KI-Modellen",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
+      "published": "2026-08-03"
+    },
+    {
+      "headline": "Palantir-Chef Karp attackiert nach Rekordquartal erneut die KI-Frontier-Labore",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "published": "2026-08-03"
+    },
+    {
+      "headline": "Karp: Frontier-Labore wollen Unternehmen 'wie Drogen abhängig machen'",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+      "published": "2026-08-03"
+    },
+    {
+      "headline": "Beteiligungen an OpenAI und Anthropic verzerren Gewinnbilanzen von Microsoft, Amazon und Alphabet",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+      "published": "2026-08-03"
+    },
+    {
+      "headline": "Kampf um KI-Talente: OpenAI, Anthropic, Meta und Thinking Machines ringen um Forscher",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic",
+      "published": "2026-08-03"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Dienstag, den 4. August 2026.\n\nWir beginnen mit einem echten Update zur EU-Regulierung. Nachdem am Wochenende die Kennzeichnungspflicht für KI-Inhalte in Kraft getreten ist, hat die EU-Kommission nun zusätzlich weitreichende Durchsetzungsbefugnisse erhalten. Seit Sonntag kann die Kommission Modelle von Anbietern wie OpenAI, Anthropic und Google vor der Veröffentlichung in der EU einsehen und bewerten, den Marktzugang einschränken und Strafen von bis zu fünfzehn Millionen Euro oder drei Prozent des Jahresumsatzes verhängen, je nachdem, welcher Betrag höher ist. \nUnter den Befugnissen, die am Sonntag in Kraft traten, kann die Kommission verlangen, Modelle vor ihrer öffentlichen Veröffentlichung in der Region zu bewerten, den EU-Marktzugang einzuschränken und einen Anbieter mit bis zu 15 Millionen Euro oder 3 Prozent seines Jahresumsatzes zu belegen.\n Das dürfte die Spannungen zwischen Washington und Brüssel weiter verschärfen, zumal US-Präsident Trump bereits nach der Google-Kartellstrafe im Juli mit Zöllen gedroht hatte. OpenAI erklärte gegenüber dem Sender CNBC, man arbeite eng mit der Kommission an der Umsetzung des AI Acts zusammen.\n\n===\n\nWeiter geht es mit einem der schärfsten Kritiker der Branche. Palantir-Chef Alex Karp hat am Montag, direkt nach der Vorlage eines Rekordquartals, erneut gegen die großen KI-Labore ausgeteilt. \nKarp warnte einmal mehr, dass KI-Frontier-Labore für Unternehmen zu unzuverlässig seien, und deutete in Palantirs Aktionärsbrief an, es gebe marxistische Untertöne in den Geschäftsmodellen jener, die große Sprachmodelle bauen.\n In einem Interview mit CNBC wurde er noch deutlicher und warf den Laboren vor, Unternehmen regelrecht abhängig machen zu wollen. \nKarp sagte, es gebe Menschen, die versuchten, uns wie Drogen süchtig nach einer Zukunft zu machen, die sie zu kontrollieren glauben, und erklärte, er habe viel Zeit mit Dario Amodei und dem Anthropic-Team verbracht, die einen wollten in eine Zukunft führen, in der man nichts besitzt, die eigenen Unternehmen nicht profitabel sind und niemand mehr einen Job hat.\n Bemerkenswert dabei: Palantir selbst profitiert enorm vom KI-Boom. \nIm zweiten Quartal meldete das Unternehmen einen Umsatz von 1,9 Milliarden Dollar, ein Plus von 93 Prozent gegenüber dem Vorjahreszeitraum, sowie einen Nettogewinn von 1,1 Milliarden Dollar, ein Rekordergebnis für ein einzelnes Quartal.\n\n\n===\n\nDamit sind wir bei einem größeren Trend, der die aktuelle Berichtssaison prägt. Eine Analyse von CNBC zeigt, dass die Milliardenbeteiligungen von Microsoft, Amazon und Alphabet an OpenAI und Anthropic die ausgewiesenen Konzerngewinne deutlich aufblähen. \nDas Gewinnwachstum im S&P 500 lag im jüngsten Quartal bei über 48 Prozent gegenüber dem Vorjahr, ohne die Investitionsgewinne wäre es aber nur bei rund 29 Prozent gelegen.\n Besonders auffällig ist der Fall Amazon. \nDer Konzern verbuchte im Quartal einen Gewinn von 53,4 Milliarden Dollar, der primär aus seiner Beteiligung an Anthropic stammt.\n Auch bei Microsoft schlug die Anthropic-Beteiligung mit rund zehn Prozentpunkten zusätzlichem Gewinnwachstum zu Buche. Das verdeutlicht, wie eng die Schicksale der Cloud-Riesen inzwischen mit den privaten Bewertungen der KI-Labore verknüpft sind, deren Wert weiterhin steigt, obwohl beide Firmen noch nicht an der Börse notiert sind.\n\n===\n\nZum Schluss ein Blick auf die Belegschaften der Branche selbst. Ein Bericht von Axios beschreibt, wie OpenAI, Anthropic, Meta und Startups wie Thinking Machines derzeit einen erbitterten Kampf um KI-Talente führen. \nSelbst milliardenschwere Startups und etablierte Branchenführer haben Mühe, ihre besten Forscher zu halten, während sich der Wettbewerb weiter verschärft.\n Ein Beispiel dafür ist die angespannte Beziehung zwischen Apple und OpenAI, wo mittlerweile \nmehr als 400 ehemalige Apple-Mitarbeiter für OpenAI arbeiten, was Apple zu einer Klage gegen OpenAI veranlasst hat.\n Auch bei Anthropic macht sich der Druck bemerkbar. \nFirmenchef Dario Amodei soll laut einer mit der Situation vertrauten Person Bedenken geäußert haben, dass neue Talente eher wegen des Geldes als wegen der Mission ins Unternehmen kämen.\n Gleichzeitig berichten Top-Forscher, dass es ihnen nicht nur um Gehalt gehe, sondern auch um Zugang zu Rechenleistung und Einfluss darauf, was tatsächlich entwickelt wird.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Die Gemengelage bleibt spannend: strengere Regulierung aus Brüssel, offene Kritik aus der Wirtschaft an den Frontier-Laboren, und ein Personalkarussell, das zeigt, wie hart um die klügsten Köpfe der Branche gerungen wird. Wir hören uns morgen wieder. Bis dann."
+}
