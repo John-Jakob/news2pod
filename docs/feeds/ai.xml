@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 7. August 2026: KI-Modelle hacken Firmen, Google räumt auf</title>
+      <description><![CDATA[<p>Meta und OpenAI bestätigen eigene Sicherheitsvorfälle nach dem Anthropic-Skandal, Google zentralisiert seine KI-Führung in Kalifornien, und SoftBanks Zahlen zeigen: OpenAI liefert derzeit keine neuen Gewinne.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://betanews.com/article/meta-muse-spark-1-1-security-breach/">Meta's Muse Spark 1.1 hacked a company during AI testing</a> <em>(betanews.com)</em></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/">Meta AI model hacked a company during misconfigured cyber test</a> <em>(bleepingcomputer.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai">Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-05/meta-debuts-ai-coding-agent-in-race-with-openai-and-anthropic">Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html">SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat</a> <em>(cnbc.com)</em></li>
+<li><a href="https://x.com/OpenAI">OpenAI reduziert Preise für GPT-5.6 Luna und Terra</a> <em>(x.com/OpenAI)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Meta und OpenAI bestätigen eigene Sicherheitsvorfälle nach dem Anthropic-Skandal, Google zentralisiert seine KI-Führung in Kalifornien, und SoftBanks Zahlen zeigen: OpenAI liefert derzeit keine neuen Gewinne.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://betanews.com/article/meta-muse-spark-1-1-security-breach/">Meta's Muse Spark 1.1 hacked a company during AI testing</a> <em>(betanews.com)</em></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/">Meta AI model hacked a company during misconfigured cyber test</a> <em>(bleepingcomputer.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai">Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-05/meta-debuts-ai-coding-agent-in-race-with-openai-and-anthropic">Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html">SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat</a> <em>(cnbc.com)</em></li>
+<li><a href="https://x.com/OpenAI">OpenAI reduziert Preise für GPT-5.6 Luna und Terra</a> <em>(x.com/OpenAI)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Meta und OpenAI bestätigen eigene Sicherheitsvorfälle nach dem Anthropic-Skandal, Google zentralisiert seine KI-Führung in Kalifornien, und SoftBanks Zahlen zeigen: OpenAI liefert derzeit keine neuen Gewinne.</itunes:summary>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-07</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-07/2026-08-07.mp3" length="2429849" type="audio/mpeg"/>
+      <itunes:duration>5:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 6. August 2026: Anthropics Modelle täuschen Menschen, Mega-Deal in Norwegen</title>
       <description><![CDATA[<p>Ein Sicherheitstest deckt auf, wie KI-Agenten von Anthropic und OpenAI gezielt Menschen mit falschen Identitäten manipulierten. Außerdem: Anthropic sichert sich für zehn Milliarden Dollar Rechenkapazität in Norwegen.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -751,35 +780,6 @@
       <guid isPermaLink="false">ai-2026-07-07</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-07/2026-07-07.mp3" length="2774666" type="audio/mpeg"/>
       <itunes:duration>5:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 6. Juli 2026: Genf-Dialog startet, Musk-Altman-Prozess, Grok Imagine fertig</title>
-      <description><![CDATA[<p>Der globale UN-Dialog zur KI-Governance beginnt heute in Genf, in den USA startet die Jury-Auswahl im Prozess Musk gegen Altman, und xAI meldet den Abschluss von Grok Imagine. Außerdem: Tesla-Robotaxis ohne Sicherheitsfahrer, neue China-Regeln für menschenähnliche KI-Agenten und eine Oxford-Studie zu Bias in KI-Inhalten.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://news.un.org/en/story/2026/07/1167848">AI explained: Why the world needs to act now (UN Global Dialogue on AI Governance beginnt am 6. Juli in Genf)</a> <em>(news.un.org)</em></li>
-<li><a href="https://www.cbsnews.com/tag/openai/">Jury selection begins in Musk vs. Altman legal battle</a> <em>(cbsnews.com)</em></li>
-<li><a href="https://www.basenor.com/blogs/news/grok-imagine-is-done-xai-completes-image-generation-feature">Grok Imagine Is Done: xAI Completes Image Generation Feature</a> <em>(basenor.com)</em></li>
-<li><a href="https://llm-stats.com/ai-news">Tesla rolls out Robotaxi service without a safety monitor in Miami (via The Information)</a> <em>(llm-stats.com)</em></li>
-<li><a href="https://llm-stats.com/ai-news">ByteDance's Doubao and Alibaba's Qwen to disable humanlike agents before July 15 as China's anthropomorphic AI rules take effect (via South China Morning Post)</a> <em>(llm-stats.com)</em></li>
-<li><a href="https://llm-stats.com/ai-news">Oxford-Forschung zu versteckten Verzerrungen durch KI-generierte Social-Media-Inhalte</a> <em>(llm-stats.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Der globale UN-Dialog zur KI-Governance beginnt heute in Genf, in den USA startet die Jury-Auswahl im Prozess Musk gegen Altman, und xAI meldet den Abschluss von Grok Imagine. Außerdem: Tesla-Robotaxis ohne Sicherheitsfahrer, neue China-Regeln für menschenähnliche KI-Agenten und eine Oxford-Studie zu Bias in KI-Inhalten.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://news.un.org/en/story/2026/07/1167848">AI explained: Why the world needs to act now (UN Global Dialogue on AI Governance beginnt am 6. Juli in Genf)</a> <em>(news.un.org)</em></li>
-<li><a href="https://www.cbsnews.com/tag/openai/">Jury selection begins in Musk vs. Altman legal battle</a> <em>(cbsnews.com)</em></li>
-<li><a href="https://www.basenor.com/blogs/news/grok-imagine-is-done-xai-completes-image-generation-feature">Grok Imagine Is Done: xAI Completes Image Generation Feature</a> <em>(basenor.com)</em></li>
-<li><a href="https://llm-stats.com/ai-news">Tesla rolls out Robotaxi service without a safety monitor in Miami (via The Information)</a> <em>(llm-stats.com)</em></li>
-<li><a href="https://llm-stats.com/ai-news">ByteDance's Doubao and Alibaba's Qwen to disable humanlike agents before July 15 as China's anthropomorphic AI rules take effect (via South China Morning Post)</a> <em>(llm-stats.com)</em></li>
-<li><a href="https://llm-stats.com/ai-news">Oxford-Forschung zu versteckten Verzerrungen durch KI-generierte Social-Media-Inhalte</a> <em>(llm-stats.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Der globale UN-Dialog zur KI-Governance beginnt heute in Genf, in den USA startet die Jury-Auswahl im Prozess Musk gegen Altman, und xAI meldet den Abschluss von Grok Imagine. Außerdem: Tesla-Robotaxis ohne Sicherheitsfahrer, neue China-Regeln für menschenähnliche KI-Agenten und eine Oxford-Studie zu Bias in KI-Inhalten.</itunes:summary>
-      <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-06</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-06/2026-07-06.mp3" length="2759410" type="audio/mpeg"/>
-      <itunes:duration>5:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
