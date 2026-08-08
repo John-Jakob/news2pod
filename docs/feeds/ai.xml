@@ -19,6 +19,33 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 8. August 2026: AMD kauft Chip-Startup, Gericht stärkt KI-Agenten</title>
+      <description><![CDATA[<p>AMD übernimmt den Inferenzchip-Spezialisten Taalas, ein US-Berufungsgericht stärkt die Rechte autonomer KI-Einkaufsagenten, und Mistral bringt ein neues Sicherheitsmodell. Außerdem: Alibabas nächster offener Riesenmodell-Coup.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html">AMD kauft KI-Inferenzchip-Startup Taalas</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.usnews.com/news/top-news/articles/2026-08-04/amazon-loses-us-court-ban-on-perplexitys-ai-shopping-tools">Berufungsgericht kippt Amazon-Verfügung gegen Perplexity-Einkaufsagenten</a> <em>(reuters.com (via usnews.com))</em></li>
+<li><a href="https://mistral.ai/news/shieldstral/">Mistral veröffentlicht Sicherheits-Klassifizierer Shieldstral</a> <em>(mistral.ai)</em></li>
+<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Weißes Haus lädt Techkonzerne nach KI-Cybervorfällen ein</a> <em>(handelsblatt.com)</em></li>
+<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Alibaba will Qwen3.8-Max zum freien Download bereitstellen</a> <em>(handelsblatt.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>AMD übernimmt den Inferenzchip-Spezialisten Taalas, ein US-Berufungsgericht stärkt die Rechte autonomer KI-Einkaufsagenten, und Mistral bringt ein neues Sicherheitsmodell. Außerdem: Alibabas nächster offener Riesenmodell-Coup.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html">AMD kauft KI-Inferenzchip-Startup Taalas</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.usnews.com/news/top-news/articles/2026-08-04/amazon-loses-us-court-ban-on-perplexitys-ai-shopping-tools">Berufungsgericht kippt Amazon-Verfügung gegen Perplexity-Einkaufsagenten</a> <em>(reuters.com (via usnews.com))</em></li>
+<li><a href="https://mistral.ai/news/shieldstral/">Mistral veröffentlicht Sicherheits-Klassifizierer Shieldstral</a> <em>(mistral.ai)</em></li>
+<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Weißes Haus lädt Techkonzerne nach KI-Cybervorfällen ein</a> <em>(handelsblatt.com)</em></li>
+<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Alibaba will Qwen3.8-Max zum freien Download bereitstellen</a> <em>(handelsblatt.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>AMD übernimmt den Inferenzchip-Spezialisten Taalas, ein US-Berufungsgericht stärkt die Rechte autonomer KI-Einkaufsagenten, und Mistral bringt ein neues Sicherheitsmodell. Außerdem: Alibabas nächster offener Riesenmodell-Coup.</itunes:summary>
+      <pubDate>Sat, 08 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-08</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-08/2026-08-08.mp3" length="2770486" type="audio/mpeg"/>
+      <itunes:duration>5:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 7. August 2026: KI-Modelle hacken Firmen, Google räumt auf</title>
       <description><![CDATA[<p>Meta und OpenAI bestätigen eigene Sicherheitsvorfälle nach dem Anthropic-Skandal, Google zentralisiert seine KI-Führung in Kalifornien, und SoftBanks Zahlen zeigen: OpenAI liefert derzeit keine neuen Gewinne.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -751,35 +778,6 @@
       <guid isPermaLink="false">ai-2026-07-08</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-08/2026-07-08.mp3" length="2970061" type="audio/mpeg"/>
       <itunes:duration>6:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 7. Juli 2026: Anthropic vs. China, TeraWulf-Deal, OpenAI-Voice</title>
-      <description><![CDATA[<p>Anthropic gerät zwischen die Fronten mit China, ein Rechenzentrums-Gigant bindet sich für zwanzig Jahre an das Unternehmen, und OpenAI schickt schnellere Sprachmodelle ins Rennen. Das und mehr im heutigen KI Daily-Briefing.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/">Why Anthropic alleges Chinese firms are "distilling" knowledge from Claude</a> <em>(washingtonpost.com)</em></li>
-<li><a href="https://www.inc.com/moses-jeanfrancois/alibaba-just-banned-employees-from-using-anthropic-claude-code/91369958">Why Alibaba Just Banned Its Employees From Using Anthropic's Claude Code</a> <em>(inc.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html">TeraWulf shares soar after Anthropic leases data center in Kentucky</a> <em>(cnbc.com)</em></li>
-<li><a href="https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack">TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack</a> <em>(investors.terawulf.com)</em></li>
-<li><a href="https://www.anthropic.com/research/global-workspace">A global workspace in language models</a> <em>(anthropic.com)</em></li>
-<li><a href="https://releasebot.io/updates/openai">OpenAI releases gpt-realtime-2.1 and gpt-realtime-2.1-mini</a> <em>(releasebot.io (OpenAI Release Notes))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Anthropic gerät zwischen die Fronten mit China, ein Rechenzentrums-Gigant bindet sich für zwanzig Jahre an das Unternehmen, und OpenAI schickt schnellere Sprachmodelle ins Rennen. Das und mehr im heutigen KI Daily-Briefing.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/">Why Anthropic alleges Chinese firms are "distilling" knowledge from Claude</a> <em>(washingtonpost.com)</em></li>
-<li><a href="https://www.inc.com/moses-jeanfrancois/alibaba-just-banned-employees-from-using-anthropic-claude-code/91369958">Why Alibaba Just Banned Its Employees From Using Anthropic's Claude Code</a> <em>(inc.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html">TeraWulf shares soar after Anthropic leases data center in Kentucky</a> <em>(cnbc.com)</em></li>
-<li><a href="https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack">TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack</a> <em>(investors.terawulf.com)</em></li>
-<li><a href="https://www.anthropic.com/research/global-workspace">A global workspace in language models</a> <em>(anthropic.com)</em></li>
-<li><a href="https://releasebot.io/updates/openai">OpenAI releases gpt-realtime-2.1 and gpt-realtime-2.1-mini</a> <em>(releasebot.io (OpenAI Release Notes))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Anthropic gerät zwischen die Fronten mit China, ein Rechenzentrums-Gigant bindet sich für zwanzig Jahre an das Unternehmen, und OpenAI schickt schnellere Sprachmodelle ins Rennen. Das und mehr im heutigen KI Daily-Briefing.</itunes:summary>
-      <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-07</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-07/2026-07-07.mp3" length="2774666" type="audio/mpeg"/>
-      <itunes:duration>5:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
