@@ -19,6 +19,29 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 10. August 2026: Ruhiges Wochenende, Atlas-Abschied bei OpenAI</title>
+      <description><![CDATA[<p>Der Wochenend-Rückblick: Ein vergleichsweise ruhiges KI-Wochenende, OpenAI verabschiedet seinen Atlas-Browser, und der Ringkampf um Chip-Exportkontrollen zwischen den USA und China geht weiter.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">OpenAI deprecates Atlas browser as browsing moves into ChatGPT and Codex</a> <em>(help.openai.com)</em></li>
+<li><a href="https://aitoolsreview.co.uk/insights/next-claude-model">What's the Next Claude Model? Anthropic's New Roadmap (August 2026)</a> <em>(aitoolsreview.co.uk)</em></li>
+<li><a href="https://www.drweb.de/ki-chip-exportkontrolle-fernzugriff/">Wie umgeht Chinas KI-Branche die Chip-Exportkontrolle?</a> <em>(drweb.de)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: Ein vergleichsweise ruhiges KI-Wochenende, OpenAI verabschiedet seinen Atlas-Browser, und der Ringkampf um Chip-Exportkontrollen zwischen den USA und China geht weiter.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">OpenAI deprecates Atlas browser as browsing moves into ChatGPT and Codex</a> <em>(help.openai.com)</em></li>
+<li><a href="https://aitoolsreview.co.uk/insights/next-claude-model">What's the Next Claude Model? Anthropic's New Roadmap (August 2026)</a> <em>(aitoolsreview.co.uk)</em></li>
+<li><a href="https://www.drweb.de/ki-chip-exportkontrolle-fernzugriff/">Wie umgeht Chinas KI-Branche die Chip-Exportkontrolle?</a> <em>(drweb.de)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Der Wochenend-Rückblick: Ein vergleichsweise ruhiges KI-Wochenende, OpenAI verabschiedet seinen Atlas-Browser, und der Ringkampf um Chip-Exportkontrollen zwischen den USA und China geht weiter.</itunes:summary>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-10</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-10/2026-08-10.mp3" length="2148145" type="audio/mpeg"/>
+      <itunes:duration>4:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 8. August 2026: AMD kauft Chip-Startup, Gericht stärkt KI-Agenten</title>
       <description><![CDATA[<p>AMD übernimmt den Inferenzchip-Spezialisten Taalas, ein US-Berufungsgericht stärkt die Rechte autonomer KI-Einkaufsagenten, und Mistral bringt ein neues Sicherheitsmodell. Außerdem: Alibabas nächster offener Riesenmodell-Coup.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -751,33 +774,6 @@
       <guid isPermaLink="false">ai-2026-07-09</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-09/2026-07-09.mp3" length="3082493" type="audio/mpeg"/>
       <itunes:duration>6:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 8. Juli 2026: OpenAI unter Regierungsaufsicht, Gemini-Verzögerung, Meta-Eingeständnis</title>
-      <description><![CDATA[<p>Die US-Regierung nimmt Einfluss auf den Start von OpenAIs neuem Flaggschiffmodell, Google verschiebt Gemini 3.5 Pro für einen kompletten Neubau, und Mark Zuckerberg räumt bei Meta intern ein, dass die KI-Agenten-Strategie noch nicht liefert. Außerdem: neue Stimmen für Grok Voice von xAI.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model">OpenAI limits GPT-5.6 Sol access to Trump administration partners</a> <em>(foxnews.com)</em></li>
-<li><a href="https://openai.com/index/previewing-gpt-5-6-sol/">Previewing GPT-5.6 Sol: a next-generation model</a> <em>(openai.com)</em></li>
-<li><a href="https://finance.biggo.com/news/6f0c6bb2-795f-4c57-9d09-6db691d7638a">Google Delays Gemini 3.5 Pro Launch to July 17 for Full Architectural Rebuild</a> <em>(finance.biggo.com)</em></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/laying-off-8-000-employees-121545621.html">After Laying Off 8,000 Employees, Zuckerberg Admits Meta's AI 'Hasn't Really Accelerated' As Expected</a> <em>(finance.yahoo.com)</em></li>
-<li><a href="https://x.ai/news/new-flagship-voices">21 New Flagship Grok Voices</a> <em>(x.ai)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Die US-Regierung nimmt Einfluss auf den Start von OpenAIs neuem Flaggschiffmodell, Google verschiebt Gemini 3.5 Pro für einen kompletten Neubau, und Mark Zuckerberg räumt bei Meta intern ein, dass die KI-Agenten-Strategie noch nicht liefert. Außerdem: neue Stimmen für Grok Voice von xAI.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model">OpenAI limits GPT-5.6 Sol access to Trump administration partners</a> <em>(foxnews.com)</em></li>
-<li><a href="https://openai.com/index/previewing-gpt-5-6-sol/">Previewing GPT-5.6 Sol: a next-generation model</a> <em>(openai.com)</em></li>
-<li><a href="https://finance.biggo.com/news/6f0c6bb2-795f-4c57-9d09-6db691d7638a">Google Delays Gemini 3.5 Pro Launch to July 17 for Full Architectural Rebuild</a> <em>(finance.biggo.com)</em></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/laying-off-8-000-employees-121545621.html">After Laying Off 8,000 Employees, Zuckerberg Admits Meta's AI 'Hasn't Really Accelerated' As Expected</a> <em>(finance.yahoo.com)</em></li>
-<li><a href="https://x.ai/news/new-flagship-voices">21 New Flagship Grok Voices</a> <em>(x.ai)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Die US-Regierung nimmt Einfluss auf den Start von OpenAIs neuem Flaggschiffmodell, Google verschiebt Gemini 3.5 Pro für einen kompletten Neubau, und Mark Zuckerberg räumt bei Meta intern ein, dass die KI-Agenten-Strategie noch nicht liefert. Außerdem: neue Stimmen für Grok Voice von xAI.</itunes:summary>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-08</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-08/2026-07-08.mp3" length="2970061" type="audio/mpeg"/>
-      <itunes:duration>6:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
