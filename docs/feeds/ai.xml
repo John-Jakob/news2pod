@@ -19,6 +19,31 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 11. August 2026: Meta gesteht KI-Hack, ruhiger Nachrichtentag</title>
+      <description><![CDATA[<p>Meta bestätigt einen KI-Sicherheitsvorfall, während OpenAI seine Cyber-Sparte ausbaut und Meta ein neues offenes Modell vorstellt. Ein eher ruhiger Tag im KI-Nachrichtenzyklus.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.wiwo.de/unternehmen/it/ki-news-aktuell-chinesisches-ki-modell-kimi-k3-entkommt-testumgebung/100245205.html">Meta räumt ein: Eigenes KI-Modell hackte während Tests ein anderes Unternehmen</a> <em>(wiwo.de (dpa-AFX))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Meta veröffentlicht offenes Multimodal-Modell Muse Glimmer (30B, Apache 2.0)</a> <em>(aiweekly.co (research.meta.ai))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">OpenAI erweitert Daybreak-Initiative um Cyber-Sicherheitsmodell-Stufen</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Handelsblatt: Weißes Haus lädt Techkonzerne nach KI-Cybervorfällen ein / Perplexity-Urteil</a> <em>(handelsblatt.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Meta bestätigt einen KI-Sicherheitsvorfall, während OpenAI seine Cyber-Sparte ausbaut und Meta ein neues offenes Modell vorstellt. Ein eher ruhiger Tag im KI-Nachrichtenzyklus.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.wiwo.de/unternehmen/it/ki-news-aktuell-chinesisches-ki-modell-kimi-k3-entkommt-testumgebung/100245205.html">Meta räumt ein: Eigenes KI-Modell hackte während Tests ein anderes Unternehmen</a> <em>(wiwo.de (dpa-AFX))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Meta veröffentlicht offenes Multimodal-Modell Muse Glimmer (30B, Apache 2.0)</a> <em>(aiweekly.co (research.meta.ai))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">OpenAI erweitert Daybreak-Initiative um Cyber-Sicherheitsmodell-Stufen</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Handelsblatt: Weißes Haus lädt Techkonzerne nach KI-Cybervorfällen ein / Perplexity-Urteil</a> <em>(handelsblatt.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Meta bestätigt einen KI-Sicherheitsvorfall, während OpenAI seine Cyber-Sparte ausbaut und Meta ein neues offenes Modell vorstellt. Ein eher ruhiger Tag im KI-Nachrichtenzyklus.</itunes:summary>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-11</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-11/2026-08-11.mp3" length="2488990" type="audio/mpeg"/>
+      <itunes:duration>5:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 10. August 2026: Ruhiges Wochenende, Atlas-Abschied bei OpenAI</title>
       <description><![CDATA[<p>Der Wochenend-Rückblick: Ein vergleichsweise ruhiges KI-Wochenende, OpenAI verabschiedet seinen Atlas-Browser, und der Ringkampf um Chip-Exportkontrollen zwischen den USA und China geht weiter.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -747,33 +772,6 @@
       <guid isPermaLink="false">ai-2026-07-10</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-10/2026-07-10.mp3" length="2760664" type="audio/mpeg"/>
       <itunes:duration>5:45</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 9. Juli 2026: GPT-5.6 startet, Grok 4.5, Anthropic contra China</title>
-      <description><![CDATA[<p>OpenAI macht GPT-5.6 heute für alle öffentlich zugänglich, xAI kontert mit Grok 4.5, und im Streit zwischen Anthropic und China eskaliert der Vorwurf einer Sicherheits-Backdoor. Außerdem: Microsoft ersetzt OpenAI und Anthropic in eigenen Apps.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/">OpenAI gets permission to roll out GPT-5.6 to the public on July 9</a> <em>(engadget.com)</em></li>
-<li><a href="https://x.ai/news/grok-4-5">Introducing Grok 4.5</a> <em>(x.ai)</em></li>
-<li><a href="https://www.basenor.com/blogs/news/grok-4-5-is-here-6-things-you-need-to-know">Grok 4.5 Is Here: 6 Things You Need to Know</a> <em>(basenor.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html">China warns about AI risks with Anthropic's Claude Code</a> <em>(cnbc.com)</em></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html">Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>OpenAI macht GPT-5.6 heute für alle öffentlich zugänglich, xAI kontert mit Grok 4.5, und im Streit zwischen Anthropic und China eskaliert der Vorwurf einer Sicherheits-Backdoor. Außerdem: Microsoft ersetzt OpenAI und Anthropic in eigenen Apps.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/">OpenAI gets permission to roll out GPT-5.6 to the public on July 9</a> <em>(engadget.com)</em></li>
-<li><a href="https://x.ai/news/grok-4-5">Introducing Grok 4.5</a> <em>(x.ai)</em></li>
-<li><a href="https://www.basenor.com/blogs/news/grok-4-5-is-here-6-things-you-need-to-know">Grok 4.5 Is Here: 6 Things You Need to Know</a> <em>(basenor.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html">China warns about AI risks with Anthropic's Claude Code</a> <em>(cnbc.com)</em></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html">Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>OpenAI macht GPT-5.6 heute für alle öffentlich zugänglich, xAI kontert mit Grok 4.5, und im Streit zwischen Anthropic und China eskaliert der Vorwurf einer Sicherheits-Backdoor. Außerdem: Microsoft ersetzt OpenAI und Anthropic in eigenen Apps.</itunes:summary>
-      <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-09</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-09/2026-07-09.mp3" length="3082493" type="audio/mpeg"/>
-      <itunes:duration>6:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
