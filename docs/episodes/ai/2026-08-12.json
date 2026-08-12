@@ -1,0 +1,34 @@
+{
+  "title": "KI Daily – 12. August 2026: Nervöse Börsen, Palantirs Attacke, selbstverbessernde KI",
+  "teaser": "Ein eher ruhiger Nachrichtentag: Halbleiter- und KI-Aktien geraten unter Druck, Palantir-Chef Alex Karp greift die großen KI-Anbieter an, und Forscher diskutieren die Risiken selbstverbessernder KI-Systeme.",
+  "pubDate": "2026-08-12T06:00:00+02:00",
+  "duration_seconds": 263,
+  "size_bytes": 2110946,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-12/2026-08-12.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 240862,
+    "output_tokens": 6503
+  },
+  "sources": [
+    {
+      "headline": "TAGESVORSCHAU: Termine am 12. August 2026 – Ausverkauf bei Halbleiter-, KI- und Space-Aktien",
+      "source": "finanznachrichten.de",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69279215-tagesvorschau-termine-am-12-august-2026-016.htm",
+      "published": "2026-08-12"
+    },
+    {
+      "headline": "KI News: Aktuelle Nachrichten & neuste Entwicklungen in der Künstlichen Intelligenz",
+      "source": "handelsblatt.com",
+      "url": "https://www.handelsblatt.com/themen/kuenstliche-intelligenz",
+      "published": "2026-08-12 (ca. 15 Stunden alt)"
+    },
+    {
+      "headline": "Anthropic News: Aktuelle Nachrichten von heute zum KI-Unternehmen",
+      "source": "handelsblatt.com",
+      "url": "https://www.handelsblatt.com/themen/anthropic",
+      "published": "2026-08-12 (ca. 11 Stunden alt)"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Mittwoch, 12. August 2026.\n\nHeute ist tatsächlich ein eher ruhiger Tag im KI-Universum. Statt neuer Modell-Releases dominieren wirtschaftliche und gesellschaftliche Fragen die Schlagzeilen. Wir nehmen uns deshalb etwas weniger Zeit als sonst und konzentrieren uns auf das, was wirklich belastbar ist.\n\n===\n\nBeginnen wir mit den Finanzmärkten. Laut der dpa-Tagesvorschau für heute klettern viele Indizes zwar weiter in Richtung Allzeithoch, doch unter der Oberfläche zeigen sich erste Risse. Der Abverkauf bei Halbleiter-, KI- und Raumfahrt-Aktien zeigt, wie schnell sich die Stimmung drehen kann. Besonders heikel sei die Mischung aus schwacher Sommer-Saisonalität, dünner Liquidität und historisch hohen Bewertungen. Mit anderen Worten: Die KI-Rally der vergangenen Monate wirkt zunehmend fragil, und Anleger werden nervöser, sobald einzelne Zahlen enttäuschen.\n\n===\n\nIm selben Kontext taucht eine Debatte auf, die schon länger schwelt: die Finanzierungspraxis großer Chip- und KI-Anbieter. Laut Berichten unterstützt der Chef des wertvollsten Konzerns der Erde seine Abnehmer mit Milliardenbeträgen, um deren Nachfrage nach KI-Hardware zu sichern. Kritiker fragen, ob es sich dabei noch um normale Absatzfinanzierung handelt oder um ein Zirkelgeschäft, das die tatsächliche Nachfrage künstlich aufbläht. Diese Sorge um zirkuläre Finanzierungsstrukturen in der KI-Branche dürfte auch in den kommenden Wochen ein Thema bleiben, gerade wenn die Aktienmärkte wackeln.\n\n===\n\nEin weiteres Thema aus der Unternehmenswelt: Palantir. Nach Militär und Behörden suchen inzwischen verstärkt auch normale US-Unternehmen KI-Hilfe bei der Datenanalysefirma. Firmenchef Alex Karp nutzt diesen Trend, um die großen KI-Anbieter offen anzugreifen, denen er vorwirft, den praktischen Nutzen ihrer Modelle für Unternehmen zu überschätzen. Damit positioniert sich Palantir bewusst als Gegenentwurf zu den Foundation-Model-Anbietern wie OpenAI, Anthropic oder Google, indem man den Fokus auf konkrete, einsatzfertige Anwendungen in Behörden und Industrie legt statt auf immer größere Sprachmodelle.\n\n===\n\nAuf der Forschungsseite gibt es eine grundsätzlichere Debatte: Führende Wissenschaftler arbeiten an KI-Systemen, die sich selbst verbessern können. Das gilt als potenziell revolutionär für die Forschung, ist aber zugleich einer der Hauptgründe für die wachsende Sorge vor einer außer Kontrolle geratenen KI-Entwicklung. Die Fähigkeit, eigene Trainingsprozesse, Architekturen oder sogar Zielfunktionen selbstständig zu optimieren, gilt in Sicherheitskreisen seit längerem als eine der kritischsten Schwellen auf dem Weg zu immer leistungsfähigeren Systemen. Genau deshalb wird das Thema in den kommenden Monaten vermutlich weiter an Fahrt aufnehmen, auch weil es unmittelbar an die Debatten über eine verantwortungsvolle Entwicklungsgeschwindigkeit anschließt, die wir hier in den vergangenen Tagen schon mehrfach besprochen haben.\n\n===\n\nKurz zusammengefasst: Die Aktienmärkte werden nervöser, was die Bewertungen von Halbleiter- und KI-Titeln angeht. Gleichzeitig wächst die Kritik an den Finanzierungsmodellen der Branche. Palantir positioniert sich offensiv gegen die großen KI-Labore, und in der Forschung rückt die Frage nach selbstverbessernder KI wieder stärker in den Fokus der Sicherheitsdebatte.\n\nDas war dein KI Daily für heute. Mehr Substanz erwarten wir in den kommenden Tagen, sobald neue Modell-Releases oder Regulierungsentscheidungen anstehen. Bis morgen, und bleib neugierig."
+}
