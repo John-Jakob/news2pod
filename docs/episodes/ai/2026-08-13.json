@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 13. August 2026: Milliarden für Lovable, Anthropics Rechenzentrum-Deal",
+  "teaser": "Der schwedische Vibe-Coding-Star Lovable verdoppelt seine Bewertung auf 13,3 Milliarden Dollar, Anthropic sichert sich für 9,1 Milliarden Dollar Rechenzentrumskapazität bei einem früheren Bitcoin-Miner, und an der Wall Street drehen die KI-Aktien nach einer Serie starker Zahlen wieder nach oben.",
+  "pubDate": "2026-08-13T06:00:00+02:00",
+  "duration_seconds": 390,
+  "size_bytes": 3123453,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-13/2026-08-13.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 167741,
+    "output_tokens": 6492
+  },
+  "sources": [
+    {
+      "headline": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
+      "source": "reuters.com (via finance.yahoo.com)",
+      "url": "https://finance.yahoo.com/technology/articles/vibe-coding-startup-lovable-raises-135717116.html",
+      "published": "2026-08-12"
+    },
+    {
+      "headline": "Anthropic Strikes $9 Billion Deal With Cloud Computing Firm Riot",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/anthropic-strikes-9-billion-deal-with-cloud-computing-firm-riot",
+      "published": "2026-08-11"
+    },
+    {
+      "headline": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports",
+      "source": "247wallst.com",
+      "url": "https://247wallst.com/investing/2026/08/12/amd-intel-and-nvidia-all-rally-wednesday-after-series-of-blockbuster-ai-earnings-reports/",
+      "published": "2026-08-12"
+    },
+    {
+      "headline": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/artificial-intelligence-news/short-news/",
+      "published": "2026-08-11"
+    },
+    {
+      "headline": "Wall Street flirts with a record after AI stocks rise and worries about inflation ease a bit",
+      "source": "washingtontimes.com (AP)",
+      "url": "https://www.washingtontimes.com/news/2026/aug/12/wall-street-flirting-record-ai-stocks-rise-worries-inflation-ease-bit/",
+      "published": "2026-08-12"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, 13. August 2026.\n\nNach dem nervösen Ausverkauf der letzten Tage gibt es heute wieder handfeste Geschäftsmeldungen aus der KI-Industrie. Wir schauen auf eine Rekord-Finanzierung für ein europäisches KI-Startup, einen milliardenschweren Rechenzentrums-Deal von Anthropic, eine Erholung der Chip- und KI-Aktien an der Wall Street und eine Preiserhöhung bei OpenAI.\n\n===\n\nBeginnen wir mit der wohl größten Startup-Meldung des Tages. Das schwedische Unternehmen Lovable, bekannt für sogenanntes Vibe-Coding, bei dem Nutzer Software einfach per Texteingabe beschreiben lassen, hat frisches Kapital eingesammelt. \nDer Stockholmer Vibe-Coding-Anbieter Lovable teilte am Mittwoch mit, er habe 400 Millionen Dollar in einer Serie-C-Finanzierungsrunde bei einer Bewertung von 13,3 Milliarden Dollar eingesammelt, doppelt so viel wie im Dezember.\n \nMenlo Ventures und der von EQT verwaltete Scaleup Europe Fund führten die Runde gemeinsam an, auch Tencent und Balderton Capital beteiligten sich.\n Besonders bemerkenswert ist das Wachstumstempo. \nDie neue Finanzierung kommt, nachdem Lovable im Juni eine annualisierte Umsatzrate von 500 Millionen Dollar erreicht hatte.\n \nDer Jahresumsatz habe sich inzwischen fast verdreifacht und solle bis Ende August auf 600 Millionen Dollar zusteuern, teilte das Startup mit.\n Lovable zeigt damit, wie stark der Markt für KI-gestützte Softwareentwicklung in Europa weiterwächst, selbst in einem Umfeld, in dem die Konkurrenz durch große US-Anbieter zunimmt.\n\n===\n\nAuch bei der Infrastruktur für Künstliche Intelligenz tut sich Großes. Anthropic hat sich weitere Rechenkapazität gesichert, dieses Mal bei einem ehemaligen Bitcoin-Miner. \nAnthropic hat einen 9,1 Milliarden Dollar schweren Deal mit Riot Platforms geschlossen, einem Bitcoin-Mining-Unternehmen, das kürzlich begonnen hat, Rechenzentrumskapazität für KI zu verkaufen.\n \nDer Deal umfasst 191 Megawatt am Rockdale-Standort von Riot in Texas, genug Strom für etwa 143.000 Haushalte, und läuft über 20 Jahre mit zwei Verlängerungsoptionen, die den Gesamtwert auf 16,1 Milliarden Dollar steigern könnten.\n \nDie ersten 96 Megawatt sollen im Dezember 2027 ans Netz gehen, der Rest im Juni 2028.\n Die Nachricht zeigt, wie aggressiv die führenden KI-Labore inzwischen um Stromkapazität konkurrieren. \nAnthropic hatte zuvor bereits einen Zehn-Milliarden-Dollar-Deal mit dem Nvidia-unterstützten Infrastruktur-Startup Volta Infra Holdings für Kapazität in Norwegen geschlossen.\n An der Börse kam die Nachricht gut an, die Riot-Aktie legte deutlich zu, ein Zeichen dafür, wie stark Investoren mittlerweile jede Verbindung zur KI-Infrastruktur belohnen.\n\n===\n\nDas bringt uns zur Wall Street, wo die KI-Aktien nach den turbulenten Vortagen wieder Fahrt aufgenommen haben. \nAMD schloss am Mittwoch 1,8 Prozent höher bei 483 Dollar, Intel gewann 3,3 Prozent auf 101 Dollar, und Nvidia legte 3 Prozent auf 224 Dollar zu, obwohl keines der drei Unternehmen an diesem Tag Zahlen vorlegte.\n Auslöser war eine Serie starker Quartalsberichte aus dem KI-Infrastruktur-Umfeld. \nSuper Micros Prognose und Auftragsbestand haben die Nachfrageannahme hinter allen drei Chip-Werten quasi neu untermauert, verstärkt durch eine starke Woche an Zahlen aus dem Neocloud- und Optiknetzwerk-Umfeld.\n Auch insgesamt stützte der Markt milde Inflationsdaten. \nWall Street näherte sich seinem Rekordhoch, nachdem mehrere KI-Aktien für das Frühjahr besseres Wachstum gemeldet hatten als von Analysten erwartet, während der S&P 500 0,3 Prozent zulegte und damit seinen ersten Gewinn seit dem Rekordhoch vom vergangenen Freitag verbuchte.\n Nach dem Ausverkauf der vergangenen Handelstage ist das ein deutliches Signal, dass die Anleger die langfristige Nachfrage nach KI-Rechenleistung weiterhin hoch einschätzen.\n\n===\n\nZum Abschluss noch eine Nachricht direkt aus dem Hause OpenAI. Das Unternehmen schraubt an seinem Preismodell für Geschäftskunden. \nOpenAI erhöht die Preise für ChatGPT-Business-Nutzer und führt sogenannte Premium Seats ein, die 125 Dollar pro Nutzer und Monat kosten, beziehungsweise 100 Dollar bei jährlicher Abrechnung, während die bestehenden Standard-Plätze bei 25 Dollar im Monat bleiben.\n \nPremium-Nutzer erhalten die fünffache Nutzungskapazität der Standardnutzer und sind nicht an das Fünf-Stunden-Limit gebunden, wobei die Nutzung wöchentlich zurückgesetzt wird.\n \nOpenAI begründet den Schritt damit, dass Teams zunehmend komplexere Aufgaben mit ChatGPT angehen und daher mehr Kapazität benötigen.\n Das passt ins Bild, dass agentenbasierte KI-Anwendungen immer mehr Rechenleistung und damit Tokens verschlingen, was sich jetzt direkt in den Preisen der Anbieter niederschlägt.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Zusammengefasst: frisches Milliardenkapital für Lovable, ein weiterer Riesendeal für Anthropics Rechenzentrums-Hunger, eine Erholung der Chipwerte an der Wall Street und höhere Preise bei OpenAI für Geschäftskunden. Wir beobachten weiter, wie sich der Wettlauf um Rechenkapazität und Kapital in den kommenden Tagen entwickelt. Danke fürs Zuhören, bis morgen bei KI Daily."
+}
