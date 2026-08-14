@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 14. August 2026: Claude Code wird autonom, Google baut DeepMind um",
+  "teaser": "Anthropic lässt Claude Code heute standardmäßig autonom arbeiten, Google hat sein KI-Imperium neu geordnet und Gemini knackt eine historische Nutzermarke. Außerdem: OpenAI bremst ein Modell wegen Cyber-Risiken, und xAI schickt eigene KI-Agenten ins Rennen.",
+  "pubDate": "2026-08-14T06:00:00+02:00",
+  "duration_seconds": 364,
+  "size_bytes": 2912592,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-14/2026-08-14.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 74501,
+    "output_tokens": 3844
+  },
+  "sources": [
+    {
+      "headline": "Anthropic macht Claude Code Auto-Modus zum Standard - startet 14. August",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "published": "2026-08-09"
+    },
+    {
+      "headline": "Google reorganisiert DeepMind: Kavukcuoglu übernimmt operative Führung",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+      "published": "2026-08-12"
+    },
+    {
+      "headline": "Google's Gemini App erreicht 1 Milliarde monatliche Nutzer",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "published": "2026-08-11"
+    },
+    {
+      "headline": "OpenAI pausiert Astra-Entwicklung wegen möglicher kritischer Cyber-Fähigkeiten",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "published": "2026-08-07"
+    },
+    {
+      "headline": "xAI startet Grok Bot: autonome KI-Agenten mit eigenem Cloud-Computer",
+      "source": "venturebeat.com",
+      "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+      "published": "2026-08-11"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 14. August 2026.\n\nWir beginnen heute mit einer Änderung, die viele Entwicklerinnen und Entwickler direkt betrifft. Ab heute schaltet Anthropic den sogenannten Auto-Modus in Claude Code standardmäßig scharf, und zwar für alle Nutzer mit Pro-, Max- und Team-Abo. Programmieren mit Claude Code wird damit noch stärker automatisiert, denn die Software fragt nicht mehr bei jedem Schritt um Erlaubnis, sondern handelt eigenständig, solange eine Aktion nicht als irreversibel, destruktiv oder außerhalb der eigenen Umgebung eingestuft wird. Interessant ist die Begründung: In einem Test mit über eintausend zahlenden Nutzern erkannte der automatische Klassifizierer neunundachtzig Prozent der gefährlichen Befehle, während menschliche Prüfer nur gut dreizehn Prozent davon abfingen. Der Grund liegt offenbar in Gewöhnungseffekten, denn Nutzer bestätigen im Schnitt siebenundneunzig Prozent aller Freigabe-Anfragen, ohne wirklich hinzusehen. Claude-Code-Chef Boris Cherny erklärte, das Team arbeite selbst schon seit Monaten ausschließlich im Auto-Modus. Für Unternehmen, die auf Enterprise, AWS oder Google Cloud setzen, bleibt die Funktion vorerst optional, soll aber innerhalb eines Monats ebenfalls zum Standard werden.\n\n===\n\nBei Google hat sich diese Woche die Führungsstruktur der KI-Sparte spürbar verändert. Koray Kavukcuoglu übernimmt nun offiziell die operative Leitung von Google DeepMind und berichtet künftig direkt an Konzernchef Sundar Pichai. Er verantwortet damit die Entwicklung der Gemini-Modelle, die Grundlagenforschung sowie die Gemini-App-Teams. Analysten sehen darin ein klares Signal: Google soll sich stärker auf konkrete Produktleistung und weniger auf akademische Projekte konzentrieren, um den Abstand zu OpenAI und Anthropic zu verkürzen. Der Umbau kommt zu einem Zeitpunkt, an dem Google seit Anfang des Jahres kein neues Spitzenmodell mehr vorgestellt hat, während die Konkurrenz immer wieder mit neuen, leistungsstärkeren und zugleich umstritteneren Systemen für Aufsehen sorgt.\n\n===\n\nPassend dazu meldet Google gleichzeitig einen handfesten Erfolg. Die Gemini-App hat offiziell die Marke von einer Milliarde monatlich aktiven Nutzern überschritten und ist damit das am schnellsten wachsende Produkt in der Firmengeschichte, noch vor Google Maps. Erst im vergangenen Monat lag die Zahl bei rund neunhundertfünfzig Millionen. Bemerkenswert ist, wie Menschen die App nutzen: Dreiundsechzig Prozent sprechen mittlerweile direkt mit Gemini per Sprache, statt zu tippen, und die App generiert inzwischen mehr als hundertfünfzig Millionen Bilder pro Tag. Damit zieht Gemini mit ChatGPT gleich, das die Milliardenmarke bereits im Juni erreicht hatte.\n\n===\n\nEin deutlich ernsteres Thema kommt von OpenAI. Das Unternehmen hatte bereits vor einigen Tagen bekanntgegeben, interne Arbeiten an seinem kommenden Modell mit dem Codenamen Astra teilweise auszusetzen. Grund sind Testergebnisse, die zeigen, dass sich eine sogenannte kritische Cyber-Fähigkeit nicht ausschließen lässt, also die Möglichkeit, dass das Modell eigenständig Schwachstellen in gut geschützten Systemen finden und ausnutzen könnte. OpenAI betont, man habe dies nicht abschließend festgestellt, wolle aber transparent mit der Sicherheits-Community umgehen. Als Konsequenz testet das Unternehmen nun ausschließlich in isolierten Umgebungen ohne Netzwerkzugang, verschlüsselt Modellgewichte stärker und hat eine durchgehende Überwachung der Gedankengänge des Modells eingeführt, die riskante Aktionen automatisch stoppen soll. Es ist das erste Mal, dass ein Labor öffentlich einräumt, im Bereich Cybersicherheit an diese kritische Schwelle heranzureichen.\n\n===\n\nAuch bei xAI tut sich einiges im Bereich autonomer Agenten. Das Unternehmen hat mit Grok Bot ein neues Produkt in die Beta-Phase geschickt, das dauerhaft aktive KI-Agenten bereitstellt. Jeder dieser Bots bekommt einen eigenen Cloud-Computer mit Browser, Dateisystem und Terminal, meldet sich mit den Zugangsdaten der Nutzer in bestehenden Werkzeugen an und arbeitet mehrstufige Aufgaben eigenständig ab, ohne dass jemand ständig zusehen muss. Erst wenn eine Freigabe nötig ist, meldet sich der Bot zurück. Der Start erfolgt gebündelt mit bestehenden Abos wie SuperGrok Heavy sowie den Cursor-Tarifen, was die enge Verzahnung zwischen xAI und dem kürzlich übernommenen Coding-Unternehmen Cursor unterstreicht. Damit reiht sich xAI in den Trend der sogenannten digitalen Arbeitskraft ein, den zuvor bereits OpenAI und andere Anbieter mit eigenen Agenten-Produkten bedient haben.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Zusammengefasst zeigt sich ein Bild von zwei parallelen Entwicklungen: Auf der einen Seite wächst die Autonomie von KI-Systemen rasant, ob beim Programmieren, bei digitalen Assistenten oder bei eigenständig handelnden Agenten. Auf der anderen Seite wachsen auch die Sicherheitsbedenken, wie der Fall Astra bei OpenAI zeigt. Es bleibt spannend, ob Google mit der neuen Führungsstruktur bei DeepMind bald ein neues Spitzenmodell nachlegt. Wir hören uns morgen wieder. Bis dahin, alles Gute."
+}

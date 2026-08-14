@@ -19,6 +19,33 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 14. August 2026: Claude Code wird autonom, Google baut DeepMind um</title>
+      <description><![CDATA[<p>Anthropic lässt Claude Code heute standardmäßig autonom arbeiten, Google hat sein KI-Imperium neu geordnet und Gemini knackt eine historische Nutzermarke. Außerdem: OpenAI bremst ein Modell wegen Cyber-Risiken, und xAI schickt eigene KI-Agenten ins Rennen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/">Anthropic macht Claude Code Auto-Modus zum Standard - startet 14. August</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html">Google reorganisiert DeepMind: Kavukcuoglu übernimmt operative Führung</a> <em>(cnbc.com)</em></li>
+<li><a href="https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/">Google's Gemini App erreicht 1 Milliarde monatliche Nutzer</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/">OpenAI pausiert Astra-Entwicklung wegen möglicher kritischer Cyber-Fähigkeiten</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month">xAI startet Grok Bot: autonome KI-Agenten mit eigenem Cloud-Computer</a> <em>(venturebeat.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Anthropic lässt Claude Code heute standardmäßig autonom arbeiten, Google hat sein KI-Imperium neu geordnet und Gemini knackt eine historische Nutzermarke. Außerdem: OpenAI bremst ein Modell wegen Cyber-Risiken, und xAI schickt eigene KI-Agenten ins Rennen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/">Anthropic macht Claude Code Auto-Modus zum Standard - startet 14. August</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html">Google reorganisiert DeepMind: Kavukcuoglu übernimmt operative Führung</a> <em>(cnbc.com)</em></li>
+<li><a href="https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/">Google's Gemini App erreicht 1 Milliarde monatliche Nutzer</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/">OpenAI pausiert Astra-Entwicklung wegen möglicher kritischer Cyber-Fähigkeiten</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month">xAI startet Grok Bot: autonome KI-Agenten mit eigenem Cloud-Computer</a> <em>(venturebeat.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Anthropic lässt Claude Code heute standardmäßig autonom arbeiten, Google hat sein KI-Imperium neu geordnet und Gemini knackt eine historische Nutzermarke. Außerdem: OpenAI bremst ein Modell wegen Cyber-Risiken, und xAI schickt eigene KI-Agenten ins Rennen.</itunes:summary>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-14</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-14/2026-08-14.mp3" length="2912592" type="audio/mpeg"/>
+      <itunes:duration>6:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 13. August 2026: Milliarden für Lovable, Anthropics Rechenzentrum-Deal</title>
       <description><![CDATA[<p>Der schwedische Vibe-Coding-Star Lovable verdoppelt seine Bewertung auf 13,3 Milliarden Dollar, Anthropic sichert sich für 9,1 Milliarden Dollar Rechenzentrumskapazität bei einem früheren Bitcoin-Miner, und an der Wall Street drehen die KI-Aktien nach einer Serie starker Zahlen wieder nach oben.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -749,25 +776,6 @@
       <guid isPermaLink="false">ai-2026-07-13</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-13/2026-07-13.mp3" length="1253712" type="audio/mpeg"/>
       <itunes:duration>2:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 12. Juli 2026: Ruhiger Sonntag, kurzes Update</title>
-      <description><![CDATA[<p>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Statt neuer großer Ankündigungen gibt es heute nur ein kleines, aber verifiziertes Update aus dem xAI-Ökosystem. Ein kompaktes Briefing zum Sonntag.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://x.ai/build/changelog">Grok Build Changelog: laufende technische Verbesserungen am Coding-Tool</a> <em>(x.ai)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Statt neuer großer Ankündigungen gibt es heute nur ein kleines, aber verifiziertes Update aus dem xAI-Ökosystem. Ein kompaktes Briefing zum Sonntag.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://x.ai/build/changelog">Grok Build Changelog: laufende technische Verbesserungen am Coding-Tool</a> <em>(x.ai)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Ein ungewöhnlich ruhiger Nachrichtentag in der KI-Welt: Statt neuer großer Ankündigungen gibt es heute nur ein kleines, aber verifiziertes Update aus dem xAI-Ökosystem. Ein kompaktes Briefing zum Sonntag.</itunes:summary>
-      <pubDate>Sun, 12 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-12</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-12/2026-07-12.mp3" length="1409402" type="audio/mpeg"/>
-      <itunes:duration>2:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
