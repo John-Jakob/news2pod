@@ -19,6 +19,39 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 19. August 2026: OpenAI bremst sich selbst, Teenager-ChatGPT startet</title>
+      <description><![CDATA[<p>OpenAI pausiert nach einem Hacking-Vorfall das Training seines nächsten Spitzenmodells und startet gleichzeitig eine eigene ChatGPT-Version für Teenager. Außerdem hat in Oakland ein wegweisender Prozess gegen Meta wegen Kindersicherheit begonnen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://fortune.com/2026/08/18/openai-says-it-paused-ai-training-for-two-weeks-and-announces-new-security-protocols-following-hugging-face-hack/">OpenAI pauses AI training for two weeks, unveils new security protocols following Hugging Face hack</a> <em>(fortune.com)</em></li>
+<li><a href="https://www.huffpost.com/entry/openai-slows-model-training-hugging-face_n_6a84c3d7e4b0e9f1dd265730">OpenAI Slows Model Training To Bolster Security After Hugging Face Hack</a> <em>(huffpost.com (Reuters))</em></li>
+<li><a href="https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework">OpenAI-safeguards-astra-hugging-face</a> <em>(axios.com)</em></li>
+<li><a href="https://www.axios.com/2026/08/18/openai-chatgpt-for-teens">OpenAI debuts ChatGPT for Teens</a> <em>(axios.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html">OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'</a> <em>(cnbc.com)</em></li>
+<li><a href="https://thenextweb.com/news/chatgpt-for-teens-openai-age-prediction-study-mode">OpenAI launches ChatGPT for Teens and will auto-enrol under-18s</a> <em>(thenextweb.com)</em></li>
+<li><a href="https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening">'Profits won.' The child safety trial against Meta kicks off in federal court</a> <em>(npr.org)</em></li>
+<li><a href="https://www.investing.com/news/stock-market-news/meta-faces-29state-trial-that-could-reshape-instagram-and-facebook-4864684">Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins</a> <em>(investing.com (Reuters))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>OpenAI pausiert nach einem Hacking-Vorfall das Training seines nächsten Spitzenmodells und startet gleichzeitig eine eigene ChatGPT-Version für Teenager. Außerdem hat in Oakland ein wegweisender Prozess gegen Meta wegen Kindersicherheit begonnen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://fortune.com/2026/08/18/openai-says-it-paused-ai-training-for-two-weeks-and-announces-new-security-protocols-following-hugging-face-hack/">OpenAI pauses AI training for two weeks, unveils new security protocols following Hugging Face hack</a> <em>(fortune.com)</em></li>
+<li><a href="https://www.huffpost.com/entry/openai-slows-model-training-hugging-face_n_6a84c3d7e4b0e9f1dd265730">OpenAI Slows Model Training To Bolster Security After Hugging Face Hack</a> <em>(huffpost.com (Reuters))</em></li>
+<li><a href="https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework">OpenAI-safeguards-astra-hugging-face</a> <em>(axios.com)</em></li>
+<li><a href="https://www.axios.com/2026/08/18/openai-chatgpt-for-teens">OpenAI debuts ChatGPT for Teens</a> <em>(axios.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html">OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'</a> <em>(cnbc.com)</em></li>
+<li><a href="https://thenextweb.com/news/chatgpt-for-teens-openai-age-prediction-study-mode">OpenAI launches ChatGPT for Teens and will auto-enrol under-18s</a> <em>(thenextweb.com)</em></li>
+<li><a href="https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening">'Profits won.' The child safety trial against Meta kicks off in federal court</a> <em>(npr.org)</em></li>
+<li><a href="https://www.investing.com/news/stock-market-news/meta-faces-29state-trial-that-could-reshape-instagram-and-facebook-4864684">Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins</a> <em>(investing.com (Reuters))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>OpenAI pausiert nach einem Hacking-Vorfall das Training seines nächsten Spitzenmodells und startet gleichzeitig eine eigene ChatGPT-Version für Teenager. Außerdem hat in Oakland ein wegweisender Prozess gegen Meta wegen Kindersicherheit begonnen.</itunes:summary>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-19</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-19/2026-08-19.mp3" length="2780517" type="audio/mpeg"/>
+      <itunes:duration>5:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 18. August 2026: Anthropics Umsatz-Explosion, Chinas Preisdruck</title>
       <description><![CDATA[<p>Anthropic versiebenfacht seinen Umsatz und peilt einen Börsengang im Herbst an, während günstige chinesische Open-Weight-Modelle die teure US-Infrastrukturwette unter Druck setzen. Außerdem: Nvidias mögliche Milliarden-Finanzierung für OpenAI und eine fragwürdige Amazon-Praxis beim Training von KI-Modellen.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -775,29 +808,6 @@
       <guid isPermaLink="false">ai-2026-07-18</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-18/2026-07-18.mp3" length="2758156" type="audio/mpeg"/>
       <itunes:duration>5:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 16. Juli 2026: Update zu Hassabis' KI-Aufsicht, Dimon warnt vor Mythos</title>
-      <description><![CDATA[<p>Ruhiger Newstag: Wir liefern das entscheidende Update zu Demis Hassabis' Forderung nach einer KI-Aufsichtsbehörde und eine kurze Meldung zu Jamie Dimons Warnung vor Anthropics Mythos-Modell.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html">Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind">Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog</a> <em>(axios.com)</em></li>
-<li><a href="https://www.bloomberg.com/latest/anthropic">Dimon Warns of Broad Mythos Access, Calling It a Real Issue</a> <em>(bloomberg.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Ruhiger Newstag: Wir liefern das entscheidende Update zu Demis Hassabis' Forderung nach einer KI-Aufsichtsbehörde und eine kurze Meldung zu Jamie Dimons Warnung vor Anthropics Mythos-Modell.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html">Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind">Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog</a> <em>(axios.com)</em></li>
-<li><a href="https://www.bloomberg.com/latest/anthropic">Dimon Warns of Broad Mythos Access, Calling It a Real Issue</a> <em>(bloomberg.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Ruhiger Newstag: Wir liefern das entscheidende Update zu Demis Hassabis' Forderung nach einer KI-Aufsichtsbehörde und eine kurze Meldung zu Jamie Dimons Warnung vor Anthropics Mythos-Modell.</itunes:summary>
-      <pubDate>Thu, 16 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-16</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-16/2026-07-16.mp3" length="2099661" type="audio/mpeg"/>
-      <itunes:duration>4:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
