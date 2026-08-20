@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 20. August 2026: Meta-Prozess eskaliert, OpenAIs Börsenpläne</title>
+      <description><![CDATA[<p>Ein Whistleblower belastet Mark Zuckerberg im Meta-Prozess schwer, OpenAI nennt erstmals ein konkretes IPO-Ziel, und Nvidia sucht einen Einstieg beim Daten-Start-up Mercor. Außerdem: Pennsylvania verhängt die strengsten KI-Rechenzentrum-Regeln der USA.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony">Whistleblower Arturo Béjar leads testimony in landmark trial against Meta</a> <em>(npr.org)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html">OpenAI 'will be a public company in 2027,' or sooner, CFO Friar tells employees</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.theinformation.com/articles/nvidia-discusses-funding-ai-data-supplier-mercor-20-billion-valuation">Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation</a> <em>(theinformation.com)</em></li>
+<li><a href="https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen">Governor Shapiro Signs Executive Order on Data Center Development in PA</a> <em>(pa.gov)</em></li>
+<li><a href="https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/">Josh Shapiro signs order restricting AI data centers in Pennsylvania</a> <em>(thehill.com)</em></li>
+<li><a href="https://whyy.org/articles/shapiro-data-centers-executive-order-pennsylvania/">Pennsylvania Gov. Shapiro signs wide-ranging executive order reining in data center development</a> <em>(whyy.org)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Ein Whistleblower belastet Mark Zuckerberg im Meta-Prozess schwer, OpenAI nennt erstmals ein konkretes IPO-Ziel, und Nvidia sucht einen Einstieg beim Daten-Start-up Mercor. Außerdem: Pennsylvania verhängt die strengsten KI-Rechenzentrum-Regeln der USA.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony">Whistleblower Arturo Béjar leads testimony in landmark trial against Meta</a> <em>(npr.org)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html">OpenAI 'will be a public company in 2027,' or sooner, CFO Friar tells employees</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.theinformation.com/articles/nvidia-discusses-funding-ai-data-supplier-mercor-20-billion-valuation">Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation</a> <em>(theinformation.com)</em></li>
+<li><a href="https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen">Governor Shapiro Signs Executive Order on Data Center Development in PA</a> <em>(pa.gov)</em></li>
+<li><a href="https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/">Josh Shapiro signs order restricting AI data centers in Pennsylvania</a> <em>(thehill.com)</em></li>
+<li><a href="https://whyy.org/articles/shapiro-data-centers-executive-order-pennsylvania/">Pennsylvania Gov. Shapiro signs wide-ranging executive order reining in data center development</a> <em>(whyy.org)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Ein Whistleblower belastet Mark Zuckerberg im Meta-Prozess schwer, OpenAI nennt erstmals ein konkretes IPO-Ziel, und Nvidia sucht einen Einstieg beim Daten-Start-up Mercor. Außerdem: Pennsylvania verhängt die strengsten KI-Rechenzentrum-Regeln der USA.</itunes:summary>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-20</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-20/2026-08-20.mp3" length="2485438" type="audio/mpeg"/>
+      <itunes:duration>5:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 19. August 2026: OpenAI bremst sich selbst, Teenager-ChatGPT startet</title>
       <description><![CDATA[<p>OpenAI pausiert nach einem Hacking-Vorfall das Training seines nächsten Spitzenmodells und startet gleichzeitig eine eigene ChatGPT-Version für Teenager. Außerdem hat in Oakland ein wegweisender Prozess gegen Meta wegen Kindersicherheit begonnen.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -783,31 +812,6 @@
       <guid isPermaLink="false">ai-2026-07-19</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-19/2026-07-19.mp3" length="3137036" type="audio/mpeg"/>
       <itunes:duration>6:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 18. Juli 2026: Kimi K3 fordert USA heraus, xAI verklagt Nutzer</title>
-      <description><![CDATA[<p>Moonshot AI schließt mit dem offenen Modell Kimi K3 zu den US-Vorreitern auf, während China Vorwürfe der Modell-Destillation zurückweist. Außerdem: xAI verklagt erstmals einen eigenen Nutzer wegen Grok-generierten Missbrauchsmaterials, und Elon Musk kündigt ein neues Zwei-Billionen-Parameter-Modell an.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals">Moonshot Unveils Kimi K3 AI Model, Narrowing Gap With US Rivals</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech">China Dismisses Claim that It Illicitly Extracts Foreign AI Tech</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://easternherald.com/2026/07/17/xai-grok-child-abuse-lawsuit/">xAI Files First-Ever Lawsuit Against User for Grok Child Abuse Material</a> <em>(easternherald.com)</em></li>
-<li><a href="https://www.basenor.com/blogs/news/xais-2t-model-what-musk-just-revealed-about-groks-successor">xAI's 2T Model: What Musk Just Revealed About Grok's Successor</a> <em>(basenor.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Moonshot AI schließt mit dem offenen Modell Kimi K3 zu den US-Vorreitern auf, während China Vorwürfe der Modell-Destillation zurückweist. Außerdem: xAI verklagt erstmals einen eigenen Nutzer wegen Grok-generierten Missbrauchsmaterials, und Elon Musk kündigt ein neues Zwei-Billionen-Parameter-Modell an.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals">Moonshot Unveils Kimi K3 AI Model, Narrowing Gap With US Rivals</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech">China Dismisses Claim that It Illicitly Extracts Foreign AI Tech</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://easternherald.com/2026/07/17/xai-grok-child-abuse-lawsuit/">xAI Files First-Ever Lawsuit Against User for Grok Child Abuse Material</a> <em>(easternherald.com)</em></li>
-<li><a href="https://www.basenor.com/blogs/news/xais-2t-model-what-musk-just-revealed-about-groks-successor">xAI's 2T Model: What Musk Just Revealed About Grok's Successor</a> <em>(basenor.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Moonshot AI schließt mit dem offenen Modell Kimi K3 zu den US-Vorreitern auf, während China Vorwürfe der Modell-Destillation zurückweist. Außerdem: xAI verklagt erstmals einen eigenen Nutzer wegen Grok-generierten Missbrauchsmaterials, und Elon Musk kündigt ein neues Zwei-Billionen-Parameter-Modell an.</itunes:summary>
-      <pubDate>Sat, 18 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-18</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-18/2026-07-18.mp3" length="2758156" type="audio/mpeg"/>
-      <itunes:duration>5:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 20. August 2026: Meta-Prozess eskaliert, OpenAIs Börsenpläne",
+  "teaser": "Ein Whistleblower belastet Mark Zuckerberg im Meta-Prozess schwer, OpenAI nennt erstmals ein konkretes IPO-Ziel, und Nvidia sucht einen Einstieg beim Daten-Start-up Mercor. Außerdem: Pennsylvania verhängt die strengsten KI-Rechenzentrum-Regeln der USA.",
+  "pubDate": "2026-08-20T06:00:00+02:00",
+  "duration_seconds": 310,
+  "size_bytes": 2485438,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-20/2026-08-20.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 165338,
+    "output_tokens": 3914
+  },
+  "sources": [
+    {
+      "headline": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+      "source": "npr.org",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+      "published": "2026-08-19"
+    },
+    {
+      "headline": "OpenAI 'will be a public company in 2027,' or sooner, CFO Friar tells employees",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+      "published": "2026-08-19"
+    },
+    {
+      "headline": "Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation",
+      "source": "theinformation.com",
+      "url": "https://www.theinformation.com/articles/nvidia-discusses-funding-ai-data-supplier-mercor-20-billion-valuation",
+      "published": "2026-08-19"
+    },
+    {
+      "headline": "Governor Shapiro Signs Executive Order on Data Center Development in PA",
+      "source": "pa.gov",
+      "url": "https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen",
+      "published": "2026-08-18"
+    },
+    {
+      "headline": "Josh Shapiro signs order restricting AI data centers in Pennsylvania",
+      "source": "thehill.com",
+      "url": "https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/",
+      "published": "2026-08-18"
+    },
+    {
+      "headline": "Pennsylvania Gov. Shapiro signs wide-ranging executive order reining in data center development",
+      "source": "whyy.org",
+      "url": "https://whyy.org/articles/shapiro-data-centers-executive-order-pennsylvania/",
+      "published": "2026-08-19"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Thursday, 20. August 2026.\n\n===\n\nWir beginnen mit einem Update zum Kinderschutz-Prozess gegen Meta, der diese Woche in Oakland, Kalifornien, begonnen hat. Am zweiten Verhandlungstag hat der frühere Meta-Mitarbeiter und Whistleblower Arturo Béjar schwer belastende Aussagen gemacht. Béjar, der acht Jahre lang im Sicherheitsbereich von Meta gearbeitet hat, sagte aus, dass die Unternehmenskultur bei Meta Nutzerzahlen über Kindersicherheit gestellt habe. Er warf CEO Mark Zuckerberg persönlich vor, die Öffentlichkeit belogen zu haben, als dieser 2021 öffentlich bestritt, dass Meta Profite über Sicherheit stelle. Béjar sagte wörtlich, diese Aussage sei nach seiner Erfahrung bei Meta nicht korrekt. Der Prozess, angestrengt von vier US-Bundesstaaten, dreht sich um den Vorwurf, Meta habe seine Plattformen bewusst süchtig machend gestaltet und Risiken für die mentale Gesundheit von Jugendlichen verschwiegen. Er soll rund sechs Wochen dauern, möglicherweise wird auch Zuckerberg selbst noch aussagen.\n\n===\n\nZum zweiten großen Thema: OpenAI hat erstmals einen konkreten Zeitrahmen für einen Börsengang genannt. Finanzchefin Sarah Friar sagte bei einer internen Firmenversammlung, das Unternehmen werde spätestens 2027 an die Börse gehen, möglicherweise auch früher, sollte sich das Geschäft weiter beschleunigen. Friar betonte, der Börsengang sei keine Ziellinie, sondern lediglich ein weiterer Meilenstein bei der Kapitalbeschaffung, nachdem OpenAI im März bereits 122 Milliarden Dollar eingesammelt habe. Interessant ist auch der Seitenhieb auf den Konkurrenten Anthropic, der ebenfalls vertraulich einen Börsenprospekt eingereicht hat und Gerüchten zufolge schon im September an die Börse gehen könnte. Friar sagte den Mitarbeitenden, man solle sich davon nicht beirren lassen, OpenAI laufe sein eigenes Rennen. Zudem berichtete sie von einem Umsatzwachstum von 35 Prozent im laufenden Quartal und einem Plus von 50 Prozent bei Unternehmenskunden.\n\n===\n\nAuch bei den Investitionen tut sich etwas Substanzielles. Laut einem Bericht von The Information verhandelt der Chip-Konzern Nvidia über eine Beteiligung an Mercor, einem Start-up, das menschliche Experten zur Daten-Kennzeichnung für KI-Trainingsdaten vermittelt. Die Finanzierungsrunde, angeführt vom bestehenden Investor General Catalyst, würde Mercor mit 20 Milliarden Dollar bewerten, eine Verdopplung gegenüber der Bewertung von zehn Milliarden Dollar im vergangenen Oktober. Nvidia nutzt Mercors Daten bereits für die Entwicklung seiner offenen Nemotron-Modelle und hat dem Start-up im vergangenen Quartal bereits einen zweistelligen Millionenbetrag gezahlt. Der Deal unterstreicht, wie sehr die großen KI-Konzerne inzwischen auch in die Zulieferkette für Trainingsdaten investieren, nicht nur in Rechenzentren und Chips.\n\n===\n\nEin wichtiges regulatorisches Signal kommt aus den Vereinigten Staaten, genauer aus Pennsylvania. Gouverneur Josh Shapiro hat eine Verordnung unterzeichnet, die nach eigenen Angaben die strengsten Auflagen des Landes für KI-Rechenzentren einführt. Entwickler müssen künftig rechtlich bindende Vereinbarungen eingehen, die eigene Stromkosten tragen, einen erheblichen Teil ihrer Energie aus sauberen Quellen beziehen und lokale Gemeinden vor Baubeginn zustimmen lassen. Zudem werden alle Rechenzentrumsprojekte aus dem beschleunigten Genehmigungsverfahren des Bundesstaates gestrichen, und Vertraulichkeitsvereinbarungen mit Behörden sind künftig verboten. Shapiro begründete den Schritt damit, dass der Senat des Bundesstaates eine entsprechende Gesetzesvorlage monatelang blockiert habe. Der Vorstoß reiht sich ein in eine wachsende Zahl von US-Bundesstaaten, die auf steigende Strompreise und Wasserverbrauch durch den KI-Boom reagieren.\n\n===\n\nDas waren die wichtigsten KI-Nachrichten der letzten 24 Stunden. Im Blick behalten solltet ihr weiterhin den Fortgang des Meta-Prozesses, bei dem in den kommenden Wochen auch Mark Zuckerberg und Instagram-Chef Adam Mosseri aussagen könnten, sowie die IPO-Rennen von OpenAI und Anthropic, die sich in den kommenden Monaten weiter zuspitzen dürften. Das war's für heute, danke fürs Zuhören und bis morgen bei KI Daily."
+}
