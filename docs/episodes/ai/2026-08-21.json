@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 21. August 2026: Massachusetts vs. KI-Konzerne, ChatGPT-Werbung startet",
+  "teaser": "Anthropic und OpenAI liefern sich einen offenen Schlagabtausch über das schärfste KI-Sicherheitsgesetz der USA, der Meta-Prozess geht in die zweite Woche, und ChatGPT bekommt ab kommendem Montag Werbung in Europa.",
+  "pubDate": "2026-08-21T06:00:00+02:00",
+  "duration_seconds": 378,
+  "size_bytes": 3028576,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-21/2026-08-21.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 112052,
+    "output_tokens": 4837
+  },
+  "sources": [
+    {
+      "headline": "Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash",
+      "published": "2026-08-20"
+    },
+    {
+      "headline": "The first week of testimony wraps in the federal child safety case against Meta",
+      "source": "npr.org",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5936640/the-first-week-of-testimony-wraps-in-the-federal-child-safety-case-against-meta",
+      "published": "2026-08-20"
+    },
+    {
+      "headline": "ChatGPT-Werbung ab 24. August: OpenAI startet in 31 Märkten",
+      "source": "ad-hoc-news.de / srf.ch",
+      "url": "https://www.srf.ch/news/international/neue-strategie-chatgpt-ist-bald-nicht-mehr-werbefrei",
+      "published": "2026-08-20"
+    },
+    {
+      "headline": "Anthropic: Claude designed binders for 14 of 15 protein targets",
+      "source": "anthropic.com (via aiweekly.co)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-08-19/20"
+    },
+    {
+      "headline": "OpenAI growth trails Anthropic as safety concerns prompt frontier training pause",
+      "source": "coindesk.com",
+      "url": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
+      "published": "2026-08-19"
+    },
+    {
+      "headline": "Cerebras launches CS-4 rack, claims 30x GPU inference speed",
+      "source": "cerebras.ai (via aiweekly.co)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-08-20"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den einundzwanzigsten August zweitausendsechsundzwanzig.\n\n===\n\nWir beginnen heute mit einem handfesten Streit zwischen den beiden großen amerikanischen KI-Laboren. Massachusetts arbeitet an einem Gesetz, das laut Bloomberg das strengste KI-Sicherheitsregelwerk auf US-Bundesstaatenebene werden könnte. \nEin Wirtschaftsförderungsgesetz, das der Senat des Bundesstaats im vergangenen Monat verabschiedet hat, enthielt die Vorgabe, dass führende KI-Labore ihre Grenzmodelle mindestens alle hundertzwanzig Tage von unabhängiger Seite auf katastrophale Risiken überprüfen lassen müssen.\n Interessant ist, wer hier auf welcher Seite steht. \nAnthropics Chef für US-Regierungsbeziehungen, Cesar Fernandez, argumentiert, dass die Branche ihre eigenen Hausaufgaben nicht selbst benoten sollte.\n OpenAI hält dagegen und bevorzugt eine Angleichung an das bereits bestehende Gesetz aus Illinois, \nweil Uneinheitlichkeit nicht mehr Sicherheit bedeute, sondern nur mehr Verwirrung.\n Die endgültige Fassung des Gesetzes wird derzeit zwischen Senat und Repräsentantenhaus verhandelt und soll noch vor der Novemberwahl beschlossen werden.\n\n===\n\nIm kalifornischen Oakland ist die erste Woche im Kinder-Sicherheitsprozess gegen Meta zu Ende gegangen. \nVier US-Bundesstaaten werfen Meta vor, Verbraucher- und Kinderdatenschutzgesetze verletzt und Risiken seiner Plattformen verschwiegen zu haben.\n Zentrale Figur der ersten Tage war der frühere Meta-Mitarbeiter und Whistleblower Arturo Béjar. \nBéjar sagte aus, er habe Dutzende Male mit Mark Zuckerberg persönlich zu tun gehabt, und warf ihm vor, öffentlich die Unwahrheit gesagt zu haben, als er bestritt, dass der Konzern Profit über Sicherheit stelle.\n Der Prozess dürfte sich noch über Wochen ziehen und wird als richtungsweisend für die Frage gesehen, wie stark Plattformbetreiber für Suchtmechanismen bei Minderjährigen haftbar gemacht werden können.\n\n===\n\nWirtschaftlich bewegt sich OpenAI derweil auf ungewohntem Terrain. Nach Berichten des Wall Street Journal ist das Unternehmen im zweiten Quartal zwar gewachsen, aber deutlich langsamer als der Rivale Anthropic. \nOpenAIs Quartalsumsatz stieg um achtzehn Prozent auf sechs Komma sieben Milliarden Dollar, während sich der operative Verlust auf zwölf Komma drei Milliarden Dollar ausweitete. Anthropic hingegen erwirtschaftete elf Komma sechs Milliarden Dollar und meldete einen kleinen bereinigten Gewinn.\n Damit hat Anthropic OpenAI erstmals beim Umsatz überholt. \nAls Gründe für OpenAIs relative Schwäche werden schwächeres ChatGPT-Wachstum, Preissenkungen, vorsichtigere Unternehmensausgaben und Konkurrenz durch günstigere chinesische KI-Modelle genannt.\n\n\n===\n\nPassend dazu erschließt sich OpenAI eine neue Einnahmequelle. Ab kommendem Montag, dem vierundzwanzigsten August, schaltet das Unternehmen Werbung in ChatGPT in Europa frei. \nAnzeigen werden in einunddreißig europäischen Märkten aktiviert, darunter Österreich, Deutschland, die Schweiz, Frankreich, Spanien, Italien, Polen sowie die Benelux- und skandinavischen Länder.\n Betroffen sind nur die kostenlose Version und der günstige Go-Tarif, \nwährend die Abos Plus, Pro und Enterprise werbefrei bleiben.\n OpenAI betont, dass Werbetreibende \nkeinen Zugriff auf Chatverläufe erhalten sollen, auch weil viele Nutzer ChatGPT für persönliche Themen verwenden.\n Der Schritt zeigt, wie sehr OpenAI unter Druck steht, seine gigantischen Rechenzentrumskosten zu refinanzieren.\n\n===\n\nAuf der Forschungsseite gibt es eine bemerkenswerte Meldung von Anthropic aus der Biotechnologie. Das Unternehmen hat gezeigt, dass sein Modell Claude, in den Versionen Mythos Preview und Opus vier Komma acht, \nProteinbinder für vierzehn von fünfzehn getesteten Zielstrukturen entwickeln konnte, validiert in Laboren von Adaptyv Bio und Twist Bioscience, mit einer Erfolgsquote von zweiundzwanzig bis fünfunddreißig Prozent gegenüber den branchenüblichen zehn bis fünfzehn Prozent.\n Das ist ein konkreter Beleg dafür, dass große Sprachmodelle inzwischen auch in der biomedizinischen Grundlagenforschung produktiv eingesetzt werden können, weit über reine Textanwendungen hinaus.\n\n===\n\nZum Schluss noch ein Blick auf die Hardware-Seite. Der Chiphersteller Cerebras hat sein neues System CS-4 vorgestellt. \nDas rack-basierte System basiert auf der neuen Nexus-Architektur und wird von drei WSE-3-Turbo-Wafern pro Rack angetrieben, die jeweils etwa doppelt so schnell sind wie die Vorgängergeneration.\n \nCerebras zufolge liefert das System bis zu dreißigmal schnellere Inferenz als GPU-Systeme und mehr als tausend Tokens pro Sekunde bei Modellen mit zehn Billionen Parametern, erste Auslieferungen sollen noch in diesem Quartal beginnen.\n Das unterstreicht, wie hart der Wettbewerb um spezialisierte KI-Chips inzwischen jenseits von Nvidia geworden ist.\n\n===\n\nDas war's für heute. Zusammengefasst: Die US-Bundesstaaten werden zum eigentlichen Schlachtfeld der KI-Regulierung, während sich OpenAI und Anthropic wirtschaftlich und strategisch immer weiter auseinanderentwickeln. Wir bleiben dran und melden uns morgen wieder mit dem nächsten KI Daily-Briefing. Bis dahin, alles Gute."
+}

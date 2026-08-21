@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 21. August 2026: Massachusetts vs. KI-Konzerne, ChatGPT-Werbung startet</title>
+      <description><![CDATA[<p>Anthropic und OpenAI liefern sich einen offenen Schlagabtausch über das schärfste KI-Sicherheitsgesetz der USA, der Meta-Prozess geht in die zweite Woche, und ChatGPT bekommt ab kommendem Montag Werbung in Europa.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash">Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.npr.org/2026/08/20/nx-s1-5936640/the-first-week-of-testimony-wraps-in-the-federal-child-safety-case-against-meta">The first week of testimony wraps in the federal child safety case against Meta</a> <em>(npr.org)</em></li>
+<li><a href="https://www.srf.ch/news/international/neue-strategie-chatgpt-ist-bald-nicht-mehr-werbefrei">ChatGPT-Werbung ab 24. August: OpenAI startet in 31 Märkten</a> <em>(ad-hoc-news.de / srf.ch)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic: Claude designed binders for 14 of 15 protein targets</a> <em>(anthropic.com (via aiweekly.co))</em></li>
+<li><a href="https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training">OpenAI growth trails Anthropic as safety concerns prompt frontier training pause</a> <em>(coindesk.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Cerebras launches CS-4 rack, claims 30x GPU inference speed</a> <em>(cerebras.ai (via aiweekly.co))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Anthropic und OpenAI liefern sich einen offenen Schlagabtausch über das schärfste KI-Sicherheitsgesetz der USA, der Meta-Prozess geht in die zweite Woche, und ChatGPT bekommt ab kommendem Montag Werbung in Europa.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash">Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.npr.org/2026/08/20/nx-s1-5936640/the-first-week-of-testimony-wraps-in-the-federal-child-safety-case-against-meta">The first week of testimony wraps in the federal child safety case against Meta</a> <em>(npr.org)</em></li>
+<li><a href="https://www.srf.ch/news/international/neue-strategie-chatgpt-ist-bald-nicht-mehr-werbefrei">ChatGPT-Werbung ab 24. August: OpenAI startet in 31 Märkten</a> <em>(ad-hoc-news.de / srf.ch)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic: Claude designed binders for 14 of 15 protein targets</a> <em>(anthropic.com (via aiweekly.co))</em></li>
+<li><a href="https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training">OpenAI growth trails Anthropic as safety concerns prompt frontier training pause</a> <em>(coindesk.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Cerebras launches CS-4 rack, claims 30x GPU inference speed</a> <em>(cerebras.ai (via aiweekly.co))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Anthropic und OpenAI liefern sich einen offenen Schlagabtausch über das schärfste KI-Sicherheitsgesetz der USA, der Meta-Prozess geht in die zweite Woche, und ChatGPT bekommt ab kommendem Montag Werbung in Europa.</itunes:summary>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-21</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-21/2026-08-21.mp3" length="3028576" type="audio/mpeg"/>
+      <itunes:duration>6:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 20. August 2026: Meta-Prozess eskaliert, OpenAIs Börsenpläne</title>
       <description><![CDATA[<p>Ein Whistleblower belastet Mark Zuckerberg im Meta-Prozess schwer, OpenAI nennt erstmals ein konkretes IPO-Ziel, und Nvidia sucht einen Einstieg beim Daten-Start-up Mercor. Außerdem: Pennsylvania verhängt die strengsten KI-Rechenzentrum-Regeln der USA.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -783,35 +812,6 @@
       <guid isPermaLink="false">ai-2026-07-20</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-20/2026-07-20.mp3" length="1660595" type="audio/mpeg"/>
       <itunes:duration>3:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 19. Juli 2026: Anthropic sondiert Meta-Deal, xAI plant schon Grok 4.6</title>
-      <description><![CDATA[<p>Ein ruhiges Wochenende in der KI-Welt: Anthropic verhandelt offenbar über einen Zehn-Milliarden-Dollar-Rechenleistungsdeal mit Meta, xAI bestätigt bereits einen Nachfolger für Grok 4.5, und Google DeepMind stellt seinen Plan gegen den Missbrauch von KI in der Biologie vor.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html">Anthropic in early talks with Meta to acquire compute power</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.basenor.com/blogs/news/grok-4-6-confirmed-what-we-know-from-the-xai-roadmap">Grok 4.6 Confirmed: What We Know From the xAI Roadmap</a> <em>(basenor.com)</em></li>
-<li><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">Google DeepMind and Isomorphic Labs approach to bioresilience</a> <em>(deepmind.google)</em></li>
-<li><a href="https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/">Examining Google DeepMind's AI bioresilience push</a> <em>(artificialintelligence-news.com)</em></li>
-<li><a href="https://openai.com/news/">OpenAI News: GPT-Red: Unlocking Self-Improvement for Robustness</a> <em>(openai.com)</em></li>
-<li><a href="https://openai.com/news/">OpenAI News: Why teens deserve access to safe AI</a> <em>(openai.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Ein ruhiges Wochenende in der KI-Welt: Anthropic verhandelt offenbar über einen Zehn-Milliarden-Dollar-Rechenleistungsdeal mit Meta, xAI bestätigt bereits einen Nachfolger für Grok 4.5, und Google DeepMind stellt seinen Plan gegen den Missbrauch von KI in der Biologie vor.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html">Anthropic in early talks with Meta to acquire compute power</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.basenor.com/blogs/news/grok-4-6-confirmed-what-we-know-from-the-xai-roadmap">Grok 4.6 Confirmed: What We Know From the xAI Roadmap</a> <em>(basenor.com)</em></li>
-<li><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">Google DeepMind and Isomorphic Labs approach to bioresilience</a> <em>(deepmind.google)</em></li>
-<li><a href="https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/">Examining Google DeepMind's AI bioresilience push</a> <em>(artificialintelligence-news.com)</em></li>
-<li><a href="https://openai.com/news/">OpenAI News: GPT-Red: Unlocking Self-Improvement for Robustness</a> <em>(openai.com)</em></li>
-<li><a href="https://openai.com/news/">OpenAI News: Why teens deserve access to safe AI</a> <em>(openai.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Ein ruhiges Wochenende in der KI-Welt: Anthropic verhandelt offenbar über einen Zehn-Milliarden-Dollar-Rechenleistungsdeal mit Meta, xAI bestätigt bereits einen Nachfolger für Grok 4.5, und Google DeepMind stellt seinen Plan gegen den Missbrauch von KI in der Biologie vor.</itunes:summary>
-      <pubDate>Sun, 19 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-19</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-19/2026-07-19.mp3" length="3137036" type="audio/mpeg"/>
-      <itunes:duration>6:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
