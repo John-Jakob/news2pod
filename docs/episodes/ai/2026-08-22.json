@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 22. August 2026: Meta-Prozess belastet Zuckerberg, Google kauft sich bei Marvell ein",
+  "teaser": "Neue Enthüllungen im Meta-Kinderschutzprozess, ein milliardenschwerer Chip-Deal zwischen Google und Marvell und Anthropics umstrittene Gmail-Automatisierung: Das KI Daily-Briefing für den 22. August 2026.",
+  "pubDate": "2026-08-22T06:00:00+02:00",
+  "duration_seconds": 327,
+  "size_bytes": 2617722,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-22/2026-08-22.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 162174,
+    "output_tokens": 7230
+  },
+  "sources": [
+    {
+      "headline": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
+      "source": "nbcnews.com",
+      "url": "https://www.nbcnews.com/tech/social-media/zuckerberg-encouraged-growth-child-safety-ex-meta-executive-testifies-rcna593509",
+      "published": "2026-08-20"
+    },
+    {
+      "headline": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal",
+      "source": "reuters.com (via lufkindailynews.com)",
+      "url": "https://lufkindailynews.com/news_reuters/business/marvell-gives-google-option-to-buy-12-2-billion-stake-in-custom-ai-chip-deal/article_43bf96d0-9430-5b71-a8c0-869fa803d330.html",
+      "published": "2026-08-19"
+    },
+    {
+      "headline": "Claude can now send emails in Gmail, even without your approval",
+      "source": "9to5google.com",
+      "url": "https://9to5google.com/2026/08/18/claude-can-now-send-emails-in-gmail-even-without-your-approval/",
+      "published": "2026-08-18"
+    },
+    {
+      "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "published": "2026-08-20"
+    },
+    {
+      "headline": "Moonshot, ZAI Close to OpenAI and Anthropic Model Performance",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance",
+      "published": "2026-08-20"
+    },
+    {
+      "headline": "SK Hynix share buyback amid AI capex durability concerns",
+      "source": "aiweekly.co (Reuters/Bloomberg sourced)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-08-19/20"
+    },
+    {
+      "headline": "Brazil announces roughly $444 million in AI investments involving Huawei and iFlytek",
+      "source": "techstartups.com (Bloomberg sourced)",
+      "url": "https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/",
+      "published": "2026-08-21"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, 22. August 2026.\n\nWir beginnen mit einem Update zum Kinderschutzprozess gegen Meta in Oakland, Kalifornien. Nach dem fulminanten Auftakt in der vergangenen Woche hat die Aussage des früheren Meta-Managers Arturo Béjar für zusätzliches Gewicht gesorgt. Der ehemalige Engineering-Direktor sagte am Mittwoch aus, Firmenchef Mark Zuckerberg habe eine Unternehmenskultur gefördert, die Kindersicherheit gegenüber Wachstum und Nutzerbindung auf Facebook und Instagram klar nachrangig behandelte. Béjar, der acht Jahre lang im Sicherheitsbereich von Meta gearbeitet hatte, warf dem Konzern zudem vor, ein Pausen-Feature für Nutzer sei bewusst so gestaltet worden, dass es kaum genutzt wird, weil es nicht standardmäßig aktiviert ist. Kalifornien, Colorado, Kentucky und New Jersey werfen Meta vor, die Plattformen gezielt süchtig machend gestaltet und die Öffentlichkeit über die Risiken getäuscht zu haben. Der Prozess soll insgesamt rund sechs Wochen dauern, mit weiteren Aussagen von Zuckerberg selbst und Instagram-Chef Adam Mosseri.\n\nAuf der Infrastrukturseite gibt es einen weiteren milliardenschweren Deal in der KI-Chip-Welt. Der Halbleiterhersteller Marvell hat Google das Recht eingeräumt, im Rahmen einer erweiterten Partnerschaft Aktien im Wert von bis zu zwölf Komma zwei Milliarden Dollar zu erwerben. Die Vereinbarung deckt Komponenten rund um Googles hauseigene Tensor-Prozessoren ab, etwa Interconnect- und Speicherchips. Sollte Google alle vereinbarten Einkaufsziele erreichen, könnte der Deal Marvell bis zum Geschäftsjahr 2033 rund 120 Milliarden Dollar an Umsatz bringen. Die Marvell-Aktie sprang um fast zehn Prozent nach oben, während der bisherige Google-Partner Broadcom deutlich verlor. Der Deal zeigt einmal mehr, wie stark Big-Tech-Konzerne inzwischen direkt in ihre Zulieferketten investieren, um von Nvidia unabhängiger zu werden.\n\nBei Anthropic sorgt eine neue Funktion für Diskussionen. Das Unternehmen hat sein Claude-Modell so erweitert, dass es E-Mails in Gmail nicht nur entwerfen, sondern auch eigenständig versenden, beantworten und weiterleiten kann, ohne dass Nutzer jede einzelne Aktion bestätigen müssen. Standardmäßig fragt Claude zwar weiterhin um Erlaubnis, doch Team- und Enterprise-Kunden können diese Bestätigung deaktivieren lassen. Die Funktion ist bislang nur zahlenden Nutzern vorbehalten und orientiert sich an den bestehenden Zugriffsrechten im jeweiligen Google-Konto. In den sozialen Medien reagierten viele Google-Workspace-Nutzer skeptisch auf die Vorstellung, dass eine KI ungesehen in ihrem Namen kommuniziert.\n\nIm Wettbewerb zwischen OpenAI und Anthropic gibt es frische Zahlen. Nach Daten des Kreditkarten- und Ausgabenmanagement-Anbieters Ramp hat OpenAI im Juli bei US-Geschäftskunden wieder aufgeholt, nachdem Anthropic im Mai erstmals die Marktführerschaft übernommen hatte. Aktuell liegt Anthropic bei rund vierundvierzig Prozent Marktanteil unter den Ramp-Kunden, OpenAI bei knapp vierzig Prozent, wächst aber im laufenden Quartal schneller. Die Daten zeigen, wie volatil der Wettbewerb bleibt und wie schnell sich Kundenpräferenzen mit jedem neuen Modell-Release verschieben können.\n\nAuch aus China kommen neue Signale. Laut Bloomberg schließen chinesische Modelle wie Moonshots Kimi K3 und ZAI den Abstand zu den US-Spitzenreitern OpenAI und Anthropic schneller als erwartet, trotz eingeschränktem Zugang zu Kapital und den leistungsfähigsten Nvidia-Chips. Die günstigen Preise chinesischer Anbieter setzen die etablierten US-Labore zusätzlich unter Druck, was sich bereits in den Preissenkungen bei OpenAI und Anthropic bemerkbar macht.\n\nZum Abschluss ein Blick auf die Marktseite: Der Speicherchip-Hersteller SK Hynix kündigte einen Aktienrückkauf im Wert von umgerechnet rund achtundzwanzig Milliarden Dollar an, nachdem die Aktie zuvor wegen Zweifeln an der Nachhaltigkeit der milliardenschweren KI-Investitionen der großen Cloud-Anbieter zeitweise um fast zehn Prozent eingebrochen war. Und Brasilien hat Investitionen in Höhe von rund vierhundertvierundvierzig Millionen Dollar in heimische KI-Infrastruktur angekündigt, unter anderem gemeinsam mit den chinesischen Unternehmen Huawei und iFlytek, ein Zeichen dafür, dass auch kleinere Länder versuchen, sich zwischen den geopolitischen Blöcken eigene KI-Kapazitäten zu sichern.\n\nDas war dein KI Daily-Briefing für heute. Wir behalten den Meta-Prozess, die Chip-Deals und den Wettlauf zwischen den großen Modellanbietern weiter im Blick. Bis morgen."
+}
