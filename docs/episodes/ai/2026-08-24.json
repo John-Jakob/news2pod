@@ -1,0 +1,40 @@
+{
+  "title": "KI Daily – 24. August 2026: Wochenend-Rückblick zur Anthropic-Mega-IPO",
+  "teaser": "Der Wochenend-Rückblick: Anthropic rüstet sich für eine der größten Börsengänge der Geschichte, während die AI-Backlash-Stimmung zum offiziellen Risikofaktor wird. Außerdem ein Blick auf den ruhigen Nachrichtenverlauf am Wochenende rund um den Meta-Prozess.",
+  "pubDate": "2026-08-24T06:00:00+02:00",
+  "duration_seconds": 290,
+  "size_bytes": 2324106,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-24/2026-08-24.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 176837,
+    "output_tokens": 4860
+  },
+  "sources": [
+    {
+      "headline": "Anthropic could publicly file IPO paperwork as soon as this month",
+      "source": "yahoo.com (Bloomberg)",
+      "url": "https://finance.yahoo.com/technology/article/anthropic-could-publicly-file-ipo-paperwork-as-soon-as-this-month-192026244.html",
+      "published": "2026-08-21"
+    },
+    {
+      "headline": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "published": "2026-08-21"
+    },
+    {
+      "headline": "First week of California Meta trial spotlights internal emails and whistleblowers",
+      "source": "wgme.com (AP)",
+      "url": "https://wgme.com/news/nation-world/first-week-of-california-meta-trial-spotlights-internal-emails-and-whistleblowers",
+      "published": "2026-08-22"
+    },
+    {
+      "headline": "AI News Today, August 22 — New data on OpenAI vs Anthropic enterprise share",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-08-22"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Monday, 24. August 2026. Das ist unsere Montagsausgabe, wir blicken also auf das Wochenende zurück, konkret auf Samstag und Sonntag. Und ehrlich gesagt war es ein eher ruhiges Wochenende in der KI-Welt, die großen Nachrichtenmaschinen der Branche haben Pause gemacht. Trotzdem gibt es eine Geschichte, die sich über die letzten Tage deutlich verdichtet hat, und die schauen wir uns heute genauer an.\n\n===\n\nIm Zentrum steht Anthropic, das Unternehmen hinter Claude. Berichten von Bloomberg zufolge bereitet sich Anthropic darauf vor, noch in diesem Monat die öffentlichen Unterlagen für seinen Börsengang einzureichen. \nAnthropic bereitet sich darauf vor, die Papiere für seinen Börsengang schon Ende des Monats öffentlich einzureichen, und peilt laut Bloomberg an, den rekordverdächtigen Börsengang von SpaceX in Höhe von 75 Milliarden Dollar zu erreichen oder sogar zu übertreffen.\n Sollte Anthropic seinen Zeitplan halten, würde das Unternehmen seinem großen Rivalen OpenAI klar zuvorkommen, der ebenfalls für später in diesem Jahr oder Anfang 2027 einen Börsengang plant.\n\nBesonders interessant ist, was laut CNBC im Kleingedruckten des Börsenprospekts stehen dürfte. \nAnthropic steht kurz davor, an die Börse zu gehen, zu einem Zeitpunkt, an dem immer mehr Amerikaner sich Sorgen um künstliche Intelligenz machen und sich lautstark gegen neue Rechenzentren wehren. Dieser Gegenwind dürfte laut informierten Personen ein zentraler Risikofaktor im Börsenprospekt von Anthropic werden.\n Das ist bemerkenswert, denn es zeigt, wie sehr sich die öffentliche Stimmung gegenüber der KI-Industrie in diesem Jahr gewandelt hat. Nicht mehr nur technologische Fortschritte oder Konkurrenzdruck werden als Risiko benannt, sondern gesellschaftlicher Widerstand selbst wird zum offiziellen Geschäftsrisiko erklärt.\n\nKonkret laufen bereits erste vertrauliche Gespräche mit Investoren. \nDer Claude-Entwickler führt bereits vorläufige Sondierungsgespräche mit Banken und Investoren in San Francisco, bei denen Finanzchefin Krishna Rao unter anderem zu Wettbewerbsdruck, sinkenden Margen durch Open-Source-Modelle und den Folgen einer möglichen Verlangsamung beim Bau von Rechenzentren befragt wird.\n Die Rechenkapazität ist für ein Unternehmen wie Anthropic direkt mit dem Umsatzwachstum verknüpft, entsprechend genau schauen Investoren auf dieses Thema.\n\n===\n\nDer zweite große Handlungsstrang, den viele von euch aus den letzten Ausgaben kennen, ist der Kindesschutz-Prozess gegen Meta in Oakland, Kalifornien. Hier gab es über das Wochenende keine grundlegend neue Entwicklung, die erste Prozesswoche ist inzwischen abgeschlossen. Zur Erinnerung, worum es geht: Vier Bundesstaaten werfen Meta vor, seine Plattformen bewusst süchtig machend gestaltet und die Öffentlichkeit über die Risiken für Jugendliche getäuscht zu haben. Der Prozess soll insgesamt rund sechs Wochen dauern, und Beobachter erwarten, dass in den kommenden Wochen weitere prominente Zeugen aussagen werden, möglicherweise auch Mark Zuckerberg selbst. Wir bleiben dran und melden uns, sobald es dort substanzielle neue Aussagen oder eine Entwicklung im Verfahren gibt.\n\nAuf der Wettbewerbsseite zwischen den großen Modellanbietern zeichnet sich weiterhin ab, was schon am Freitag berichtet wurde, nämlich dass OpenAI im Unternehmenskundengeschäft gegenüber Anthropic aufholt. Firmen wechseln offenbar relativ leichtfüßig zwischen den Anbietern, je nachdem, wer gerade das neueste Modell veröffentlicht hat, ein Zeichen dafür, wie wenig gefestigt die Kundenbindung im Unternehmensmarkt für KI bislang tatsächlich ist.\n\n===\n\nDas war es für unseren Wochenend-Rückblick. Die Woche dürfte spannend werden, denn mit einer möglichen Anthropic-Einreichung bei der amerikanischen Börsenaufsicht könnten wir schon in den kommenden Tagen die ersten offiziellen Zahlen zu Umsatz und Verlusten des Unternehmens sehen. Auch der Meta-Prozess geht in seine zweite Woche. Wir halten euch wie gewohnt auf dem Laufenden. Das war KI Daily für den 24. August. Danke fürs Zuhören, und bis morgen."
+}
