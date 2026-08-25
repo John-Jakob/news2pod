@@ -1,0 +1,40 @@
+{
+  "title": "KI Daily – 25. August 2026: Nvidia-Deals mit xAI und Perplexity, Meta-Prozess geht weiter",
+  "teaser": "Nvidia sichert sich einen CPU-Deal mit SpaceXAI und prüft eine Beteiligung an Perplexity, während in China Alibaba und XPeng Milliarden in KI und Robotik stecken. Außerdem ein Update aus dem Meta-Kindersicherheitsprozess.",
+  "pubDate": "2026-08-25T06:00:00+02:00",
+  "duration_seconds": 278,
+  "size_bytes": 2231319,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-25/2026-08-25.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 120080,
+    "output_tokens": 4790
+  },
+  "sources": [
+    {
+      "headline": "NVIDIA and SpaceXAI to deploy Vera CPUs for agentic AI applications",
+      "source": "nvidianews.nvidia.com",
+      "url": "https://nvidianews.nvidia.com/news",
+      "published": "2026-08-24"
+    },
+    {
+      "headline": "Nvidia is discussing an investment in Perplexity as part of a new open-weight AI push",
+      "source": "techstartups.com",
+      "url": "https://techstartups.com/2026/08/24/top-tech-news-today-august-24-2026-alibaba-amazon-hugging-face-nvidia-xpeng-more/",
+      "published": "2026-08-24"
+    },
+    {
+      "headline": "Alibaba pairs new AI video model with billions in infrastructure spending; XPeng raises over $900 million for humanoid robots",
+      "source": "techstartups.com",
+      "url": "https://techstartups.com/2026/08/24/top-tech-news-today-august-24-2026-alibaba-amazon-hugging-face-nvidia-xpeng-more/",
+      "published": "2026-08-24"
+    },
+    {
+      "headline": "Update: Meta-Kindersicherheitsprozess – Expertin Jean Twenge sagt weiter aus, Zuckerbergs Aussage weiter offen",
+      "source": "npr.org",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5936640/the-first-week-of-testimony-wraps-in-the-federal-child-safety-case-against-meta",
+      "published": "2026-08-20 (Fortsetzung diese Woche)"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Dienstag, den 25. August 2026.\n\n===\n\nWir beginnen bei Nvidia, das gestern gleich zwei bemerkenswerte Ankündigungen gemacht hat. Zum einen wird Nvidia seine neuen Vera-CPUs künftig bei SpaceXAI einsetzen, um agentenbasierte KI-Anwendungen zu beschleunigen. Damit bringt Nvidia laut eigener Mitteilung die erste speziell für KI-Agenten entwickelte CPU in eine der ambitioniertesten KI-Umgebungen der Welt. Der Hintergrund: Agentische KI-Workloads, bei denen Systeme selbstständig recherchieren, Datenbanken abfragen und Entscheidungen vorbereiten, verbrauchen laut Daten von OpenRouter etwa fünfzehnmal mehr Rechenleistung als ein einfacher Chat-Befehl. Das erklärt, warum Chip-Hersteller wie Nvidia jetzt gezielt Hardware für genau solche autonomen Anwendungen bauen.\n\n===\n\nZum anderen verhandelt Nvidia offenbar über eine Investition in Perplexity, den KI-gestützten Such- und Antwortdienst. Laut Berichten vom Wochenende erwägt der Chip-Konzern zudem, größere Summen in offene, quelloffene KI-Modelle zu stecken. Das würde die Strategie von Nvidia unterstreichen, sich nicht mehr nur als reiner Hardware-Lieferant zu positionieren, sondern als aktiver Finanzier der gesamten KI-Infrastruktur, von Chips über Cloud-Kapazitäten bis hin zu einzelnen KI-Anwendungen.\n\n===\n\nAuch aus China kommen neue Signale für den globalen KI-Wettlauf. Alibaba hat ein neues KI-Videomodell vorgestellt und kündigt gleichzeitig milliardenschwere Investitionen in die dazugehörige Infrastruktur an. Parallel dazu hat der chinesische Elektroauto- und Robotik-Hersteller XPeng mehr als neunhundert Millionen Dollar frisches Kapital eingesammelt. Das Geld soll in die Entwicklung humanoider Roboter fließen, insbesondere in die Serienproduktion des IRON-Roboters, die XPeng noch in diesem Jahr starten will. Diese Bewegungen zeigen, dass der KI-Wettbewerb längst nicht mehr nur zwischen amerikanischen Anbietern wie OpenAI, Anthropic und Google DeepMind ausgetragen wird, sondern zunehmend auch aus Hongkong, Peking und Tokio kräftige Finanzierungswellen kommen.\n\n===\n\nEin Update gibt es außerdem aus dem viel beachteten Gerichtsprozess gegen Meta in Oakland, Kalifornien. Nach der ersten Prozesswoche, in der bereits ein früherer Meta-Ingenieur und eine Ex-Führungskraft ausgesagt hatten, dass Kinder- und Jugendschutz bei Meta systematisch hinter Wachstumszielen zurückgestellt wurde, geht der Prozess diese Woche mit weiteren Expertenaussagen weiter. Im Mittelpunkt steht die Psychologieprofessorin Jean Twenge von der San Diego State University. Sie hatte bereits ausgesagt, dass die psychische Gesundheit von Jugendlichen um das Jahr 2010 herum einen deutlichen Einbruch erlebte, zeitgleich mit der explosionsartigen Verbreitung von Smartphones und sozialen Medien, und dass mehr Nutzungsstunden mit einer höheren Wahrscheinlichkeit für Depressionen einhergehen. Ihre Aussage soll diese Woche fortgesetzt werden. Weiterhin unklar ist, wann genau Meta-Chef Mark Zuckerberg selbst in den Zeugenstand treten wird, er steht aber offiziell auf der Zeugenliste der klagenden Bundesstaaten. Der Prozess, den vier US-Bundesstaaten angestrengt haben, dürfte sich bis in den Oktober hineinziehen und gilt als eines der bislang folgenreichsten Verfahren gegen einen Social-Media-Konzern.\n\n===\n\nDas war's für heute. Im Blick behalten sollten wir in den kommenden Tagen vor allem, ob Nvidia seine Perplexity-Gespräche tatsächlich in eine offizielle Investition ummünzt, und wie sich die Aussagen im Meta-Prozess weiterentwickeln, sobald Mark Zuckerberg selbst aussagen muss. Auch bei Anthropics angekündigter Mega-Börsennotierung dürfte in den nächsten Wochen Bewegung reinkommen. Danke fürs Zuhören bei KI Daily, wir hören uns morgen wieder."
+}
