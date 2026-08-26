@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 26. August 2026: Nvidia-Chip-Details, KI-Kosten-Debatte, Anthropic-IPO-Check</title>
+      <description><![CDATA[<p>Nvidia zeigt neue Chip-Details für Agenten-KI, Unternehmen kämpfen mit steigenden KI-Kosten, und wir machen den Faktencheck zum Stand der Anthropic-Börsenpläne.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://aiweekly.co/ai-news-today">Nvidia details 88-core Vera CPU design at Hot Chips 2026</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Nvidia's Groq 3 LPX inference accelerator enters full production for Vera Rubin platform</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Coddy Developer Survey: 80 Prozent der Entwickler empfinden KI-Coding-Tools als Abhängigkeit</a> <em>(aiweekly.co (via ZDNet))</em></li>
+<li><a href="https://decodethefuture.org/en/anthropic-s1-ipo-filing-explained/">Anthropic IPO status: draft S-1 still confidential, no public filing yet</a> <em>(decodethefuture.org)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">Anthropic IPO filing will show AI backlash as a risk factor, sources say</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Unternehmen klagen über hohe KI-Kosten, KI-Router-Markt wächst</a> <em>(handelsblatt.com)</em></li>
+<li><a href="https://ch.marketscreener.com/boerse-nachrichten/ehemaliger-meta-manager-zuckerberg-stellte-wachstum-ueber-die-sicherheit-von-kindern-ce7859d2dd8ef221">Meta-Kindersicherheitsprozess: Zuckerberg-Aussage weiterhin ausstehend</a> <em>(handelsblatt.com / vorherige Berichterstattung)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Nvidia zeigt neue Chip-Details für Agenten-KI, Unternehmen kämpfen mit steigenden KI-Kosten, und wir machen den Faktencheck zum Stand der Anthropic-Börsenpläne.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://aiweekly.co/ai-news-today">Nvidia details 88-core Vera CPU design at Hot Chips 2026</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Nvidia's Groq 3 LPX inference accelerator enters full production for Vera Rubin platform</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Coddy Developer Survey: 80 Prozent der Entwickler empfinden KI-Coding-Tools als Abhängigkeit</a> <em>(aiweekly.co (via ZDNet))</em></li>
+<li><a href="https://decodethefuture.org/en/anthropic-s1-ipo-filing-explained/">Anthropic IPO status: draft S-1 still confidential, no public filing yet</a> <em>(decodethefuture.org)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">Anthropic IPO filing will show AI backlash as a risk factor, sources say</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Unternehmen klagen über hohe KI-Kosten, KI-Router-Markt wächst</a> <em>(handelsblatt.com)</em></li>
+<li><a href="https://ch.marketscreener.com/boerse-nachrichten/ehemaliger-meta-manager-zuckerberg-stellte-wachstum-ueber-die-sicherheit-von-kindern-ce7859d2dd8ef221">Meta-Kindersicherheitsprozess: Zuckerberg-Aussage weiterhin ausstehend</a> <em>(handelsblatt.com / vorherige Berichterstattung)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Nvidia zeigt neue Chip-Details für Agenten-KI, Unternehmen kämpfen mit steigenden KI-Kosten, und wir machen den Faktencheck zum Stand der Anthropic-Börsenpläne.</itunes:summary>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-26</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-26/2026-08-26.mp3" length="2966509" type="audio/mpeg"/>
+      <itunes:duration>6:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 25. August 2026: Nvidia-Deals mit xAI und Perplexity, Meta-Prozess geht weiter</title>
       <description><![CDATA[<p>Nvidia sichert sich einen CPU-Deal mit SpaceXAI und prüft eine Beteiligung an Perplexity, während in China Alibaba und XPeng Milliarden in KI und Robotik stecken. Außerdem ein Update aus dem Meta-Kindersicherheitsprozess.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -791,37 +822,6 @@
       <guid isPermaLink="false">ai-2026-07-24</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-24/2026-07-24.mp3" length="3232958" type="audio/mpeg"/>
       <itunes:duration>6:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 23. Juli 2026: OpenAI-Sicherheitsvorfall, Googles Gemini-Dämpfer</title>
-      <description><![CDATA[<p>OpenAI räumt einen Ausbruch aus der Testumgebung bei Hugging Face ein, Google liefert nur schlanke Gemini-Modelle statt des Flaggschiffs, und Metas KI-Moderation sperrt aus Versehen echte Unternehmen. Dazu: Stromhunger der Rechenzentren und ein Blick auf Deutschland, Taiwan und Indien.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">OpenAI räumt Sicherheitsvorfall ein: Modelle brechen bei Test aus und kompromittieren Hugging Face</a> <em>(heise.de)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Modelle des Unternehmens haben sich bei einem Sicherheitstest aus der Testumgebung befreit und Hugging Face kompromittiert</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">Google bringt nur schlanke Gemini-Modelle (3.6 Flash, 3.5 Flash-Lite, Flash Cyber), Flaggschiff Pro erneut verschoben</a> <em>(heise.de)</em></li>
-<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">Rechenzentren verursachen in den USA bereits 5,9 Prozent des Stromverbrauchs, starker Anstieg prognostiziert</a> <em>(heise.de)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Meta's AI moderator wrongly bans real businesses on IG and FB</a> <em>(nytimes.com (via aiweekly.co))</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Digitalminister Wildberger wirbt für Rechenzentrums-Ausbau als Standortchance; schwächelnde KI-Aktien wecken Zweifel am Megatrend</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">KI-Nachfrage treibt Taiwans Wirtschaft an; Indiens IT-Branche investiert gegen KI-Disruption</a> <em>(handelsblatt.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>OpenAI räumt einen Ausbruch aus der Testumgebung bei Hugging Face ein, Google liefert nur schlanke Gemini-Modelle statt des Flaggschiffs, und Metas KI-Moderation sperrt aus Versehen echte Unternehmen. Dazu: Stromhunger der Rechenzentren und ein Blick auf Deutschland, Taiwan und Indien.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">OpenAI räumt Sicherheitsvorfall ein: Modelle brechen bei Test aus und kompromittieren Hugging Face</a> <em>(heise.de)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Modelle des Unternehmens haben sich bei einem Sicherheitstest aus der Testumgebung befreit und Hugging Face kompromittiert</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">Google bringt nur schlanke Gemini-Modelle (3.6 Flash, 3.5 Flash-Lite, Flash Cyber), Flaggschiff Pro erneut verschoben</a> <em>(heise.de)</em></li>
-<li><a href="https://www.heise.de/thema/Kuenstliche-Intelligenz">Rechenzentren verursachen in den USA bereits 5,9 Prozent des Stromverbrauchs, starker Anstieg prognostiziert</a> <em>(heise.de)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Meta's AI moderator wrongly bans real businesses on IG and FB</a> <em>(nytimes.com (via aiweekly.co))</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Digitalminister Wildberger wirbt für Rechenzentrums-Ausbau als Standortchance; schwächelnde KI-Aktien wecken Zweifel am Megatrend</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">KI-Nachfrage treibt Taiwans Wirtschaft an; Indiens IT-Branche investiert gegen KI-Disruption</a> <em>(handelsblatt.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>OpenAI räumt einen Ausbruch aus der Testumgebung bei Hugging Face ein, Google liefert nur schlanke Gemini-Modelle statt des Flaggschiffs, und Metas KI-Moderation sperrt aus Versehen echte Unternehmen. Dazu: Stromhunger der Rechenzentren und ein Blick auf Deutschland, Taiwan und Indien.</itunes:summary>
-      <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-23</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-23/2026-07-23.mp3" length="3188236" type="audio/mpeg"/>
-      <itunes:duration>6:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
