@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 27. August 2026: Nvidia-Perplexity-Deal, OpenAI-Abgang, Unitree-Absturz",
+  "teaser": "Nvidia verhandelt offenbar über eine Milliardeninvestition in Perplexity, bei OpenAI verlässt ein weiterer ranghoher Manager das Unternehmen, und Chinas Humanoid-Roboter-Börsenstar Unitree verliert massiv an Wert. Das und mehr im heutigen Briefing.",
+  "pubDate": "2026-08-27T06:00:00+02:00",
+  "duration_seconds": 309,
+  "size_bytes": 2479795,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-27/2026-08-27.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 169324,
+    "output_tokens": 4947
+  },
+  "sources": [
+    {
+      "headline": "Perplexity Deal Highlights a Pattern in Nvidia's AI Investments",
+      "source": "tradingview.com (via Benzinga)",
+      "url": "https://www.tradingview.com/news/benzinga:c85cb1694094b:0-perplexity-deal-highlights-a-pattern-in-nvidia-s-ai-investments/",
+      "published": "2026-08-25"
+    },
+    {
+      "headline": "Nvidia in talks to invest in Perplexity at over $30 billion valuation",
+      "source": "americanbazaaronline.com",
+      "url": "https://americanbazaaronline.com/2026/08/25/nvidia-in-talks-to-invest-in-perplexity-at-over-30-billion-valuation-486981/",
+      "published": "2026-08-26"
+    },
+    {
+      "headline": "Nvidia Perplexity investment: $30B valuation talks (inkl. OpenAI-Exec-Abgang)",
+      "source": "valueaddvc.com",
+      "url": "https://valueaddvc.com/pulse/nvidia-perplexity-30-billion-investment-talks-2026",
+      "published": "2026-08-25"
+    },
+    {
+      "headline": "Unitree crashes 45% post-IPO, wiping $30B from valuation",
+      "source": "aiweekly.co (Reuters/Yahoo Finance)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-08-25"
+    },
+    {
+      "headline": "Latest AI Model Releases — GLM-5.3-Flash by Z.ai",
+      "source": "aireleasetracker.com",
+      "url": "https://aireleasetracker.com/latest",
+      "published": "2026-08-26"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, den 27. August 2026.\n\nWir beginnen heute bei Nvidia, denn dort verdichten sich die Berichte über eine mögliche Investition in Perplexity. Laut Informationen, über die mehrere Wirtschaftsmedien berichten, führt Nvidia Gespräche über eine Beteiligung an einer neuen Finanzierungsrunde des KI-Suchunternehmens, die Perplexity mit mehr als dreißig Milliarden Dollar bewerten würde. Das wäre ein Anstieg von über fünfzig Prozent gegenüber der letzten Runde. Perplexity wächst dabei rasant, die annualisierte Umsatzrate ist von rund zweihundertfünfzig Millionen Dollar zu Jahresbeginn auf inzwischen über siebenhundertfünfzig Millionen Dollar gestiegen, getrieben vor allem durch die Agenten-Plattform Perplexity Computer. Gleichzeitig berichten Insider, dass Nvidia parallel einen mehrere Milliarden Dollar schweren Deal mit Perplexity sowie eine Investition in ein Unternehmen für Rechenzentrums-Stromversorgung vorbereitet. Beobachter sprechen von einem sich wiederholenden Muster: Nvidia investiert immer wieder in Firmen, die anschließend genau die Chips kaufen, die Nvidia selbst herstellt. Kritiker nennen das zirkuläre Finanzierung, weil das Kapital am Ende oft wieder bei Nvidia landet. Für Perplexity selbst wäre die Investition eine weitere Bestätigung der engen Partnerschaft, die Firma hatte erst kürzlich angekündigt, Nvidias neue Vera-Prozessoren für ihre KI-Agenten-Workloads einzusetzen.\n\n===\n\nBei OpenAI gibt es unterdessen weitere personelle Bewegung an der Spitze. Berichten zufolge hat der Leiter der Rechenzentrums-Abteilung, Chris Malone, das Unternehmen verlassen, nach rund siebzehn Monaten im Amt. Das reiht sich ein in eine ganze Serie hochrangiger Abgänge, darunter die operative Chefin, die Umsatzchefin sowie eine weitere Führungskraft aus der zweiten Reihe. Diese Wechsel fallen in eine Phase, in der OpenAI sich Berichten zufolge auf einen möglichen Börsengang im Jahr zweitausendsiebenundzwanzig vorbereitet. Angesichts des enormen Kapitalbedarfs für den Ausbau von Rechenzentren dürfte gerade der Abgang des Infrastruktur-Chefs in der Branche aufmerksam registriert werden.\n\n===\n\nEin weiteres Thema mit Signalwirkung kommt aus China. Der humanoide Roboterhersteller Unitree, der erst vor einer Woche mit einem fulminanten Börsendebüt und einem Kurssprung von rund vierhundertsechzig Prozent am ersten Handelstag für Aufsehen sorgte, hat seitdem massiv an Wert verloren. Nach drei aufeinanderfolgenden Verlusttagen sind rund fünfundvierzig Prozent des Firmenwerts wieder verschwunden, das entspricht ungefähr dreißig Milliarden Dollar, die vom einstigen Spitzenwert von sechsundsechzig Milliarden Dollar abgeschmolzen sind. Analysten sehen darin neue Nahrung für Blasen-Sorgen rund um Chinas IPO-System, das durch eingeschränkten Leerverkauf, staatlich kontrollierte Preisbildung und eine sehr aktive Beteiligung von Kleinanlegern geprägt ist. Der Fall Unitree zeigt exemplarisch, wie volatil der Humanoid-Robotik-Hype derzeit gehandelt wird.\n\n===\n\nAuf der Modellseite bleibt das Tempo hoch. Das chinesische Labor Z-Punkt-AI hat mit GLM fünf Punkt drei Flash das nach aktuellem Stand jüngste Frontier-Modell veröffentlicht und reiht sich damit in eine dichte Folge neuer Modellversionen aus Fernost ein, die die internationalen Ranglisten für Sprachmodelle in den vergangenen Wochen spürbar aufgemischt haben. Für Entwickler und Unternehmen bedeutet das einmal mehr, dass sich die Bewertung von Kosten, Geschwindigkeit und Qualität der verschiedenen Anbieter praktisch im Wochentakt verschiebt.\n\n===\n\nZum Abschluss noch ein kurzer Blick auf den Kindersicherheitsprozess gegen Meta in Oakland, den wir in den vergangenen Tagen bereits ausführlich verfolgt haben. Der Prozess läuft weiter, die Beweisaufnahme mit internen E-Mails und Zeugenaussagen ehemaliger Mitarbeitender dauert an, eine Aussage von Mark Zuckerberg selbst steht nach wie vor aus. Sobald es dort neue, substanzielle Entwicklungen gibt, hören Sie es an dieser Stelle.\n\nDas war's für heute. Die Investitionslandschaft rund um Nvidia bleibt also weiterhin das prägende Thema der Branche, während sich in Peking und im Silicon Valley gleichermaßen zeigt, wie schnell Bewertungen und Führungsriegen im KI-Rennen in Bewegung geraten können. Wir sind morgen wieder für dich da. Bis dahin, alles Gute."
+}
