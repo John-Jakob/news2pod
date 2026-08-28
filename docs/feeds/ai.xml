@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 28. August 2026: Gates warnt, Grok-Lücke, OpenAI-Bericht</title>
+      <description><![CDATA[<p>Bill Gates schlägt in einem großen Essay Alarm vor den Risiken der KI für Jobs und Kinder, eine Sicherheitslücke bei Grok bleibt trotz mehrfacher Meldung ungepatcht, und OpenAI veröffentlicht seinen Untersuchungsbericht zum Hugging-Face-Zwischenfall.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.washingtonpost.com/technology/2026/08/26/bill-gates-says-he-worried-ai-will-harm-workers-kids-society/">Bill Gates warnt in großem Essay vor AI-Risiken für Jobs, Kinder und Sicherheit</a> <em>(washingtonpost.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html">Bill Gates: 'There is no plan' für die KI-Umwälzung</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019">Grok bleibt Wochen nach Meldung weiter anfällig für 'Cryptographic Context Injection'</a> <em>(theregister.com)</em></li>
+<li><a href="https://www.arturmarkus.com/grok-still-leaks-full-chat-histories-11-weeks-after-disclosure-aes-256-encrypted-prompts-beat-guardrails-40-of-the-time/">Grok leakt weiterhin volle Chat-Historien – 40 Prozent Erfolgsquote laut Adversa AI</a> <em>(arturmarkus.com)</em></li>
+<li><a href="https://openai.com/news/company-announcements/">OpenAI veröffentlicht Untersuchungsbericht zum Hugging-Face-Vorfall</a> <em>(openai.com)</em></li>
+<li><a href="https://openai.com/news/company-announcements/">OpenAI kündigt Ausbau der Präsenz in Brasilien an</a> <em>(openai.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Bill Gates schlägt in einem großen Essay Alarm vor den Risiken der KI für Jobs und Kinder, eine Sicherheitslücke bei Grok bleibt trotz mehrfacher Meldung ungepatcht, und OpenAI veröffentlicht seinen Untersuchungsbericht zum Hugging-Face-Zwischenfall.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.washingtonpost.com/technology/2026/08/26/bill-gates-says-he-worried-ai-will-harm-workers-kids-society/">Bill Gates warnt in großem Essay vor AI-Risiken für Jobs, Kinder und Sicherheit</a> <em>(washingtonpost.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html">Bill Gates: 'There is no plan' für die KI-Umwälzung</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019">Grok bleibt Wochen nach Meldung weiter anfällig für 'Cryptographic Context Injection'</a> <em>(theregister.com)</em></li>
+<li><a href="https://www.arturmarkus.com/grok-still-leaks-full-chat-histories-11-weeks-after-disclosure-aes-256-encrypted-prompts-beat-guardrails-40-of-the-time/">Grok leakt weiterhin volle Chat-Historien – 40 Prozent Erfolgsquote laut Adversa AI</a> <em>(arturmarkus.com)</em></li>
+<li><a href="https://openai.com/news/company-announcements/">OpenAI veröffentlicht Untersuchungsbericht zum Hugging-Face-Vorfall</a> <em>(openai.com)</em></li>
+<li><a href="https://openai.com/news/company-announcements/">OpenAI kündigt Ausbau der Präsenz in Brasilien an</a> <em>(openai.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Bill Gates schlägt in einem großen Essay Alarm vor den Risiken der KI für Jobs und Kinder, eine Sicherheitslücke bei Grok bleibt trotz mehrfacher Meldung ungepatcht, und OpenAI veröffentlicht seinen Untersuchungsbericht zum Hugging-Face-Zwischenfall.</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-28</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-28/2026-08-28.mp3" length="2709464" type="audio/mpeg"/>
+      <itunes:duration>5:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 27. August 2026: Nvidia-Perplexity-Deal, OpenAI-Abgang, Unitree-Absturz</title>
       <description><![CDATA[<p>Nvidia verhandelt offenbar über eine Milliardeninvestition in Perplexity, bei OpenAI verlässt ein weiterer ranghoher Manager das Unternehmen, und Chinas Humanoid-Roboter-Börsenstar Unitree verliert massiv an Wert. Das und mehr im heutigen Briefing.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -797,31 +826,6 @@
       <guid isPermaLink="false">ai-2026-07-26</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-26/2026-07-26.mp3" length="1832168" type="audio/mpeg"/>
       <itunes:duration>3:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 25. Juli 2026: Claude Opus 5 und Voice-Wettlauf</title>
-      <description><![CDATA[<p>Anthropic bringt mit Claude Opus 5 ein günstigeres Spitzenmodell, während OpenAI und Anthropic ihre Sprachassistenten auf dem Desktop aufrüsten. Ein bewusst kompaktes Briefing an einem ruhigeren Nachrichtentag.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html">Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.bloomberg.com/latest/anthropic">Anthropic Unveils More Cost-Efficient Model for Everyday Tasks</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/">OpenAI's new voice mode makes it to the ChatGPT desktop app</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html">AMD to invest up to $5 billion in Anthropic as part of computing power deal</a> <em>(cnbc.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Anthropic bringt mit Claude Opus 5 ein günstigeres Spitzenmodell, während OpenAI und Anthropic ihre Sprachassistenten auf dem Desktop aufrüsten. Ein bewusst kompaktes Briefing an einem ruhigeren Nachrichtentag.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html">Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.bloomberg.com/latest/anthropic">Anthropic Unveils More Cost-Efficient Model for Everyday Tasks</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/">OpenAI's new voice mode makes it to the ChatGPT desktop app</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html">AMD to invest up to $5 billion in Anthropic as part of computing power deal</a> <em>(cnbc.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Anthropic bringt mit Claude Opus 5 ein günstigeres Spitzenmodell, während OpenAI und Anthropic ihre Sprachassistenten auf dem Desktop aufrüsten. Ein bewusst kompaktes Briefing an einem ruhigeren Nachrichtentag.</itunes:summary>
-      <pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-25</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-25/2026-07-25.mp3" length="2843420" type="audio/mpeg"/>
-      <itunes:duration>5:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
