@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 29. August 2026: Anthropic siegt vor Gericht, Nvidia-Milliarden</title>
+      <description><![CDATA[<p>Ein Bundesrichter kippt die Pentagon-Blacklist gegen Anthropic, während Nvidia trotz Rekordquartal seine Cloud-Finanzierungsdeals pausiert und offenbar Hugging Face für fast 13 Milliarden Dollar kauft. Außerdem: Google DeepMind verliert Top-Talente, und Meta flickt eine peinliche Lücke bei seinen Smart Glasses.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist">Judge blocks Pentagon's Anthropic blacklist</a> <em>(axios.com)</em></li>
+<li><a href="https://americanbazaaronline.com/2026/08/28/nvidia-pauses-ai-cloud-financing-deals-487161/">Nvidia pauses AI cloud financing deals amid control, antitrust concerns</a> <em>(americanbazaaronline.com)</em></li>
+<li><a href="https://www.benzinga.com/markets/tech/26/08/61486472/nvidia-reportedly-pauses-revenue-sharing-deals-with-ai-cloud-companies-amid-antitrust-concerns">Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies: Report</a> <em>(benzinga.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html">Nvidia agrees to buy Hugging Face for $12.9 billion, report says</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.engadget.com/2245776/meta-closing-loophole-that-allowed-people-to-record-with-smart-glasses-light-covered/">Meta is closing a loophole that allowed people to record with their smart glasses' light covered</a> <em>(engadget.com)</em></li>
+<li><a href="https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/">Google DeepMind is losing its grip on elite AI talent, new data shows</a> <em>(fortune.com)</em></li>
+<li><a href="https://www.forbes.com/sites/paulocarvao/2026/08/28/nvidia-earnings-scorecard-ai-demand-is-booming-but-risks-remain/">Nvidia Earnings Scorecard: AI Demand Is Booming, But Risks Remain</a> <em>(forbes.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Ein Bundesrichter kippt die Pentagon-Blacklist gegen Anthropic, während Nvidia trotz Rekordquartal seine Cloud-Finanzierungsdeals pausiert und offenbar Hugging Face für fast 13 Milliarden Dollar kauft. Außerdem: Google DeepMind verliert Top-Talente, und Meta flickt eine peinliche Lücke bei seinen Smart Glasses.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist">Judge blocks Pentagon's Anthropic blacklist</a> <em>(axios.com)</em></li>
+<li><a href="https://americanbazaaronline.com/2026/08/28/nvidia-pauses-ai-cloud-financing-deals-487161/">Nvidia pauses AI cloud financing deals amid control, antitrust concerns</a> <em>(americanbazaaronline.com)</em></li>
+<li><a href="https://www.benzinga.com/markets/tech/26/08/61486472/nvidia-reportedly-pauses-revenue-sharing-deals-with-ai-cloud-companies-amid-antitrust-concerns">Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies: Report</a> <em>(benzinga.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html">Nvidia agrees to buy Hugging Face for $12.9 billion, report says</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.engadget.com/2245776/meta-closing-loophole-that-allowed-people-to-record-with-smart-glasses-light-covered/">Meta is closing a loophole that allowed people to record with their smart glasses' light covered</a> <em>(engadget.com)</em></li>
+<li><a href="https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/">Google DeepMind is losing its grip on elite AI talent, new data shows</a> <em>(fortune.com)</em></li>
+<li><a href="https://www.forbes.com/sites/paulocarvao/2026/08/28/nvidia-earnings-scorecard-ai-demand-is-booming-but-risks-remain/">Nvidia Earnings Scorecard: AI Demand Is Booming, But Risks Remain</a> <em>(forbes.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Ein Bundesrichter kippt die Pentagon-Blacklist gegen Anthropic, während Nvidia trotz Rekordquartal seine Cloud-Finanzierungsdeals pausiert und offenbar Hugging Face für fast 13 Milliarden Dollar kauft. Außerdem: Google DeepMind verliert Top-Talente, und Meta flickt eine peinliche Lücke bei seinen Smart Glasses.</itunes:summary>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-29</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-29/2026-08-29.mp3" length="2559417" type="audio/mpeg"/>
+      <itunes:duration>5:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 28. August 2026: Gates warnt, Grok-Lücke, OpenAI-Bericht</title>
       <description><![CDATA[<p>Bill Gates schlägt in einem großen Essay Alarm vor den Risiken der KI für Jobs und Kinder, eine Sicherheitslücke bei Grok bleibt trotz mehrfacher Meldung ungepatcht, und OpenAI veröffentlicht seinen Untersuchungsbericht zum Hugging-Face-Zwischenfall.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -803,29 +834,6 @@
       <guid isPermaLink="false">ai-2026-07-27</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-27/2026-07-27.mp3" length="1591841" type="audio/mpeg"/>
       <itunes:duration>3:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 26. Juli 2026: ChatGPT-Ausfall, Deepfake-Betrug, Europas Rechenzentren</title>
-      <description><![CDATA[<p>Ein ruhigerer Nachrichtentag in der KI-Welt: ein erneuter weltweiter ChatGPT-Ausfall, eine Betrugswelle mit KI-Deepfakes in Deutschland und eine neue Studie zu Europas Rückstand beim Rechenzentrumsausbau.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.macobserver.com/news/chatgpt-is-down-worldwide-what-we-know-about-todays-outage/">OpenAI Confirms ChatGPT is Down Worldwide</a> <em>(macobserver.com)</em></li>
-<li><a href="https://www.it-boltwise.de/ki-deepfakes-und-phishing-so-treffen-betrugsmaschen-smartphones-in-deutschland-2.html">KI-Deepfakes und Phishing: So treffen Betrugsmaschen Smartphones in Deutschland</a> <em>(it-boltwise.de)</em></li>
-<li><a href="https://retail-news.de/rechenzentren-ki-europa-roland-berger-2026/">KI treibt Ausbau von Rechenzentren – Europa droht weiter zurückzufallen</a> <em>(retail-news.de)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Ein ruhigerer Nachrichtentag in der KI-Welt: ein erneuter weltweiter ChatGPT-Ausfall, eine Betrugswelle mit KI-Deepfakes in Deutschland und eine neue Studie zu Europas Rückstand beim Rechenzentrumsausbau.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.macobserver.com/news/chatgpt-is-down-worldwide-what-we-know-about-todays-outage/">OpenAI Confirms ChatGPT is Down Worldwide</a> <em>(macobserver.com)</em></li>
-<li><a href="https://www.it-boltwise.de/ki-deepfakes-und-phishing-so-treffen-betrugsmaschen-smartphones-in-deutschland-2.html">KI-Deepfakes und Phishing: So treffen Betrugsmaschen Smartphones in Deutschland</a> <em>(it-boltwise.de)</em></li>
-<li><a href="https://retail-news.de/rechenzentren-ki-europa-roland-berger-2026/">KI treibt Ausbau von Rechenzentren – Europa droht weiter zurückzufallen</a> <em>(retail-news.de)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Ein ruhigerer Nachrichtentag in der KI-Welt: ein erneuter weltweiter ChatGPT-Ausfall, eine Betrugswelle mit KI-Deepfakes in Deutschland und eine neue Studie zu Europas Rückstand beim Rechenzentrumsausbau.</itunes:summary>
-      <pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-26</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-26/2026-07-26.mp3" length="1832168" type="audio/mpeg"/>
-      <itunes:duration>3:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

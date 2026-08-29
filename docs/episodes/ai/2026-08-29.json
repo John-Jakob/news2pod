@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 29. August 2026: Anthropic siegt vor Gericht, Nvidia-Milliarden",
+  "teaser": "Ein Bundesrichter kippt die Pentagon-Blacklist gegen Anthropic, während Nvidia trotz Rekordquartal seine Cloud-Finanzierungsdeals pausiert und offenbar Hugging Face für fast 13 Milliarden Dollar kauft. Außerdem: Google DeepMind verliert Top-Talente, und Meta flickt eine peinliche Lücke bei seinen Smart Glasses.",
+  "pubDate": "2026-08-29T06:00:00+02:00",
+  "duration_seconds": 319,
+  "size_bytes": 2559417,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-29/2026-08-29.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 104457,
+    "output_tokens": 3790
+  },
+  "sources": [
+    {
+      "headline": "Judge blocks Pentagon's Anthropic blacklist",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
+      "published": "2026-08-28"
+    },
+    {
+      "headline": "Nvidia pauses AI cloud financing deals amid control, antitrust concerns",
+      "source": "americanbazaaronline.com",
+      "url": "https://americanbazaaronline.com/2026/08/28/nvidia-pauses-ai-cloud-financing-deals-487161/",
+      "published": "2026-08-28"
+    },
+    {
+      "headline": "Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies: Report",
+      "source": "benzinga.com",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61486472/nvidia-reportedly-pauses-revenue-sharing-deals-with-ai-cloud-companies-amid-antitrust-concerns",
+      "published": "2026-08-28"
+    },
+    {
+      "headline": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+      "published": "2026-08-27"
+    },
+    {
+      "headline": "Meta is closing a loophole that allowed people to record with their smart glasses' light covered",
+      "source": "engadget.com",
+      "url": "https://www.engadget.com/2245776/meta-closing-loophole-that-allowed-people-to-record-with-smart-glasses-light-covered/",
+      "published": "2026-08-27"
+    },
+    {
+      "headline": "Google DeepMind is losing its grip on elite AI talent, new data shows",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/",
+      "published": "2026-08-27"
+    },
+    {
+      "headline": "Nvidia Earnings Scorecard: AI Demand Is Booming, But Risks Remain",
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/paulocarvao/2026/08/28/nvidia-earnings-scorecard-ai-demand-is-booming-but-risks-remain/",
+      "published": "2026-08-28"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, den 29. August 2026.\n\nWir beginnen mit einer juristischen Ohrfeige für die US-Regierung. Ein Bundesrichter in Kalifornien hat die Blacklist des Pentagons gegen Anthropic für rechtswidrig erklärt. Bundesrichterin Rita Lin urteilte in einer 59-seitigen Entscheidung, dass die Einstufung von Anthropic als Sicherheitsrisiko in der Lieferkette gegen die Verfassung verstößt. Das Verteidigungsministerium hatte das Unternehmen im Frühjahr auf eine Liste gesetzt, nachdem Anthropic sich geweigert hatte, sein Modell Claude für vollautonome Waffensysteme und für die Überwachung von US-Bürgern freizugeben. Die Richterin fand deutliche Worte und schrieb, die bloße Berufung auf nationale Sicherheit sei kein Freifahrtschein, um Regierungskritiker zu bestrafen und sich an ihnen zu rächen. Sie stellte zudem fest, dass die Maßnahmen aus dem Wunsch heraus entstanden, ein öffentliches Exempel an Anthropic zu statuieren. Anthropic begrüßte das Urteil, die Regierung will es voraussichtlich anfechten. Für Anthropic ist der Sieg auch mit Blick auf den erwarteten Börsengang bedeutsam, weil damit ein Hindernis für Geschäfte mit dem Pentagon wegfallen könnte.\n\n===\n\nBei Nvidia geht es rund um Zahlen und Milliardendeals. Das Unternehmen hat mit 96,2 Milliarden Dollar Quartalsumsatz erneut einen Rekord aufgestellt, ein Plus von 106 Prozent gegenüber dem Vorjahr. Gleichzeitig berichtete das Wall Street Journal, dass Nvidia Teile seines erst im Juli gestarteten Finanzierungsprogramms für KI-Cloud-Anbieter pausiert hat. In diesem Modell hätte Nvidia sowohl beim Chipverkauf als auch an den Mieteinnahmen der Kunden mitverdient. Mitarbeiter äußerten intern Sorgen, dass das Ausmaß an Kontrolle über die Geschäfte der Kunden kartellrechtliche Prüfungen provozieren könnte. Parallel verdichten sich Berichte, wonach Nvidia den Deal um die offene KI-Plattform Hugging Face praktisch besiegelt hat. Laut mehreren Quellen, darunter CNBC und Bloomberg, soll Nvidia rund 12,9 Milliarden Dollar für das Unternehmen zahlen, das Entwicklern als zentrale Anlaufstelle für offene KI-Modelle dient. Bestätigt ist der Deal offiziell noch nicht, aber die Signale aus mehreren unabhängigen Berichten verdichten sich deutlich.\n\n===\n\nBei Google DeepMind zeichnet sich derweil ein Personalproblem ab. Eine neue Analyse des britischen Datenanalysten Zeki Data, die Fortune exklusiv vorliegt, zeigt, dass DeepMind im Wettbewerb um Spitzenkräfte zunehmend den Kürzeren zieht gegenüber OpenAI und Anthropic. Mehrere aktuelle und ehemalige Mitarbeiter berichteten, dass sich die Identität des Labors verändert habe, seit Google stärker auf die Kommerzialisierung von Gemini setzt. Diese Verschiebung habe bei manchen Forschern den Eindruck erweckt, dass die offene, langfristig angelegte Wissenschaft, die DeepMind einst so attraktiv machte, zunehmend verdrängt wird.\n\n===\n\nEin kurzer Blick noch auf ein Verbraucherthema mit KI-Bezug. Meta hat eine Sicherheitslücke bei seinen intelligenten Brillen geschlossen. Die Geräte sollten eigentlich die Kamera deaktivieren, sobald die Aufnahme-LED verdeckt wird. Nutzer fanden jedoch heraus, dass die Prüfung nur beim Start einer Aufnahme erfolgte, man also einfach zuerst filmen und die Leuchte danach abdecken konnte. Meta-Vizepräsident für Wearables, Alex Himel, bestätigte, dass ein Update ausgerollt wird, das die Kamera nun auch während einer laufenden Aufnahme abschaltet, sobald das Licht verdeckt wird. Das Thema trifft einen wunden Punkt, denn intelligente Brillen gelten als einer der aussichtsreichsten Nachfolger für das Smartphone als KI-Schnittstelle, gerade weil sie kontinuierlich sehen und hören können. Genau diese Fähigkeit sorgt aber für erhebliche Datenschutzbedenken in der Öffentlichkeit.\n\n===\n\nZum Abschluss noch ein kurzer Blick auf das große Bild. Die Nvidia-Zahlen zeigen einmal mehr, wie sehr die gesamte KI-Infrastruktur derzeit von einem einzigen Unternehmen abhängt, während gleichzeitig regulatorische und kartellrechtliche Fragen lauter werden. Und das Anthropic-Urteil dürfte die Debatte darüber neu entfachen, wie viel Mitspracherecht KI-Unternehmen gegenüber der Regierung bei sicherheitskritischen Anwendungen haben sollten. Wir bleiben dran und melden uns morgen wieder mit den wichtigsten Entwicklungen. Bis dahin, alles Gute und einen schönen Tag."
+}
