@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 31. August 2026: Wochenend-Rückblick, Cursor-Bruch, Musik-Klage gegen Anthropic",
+  "teaser": "Der Wochenend-Rückblick: OpenAI kappt nach der SpaceX-Übernahme von Cursor die Modellzugänge, Sony und Warner verklagen Anthropic wegen mutmaßlichen Musik-Diebstahls, und AWS startet ein Ausbildungsprogramm für Studierende.",
+  "pubDate": "2026-08-31T06:00:00+02:00",
+  "duration_seconds": 349,
+  "size_bytes": 2797026,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-31/2026-08-31.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 168592,
+    "output_tokens": 5471
+  },
+  "sources": [
+    {
+      "headline": "OpenAI kündigt Cursor-Verträge nach SpaceX-Übernahme",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "published": "2026-08-29"
+    },
+    {
+      "headline": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+      "published": "2026-08-29"
+    },
+    {
+      "headline": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "openai.com",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "published": "2026-08-28"
+    },
+    {
+      "headline": "Sony Music, Warner sue Anthropic, alleging a 'brazen campaign' of intellectual property theft",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "published": "2026-08-29"
+    },
+    {
+      "headline": "Music publishers sue Anthropic, allege 'blatant theft' of copyrighted music",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "published": "2026-08-29"
+    },
+    {
+      "headline": "Now Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit",
+      "source": "musicbusinessworldwide.com",
+      "url": "https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
+      "published": "2026-08-30"
+    },
+    {
+      "headline": "AI News – August 30, 2026: Anthropic, OpenAI, AWS, Meta and AI's Economic Impact",
+      "source": "aidapted.ro",
+      "url": "https://www.aidapted.ro/en/articles/ai-news-of-the-day-august-30-2026/",
+      "published": "2026-08-30"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Montag, den 31. August 2026. Da heute die erste Ausgabe nach dem Wochenende ist, blicken wir kurz zurück auf Samstag und Sonntag, ergänzt um die wichtigsten Entwicklungen vom späten Freitagabend, die das Wochenende geprägt haben. Es war ein eher ruhiges Wochenende in Sachen neuer Modelle, dafür aber ein lautes Wochenende in Sachen Verträge und Gerichtssäle.\n\n===\n\nDie größte Geschichte betrifft den eskalierenden Streit zwischen OpenAI und Elon Musk. OpenAI hat SpaceX am späten Freitagabend mitgeteilt, dass der Vertrag zur Belieferung des Programmier-Tools Cursor mit OpenAI-Modellen gekündigt wird. Hintergrund ist, dass Musks Raumfahrtkonzern SpaceX den Cursor-Hersteller Anysphere Mitte August für sechzig Milliarden Dollar übernommen hat. Als Abschaltdatum wurde der zwölfte November zwei tausend sechs und zwanzig festgelegt. \nOpenAI teilte SpaceX mit, dass es den Vertrag zur Bereitstellung von OpenAI-Modellen für Cursor auslaufen lassen will, mit einem vorgeschlagenen Abschaltdatum am 12. November 2026, um Entwicklern möglichst lange Zugang zu gewähren.\n Als Begründung nannte OpenAI ausdrücklich Vertrauensbedenken. \nMan könne nicht sicher sein, dass SpaceX die eigene Technologie im Rahmen der Nutzungsbedingungen einsetzen werde, basierend auf Erfahrungen mit Musks Unternehmen, die zuvor Verträge gebrochen hätten.\n OpenAI verwies dabei auf frühere Verstöße von Twitter und xAI gegen eigene Vertragsbedingungen. Cursor-Chef Michael Truell reagierte gelassen und erklärte, \nOpenAI-Modelle würden lediglich rund fünf Prozent des Cursor-Nutzerverkehrs ausmachen, man spreche mit dem OpenAI-Team, um die Angelegenheit zu klären.\n Für die über eine Million zahlenden Cursor-Entwickler bedeutet das dennoch eine erzwungene Migration, wahrscheinlich stärker in Richtung Anthropics Claude-Modelle, mit denen Cursor traditionell eng zusammenarbeitet.\n\n===\n\nDie zweite große Geschichte des Wochenendes betrifft Anthropic gleich an einer ganz anderen Front. Sony Music Publishing und Warner Chappell Music haben spätfreitags in Nordkalifornien Klage gegen Anthropic sowie persönlich gegen die Firmengründer Dario Amodei und Benjamin Mann eingereicht. \nDie Musikverlage werfen Anthropic vor, eine brazen campaign des illegalen Torrentierens, Scrapens und Herunterladens urheberrechtlich geschützter Werke betrieben zu haben, um das KI-Modell Claude zu trainieren.\n Konkret geht es um Songs wie Eye of the Tiger, Marvin Gayes Ain't No Mountain High Enough und Taylor Swifts Paper Rings. \nDie Klage wirft Anthropic vor, seine Modelle unrechtmäßig mit Zehntausenden urheberrechtlich geschützten Kompositionen von Musikverlagen trainiert zu haben, wobei frühere Klagen sich auf einen engeren Kreis von Werken beschränkt hatten.\n Bemerkenswert ist der Zeitpunkt: Erst im Juli hatte Anthropic einen Rekord-Vergleich in Höhe von eineinhalb Milliarden Dollar mit Autoren und Verlagen wegen ähnlicher Vorwürfe abgeschlossen. Die Musikverlage argumentieren nun, diese Summe reiche angesichts der Bewertung von Anthropic von rund zwei Billionen Dollar nicht aus, um von weiteren Verstößen abzuschrecken. Mit Universal, Sony und Warner haben inzwischen alle drei großen Musikkonzerne parallel Klagen gegen Anthropic laufen, ergänzt um Klagen von BMG und dem unabhängigen Verlag Round Hill Music. Anthropic hat angekündigt, sich robust zu verteidigen. Der Fall dürfte zum Präzedenzfall dafür werden, wie Urheberrecht im Zeitalter generativer KI im Musikbereich ausgelegt wird.\n\n===\n\nEtwas ruhiger, aber dennoch bemerkenswert: Amazon Web Services hat am Wochenende ein neues Bildungsprogramm gestartet. \nDas Student Rewards Programm gibt verifizierten Studierenden zwölf Monate Zugang zu mehr als neunhundert Kursen und praktischen Übungen des AWS Skill Builder sowie einen Gutschein für eine Zertifizierungsprüfung, ergänzt um AWS-Guthaben im Umfang von mehr als fünfhundert Millionen Dollar an Ressourcen.\n Das Programm reiht sich ein in den branchenweiten Wettlauf der großen Cloud-Anbieter, junge Fachkräfte frühzeitig an die eigene KI-Infrastruktur zu binden.\n\n===\n\nInsgesamt war es ein Wochenende, das weniger von neuen Modell-Releases geprägt war, sondern von den juristischen und geschäftlichen Nachwirkungen des KI-Booms: ein öffentlicher Bruch zwischen zwei der einflussreichsten Figuren der Branche, und eine neue Front im nun schon Jahre andauernden Urheberrechtsstreit rund um Trainingsdaten. Für die kommende Woche lohnt sich ein Blick darauf, ob SpaceX auf die Cursor-Kündigung reagiert und ob Anthropic zur Sony-Warner-Klage offiziell Stellung bezieht. Das war dein KI Daily für den Montag. Ich wünsche dir einen guten Start in die Woche und bin morgen wieder für dich da."
+}

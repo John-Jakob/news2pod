@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 31. August 2026: Wochenend-Rückblick, Cursor-Bruch, Musik-Klage gegen Anthropic</title>
+      <description><![CDATA[<p>Der Wochenend-Rückblick: OpenAI kappt nach der SpaceX-Übernahme von Cursor die Modellzugänge, Sony und Warner verklagen Anthropic wegen mutmaßlichen Musik-Diebstahls, und AWS startet ein Ausbildungsprogramm für Studierende.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html">OpenAI kündigt Cursor-Verträge nach SpaceX-Übernahme</a> <em>(cnbc.com)</em></li>
+<li><a href="https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/">OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts</a> <em>(the-decoder.com)</em></li>
+<li><a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">Our decision on Cursor following its acquisition by SpaceX</a> <em>(openai.com)</em></li>
+<li><a href="https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/">Sony Music, Warner sue Anthropic, alleging a 'brazen campaign' of intellectual property theft</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright">Music publishers sue Anthropic, allege 'blatant theft' of copyrighted music</a> <em>(axios.com)</em></li>
+<li><a href="https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/">Now Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit</a> <em>(musicbusinessworldwide.com)</em></li>
+<li><a href="https://www.aidapted.ro/en/articles/ai-news-of-the-day-august-30-2026/">AI News – August 30, 2026: Anthropic, OpenAI, AWS, Meta and AI's Economic Impact</a> <em>(aidapted.ro)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: OpenAI kappt nach der SpaceX-Übernahme von Cursor die Modellzugänge, Sony und Warner verklagen Anthropic wegen mutmaßlichen Musik-Diebstahls, und AWS startet ein Ausbildungsprogramm für Studierende.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html">OpenAI kündigt Cursor-Verträge nach SpaceX-Übernahme</a> <em>(cnbc.com)</em></li>
+<li><a href="https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/">OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts</a> <em>(the-decoder.com)</em></li>
+<li><a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">Our decision on Cursor following its acquisition by SpaceX</a> <em>(openai.com)</em></li>
+<li><a href="https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/">Sony Music, Warner sue Anthropic, alleging a 'brazen campaign' of intellectual property theft</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright">Music publishers sue Anthropic, allege 'blatant theft' of copyrighted music</a> <em>(axios.com)</em></li>
+<li><a href="https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/">Now Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit</a> <em>(musicbusinessworldwide.com)</em></li>
+<li><a href="https://www.aidapted.ro/en/articles/ai-news-of-the-day-august-30-2026/">AI News – August 30, 2026: Anthropic, OpenAI, AWS, Meta and AI's Economic Impact</a> <em>(aidapted.ro)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Der Wochenend-Rückblick: OpenAI kappt nach der SpaceX-Übernahme von Cursor die Modellzugänge, Sony und Warner verklagen Anthropic wegen mutmaßlichen Musik-Diebstahls, und AWS startet ein Ausbildungsprogramm für Studierende.</itunes:summary>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-08-31</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-31/2026-08-31.mp3" length="2797026" type="audio/mpeg"/>
+      <itunes:duration>5:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 29. August 2026: Anthropic siegt vor Gericht, Nvidia-Milliarden</title>
       <description><![CDATA[<p>Ein Bundesrichter kippt die Pentagon-Blacklist gegen Anthropic, während Nvidia trotz Rekordquartal seine Cloud-Finanzierungsdeals pausiert und offenbar Hugging Face für fast 13 Milliarden Dollar kauft. Außerdem: Google DeepMind verliert Top-Talente, und Meta flickt eine peinliche Lücke bei seinen Smart Glasses.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -815,25 +846,6 @@
       <guid isPermaLink="false">ai-2026-07-28</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-28/2026-07-28.mp3" length="2307805" type="audio/mpeg"/>
       <itunes:duration>4:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 27. Juli 2026: Das größte offene KI-Modell aller Zeiten</title>
-      <description><![CDATA[<p>Moonshot AI veröffentlicht mit Kimi K3 das bislang größte frei verfügbare KI-Modell der Geschichte. Da die Nachrichtenlage heute sonst dünn war, gibt es eine kürzere Ausgabe von KI Daily.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026">Moonshot AI veröffentlicht Kimi K3 als offene Gewichte – größtes Open-Weight-Modell der Geschichte</a> <em>(buildfastwithai.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Moonshot AI veröffentlicht mit Kimi K3 das bislang größte frei verfügbare KI-Modell der Geschichte. Da die Nachrichtenlage heute sonst dünn war, gibt es eine kürzere Ausgabe von KI Daily.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026">Moonshot AI veröffentlicht Kimi K3 als offene Gewichte – größtes Open-Weight-Modell der Geschichte</a> <em>(buildfastwithai.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Moonshot AI veröffentlicht mit Kimi K3 das bislang größte frei verfügbare KI-Modell der Geschichte. Da die Nachrichtenlage heute sonst dünn war, gibt es eine kürzere Ausgabe von KI Daily.</itunes:summary>
-      <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-27</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-27/2026-07-27.mp3" length="1591841" type="audio/mpeg"/>
-      <itunes:duration>3:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
