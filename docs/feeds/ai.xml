@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 1. September 2026: EU reguliert ChatGPT, Apple-Wechsel, Claude-Hack</title>
+      <description><![CDATA[<p>Die EU stuft ChatGPT offiziell als sehr große Suchmaschine ein, John Ternus übernimmt heute als neuer Apple-Chef mit klarem KI-Fokus, und Anthropic kämpft mit gekaperten Claude-Konten. Ein kompaktes Update zum Start in den September.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://tribune.com.pk/story/2626740/eu-subjects-chatgpt-reddit-roblox-to-stricter-oversight-under-digital-services-act">EU stuft ChatGPT, Reddit und Roblox als besonders große Online-Dienste ein</a> <em>(reuters.com (via Express Tribune))</em></li>
+<li><a href="https://www.engadget.com/2247513/chatgpt-reddit-and-roblox-to-face-the-eus-strictest-platform-rules/">ChatGPT, Reddit and Roblox to face the EU's strictest platform rules</a> <em>(engadget.com)</em></li>
+<li><a href="https://www.siliconrepublic.com/business/chatgpt-roblox-reddit-to-face-strictest-eu-dsa-rules">ChatGPT, Roblox, Reddit to face strictest EU DSA rules</a> <em>(siliconrepublic.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai">Apple's New CEO John Ternus Takes Reins From Tim Cook, Focusing on AI</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.macrumors.com/2026/08/18/september-1-end-of-era-at-apple/">September 1 to Mark the End of an Era at Apple</a> <em>(macrumors.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic setzt betroffene Claude-Nutzer nach Infostealer-Malware-Vorfall zurück</a> <em>(bleepingcomputer.com (via aiweekly.co))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Die EU stuft ChatGPT offiziell als sehr große Suchmaschine ein, John Ternus übernimmt heute als neuer Apple-Chef mit klarem KI-Fokus, und Anthropic kämpft mit gekaperten Claude-Konten. Ein kompaktes Update zum Start in den September.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://tribune.com.pk/story/2626740/eu-subjects-chatgpt-reddit-roblox-to-stricter-oversight-under-digital-services-act">EU stuft ChatGPT, Reddit und Roblox als besonders große Online-Dienste ein</a> <em>(reuters.com (via Express Tribune))</em></li>
+<li><a href="https://www.engadget.com/2247513/chatgpt-reddit-and-roblox-to-face-the-eus-strictest-platform-rules/">ChatGPT, Reddit and Roblox to face the EU's strictest platform rules</a> <em>(engadget.com)</em></li>
+<li><a href="https://www.siliconrepublic.com/business/chatgpt-roblox-reddit-to-face-strictest-eu-dsa-rules">ChatGPT, Roblox, Reddit to face strictest EU DSA rules</a> <em>(siliconrepublic.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai">Apple's New CEO John Ternus Takes Reins From Tim Cook, Focusing on AI</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.macrumors.com/2026/08/18/september-1-end-of-era-at-apple/">September 1 to Mark the End of an Era at Apple</a> <em>(macrumors.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic setzt betroffene Claude-Nutzer nach Infostealer-Malware-Vorfall zurück</a> <em>(bleepingcomputer.com (via aiweekly.co))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Die EU stuft ChatGPT offiziell als sehr große Suchmaschine ein, John Ternus übernimmt heute als neuer Apple-Chef mit klarem KI-Fokus, und Anthropic kämpft mit gekaperten Claude-Konten. Ein kompaktes Update zum Start in den September.</itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-01</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-01/2026-09-01.mp3" length="2585330" type="audio/mpeg"/>
+      <itunes:duration>5:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 31. August 2026: Wochenend-Rückblick, Cursor-Bruch, Musik-Klage gegen Anthropic</title>
       <description><![CDATA[<p>Der Wochenend-Rückblick: OpenAI kappt nach der SpaceX-Übernahme von Cursor die Modellzugänge, Sony und Warner verklagen Anthropic wegen mutmaßlichen Musik-Diebstahls, und AWS startet ein Ausbildungsprogramm für Studierende.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -821,31 +850,6 @@
       <guid isPermaLink="false">ai-2026-07-29</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-29/2026-07-29.mp3" length="3362943" type="audio/mpeg"/>
       <itunes:duration>7:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 28. Juli 2026: Nvidias 250-Milliarden-Wette und der Kampf um offene Modelle</title>
-      <description><![CDATA[<p>Nvidia plant offenbar gigantische Garantien für ein neues OpenAI-Rechenzentrum, während über zwanzig Tech-Konzerne die US-Regierung zur Förderung offener KI-Modelle drängen. Außerdem: Googles Gemini Spark wächst in den USA, Europa wartet weiter.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.finanznachrichten.de/nachrichten-2026-07/69132202-der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-tasche-013.htm">Nvidia plant offenbar 250-Milliarden-Dollar-Garantien für gigantisches OpenAI-Rechenzentrum</a> <em>(finanznachrichten.de)</em></li>
-<li><a href="https://www.ariva.de/aktien/nvidia-corp-aktie/news/der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-rsf-12081296">Über 20 Tech-Konzerne fordern US-Regierung zur Unterstützung offener KI-Modelle auf</a> <em>(ariva.de)</em></li>
-<li><a href="https://www.it-boltwise.de/gemini-spark-ki-agent-fuer-google-workspace-jetzt-auch-fuer-ai-ultra.html">Google erweitert Gemini Spark auf günstigeren AI-Pro-Tarif in den USA – Europa bleibt außen vor</a> <em>(it-boltwise.de)</em></li>
-<li><a href="https://www.androidauthority.com/google-gemini-spark-wider-rollout-3690952/">Gemini Spark Rollout: Google AI Pro-Nutzer in den USA erhalten Zugang, EWR weiter ausgeschlossen</a> <em>(androidauthority.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Nvidia plant offenbar gigantische Garantien für ein neues OpenAI-Rechenzentrum, während über zwanzig Tech-Konzerne die US-Regierung zur Förderung offener KI-Modelle drängen. Außerdem: Googles Gemini Spark wächst in den USA, Europa wartet weiter.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.finanznachrichten.de/nachrichten-2026-07/69132202-der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-tasche-013.htm">Nvidia plant offenbar 250-Milliarden-Dollar-Garantien für gigantisches OpenAI-Rechenzentrum</a> <em>(finanznachrichten.de)</em></li>
-<li><a href="https://www.ariva.de/aktien/nvidia-corp-aktie/news/der-groesste-ki-deal-aller-zeiten-nvidia-greift-tief-in-die-rsf-12081296">Über 20 Tech-Konzerne fordern US-Regierung zur Unterstützung offener KI-Modelle auf</a> <em>(ariva.de)</em></li>
-<li><a href="https://www.it-boltwise.de/gemini-spark-ki-agent-fuer-google-workspace-jetzt-auch-fuer-ai-ultra.html">Google erweitert Gemini Spark auf günstigeren AI-Pro-Tarif in den USA – Europa bleibt außen vor</a> <em>(it-boltwise.de)</em></li>
-<li><a href="https://www.androidauthority.com/google-gemini-spark-wider-rollout-3690952/">Gemini Spark Rollout: Google AI Pro-Nutzer in den USA erhalten Zugang, EWR weiter ausgeschlossen</a> <em>(androidauthority.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Nvidia plant offenbar gigantische Garantien für ein neues OpenAI-Rechenzentrum, während über zwanzig Tech-Konzerne die US-Regierung zur Förderung offener KI-Modelle drängen. Außerdem: Googles Gemini Spark wächst in den USA, Europa wartet weiter.</itunes:summary>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-28</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-28/2026-07-28.mp3" length="2307805" type="audio/mpeg"/>
-      <itunes:duration>4:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

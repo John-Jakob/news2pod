@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 1. September 2026: EU reguliert ChatGPT, Apple-Wechsel, Claude-Hack",
+  "teaser": "Die EU stuft ChatGPT offiziell als sehr große Suchmaschine ein, John Ternus übernimmt heute als neuer Apple-Chef mit klarem KI-Fokus, und Anthropic kämpft mit gekaperten Claude-Konten. Ein kompaktes Update zum Start in den September.",
+  "pubDate": "2026-09-01T06:00:00+02:00",
+  "duration_seconds": 323,
+  "size_bytes": 2585330,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-01/2026-09-01.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 239123,
+    "output_tokens": 5099
+  },
+  "sources": [
+    {
+      "headline": "EU stuft ChatGPT, Reddit und Roblox als besonders große Online-Dienste ein",
+      "source": "reuters.com (via Express Tribune)",
+      "url": "https://tribune.com.pk/story/2626740/eu-subjects-chatgpt-reddit-roblox-to-stricter-oversight-under-digital-services-act",
+      "published": "2026-08-31"
+    },
+    {
+      "headline": "ChatGPT, Reddit and Roblox to face the EU's strictest platform rules",
+      "source": "engadget.com",
+      "url": "https://www.engadget.com/2247513/chatgpt-reddit-and-roblox-to-face-the-eus-strictest-platform-rules/",
+      "published": "2026-08-31"
+    },
+    {
+      "headline": "ChatGPT, Roblox, Reddit to face strictest EU DSA rules",
+      "source": "siliconrepublic.com",
+      "url": "https://www.siliconrepublic.com/business/chatgpt-roblox-reddit-to-face-strictest-eu-dsa-rules",
+      "published": "2026-08-31"
+    },
+    {
+      "headline": "Apple's New CEO John Ternus Takes Reins From Tim Cook, Focusing on AI",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai",
+      "published": "2026-08-30"
+    },
+    {
+      "headline": "September 1 to Mark the End of an Era at Apple",
+      "source": "macrumors.com",
+      "url": "https://www.macrumors.com/2026/08/18/september-1-end-of-era-at-apple/",
+      "published": "2026-08-18 (Update 2026-08-30)"
+    },
+    {
+      "headline": "Anthropic setzt betroffene Claude-Nutzer nach Infostealer-Malware-Vorfall zurück",
+      "source": "bleepingcomputer.com (via aiweekly.co)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-08-31"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Dienstag, 1. September 2026.\n\nDie Nachrichtenlage ist heute etwas ruhiger als sonst, aber drei Entwicklungen verdienen deine Aufmerksamkeit. Wir starten mit einer regulatorischen Zäsur aus Brüssel.\n\n===\n\nDie Europäische Kommission hat ChatGPT, Reddit und Roblox unter die strengsten Regeln des Digital Services Act gestellt. \nDie Kommission designierte ChatGPT als sehr große Online-Suchmaschine, während Reddit und Roblox als sehr große Online-Plattformen eingestuft wurden.\n Grundlage dafür ist die Nutzerzahl. \nAlle drei Dienste meldeten mindestens 45 Millionen durchschnittliche monatliche Nutzer in der EU und erreichten damit die Schwelle für diese Einstufung.\n Damit ist ChatGPT der erste KI-Chatbot überhaupt, der unter diese Regeln fällt, wie mehrere Quellen betonen. Für OpenAI, Reddit und Roblox bedeutet das konkret: \nbis Ende Dezember 2026 müssen sie die zusätzlichen Pflichten des Digital Services Act erfüllen\n, darunter \ndie Bewertung und Eindämmung systemischer Risiken im Zusammenhang mit illegalen Inhalten, Auswirkungen auf Minderjährige, das physische und psychische Wohlbefinden der Nutzer, Grundrechte, Wahlprozesse und die öffentliche Sicherheit.\n Wer sich nicht daran hält, riskiert empfindliche Strafen. \nDesignierte Plattformen, die diese Regeln nicht einhalten, können mit Bußgeldern von bis zu sechs Prozent ihres weltweiten Jahresumsatzes belegt werden.\n EU-Digitalkommissarin Henna Virkkunen erklärte dazu, \ndiese neuen Einstufungen bedeuten, dass ChatGPT, Reddit und Roblox künftig einem höheren Maß an Kontrolle und Rechenschaftspflicht in der Europäischen Union unterliegen.\n Bemerkenswert ist der politische Kontext. \nDie Ausweitung des Digital Services Act auf generative KI erfolgt zu einem Zeitpunkt, in dem Brüssel Druck aus Washington wegen seiner Regulierung US-amerikanischer Tech-Konzerne ausgesetzt ist.\n Die Kommission lässt sich davon aber offenbar nicht beirren und pocht darauf, dass ihre Digitalgesetze unabhängig vom Firmensitz gelten.\n\n===\n\nZweites großes Thema heute: der Chefwechsel bei Apple, der direkt mit der KI-Strategie des Konzerns verknüpft ist. Seit heute, dem 1. September, ist John Ternus offiziell neuer Apple-CEO, Tim Cook wechselt in die Rolle des Executive Chairman. Bloomberg beschreibt, worauf sich Ternus nun konzentrieren muss. \nBeim Start seiner neuen Rolle als CEO am 1. September bleibt Ternus kaum Zeit, bevor der Konzern seine jährlichen Produktankündigungen im Herbst beginnt, darunter ein besonders ambitioniertes Geräteportfolio, das er intern seit Monaten vorbereitet, einschließlich des ersten faltbaren iPhones und eines smarten Displays, das erkennen kann, wer gerade spricht, und Inhalte entsprechend anpasst.\n Als bisheriger Hardware-Chef hat Ternus zudem Projekte vorangetrieben, die erst später marktreif werden. \nDazu zählen AirPods mit Kameras, die die Umgebung des Nutzers interpretieren können, eine intelligente Brille, ein Heimsicherheitssystem, ein Heimdisplay mit Roboterarm sowie ein kamerabestücktes Anhänger-Gadget, das als Kette oder Clip getragen werden kann.\n Der Fokus auf Apple Intelligence und KI-gestützte Geräte dürfte damit zur zentralen Herausforderung der ersten Amtszeit von Ternus werden.\n\n===\n\nDrittens ein sicherheitsrelevanter Vorfall bei Anthropic. Nach Berichten von BleepingComputer musste das Unternehmen zahlreiche Claude-Nutzer zwangsweise ausloggen, weil Infostealer-Malware aktive Login-Sitzungen abgegriffen hatte. Betroffene Konten wurden zurückgesetzt, gespeicherte Zahlungsmethoden gelöscht und unautorisierte Kosten erstattet. Anthropic benannte dabei mehrere bekannte Schadprogramm-Familien, die im Umlauf sind. Der Fall zeigt erneut, wie sehr KI-Anbieter inzwischen ins Visier von Cyberkriminellen geraten, ein Thema, das erst vor wenigen Tagen durch den gemeinsamen Sicherheitsappell von OpenAI, Anthropic, Google und mehr als hundert weiteren Firmen an Bedeutung gewonnen hatte.\n\n===\n\nDas war dein KI Daily für heute. Kurz zusammengefasst: Brüssel zieht bei ChatGPT, Reddit und Roblox regulatorisch die Zügel an, Apple startet mit John Ternus in eine neue, klar KI-getriebene Ära, und Anthropic kämpft mit den Folgen gekaperter Nutzerkonten. Wir behalten für dich im Blick, wie sich die EU-Auflagen für ChatGPT konkret auswirken und ob Ternus schon in den kommenden Tagen erste eigene KI-Akzente setzt. Bis morgen, und einen guten Start in den September."
+}
