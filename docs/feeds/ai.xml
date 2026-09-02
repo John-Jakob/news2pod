@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 2. September 2026: Pentagon holt ChatGPT und Grok, Anthropics 180-Milliarden-Wette</title>
+      <description><![CDATA[<p>Das US-Verteidigungsministerium öffnet sein KI-Portal für ChatGPT und Grok, während Anthropic mit einem weiteren Multi-Milliarden-Deal seine Rechenkapazität absichert. Ein Blick auf zwei Geschichten, die zeigen, wie eng Politik, Militär und KI-Infrastruktur inzwischen verflochten sind.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/">The Pentagon now has its own version of ChatGPT and Grok</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://defensescoop.com/2026/08/31/grok-chatgpt-added-to-genai-mil/">Grok and ChatGPT join Gemini in Pentagon's enterprise genAI portal</a> <em>(defensescoop.com)</em></li>
+<li><a href="https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/">The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform</a> <em>(fortune.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda">Anthropic Strikes $35 Billion Cloud Deal With Nvidia-Backed Lambda</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.aol.com/articles/anthropic-signs-35-billion-cloud-235939000.html">Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says</a> <em>(reuters.com (via aol.com))</em></li>
+<li><a href="https://www.forbes.com/sites/jonmarkman/2026/09/01/anthropic-books-35-billion-to-nvidia-backed-lambda-for-cloud-capacity/">Anthropic Books $35 Billion To Nvidia-Backed Lambda For Cloud Capacity</a> <em>(forbes.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Das US-Verteidigungsministerium öffnet sein KI-Portal für ChatGPT und Grok, während Anthropic mit einem weiteren Multi-Milliarden-Deal seine Rechenkapazität absichert. Ein Blick auf zwei Geschichten, die zeigen, wie eng Politik, Militär und KI-Infrastruktur inzwischen verflochten sind.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/">The Pentagon now has its own version of ChatGPT and Grok</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://defensescoop.com/2026/08/31/grok-chatgpt-added-to-genai-mil/">Grok and ChatGPT join Gemini in Pentagon's enterprise genAI portal</a> <em>(defensescoop.com)</em></li>
+<li><a href="https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/">The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform</a> <em>(fortune.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda">Anthropic Strikes $35 Billion Cloud Deal With Nvidia-Backed Lambda</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.aol.com/articles/anthropic-signs-35-billion-cloud-235939000.html">Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says</a> <em>(reuters.com (via aol.com))</em></li>
+<li><a href="https://www.forbes.com/sites/jonmarkman/2026/09/01/anthropic-books-35-billion-to-nvidia-backed-lambda-for-cloud-capacity/">Anthropic Books $35 Billion To Nvidia-Backed Lambda For Cloud Capacity</a> <em>(forbes.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Das US-Verteidigungsministerium öffnet sein KI-Portal für ChatGPT und Grok, während Anthropic mit einem weiteren Multi-Milliarden-Deal seine Rechenkapazität absichert. Ein Blick auf zwei Geschichten, die zeigen, wie eng Politik, Militär und KI-Infrastruktur inzwischen verflochten sind.</itunes:summary>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-02</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-02/2026-09-02.mp3" length="2812909" type="audio/mpeg"/>
+      <itunes:duration>5:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 1. September 2026: EU reguliert ChatGPT, Apple-Wechsel, Claude-Hack</title>
       <description><![CDATA[<p>Die EU stuft ChatGPT offiziell als sehr große Suchmaschine ein, John Ternus übernimmt heute als neuer Apple-Chef mit klarem KI-Fokus, und Anthropic kämpft mit gekaperten Claude-Konten. Ein kompaktes Update zum Start in den September.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -821,35 +850,6 @@
       <guid isPermaLink="false">ai-2026-07-30</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-30/2026-07-30.mp3" length="1952122" type="audio/mpeg"/>
       <itunes:duration>4:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 29. Juli 2026: Wenn die KI-Branche sich selbst bremsen will</title>
-      <description><![CDATA[<p>Über tausend Mitarbeiter von OpenAI, Anthropic und Meta fordern die US-Regierung auf, das Tempo der KI-Entwicklung zu drosseln. Außerdem: Amazon zieht sich von eigenen KI-Modellen zurück, Microsoft greift Anthropic bei Cybersicherheit an, und das Agentenprotokoll MCP bekommt ein großes Update.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727">Top scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development</a> <em>(nbcnews.com)</em></li>
-<li><a href="https://us.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter">Employees at the world's biggest AI companies are calling for a slowdown in AI development</a> <em>(cnn.com)</em></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/openai-anthropic-staff-share-letter-163833780.html">OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
-<li><a href="https://the-decoder.de/">Amazon fährt eigene Nova-KI-Modelle zurück und setzt auf neues Frontier-Forschungsteam</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://the-decoder.de/">Microsoft stellt Cybersecurity-Modell MAI-Cyber-1-Flash vor und nutzt OpenAI nur noch für die schwierigen Fälle</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Agentic AI Foundation releases largest MCP specification update since launch</a> <em>(aiweekly.co / blog.modelcontextprotocol.io)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Über tausend Mitarbeiter von OpenAI, Anthropic und Meta fordern die US-Regierung auf, das Tempo der KI-Entwicklung zu drosseln. Außerdem: Amazon zieht sich von eigenen KI-Modellen zurück, Microsoft greift Anthropic bei Cybersicherheit an, und das Agentenprotokoll MCP bekommt ein großes Update.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727">Top scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development</a> <em>(nbcnews.com)</em></li>
-<li><a href="https://us.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter">Employees at the world's biggest AI companies are calling for a slowdown in AI development</a> <em>(cnn.com)</em></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/openai-anthropic-staff-share-letter-163833780.html">OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
-<li><a href="https://the-decoder.de/">Amazon fährt eigene Nova-KI-Modelle zurück und setzt auf neues Frontier-Forschungsteam</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://the-decoder.de/">Microsoft stellt Cybersecurity-Modell MAI-Cyber-1-Flash vor und nutzt OpenAI nur noch für die schwierigen Fälle</a> <em>(the-decoder.de)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Agentic AI Foundation releases largest MCP specification update since launch</a> <em>(aiweekly.co / blog.modelcontextprotocol.io)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Über tausend Mitarbeiter von OpenAI, Anthropic und Meta fordern die US-Regierung auf, das Tempo der KI-Entwicklung zu drosseln. Außerdem: Amazon zieht sich von eigenen KI-Modellen zurück, Microsoft greift Anthropic bei Cybersicherheit an, und das Agentenprotokoll MCP bekommt ein großes Update.</itunes:summary>
-      <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-29</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-29/2026-07-29.mp3" length="3362943" type="audio/mpeg"/>
-      <itunes:duration>7:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

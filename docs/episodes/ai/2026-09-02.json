@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 2. September 2026: Pentagon holt ChatGPT und Grok, Anthropics 180-Milliarden-Wette",
+  "teaser": "Das US-Verteidigungsministerium öffnet sein KI-Portal für ChatGPT und Grok, während Anthropic mit einem weiteren Multi-Milliarden-Deal seine Rechenkapazität absichert. Ein Blick auf zwei Geschichten, die zeigen, wie eng Politik, Militär und KI-Infrastruktur inzwischen verflochten sind.",
+  "pubDate": "2026-09-02T06:00:00+02:00",
+  "duration_seconds": 351,
+  "size_bytes": 2812909,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-02/2026-09-02.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 168469,
+    "output_tokens": 5682
+  },
+  "sources": [
+    {
+      "headline": "The Pentagon now has its own version of ChatGPT and Grok",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "published": "2026-08-31"
+    },
+    {
+      "headline": "Grok and ChatGPT join Gemini in Pentagon's enterprise genAI portal",
+      "source": "defensescoop.com",
+      "url": "https://defensescoop.com/2026/08/31/grok-chatgpt-added-to-genai-mil/",
+      "published": "2026-08-31"
+    },
+    {
+      "headline": "The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/",
+      "published": "2026-09-01"
+    },
+    {
+      "headline": "Anthropic Strikes $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+      "published": "2026-08-31"
+    },
+    {
+      "headline": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says",
+      "source": "reuters.com (via aol.com)",
+      "url": "https://www.aol.com/articles/anthropic-signs-35-billion-cloud-235939000.html",
+      "published": "2026-08-31"
+    },
+    {
+      "headline": "Anthropic Books $35 Billion To Nvidia-Backed Lambda For Cloud Capacity",
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/01/anthropic-books-35-billion-to-nvidia-backed-lambda-for-cloud-capacity/",
+      "published": "2026-09-01"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Mittwoch, den 2. September 2026.\n\nHeute konzentrieren wir uns auf zwei Geschichten, die zwar unterschiedliche Bereiche betreffen, aber denselben roten Faden haben: den Wettlauf der großen KI-Anbieter um staatliche Kunden und um immer mehr Rechenleistung.\n\n===\n\nBeginnen wir beim Pentagon. Das US-Verteidigungsministerium hat am Montag sein zentrales KI-Portal GenAI.mil deutlich erweitert. Bislang stand den rund drei Millionen zivilen und militärischen Mitarbeitenden dort nur eine angepasste Version von Google Gemini zur Verfügung. Jetzt kommen zwei weitere Anbieter hinzu, nämlich OpenAI mit ChatGPT Mil und xAI mit Grok for Government. Das Verteidigungsministerium hat Versionen von OpenAIs ChatGPT und xAIs Grok gestartet und damit drei Millionen zivilen und militärischen Angestellten Zugang zu generativen KI-Werkzeugen gegeben, die auf die Bedürfnisse der Truppe zugeschnitten wurden. Ziel ist es, dass Beschäftigte sensible Regierungsdaten nicht mehr über gewöhnliche kommerzielle Kanäle schicken müssen. Laut Verteidigungsministerium hat das Portal bereits mehr als 1,7 Millionen registrierte Nutzerinnen und Nutzer. ChatGPT Mil ist vor allem für dokumentenlastige, unklassifizierte Arbeit gedacht, etwa Verwaltung, Logistik, Planung und Richtlinienarbeit. Grok for Government wird deutlich militärischer positioniert, mit Fokus auf Aufklärung und logistische Optimierung.\n\nAuffällig ist, wer bei diesem Ausbau fehlt: Anthropic. Der Grund liegt in einem länger schwelenden Streit. Anthropics Führung hatte auf strengeren vertraglichen Schutzklauseln bestanden, damit die Technologie des Unternehmens nicht für Massenüberwachung von US-Bürgern oder für autonome Waffensysteme eingesetzt werden kann. Das Pentagon wiederum verlangte uneingeschränkten Zugriff auf die gekauften KI-Produkte für alle Zwecke, die es selbst als rechtmäßig einstuft. Anthropic klagte daraufhin gegen die Regierung, und erst vergangene Woche entschied ein Bundesrichter, dass die Einstufung und das Vorgehen des Pentagons gegen Anthropic rechtswidrig und unbegründet gewesen seien. Trotz dieses Urteils bleibt Claude also vorerst außen vor, während ChatGPT und Grok nun offiziell mit der höchsten Freigabestufe für unklassifizierte, aber sensible Daten arbeiten dürfen.\n\n===\n\nDie zweite große Geschichte kommt aus der Infrastruktur-Welt und dreht sich, wie so oft in diesem Jahr, um Anthropic. Das Unternehmen hat einen weiteren gewaltigen Cloud-Deal unterschrieben, diesmal mit dem Nvidia-nahen Cloud-Anbieter Lambda. Anthropic hat mit Lambda, einem von Nvidia unterstützten Cloud-Anbieter, eine Rechenzentrums-Vereinbarung im Wert von 35 Milliarden Dollar geschlossen, um seine KI-Kapazität schnell auszubauen. Konkret geht es um ein Rechenzentrum in Nueces County, Texas, das vom früheren Bitcoin-Miner Hut 8 gebaut wird. Nvidia hält dabei selbst den Mietvertrag für das Gebäude, während Lambda die Grafikchips kauft und den Rechenzugang an Anthropic weiterreicht. Die Anlage soll am Ende rund 350 Megawatt Kapazität liefern.\n\nWas diesen Deal besonders macht, ist der Kontext. Erst vergangene Woche hatte Anthropic bereits 45 Milliarden Dollar für Kapazität beim Anbieter Nscale in West Virginia zugesagt. Rechnet man alle Vereinbarungen der vergangenen Monate zusammen, darunter auch mehr als 100 Milliarden Dollar mit Amazon Web Services im April, kommt Anthropic nach Berechnungen von Forbes auf gut 180 Milliarden Dollar an zugesagter Rechenkapazität innerhalb von nur fünf Monaten. Hintergrund ist ein Engpass bei der Rechenleistung, den Anthropic Anfang des Jahres erlebt hatte, als die Nachfrage nach Claude und dem Programmier-Tool Claude Code stark anzog. Für Nvidia ist die Konstruktion clever: Der Chiphersteller ist gleichzeitig Investor bei Lambda, größter Kunde und nun auch noch Vermieter des texanischen Rechenzentrums. Das unterstreicht, wie sehr sich Nvidia inzwischen nicht nur als Chiplieferant, sondern als zentraler Finanzierungs- und Infrastrukturpartner der gesamten Branche positioniert. Lambda selbst befindet sich zudem in Gesprächen über eine weitere Finanzierungsrunde von bis zu drei Milliarden Dollar vor einem möglichen Börsengang.\n\n===\n\nZusammengefasst zeigt der heutige Tag zwei Seiten derselben Medaille. Auf der einen Seite dringen die großen KI-Anbieter immer tiefer in staatliche Institutionen vor, mit allen Fragen zu Sicherheit, Kontrolle und ethischen Leitplanken, die das mit sich bringt. Auf der anderen Seite wächst der Bedarf an physischer Infrastruktur so schnell, dass selbst Konzerne wie Anthropic ihre Kapazitäten praktisch im Wochentakt neu absichern müssen. Wir bleiben dran, wie sich der Machtkampf zwischen den Anbietern um staatliche Aufträge weiterentwickelt, und ob Anthropic trotz des Gerichtssieges den Weg zurück ins Pentagon findet. Das war dein KI Daily für heute. Bis morgen."
+}
