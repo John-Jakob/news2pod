@@ -19,6 +19,31 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 3. September 2026: Gemini 3.8, Claude Mythos, Dells Rekordquartal</title>
+      <description><![CDATA[<p>Google bringt Gemini 3.8 Flash und eine Cyber-Variante, Anthropic startet Claude Fable und Mythos 5.1, und Dell meldet ein Rekordquartal bei KI-Serverbestellungen. Außerdem: der Wettlauf der KI-Labore um Cybersicherheits-Modelle nimmt Fahrt auf.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049">Google launcht Gemini 3.8 Flash und Gemini 3.8 Flash Cyber</a> <em>(theregister.com / 9to5google.com / thurrott.com)</em></li>
+<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Anthropic stellt Claude Fable 5.1 und Mythos 5.1 vor</a> <em>(anthropic.com / venturebeat.com / macrumors.com)</em></li>
+<li><a href="https://www.investing.com/news/stock-market-news/dell-shares-gain-after-strong-ai-server-demand-boosts-annual-forecast-4885629">Dell verbucht Rekord-KI-Serverbestellungen von 60,9 Milliarden Dollar</a> <em>(reuters.com (via investing.com) / finance.yahoo.com)</em></li>
+<li><a href="https://www.siliconrepublic.com/machines/anthropic-launches-claude-fable-5-1-and-mythos-5-1">OpenAI kündigt Cyber-Modell Astra an, das laut eigenen Angaben Preparedness-Schwelle überschreitet</a> <em>(siliconrepublic.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Google bringt Gemini 3.8 Flash und eine Cyber-Variante, Anthropic startet Claude Fable und Mythos 5.1, und Dell meldet ein Rekordquartal bei KI-Serverbestellungen. Außerdem: der Wettlauf der KI-Labore um Cybersicherheits-Modelle nimmt Fahrt auf.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049">Google launcht Gemini 3.8 Flash und Gemini 3.8 Flash Cyber</a> <em>(theregister.com / 9to5google.com / thurrott.com)</em></li>
+<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Anthropic stellt Claude Fable 5.1 und Mythos 5.1 vor</a> <em>(anthropic.com / venturebeat.com / macrumors.com)</em></li>
+<li><a href="https://www.investing.com/news/stock-market-news/dell-shares-gain-after-strong-ai-server-demand-boosts-annual-forecast-4885629">Dell verbucht Rekord-KI-Serverbestellungen von 60,9 Milliarden Dollar</a> <em>(reuters.com (via investing.com) / finance.yahoo.com)</em></li>
+<li><a href="https://www.siliconrepublic.com/machines/anthropic-launches-claude-fable-5-1-and-mythos-5-1">OpenAI kündigt Cyber-Modell Astra an, das laut eigenen Angaben Preparedness-Schwelle überschreitet</a> <em>(siliconrepublic.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Google bringt Gemini 3.8 Flash und eine Cyber-Variante, Anthropic startet Claude Fable und Mythos 5.1, und Dell meldet ein Rekordquartal bei KI-Serverbestellungen. Außerdem: der Wettlauf der KI-Labore um Cybersicherheits-Modelle nimmt Fahrt auf.</itunes:summary>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-03</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-03/2026-09-03.mp3" length="2956269" type="audio/mpeg"/>
+      <itunes:duration>6:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 2. September 2026: Pentagon holt ChatGPT und Grok, Anthropics 180-Milliarden-Wette</title>
       <description><![CDATA[<p>Das US-Verteidigungsministerium öffnet sein KI-Portal für ChatGPT und Grok, während Anthropic mit einem weiteren Multi-Milliarden-Deal seine Rechenkapazität absichert. Ein Blick auf zwei Geschichten, die zeigen, wie eng Politik, Militär und KI-Infrastruktur inzwischen verflochten sind.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -827,29 +852,6 @@
       <guid isPermaLink="false">ai-2026-07-31</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-31/2026-07-31.mp3" length="3291263" type="audio/mpeg"/>
       <itunes:duration>6:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 30. Juli 2026: Deutschlands KI-Aufsicht startet, DeepMind verliert AlphaFold-Kern</title>
-      <description><![CDATA[<p>Die Bundesnetzagentur übernimmt ab sofort die KI-Marktaufsicht in Deutschland, und bei Google DeepMind bricht mit dem AlphaFold-Team ein weiteres Stück wissenschaftliches Kronjuwel Richtung Anthropic weg. Ein kompaktes Update zu einem eher ruhigen Nachrichtentag.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.heise.de/news/Neue-Befugnisse-Bundesnetzagentur-uebernimmt-KI-Aufsicht-in-Deutschland-11383935.html">Bundesnetzagentur übernimmt KI-Aufsicht in Deutschland – KI-MIG tritt in Kraft</a> <em>(heise.de)</em></li>
-<li><a href="https://www.blogspan.net/ki-mig-bundesnetzagentur-ki-aufsicht/">KI-MIG in Kraft: Bundesnetzagentur wird zentrale KI-Aufsicht, vier Tage vor EU-Frist</a> <em>(blogspan.net)</em></li>
-<li><a href="https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/">Deepmind dismantles its AlphaFold team as key authors leave for Anthropic</a> <em>(the-decoder.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Die Bundesnetzagentur übernimmt ab sofort die KI-Marktaufsicht in Deutschland, und bei Google DeepMind bricht mit dem AlphaFold-Team ein weiteres Stück wissenschaftliches Kronjuwel Richtung Anthropic weg. Ein kompaktes Update zu einem eher ruhigen Nachrichtentag.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.heise.de/news/Neue-Befugnisse-Bundesnetzagentur-uebernimmt-KI-Aufsicht-in-Deutschland-11383935.html">Bundesnetzagentur übernimmt KI-Aufsicht in Deutschland – KI-MIG tritt in Kraft</a> <em>(heise.de)</em></li>
-<li><a href="https://www.blogspan.net/ki-mig-bundesnetzagentur-ki-aufsicht/">KI-MIG in Kraft: Bundesnetzagentur wird zentrale KI-Aufsicht, vier Tage vor EU-Frist</a> <em>(blogspan.net)</em></li>
-<li><a href="https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/">Deepmind dismantles its AlphaFold team as key authors leave for Anthropic</a> <em>(the-decoder.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Die Bundesnetzagentur übernimmt ab sofort die KI-Marktaufsicht in Deutschland, und bei Google DeepMind bricht mit dem AlphaFold-Team ein weiteres Stück wissenschaftliches Kronjuwel Richtung Anthropic weg. Ein kompaktes Update zu einem eher ruhigen Nachrichtentag.</itunes:summary>
-      <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-07-30</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-07-30/2026-07-30.mp3" length="1952122" type="audio/mpeg"/>
-      <itunes:duration>4:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
