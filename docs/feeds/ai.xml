@@ -19,6 +19,31 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 5. September 2026: Cybercab-Probe, Microsofts Transkriptions-Coup</title>
+      <description><![CDATA[<p>Kaum ist Teslas fahrerloses Cybercab in Austin gestartet, ermittelt schon die US-Verkehrsbehörde. Außerdem: Microsoft greift mit einem neuen Sprach-Modell OpenAI und Google an, und die großen KI-Labore ziehen nach den jüngsten Cyber-Vorfällen gemeinsam die Notbremse.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/">Feds launch investigation into Tesla's Cybercab deployment</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.forbes.com/sites/alanohnsman/2026/09/04/teslas-launch-of-self-driving-cybercab-rides-sparks-federal-probe/">Tesla's Launch Of Self-Driving Cybercab Rides Sparks Federal Probe</a> <em>(forbes.com)</em></li>
+<li><a href="https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed">Microsoft AI's MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed</a> <em>(venturebeat.com)</em></li>
+<li><a href="https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html">Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs</a> <em>(thehackernews.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Kaum ist Teslas fahrerloses Cybercab in Austin gestartet, ermittelt schon die US-Verkehrsbehörde. Außerdem: Microsoft greift mit einem neuen Sprach-Modell OpenAI und Google an, und die großen KI-Labore ziehen nach den jüngsten Cyber-Vorfällen gemeinsam die Notbremse.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/">Feds launch investigation into Tesla's Cybercab deployment</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.forbes.com/sites/alanohnsman/2026/09/04/teslas-launch-of-self-driving-cybercab-rides-sparks-federal-probe/">Tesla's Launch Of Self-Driving Cybercab Rides Sparks Federal Probe</a> <em>(forbes.com)</em></li>
+<li><a href="https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed">Microsoft AI's MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed</a> <em>(venturebeat.com)</em></li>
+<li><a href="https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html">Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs</a> <em>(thehackernews.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Kaum ist Teslas fahrerloses Cybercab in Austin gestartet, ermittelt schon die US-Verkehrsbehörde. Außerdem: Microsoft greift mit einem neuen Sprach-Modell OpenAI und Google an, und die großen KI-Labore ziehen nach den jüngsten Cyber-Vorfällen gemeinsam die Notbremse.</itunes:summary>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-05</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-05/2026-09-05.mp3" length="2560253" type="audio/mpeg"/>
+      <itunes:duration>5:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 4. September 2026: Nvidia kauft Hugging Face, GPT-6 Astra startet</title>
       <description><![CDATA[<p>Nvidia sichert sich für knapp 13 Milliarden Dollar die offene KI-Plattform Hugging Face, OpenAI schickt sein mächtigstes und zugleich riskantestes Modell GPT-6 Astra ins Rennen, und Sony sowie Warner Chappell verklagen Anthropic wegen gestohlener Songtexte.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -825,39 +850,6 @@
       <guid isPermaLink="false">ai-2026-08-03</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-03/2026-08-03.mp3" length="2635694" type="audio/mpeg"/>
       <itunes:duration>5:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 1. August 2026: EU-Kennzeichnungspflicht startet, Google zeigt Robotik-Comeback</title>
-      <description><![CDATA[<p>Die EU-Transparenzpflicht für KI-Inhalte startet, Google DeepMind kontert die Kritik mit neuen Robotik-Modellen, und Anthropics Forschungsmodell knackt nebenbei einen Post-Quanten-Verschlüsselungskandidaten. Das und mehr im heutigen Briefing.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.it-daily.net/shortnews/eu-ai-act-startet">EU AI Act: Transparenzpflichten für KI-Inhalte treten am 2. August in Kraft</a> <em>(it-daily.net)</em></li>
-<li><a href="https://borncity.com/news/eu-ai-act-kennzeichnungspflicht-fuer-ki-inhalte-ab-2-august/">EU AI Act: Kennzeichnungspflicht für KI-Inhalte ab 2. August</a> <em>(borncity.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">DeepMind ships Gemini Robotics 2, adapts to new robot bodies in hours</a> <em>(aiweekly.co (via deepmind.google))</em></li>
-<li><a href="https://www.tradingkey.com/analysis/stocks/us-stocks/262067418-stock-google-alphabet-goog-gemini-llm-price-predittion-ai-tradingkey">Alphabet-Aktie steigt nach Vorstellung neuer Robotik-KI-Modelle</a> <em>(tradingkey.com)</em></li>
-<li><a href="https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race">Google's Gemini delay widens AI race with OpenAI, Anthropic</a> <em>(axios.com)</em></li>
-<li><a href="https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-july-0f0">AI to ROI News &amp; Analysis: Claude Mythos Preview findet Schwachstelle in Post-Quanten-Kandidat HAWK</a> <em>(ai2roi.substack.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba">Moonshot's Kimi Uses 20,000 Nvidia Chip Cluster From Alibaba</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-july-0f0">Nvidia, Microsoft und Dutzende weitere Firmen warnen vor verfrühter Regulierung offener KI-Modelle</a> <em>(ai2roi.substack.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Die EU-Transparenzpflicht für KI-Inhalte startet, Google DeepMind kontert die Kritik mit neuen Robotik-Modellen, und Anthropics Forschungsmodell knackt nebenbei einen Post-Quanten-Verschlüsselungskandidaten. Das und mehr im heutigen Briefing.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.it-daily.net/shortnews/eu-ai-act-startet">EU AI Act: Transparenzpflichten für KI-Inhalte treten am 2. August in Kraft</a> <em>(it-daily.net)</em></li>
-<li><a href="https://borncity.com/news/eu-ai-act-kennzeichnungspflicht-fuer-ki-inhalte-ab-2-august/">EU AI Act: Kennzeichnungspflicht für KI-Inhalte ab 2. August</a> <em>(borncity.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">DeepMind ships Gemini Robotics 2, adapts to new robot bodies in hours</a> <em>(aiweekly.co (via deepmind.google))</em></li>
-<li><a href="https://www.tradingkey.com/analysis/stocks/us-stocks/262067418-stock-google-alphabet-goog-gemini-llm-price-predittion-ai-tradingkey">Alphabet-Aktie steigt nach Vorstellung neuer Robotik-KI-Modelle</a> <em>(tradingkey.com)</em></li>
-<li><a href="https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race">Google's Gemini delay widens AI race with OpenAI, Anthropic</a> <em>(axios.com)</em></li>
-<li><a href="https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-july-0f0">AI to ROI News &amp; Analysis: Claude Mythos Preview findet Schwachstelle in Post-Quanten-Kandidat HAWK</a> <em>(ai2roi.substack.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba">Moonshot's Kimi Uses 20,000 Nvidia Chip Cluster From Alibaba</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-july-0f0">Nvidia, Microsoft und Dutzende weitere Firmen warnen vor verfrühter Regulierung offener KI-Modelle</a> <em>(ai2roi.substack.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Die EU-Transparenzpflicht für KI-Inhalte startet, Google DeepMind kontert die Kritik mit neuen Robotik-Modellen, und Anthropics Forschungsmodell knackt nebenbei einen Post-Quanten-Verschlüsselungskandidaten. Das und mehr im heutigen Briefing.</itunes:summary>
-      <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-08-01</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-01/2026-08-01.mp3" length="2886470" type="audio/mpeg"/>
-      <itunes:duration>6:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
