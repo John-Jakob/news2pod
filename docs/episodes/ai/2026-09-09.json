@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 9. September 2026: Mistral-Milliarden, Chinas Compute-Plan, Googles EU-Rückzug",
+  "teaser": "Mistral holt sich drei Milliarden Euro von Samsung, China plant eine Vervierfachung seiner KI-Rechenkapazität, und Google verschlechtert freiwillig seine Suche in Europa. Außerdem: Streit zwischen OpenAI und Anthropic um einen Mathematik-Beweis.",
+  "pubDate": "2026-09-09T06:00:00+02:00",
+  "duration_seconds": 367,
+  "size_bytes": 2939759,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-09/2026-09-09.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 113498,
+    "output_tokens": 4421
+  },
+  "sources": [
+    {
+      "headline": "Mistral AI raises €3 billion in Samsung-led Series D round",
+      "source": "yahoo finance / unite.ai",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mistral-ai-raises-3-billion-111824280.html",
+      "published": "2026-09-08"
+    },
+    {
+      "headline": "China targets fourfold boost in AI computing capacity by 2030 in major tech push",
+      "source": "scmp.com",
+      "url": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push",
+      "published": "2026-09-08"
+    },
+    {
+      "headline": "Google will 'degrade' Search in Europe to avoid EU fines",
+      "source": "engadget.com / Reuters",
+      "url": "https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines/",
+      "published": "2026-09-08"
+    },
+    {
+      "headline": "NYU mathematician accuses OpenAI of racing to preempt his Euler proof",
+      "source": "aiweekly.co (citing analyticsindiamag)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-09-08"
+    },
+    {
+      "headline": "Alibaba, Cambricon, Ant Group join PyTorch Foundation governance",
+      "source": "pytorch.org / aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-09-08"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Mittwoch, 9. September 2026.\n\n===\n\nWir beginnen in Paris. Das französische KI-Unternehmen Mistral hat die größte Finanzierungsrunde in der Geschichte der europäischen Tech-Branche eingesammelt. Mistral AI hat drei Milliarden Euro in einer Series-D-Runde aufgenommen, angeführt von Samsung Electronics, bei einer Bewertung von über 21 Milliarden Euro. Das ist fast eine Verdopplung gegenüber der Bewertung von rund elf Komma sieben Milliarden Euro vor einem Jahr. Neben Samsung beteiligten sich der von EQT verwaltete Scaleup Europe Fund, PSG Equity sowie neue Investoren wie Advent, BlackRock und das Großherzogtum Luxemburg. CEO Arthur Mensch erklärte gegenüber CNBC, dass Mistral das frische Kapital vor allem in eigene Rechenzentren sowie zusätzliche gemietete Rechenkapazität investieren will. Die Runde unterstreicht, wie sehr sich der Wettlauf um KI inzwischen um Kapital, Chips und Infrastruktur dreht, nicht nur um das beste Modell.\n\n===\n\nGenau dieser Wettlauf um Infrastruktur zeigt sich auch in China. Pekings Ministerium für Industrie und Informationstechnologie hat einen neuen Fünfjahresplan veröffentlicht, der die nationale KI-Rechenkapazität bis zum Jahr 2030 mehr als vervierfachen soll, auf neuntausendachthundert Exaflops. Zum Vergleich, Ende Juni lag China bei rund zweitausendeinhundertfünfundachtzig Exaflops, ein Plus von hundertsiebenundsiebzig Prozent gegenüber dem Vorjahr. Für dieses Ziel sind kumulierte Investitionen von drei Komma acht Billionen Yuan vorgesehen, umgerechnet etwa fünfhundertzweiunddreißig Milliarden US-Dollar. Der Plan setzt dabei bewusst auf heimische Chips, um den Auswirkungen amerikanischer Exportkontrollen entgegenzuwirken. Es ist ein klares Signal, dass China die Rechenkapazität als strategischen Standortfaktor im globalen KI-Wettbewerb betrachtet.\n\n===\n\nNach Europa und Asien nun ein Blick auf einen ungewöhnlichen Nebeneffekt der Regulierung. Google hat in dieser Woche Änderungen an seiner Suchmaschine in Europa eingeführt, um EU-Vorgaben aus dem Digital Markets Act zu erfüllen, und wird dabei erstaunlich offen. Ein Google-Manager erklärte gegenüber Reuters, die Änderungen bedeuteten den größten Qualitätsverlust in der neunundzwanzigjährigen Geschichte der Suchmaschine. Konkret bekommen Preisvergleichsportale wie Booking.com und Expedia bei Themen wie Hotels, Flügen und Restaurants künftig mehr Sichtbarkeit, während direkte Ergebnisse von Unternehmen zurückgedrängt werden. Die EU-Kommission hatte Google zuvor mit einer Strafe von rund vierhundertsechzig Millionen Euro belegt, weil der Konzern eigene Dienste bei der Anzeige von Suchergebnissen bevorzugt haben soll. Google positioniert sich hier bewusst als Opfer der Regulierung, ein PR-Manöver, das in Brüssel für Diskussionen sorgen dürfte.\n\n===\n\nEin weiteres Thema, das für Aufsehen sorgt, ist ein Streit zwischen OpenAI und Anthropic um einen mathematischen Durchbruch. Der Mathematiker Tristan Buckmaster von der New York University und der Anthropic-Forscher Levent Alpöge haben gemeinsam einen mit dem Beweisassistenten Lean verifizierten Beweis für ein Problem der dreidimensionalen Euler-Gleichungen veröffentlicht, unter Zuhilfenahme von Claude und Codex. Buckmaster berichtet nun öffentlich, dass Gerüchte über diese Arbeit bereits Anfang September zu OpenAI durchgesickert seien und dass ihm ein OpenAI-Forscher mitgeteilt habe, ein internes Modell habe einen ähnlichen, rund hundertseitigen Beweis für die verwandte Navier-Stokes-Gleichung erstellt. Buckmaster wirft OpenAI vor, ihm eine Kooperation vorgeschlagen zu haben, die seinen Anthropic-affiliierten Co-Autor von der Autorenschaft ausgeschlossen hätte. OpenAI weist die Vorwürfe als falsch und aufwieglerisch zurück und kündigt eine ausführlichere Stellungnahme an. Der Vorfall zeigt, wie eng mittlerweile der Wettbewerb zwischen den großen KI-Laboren auch im Bereich reiner Mathematikforschung geworden ist.\n\n===\n\nZum Abschluss ein Blick auf die Infrastruktur-Ebene der Open-Source-Welt. Die PyTorch Foundation hat auf der KubeCon-Plus-PyTorch-Conference in Shanghai bekanntgegeben, dass Alibaba Cloud und der Chip-Hersteller Cambricon als Platin-Mitglieder beitreten, jeweils mit einem Sitz im Führungsgremium, während die Ant Group als Gold-Mitglied einsteigt. Damit sitzen nun neben dem bereits bestehenden Mitglied Huawei gleich mehrere chinesische Schwergewichte am Tisch der einflussreichsten Open-Source-Stiftung für maschinelles Lernen. Das unterstreicht, wie sehr sich chinesische Konzerne trotz Exportkontrollen in die globale KI-Software-Infrastruktur einbinden.\n\n===\n\nDas war dein KI Daily für heute. Im Auge behalten solltet ihr, wie sich der Streit zwischen OpenAI und Anthropic um die Euler-Beweise weiterentwickelt, und ob Googles ungewöhnlich offene Kritik an der EU-Regulierung politische Folgen hat. Wir hören uns morgen wieder. Bis dahin, alles Gute."
+}

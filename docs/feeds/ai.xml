@@ -19,6 +19,33 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 9. September 2026: Mistral-Milliarden, Chinas Compute-Plan, Googles EU-Rückzug</title>
+      <description><![CDATA[<p>Mistral holt sich drei Milliarden Euro von Samsung, China plant eine Vervierfachung seiner KI-Rechenkapazität, und Google verschlechtert freiwillig seine Suche in Europa. Außerdem: Streit zwischen OpenAI und Anthropic um einen Mathematik-Beweis.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/mistral-ai-raises-3-billion-111824280.html">Mistral AI raises €3 billion in Samsung-led Series D round</a> <em>(yahoo finance / unite.ai)</em></li>
+<li><a href="https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push">China targets fourfold boost in AI computing capacity by 2030 in major tech push</a> <em>(scmp.com)</em></li>
+<li><a href="https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines/">Google will 'degrade' Search in Europe to avoid EU fines</a> <em>(engadget.com / Reuters)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">NYU mathematician accuses OpenAI of racing to preempt his Euler proof</a> <em>(aiweekly.co (citing analyticsindiamag))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Alibaba, Cambricon, Ant Group join PyTorch Foundation governance</a> <em>(pytorch.org / aiweekly.co)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Mistral holt sich drei Milliarden Euro von Samsung, China plant eine Vervierfachung seiner KI-Rechenkapazität, und Google verschlechtert freiwillig seine Suche in Europa. Außerdem: Streit zwischen OpenAI und Anthropic um einen Mathematik-Beweis.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/mistral-ai-raises-3-billion-111824280.html">Mistral AI raises €3 billion in Samsung-led Series D round</a> <em>(yahoo finance / unite.ai)</em></li>
+<li><a href="https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push">China targets fourfold boost in AI computing capacity by 2030 in major tech push</a> <em>(scmp.com)</em></li>
+<li><a href="https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines/">Google will 'degrade' Search in Europe to avoid EU fines</a> <em>(engadget.com / Reuters)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">NYU mathematician accuses OpenAI of racing to preempt his Euler proof</a> <em>(aiweekly.co (citing analyticsindiamag))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Alibaba, Cambricon, Ant Group join PyTorch Foundation governance</a> <em>(pytorch.org / aiweekly.co)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Mistral holt sich drei Milliarden Euro von Samsung, China plant eine Vervierfachung seiner KI-Rechenkapazität, und Google verschlechtert freiwillig seine Suche in Europa. Außerdem: Streit zwischen OpenAI und Anthropic um einen Mathematik-Beweis.</itunes:summary>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-09</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-09/2026-09-09.mp3" length="2939759" type="audio/mpeg"/>
+      <itunes:duration>6:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 8. September 2026: Huang ruft AGI aus, OpenAI zieht die Bremse</title>
       <description><![CDATA[<p>Nvidia-Chef Jensen Huang erklärt nach GPT-6 Astra die AGI-Ära für eröffnet, OpenAI reagiert mit einer Trainingspause und neuen Sicherheitsregeln, und in Brüssel beginnt die erste Kontrollwelle des EU AI Acts. Ein ruhigerer, aber inhaltsreicher Nachrichtentag.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -837,25 +864,6 @@
       <guid isPermaLink="false">ai-2026-08-06</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-06/2026-08-06.mp3" length="2570493" type="audio/mpeg"/>
       <itunes:duration>5:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 5. August 2026: EU verschärft Druck auf OpenAI und Anthropic</title>
-      <description><![CDATA[<p>Ein eher ruhiger Nachrichtentag: Wir ordnen ein, wie die neuen EU-Kontrollrechte konkret bei OpenAI und Anthropic ankommen, und warum Brüssel schon lange auf Anthropics Mythos-Modell drängt.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html">Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers</a> <em>(cnbc.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Ein eher ruhiger Nachrichtentag: Wir ordnen ein, wie die neuen EU-Kontrollrechte konkret bei OpenAI und Anthropic ankommen, und warum Brüssel schon lange auf Anthropics Mythos-Modell drängt.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html">Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers</a> <em>(cnbc.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Ein eher ruhiger Nachrichtentag: Wir ordnen ein, wie die neuen EU-Kontrollrechte konkret bei OpenAI und Anthropic ankommen, und warum Brüssel schon lange auf Anthropics Mythos-Modell drängt.</itunes:summary>
-      <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-08-05</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-05/2026-08-05.mp3" length="1881069" type="audio/mpeg"/>
-      <itunes:duration>3:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
