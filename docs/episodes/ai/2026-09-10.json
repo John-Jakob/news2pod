@@ -1,0 +1,70 @@
+{
+  "title": "KI Daily – 10. September 2026: Spionage-Vorwurf, Millennium-Streit, Pentagon-Akten",
+  "teaser": "Washington beschuldigt sechs chinesische KI-Firmen der industriellen Modell-Destillation, OpenAIs Millennium-Beweis sorgt für Zoff mit einem NYU-Mathematiker, und geleakte Pentagon-Verträge zeigen die enge Verzahnung von KI-Konzernen und US-Militär. Dazu: Google investiert Milliarden in finnische Atomkraft für seine KI-Rechenzentren.",
+  "pubDate": "2026-09-10T06:00:00+02:00",
+  "duration_seconds": 384,
+  "size_bytes": 3074551,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-10/2026-09-10.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 107950,
+    "output_tokens": 4549
+  },
+  "sources": [
+    {
+      "headline": "NSA, CISA und FBI werfen sechs chinesischen KI-Firmen industrielle Modell-Destillation vor",
+      "source": "cisa.gov",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+      "published": "2026-09-08"
+    },
+    {
+      "headline": "US intelligence advisory names six Chinese AI firms and lists the US models each one targeted",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/nsa-fbi-cisa-advisory-chinese-ai-distillation",
+      "published": "2026-09-09"
+    },
+    {
+      "headline": "US Accuses Chinese AI Firms of Model Theft – Bessent droht mit Sanktionen",
+      "source": "technology.org",
+      "url": "https://www.technology.org/2026/09/09/us-agencies-chinese-ai-distillation-advisory/",
+      "published": "2026-09-09"
+    },
+    {
+      "headline": "OpenAI's historic math solution overshadowed by credit controversy",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
+      "published": "2026-09-08"
+    },
+    {
+      "headline": "AI Has Solved One of Math's $1 Million Millennium Prize Problems",
+      "source": "quantamagazine.org",
+      "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+      "published": "2026-09-08"
+    },
+    {
+      "headline": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "published": "2026-09-08"
+    },
+    {
+      "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
+      "source": "theintercept.com",
+      "url": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
+      "published": "2026-09-08"
+    },
+    {
+      "headline": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland",
+      "source": "reuters (via tribune.com.pk)",
+      "url": "https://tribune.com.pk/story/2628394/google-to-invest-15-billion-in-ai-infrastructure-and-buy-nuclear-power-in-finland",
+      "published": "2026-09-09"
+    },
+    {
+      "headline": "DeepSeek Opens V4.1 Flash Test Endpoint With Sept 10 Expiry, Claims It Surpasses V4 Pro",
+      "source": "techstartups.com",
+      "url": "https://techstartups.com/2026/09/09/top-tech-news-today-september-9-2026-google-meta-openai-xiaomi-more/",
+      "published": "2026-09-09"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, den 10. September 2026.\n\nWir starten heute mit einer handfesten geopolitischen Eskalation. Die amerikanische Sicherheitsbehörde CISA hat gemeinsam mit NSA und FBI eine gemeinsame Warnung veröffentlicht, die es in sich hat. Die Behörden werfen sechs chinesischen KI-Unternehmen vor, seit Ende 2024 in industriellem Maßstab amerikanische Spitzenmodelle systematisch auszubeuten. Namentlich genannt werden DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun und Z.AI. Laut der Warnung haben diese Firmen Milliarden von Tokens aus Millionen Anfragen an Modelle wie Claude, GPT, Gemini und Grok gezogen, um damit eigene Systeme zu trainieren. Die Behörden bezeichnen das nicht als übliche, legitime Modell-Destillation, sondern als aggressive und zielgerichtete Kampagne, die den Kern der chinesischen Entwicklungsstrategie bildet, nicht nur eine Ergänzung. Besonders brisant: Die Warnung stellt explizit den vielzitierten Trainingskosten von DeepSeek in Höhe von 5,6 Millionen Dollar infrage, da diese Summe die wahren Kosten der über Destillation beschafften Daten nicht einrechne. US-Finanzminister Scott Bessent legte nach und drohte auf der Plattform X mit Sanktionen und Aufnahme in die sogenannte Entity List, sollte sich der Verdacht auf gezielten geistigen Diebstahl erhärten. Die Ankündigung fällt zudem kurz vor einem geplanten Besuch von Chinas Staatschef Xi Jinping in Washington, bei dem KI bereits auf der Agenda steht.\n\n===\n\nZweites großes Thema ist ein handfester Streit in der Mathematik-Community, der zeigt, wie sehr KI inzwischen in die Wissenschaft eingreift. OpenAI hat verkündet, mit einem noch unveröffentlichten internen Modell einen Beweis für eines der sieben Millennium-Probleme des Clay Mathematics Institute geliefert zu haben, konkret für die Navier-Stokes-Gleichungen, die das Verhalten von Flüssigkeiten beschreiben. Für die Lösung wurden nach OpenAIs eigenen Angaben rund zehntausend Agenten eingesetzt, die in 88 Stunden fast fünf Millionen Nachrichten austauschten und rund 300 Milliarden Output-Tokens verbrauchten. Das Problem: Der NYU-Mathematiker Tristan Buckmaster hatte gemeinsam mit dem Anthropic-Mitarbeiter Levent Alpöge bereits seit fast einem Jahr an verwandten Problemen gearbeitet und kurz zuvor einen eigenen Teilerfolg veröffentlicht. Buckmaster wirft OpenAI vor, von seinem Ansatz gewusst und ihn bewusst überholt zu haben, um die Lorbeeren einzustreichen. OpenAI bestreitet das und erklärt, man habe erst am ersten September durch Gerüchte von der Arbeit der beiden erfahren und keine privaten Daten eingesehen. Der Fall zeigt exemplarisch, wie unklar inzwischen die Grenzen zwischen menschlicher Forschungsleistung und massivem KI-Ressourceneinsatz verlaufen.\n\n===\n\nDrittens ein investigativer Coup des Magazins The Intercept. Über eine Klage nach dem Freedom of Information Act wurden mehr als vierhundert Seiten an Verträgen zwischen dem US-Verteidigungsministerium und OpenAI, Google, Anthropic sowie xAI offengelegt. Die im Juli 2025 unterzeichneten Verträge haben jeweils ein Volumen von bis zu 200 Millionen Dollar und verpflichten die Firmen, Prototypen für militärische Entscheidungsfindung, Kriegsführung und Geheimdienstanalyse zu entwickeln. Besonders brisant ist eine Klausel in einem Entwurfsdokument, wonach das Pentagon von OpenAI ein Modell mit minimaler Ablehnungsrate verlangt haben soll, was Kritiker als Hinweis auf reduzierte Sicherheitsvorkehrungen werten. OpenAI erklärte, diese Formulierung habe es nie in die endgültige Vertragsfassung geschafft. Die Dokumente zeigen zudem, dass Anthropics öffentlicher Bruch mit dem Pentagon offenbar auf einem konkreten Streit über einen Folgevertrag für klassifizierte Systeme beruhte, den das Unternehmen ohne Verbot von Inlandsüberwachung und autonomen Waffensystemen ablehnte.\n\n===\n\nViertens, etwas handfester aus dem Infrastrukturbereich: Google hat angekündigt, mindestens 13 Milliarden Euro in den kommenden zwei Jahren in KI-Infrastruktur in Finnland zu investieren. Es handelt sich um die größte Einzelinvestition des Konzerns in Europa. Kernstück ist ein 22 Jahre laufender Stromliefervertrag mit dem finnischen Energiekonzern Fortum für Atomstrom aus dem Kernkraftwerk Loviisa, Googles erster Nukleardeal außerhalb der USA. Geplant sind drei neue Rechenzentren im Norden des Landes, wo kühles Klima die Kühlkosten senkt. Die Investition unterstreicht, wie sehr sich der Wettlauf um KI-Vorherrschaft inzwischen auf Energieversorgung und Netzkapazitäten verlagert, nicht nur auf Chips und Modelle.\n\n===\n\nKurz noch ein Blick nach China. DeepSeek hat parallel zu den US-Vorwürfen einen begrenzten Testzugang für ein neues Modell namens V4.1 Flash geöffnet, das eine neue Architektur und native Multimodalität bieten soll und nach eigenen Angaben das bisherige V4 Pro übertrifft. Der Test ist auf wenige Tage begrenzt und dürfte ein früher Ausblick auf das nächste reguläre Modell des Unternehmens sein.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Die Spannungen zwischen den USA und China rund um Modell-Diebstahl dürften in den kommenden Tagen weiter eskalieren, ebenso wie der Streit um wissenschaftliche Anerkennung bei KI-gestützten Mathematik-Durchbrüchen. Wir bleiben dran. Bis morgen."
+}
