@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 11. September 2026: Oracles Cloud-Boom, Kaliforniens Audit-Gesetz",
+  "teaser": "Oracle meldet explosives Cloud-Wachstum, Kalifornien verabschiedet die ersten US-Gesetze für unabhängige KI-Audits, und Anthropic veröffentlicht seinen bisher detailliertesten Bericht zu KI-Missbrauch – mit einer Weltpremiere zu biologischen Waffen.",
+  "pubDate": "2026-09-11T06:00:00+02:00",
+  "duration_seconds": 351,
+  "size_bytes": 2809356,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-11/2026-09-11.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 110240,
+    "output_tokens": 4728
+  },
+  "sources": [
+    {
+      "headline": "Oracle Q1 FY2027: Cloud-Infrastruktur-Umsatz steigt um 121 Prozent, Auftragsbestand bei 664 Milliarden Dollar",
+      "source": "prnewswire.com / investing.com",
+      "url": "https://www.investing.com/news/company-news/oracle-q1-fy2027-slides-cloud-infrastructure-surges-121-guides-90b-93CH-4897025",
+      "published": "2026-09-10"
+    },
+    {
+      "headline": "Kalifornien erlässt erste landesweite Gesetze für unabhängige KI-Audits (SB 813, AB 1405)",
+      "source": "ciodive.com / gov.ca.gov",
+      "url": "https://www.ciodive.com/news/California-AI-auditing-legislation/830104/",
+      "published": "2026-09-09/10"
+    },
+    {
+      "headline": "OpenAI startet ChatGPT for Financial Services mit Morgan Stanley und Evercore",
+      "source": "cnbc.com / openai.com",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "published": "2026-09-10"
+    },
+    {
+      "headline": "Anthropic-Bedrohungsbericht: Erstmals biologische Waffen, Alibaba-Destillation und Drohnenschwärme dokumentiert",
+      "source": "sfist.com / dailycaller.com / anthropic.com",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "published": "2026-09-10"
+    },
+    {
+      "headline": "Microsoft plant Ausbau der Rechenzentrumskapazität von 12 auf über 38 Gigawatt bis 2032",
+      "source": "bloomberg.com (via aiweekly.co)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-09-10"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den elften September zweitausendsechsundzwanzig.\n\n===\n\nWir beginnen mit Zahlen, die selbst erfahrene Wall-Street-Analysten aufhorchen ließen. Oracle hat am Donnerstag seine Quartalszahlen vorgelegt, und der Cloud-Infrastruktur-Umsatz ist um hundertzwanzig Prozent auf sieben Komma vier Milliarden Dollar gestiegen. \nOracle präsentierte seine Ergebnisse für das erste Quartal des Geschäftsjahres 2027 am 10. September 2026 und zeigte eine dramatische Beschleunigung des Cloud-Infrastruktur-Umsatzes bei gleichzeitiger Anhebung der Jahresprognose.\n Der Gesamtumsatz kletterte auf neunzehn Komma drei Milliarden Dollar, ein Plus von dreißig Prozent gegenüber dem Vorjahr. Besonders bemerkenswert: \nDer Auftragsbestand erreichte 664 Milliarden Dollar, mit mehr als 30 Milliarden Dollar an neuen KI-Cloud-Verträgen allein in diesem Quartal.\n Auch die Kapazität wächst rasant. \nDas Management betonte, dass die Nachfrage nach KI-Infrastruktur robust bleibt, mit einer GPU-Auslastung von 97,9 Prozent und der Zufügung von 850 Megawatt zusätzlicher Rechenzentrumskapazität im Berichtszeitraum.\n Die Kehrseite: Oracle finanziert diesen Ausbau massiv über Schulden. Die Zahlen unterstreichen, wie sehr die gesamte Branche derzeit auf physische Infrastruktur setzt, um die Nachfrage nach KI-Rechenleistung zu bedienen.\n\n===\n\nAuch regulatorisch tut sich etwas Grundlegendes. Kaliforniens Gouverneur Gavin Newsom hat diese Woche zwei Gesetze unterzeichnet, die in den USA erstmals eine unabhängige Prüfstruktur für KI-Systeme schaffen. \nNewsom unterzeichnete am Mittwoch zwei Gesetze, die erstmals in den Vereinigten Staaten einen Rahmen für unabhängige Audits und Bewertungen von KI-Systemen vorschreiben. Senate Bill 813 schafft einen Rahmen für unabhängige Verifizierungsorganisationen, die KI-Systeme auf Einhaltung des Landesrechts prüfen können.\n Ergänzend dazu \nrichtet Assembly Bill 1405 ein staatliches Register für KI-Auditoren ein und legt Standards für deren Unabhängigkeit, Transparenz und Integrität fest.\n Bemerkenswert ist, dass \nsowohl Anthropic als auch OpenAI die Gesetzgebung unterstützt haben.\n Kritiker wie das Magazin Gizmodo merken jedoch an, dass genau jene Unternehmen, die reguliert werden sollen, an der Ausarbeitung beteiligt waren. Zudem tritt die eigentliche Prüfpflicht laut Gesetzestext erst ab Januar zweitausendneunundzwanzig in Kraft, also mit erheblichem zeitlichem Vorlauf.\n\n===\n\nAuf der Produktseite hat OpenAI einen neuen Vorstoß ins Finanzwesen gestartet. \nOpenAI stellte ChatGPT for Financial Services vor, eine maßgeschneiderte Version seines Unternehmensprodukts, entwickelt mit den Design-Partnern Morgan Stanley und Evercore. Das neue Produkt soll Unternehmen recherchieren, Finanzdaten analysieren und Präsentationen erstellen.\n Das Werkzeug basiert auf GPT-sechs Astra und bindet direkt Datenquellen wie LSEG, PitchBook und Daloopa ein. Zielgruppe sind zunächst Investmentbanking- und Aktienresearch-Teams, also klassische Einstiegsjobs für junge Banker. OpenAI-Produktchef Nick Turley betonte dabei, es gehe um Produktivität, nicht um Ersatz der Mitarbeiter. Der Vorstoß zeigt, wie intensiv sich OpenAI, Anthropic und Google derzeit um zahlungskräftige Firmenkunden im Enterprise-Segment ringen.\n\n===\n\nEin Update zur Spionage-Geschichte von gestern: Anthropic hat seinen bislang umfangreichsten Bedrohungsbericht veröffentlicht, und der geht deutlich weiter als die bisherigen Vorwürfe zur Modell-Destillation. Neu und historisch ist vor allem ein Punkt: \nAnthropic erklärte, dies sei das erste Mal, dass ein Unternehmen öffentlich die Entdeckung eines möglichen Missbrauchs seiner KI-Modelle für biologische Waffen offenlegt.\n Zur Destillations-Affäre liefert der Bericht auch konkrete Zahlen: \nAnthropic beobachtete zwischen Mai und Juli 2026 mehr als 151 Millionen Austausche, die dem Unternehmen Alibaba zugeschrieben wurden, mit einem Höhepunkt von fast drei Millionen pro Tag über mehr als 3.500 als betrügerisch eingestufte Konten.\n Auch die chinesischen Anbieter Moonshot und DeepSeek tauchen im Bericht auf. Der Zeitpunkt der Veröffentlichung ist zudem pikant, da er mit öffentlichen Warnungen eines ehemaligen Anthropic-Mitarbeiters zusammenfällt, der vor einem unkontrollierten Wettlauf zu selbstverbessernder Superintelligenz gewarnt hatte.\n\n===\n\nDas war's für heute. Zusammengefasst zeigt sich ein Muster: gewaltiges Wachstum bei der physischen KI-Infrastruktur, erste konkrete Regulierungsschritte in Kalifornien, ein neuer Wettlauf um Firmenkunden zwischen OpenAI und Anthropic, und zugleich wachsende Sorge über Missbrauch und geopolitische Spannungen rund um die Technologie. Wir bleiben dran und melden uns morgen wieder mit dem nächsten KI Daily-Briefing. Bis dahin, alles Gute."
+}
