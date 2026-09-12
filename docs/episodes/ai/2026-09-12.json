@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 12. September 2026: Anthropics Yemen-Enthüllung, OpenAIs Agents API",
+  "teaser": "Anthropic deckt auf, wie eine Gruppe in Yemen Claude zur Raketenentwicklung nutzte. Außerdem: OpenAI öffnet seine Agents API für alle Entwickler, und führende KI-Firmen bündeln ihre Kräfte gegen Cyberangriffe.",
+  "pubDate": "2026-09-12T06:00:00+02:00",
+  "duration_seconds": 332,
+  "size_bytes": 2660563,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-12/2026-09-12.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 178182,
+    "output_tokens": 5543
+  },
+  "sources": [
+    {
+      "headline": "Anthropic: Group in Yemen used Claude AI for missile projects",
+      "source": "dawn.com",
+      "url": "https://www.dawn.com/news/2029255/group-in-yemen-used-claude-ai-for-missile-projects-anthropic-says",
+      "published": "2026-09-11"
+    },
+    {
+      "headline": "Anthropic Says Yemen Group Used Claude in Missile Development",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development",
+      "published": "2026-09-11"
+    },
+    {
+      "headline": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
+      "source": "nbcbayarea.com",
+      "url": "https://www.nbcbayarea.com/news/national-international/anthropic-claude-users-houthis-yemen-tried-ai-weapons/4141611/",
+      "published": "2026-09-11"
+    },
+    {
+      "headline": "Anthropic claims Claude AI used for missile projects, global espionage",
+      "source": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage",
+      "published": "2026-09-11"
+    },
+    {
+      "headline": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
+      "source": "marktechpost.com",
+      "url": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
+      "published": "2026-09-10"
+    },
+    {
+      "headline": "OpenAI Agents API: Codex Harness, Hosted Sandboxes, Subagents and Pricing",
+      "source": "aicybr.com",
+      "url": "https://aicybr.com/blog/openai-agents-api-codex-harness-hosted-sandboxes",
+      "published": "2026-09-10"
+    },
+    {
+      "headline": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+      "source": "thehackernews.com",
+      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "published": "2026-09-10"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, 12. September 2026.\n\nDie mit Abstand größte Geschichte der letzten Stunden kommt erneut von Anthropic. Nachdem gestern schon von biologischen Waffen, Modell-Destillation und Drohnenschwärmen die Rede war, hat das Unternehmen nun Details veröffentlicht, die es in sich haben. Anthropic hat eine Zelle im Norden Yemens identifiziert, die Claude offenbar systematisch zur Entwicklung von Raketen genutzt hat. Konkret ging es um drei Waffenprogramme: eine gelenkte Rakete mit einem handelsüblichen Flugcomputer, eine mehrstufige ballistische Rakete mit einer angestrebten Reichweite von über zweitausend Kilometern, sowie eine Raketenfamilie mit einer Hyperschall-Gleitvariante. Die Gruppe operiert in einem Gebiet, das größtenteils von den iranisch unterstützten Houthi-Rebellen kontrolliert wird, auch wenn Anthropic die Akteure nicht offiziell benennt. \nActors in Northern Yemen nutzten Claude, um Führungs-, Navigations- und Kontrollsoftware zu entwickeln, die ballistische Raketen steuert und stabilisiert.\n Besonders bemerkenswert: \ndie Nutzer der Accounts, die Anthropic sperrte, schafften es nicht, ein einsatzfähiges Gerät zu bauen, führten aber einen fehlgeschlagenen Test einer gelenkten Rakete durch, was Anthropic weiß, weil die Nutzer zurück zu Claude kamen, um herauszufinden, warum der Test scheiterte.\n Der Bericht ist bereits der dritte seiner Art seit März 2025 und deckt einen Zeitraum von Dezember bis August ab. Neben dem Yemen-Fall dokumentiert Anthropic auch einen mutmaßlich russischen Cyberspionage-Einsatz gegen die Ukraine, bei dem \nein Akteur mit den Merkmalen der Gruppe Midnight Blizzard, auch bekannt als APT29, fast die gesamte Operation über automatisierte KI-Workflows abwickelte, von Phishing über das Setup bis zum Datendiebstahl bei ukrainischen, europäischen und diplomatischen Zielen.\n Das Muster ist klar erkennbar: KI-Modelle werden zunehmend nicht mehr nur zum Schreiben von Code, sondern direkt in militärische und geheimdienstliche Operationen eingebunden, und die Grenze zwischen ziviler und militärischer Nutzung verschwimmt in Echtzeit.\n\n===\n\nWeniger dramatisch, aber wirtschaftlich bedeutsam, ist eine Ankündigung von OpenAI. Das Unternehmen hat am Mittwoch die öffentliche Beta seiner sogenannten Agents API gestartet. Damit öffnet OpenAI erstmals die technische Infrastruktur, die bisher exklusiv seinem Programmier-Assistenten Codex und der Enterprise-Version von ChatGPT vorbehalten war, für externe Entwickler. \nOpenAI released the Agents API in public beta on September 10, 2026, giving developers managed access to the agent harness and execution infrastructure used by Codex. Die API kann lange laufende Agenten-Sitzungen betreiben, MCP- und eigene Tools nutzen, Subagenten koordinieren, Kontext über lange Aufgaben hinweg komprimieren und in einer von OpenAI gehosteten Sandbox oder einer selbst gewählten Recheninfrastruktur ausführen.\n Praktisch bedeutet das: Entwickler müssen nicht mehr selbst die komplette Orchestrierung für lang laufende KI-Agenten bauen, sondern können auf eine fertige, verwaltete Lösung zurückgreifen. Erste Kunden berichten bereits von deutlichen Einsparungen. Laut OpenAI habe etwa das Unternehmen SafetyKit die Kosten pro bearbeitetem Fall um sechzig Prozent senken können. Die Ankündigung zeigt, wie sehr sich der Wettbewerb unter den großen Laboren inzwischen von reinen Modell-Wettrennen hin zu Infrastruktur- und Plattformfragen verschiebt.\n\n===\n\nEin drittes Thema, das in den vergangenen Tagen an Fahrt gewinnt, ist die koordinierte Reaktion der Branche auf KI-gestützte Cyberangriffe. Google, Anthropic und OpenAI haben in den letzten Tagen neue Sicherheitsmodelle und Zugangsprogramme für ihre KI-Systeme im Bereich Cybersicherheit vorgestellt. Parallel dazu hat sich \neine Koalition von über 100 Unternehmen, darunter Anthropic, Google, Microsoft, OpenAI und mehrere Software- und Sicherheitsanbieter, mit einem gemeinsamen Brief zusammengeschlossen, der bessere Abwehrmaßnahmen gegen KI-gestützte Bedrohungen fordert.\n Das passt ins Bild: Je stärker KI-Modelle für offensive Zwecke missbraucht werden, wie die Anthropic-Enthüllungen zeigen, desto größer wird gleichzeitig der Druck auf die Anbieter, gemeinsam bessere Schutzmechanismen zu entwickeln.\n\n===\n\nDas war es auch schon für heute, denn die Nachrichtenlage der letzten vierundzwanzig Stunden war insgesamt dünner als sonst, ein ruhiger Wochenendtag im Vergleich zu den vollen Nachrichtenwochen zuvor. Spannend bleibt, wie Regierungen und Aufsichtsbehörden auf die immer detaillierteren Missbrauchsberichte der KI-Labore reagieren werden, gerade wenn es um militärische Anwendungen geht. Wir bleiben dran und melden uns morgen wieder mit deinem KI Daily-Briefing. Bis dahin, alles Gute."
+}
