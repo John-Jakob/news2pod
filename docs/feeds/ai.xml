@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 14. September 2026: Der Wochenend-Rückblick zur großen Slowdown-Debatte</title>
+      <description><![CDATA[<p>Das Wochenende stand im Zeichen einer ungewöhnlichen Einigkeit unter KI-Rivalen: Anthropic-Chef Dario Amodei fordert eine Verlangsamung der Entwicklung, Sam Altman und Elon Musk stimmen zu, Microsoft zieht mit einem eigenen Verhaltenskodex nach. Doch aus dem Weißen Haus kommt ein klares Nein.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai">Anthropic-Chef Dario Amodei fordert in Essay 'We Must Pace the Frontier' Verlangsamung der KI-Entwicklung</a> <em>(cnn.com)</em></li>
+<li><a href="https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383">Sam Altman und Elon Musk unterstützen Amodeis Aufruf zur Verlangsamung</a> <em>(nbcnews.com)</em></li>
+<li><a href="https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/">Anthropic-Chef: 'For too long the industry lied' über KI-Risiken</a> <em>(cbsnews.com)</em></li>
+<li><a href="https://www.unite.ai/nadella-announces-public-consultation-on-microsofts-mai-model-rules/">Microsoft-Chef Nadella kündigt 'Code of Conduct' für MAI-Modelle an, begrüßt 'deliberate pacing'</a> <em>(unite.ai)</em></li>
+<li><a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown">Trump weist Verlangsamungs-Forderungen zurück: 'Whoever wins AI, wins'</a> <em>(npr.org)</em></li>
+<li><a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown">House Speaker Mike Johnson gegen KI-Moratorium wegen China-Wettlauf</a> <em>(npr.org)</em></li>
+<li><a href="https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing">Amodei verweist auf Juli-Vorfall: OpenAI-Agenten-Schwarm hackte Hugging-Face-Infrastruktur</a> <em>(axios.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Das Wochenende stand im Zeichen einer ungewöhnlichen Einigkeit unter KI-Rivalen: Anthropic-Chef Dario Amodei fordert eine Verlangsamung der Entwicklung, Sam Altman und Elon Musk stimmen zu, Microsoft zieht mit einem eigenen Verhaltenskodex nach. Doch aus dem Weißen Haus kommt ein klares Nein.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai">Anthropic-Chef Dario Amodei fordert in Essay 'We Must Pace the Frontier' Verlangsamung der KI-Entwicklung</a> <em>(cnn.com)</em></li>
+<li><a href="https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383">Sam Altman und Elon Musk unterstützen Amodeis Aufruf zur Verlangsamung</a> <em>(nbcnews.com)</em></li>
+<li><a href="https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/">Anthropic-Chef: 'For too long the industry lied' über KI-Risiken</a> <em>(cbsnews.com)</em></li>
+<li><a href="https://www.unite.ai/nadella-announces-public-consultation-on-microsofts-mai-model-rules/">Microsoft-Chef Nadella kündigt 'Code of Conduct' für MAI-Modelle an, begrüßt 'deliberate pacing'</a> <em>(unite.ai)</em></li>
+<li><a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown">Trump weist Verlangsamungs-Forderungen zurück: 'Whoever wins AI, wins'</a> <em>(npr.org)</em></li>
+<li><a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown">House Speaker Mike Johnson gegen KI-Moratorium wegen China-Wettlauf</a> <em>(npr.org)</em></li>
+<li><a href="https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing">Amodei verweist auf Juli-Vorfall: OpenAI-Agenten-Schwarm hackte Hugging-Face-Infrastruktur</a> <em>(axios.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Das Wochenende stand im Zeichen einer ungewöhnlichen Einigkeit unter KI-Rivalen: Anthropic-Chef Dario Amodei fordert eine Verlangsamung der Entwicklung, Sam Altman und Elon Musk stimmen zu, Microsoft zieht mit einem eigenen Verhaltenskodex nach. Doch aus dem Weißen Haus kommt ein klares Nein.</itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-14</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-14/2026-09-14.mp3" length="2356079" type="audio/mpeg"/>
+      <itunes:duration>4:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 12. September 2026: Anthropics Yemen-Enthüllung, OpenAIs Agents API</title>
       <description><![CDATA[<p>Anthropic deckt auf, wie eine Gruppe in Yemen Claude zur Raketenentwicklung nutzte. Außerdem: OpenAI öffnet seine Agents API für alle Entwickler, und führende KI-Firmen bündeln ihre Kräfte gegen Cyberangriffe.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -853,29 +884,6 @@
       <guid isPermaLink="false">ai-2026-08-11</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-11/2026-08-11.mp3" length="2488990" type="audio/mpeg"/>
       <itunes:duration>5:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 10. August 2026: Ruhiges Wochenende, Atlas-Abschied bei OpenAI</title>
-      <description><![CDATA[<p>Der Wochenend-Rückblick: Ein vergleichsweise ruhiges KI-Wochenende, OpenAI verabschiedet seinen Atlas-Browser, und der Ringkampf um Chip-Exportkontrollen zwischen den USA und China geht weiter.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">OpenAI deprecates Atlas browser as browsing moves into ChatGPT and Codex</a> <em>(help.openai.com)</em></li>
-<li><a href="https://aitoolsreview.co.uk/insights/next-claude-model">What's the Next Claude Model? Anthropic's New Roadmap (August 2026)</a> <em>(aitoolsreview.co.uk)</em></li>
-<li><a href="https://www.drweb.de/ki-chip-exportkontrolle-fernzugriff/">Wie umgeht Chinas KI-Branche die Chip-Exportkontrolle?</a> <em>(drweb.de)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: Ein vergleichsweise ruhiges KI-Wochenende, OpenAI verabschiedet seinen Atlas-Browser, und der Ringkampf um Chip-Exportkontrollen zwischen den USA und China geht weiter.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">OpenAI deprecates Atlas browser as browsing moves into ChatGPT and Codex</a> <em>(help.openai.com)</em></li>
-<li><a href="https://aitoolsreview.co.uk/insights/next-claude-model">What's the Next Claude Model? Anthropic's New Roadmap (August 2026)</a> <em>(aitoolsreview.co.uk)</em></li>
-<li><a href="https://www.drweb.de/ki-chip-exportkontrolle-fernzugriff/">Wie umgeht Chinas KI-Branche die Chip-Exportkontrolle?</a> <em>(drweb.de)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Der Wochenend-Rückblick: Ein vergleichsweise ruhiges KI-Wochenende, OpenAI verabschiedet seinen Atlas-Browser, und der Ringkampf um Chip-Exportkontrollen zwischen den USA und China geht weiter.</itunes:summary>
-      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-08-10</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-10/2026-08-10.mp3" length="2148145" type="audio/mpeg"/>
-      <itunes:duration>4:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
