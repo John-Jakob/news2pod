@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 15. September 2026: Industrie plant eigene Aufsichtsbehörde, Anthropic vor Rekord-IPO",
+  "teaser": "Anthropic, OpenAI und Google verhandeln offenbar seit Monaten über eine gemeinsame Standards-Behörde für KI-Sicherheit, während Anthropic parallel den größten Börsengang der Geschichte vorbereitet. Außerdem: Sam Altman erklärt erstmals im Detail, wie ein Tempo-Limit für die Branche aussehen könnte.",
+  "pubDate": "2026-09-15T06:00:00+02:00",
+  "duration_seconds": 280,
+  "size_bytes": 2242604,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-15/2026-09-15.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 117550,
+    "output_tokens": 5361
+  },
+  "sources": [
+    {
+      "headline": "Top AI companies have discussed creating their own standards body",
+      "source": "cnn.com",
+      "url": "https://edition.cnn.com/2026/09/14/tech/ai-standards-body",
+      "published": "2026-09-14"
+    },
+    {
+      "headline": "Leading AI companies discussed creating new safety body, but Trump opposes a slowdown",
+      "source": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/2026/09/14/anthropic-openai-google-discussed-creating-new-ai-safety-body/",
+      "published": "2026-09-14"
+    },
+    {
+      "headline": "Anthropic, Google, and OpenAI discussing AI safety standards body",
+      "source": "news.google.com (The Information/CNN)",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxQQzdHNVdzMUVFV0laV3psTk5OZDJFSm1LQ1Y2cW1DZUpzQWhrbWZ0WDhRRUg4Tm83R2VHVXR5aUYzajJFaTBaWmZSU25LOVkyR3FjbmpwSXM5TUdlamJDZ1JIS3ZISnZoelBqd1RmNTljOGliMFVvcVhFYWNXNU9adEZycWVkR3hyR1hqZE9EZk5OQjFiS2pCQ0NqbHMzUQ",
+      "published": "2026-09-14/15"
+    },
+    {
+      "headline": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+      "published": "2026-09-14"
+    },
+    {
+      "headline": "Anthropic said to pick Nasdaq for highly-anticipated IPO",
+      "source": "investing.com (Reuters)",
+      "url": "https://www.investing.com/news/technology-news/anthropic-said-to-pick-nasdaq-for-highlyanticipated-ipo-4898758",
+      "published": "2026-09-14"
+    },
+    {
+      "headline": "Nvidia in talks to invest up to $10 billion in Anthropic's IPO",
+      "source": "heraldcorp.com (Reuters)",
+      "url": "https://mbiz.heraldcorp.com/article/10873184",
+      "published": "2026-09-14"
+    },
+    {
+      "headline": "AI Bosses Clash With Trump on Their Calls to Slow AI Development",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+      "published": "2026-09-14"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Dienstag, 15. September 2026.\n\nNachdem wir am Wochenende ausführlich über den Aufruf von Anthropic-Chef Dario Amodei zur Verlangsamung der KI-Entwicklung berichtet haben, gibt es heute ein handfestes Update dazu. Wie die Washington Post und CNN übereinstimmend berichten, haben Anthropic, OpenAI und Google offenbar schon seit Monaten hinter den Kulissen an etwas Konkreterem gearbeitet als nur an öffentlichen Appellen. Die drei Unternehmen sollen bereits seit mindestens Juli in Arbeitsgruppen über die Gründung einer gemeinsamen Industrie-Standardbehörde diskutieren, zuletzt noch in der vergangenen Woche. Der Auslöser für diese Idee war laut dem Branchendienst The Information ein Essay von Google-DeepMind-Gründer Demis Hassabis aus dem Juli, der eine US-geführte Standardbehörde nach dem Vorbild der Finanzaufsicht FINRA vorschlug. Bemerkenswert ist: Ein Entwurf für eine entsprechende Executive Order im Weißen Haus soll intern keine ausreichende Unterstützung gefunden haben und ist inzwischen praktisch auf Eis gelegt worden. Die Gespräche zwischen den Firmen laufen aber offenbar unabhängig davon weiter.\n\nNicht alle in der Branche sind begeistert von dieser Idee. Cohere-Chef Aidan Gomez kritisierte auf der Plattform X scharf, dass die größten KI-Konzerne hier möglicherweise gemeinsam Regeln aufstellen wollen, die kleinere Wettbewerber benachteiligen könnten. \nEr warnte, dass es sich hier um \"great ideas here from the cartel\" handle, wie The Information zitierte.\n Auch House Speaker Mike Johnson dämpfte die Erwartungen an einen schnellen Konsens und betonte, es gebe bislang keine Einigkeit zwischen den Unternehmen darüber, wie genau Standards und Leitplanken aussehen sollten.\n\nZweites großes Thema heute: Sam Altman hat seine bisher detailliertesten Aussagen dazu gemacht, wie ein Sicherheitsrahmen für die Branche konkret funktionieren könnte. Laut CNBC hat der OpenAI-Chef ausführlich erläutert, wie ein Tempolimit für die KI-Entwicklung technisch umgesetzt werden könnte, nachdem er sich am Wochenende Amodeis Forderungen angeschlossen hatte. Im Zentrum der Sorge steht dabei die sogenannte rekursive Selbstverbesserung, also die Fähigkeit von Modellen, die eigene Leistung eigenständig weiterzuentwickeln. Diese Debatte sorgt inzwischen auch an den Finanzmärkten für Nervosität, Bloomberg berichtet, dass die Warnungen der KI-Chefs am Montag zu spürbarer Unruhe bei Technologiewerten geführt haben.\n\nUnd dann ist da noch die andere große Geschichte des Tages, die zeigt, wie widersprüchlich die aktuelle Lage ist. Während Anthropic öffentlich zur Vorsicht mahnt, bereitet das Unternehmen im Hintergrund offenbar den größten Börsengang der Geschichte vor. Nach Informationen von Reuters hat sich Anthropic für die Technologiebörse Nasdaq entschieden und peilt einen Erlös von bis zu 100 Milliarden Dollar bei einer Bewertung von rund 2 Billionen Dollar an. Besonders spannend dabei: Chip-Hersteller Nvidia soll in Gesprächen sein, als Ankerinvestor bis zu 10 Milliarden Dollar beizusteuern, ähnlich wie es das Unternehmen bereits beim Börsengang von Arm getan hat. Sollte der Börsengang wie geplant noch vor den US-Zwischenwahlen im November stattfinden, wäre es die größte Erstnotiz der Geschichte, noch vor dem SpaceX-Börsengang vom Juni. Die Zahlen dahinter sind beeindruckend, der Jahresumsatz von Anthropic soll von rund neun Milliarden Dollar Ende vergangenen Jahres auf mittlerweile 65 Milliarden Dollar im Juli gestiegen sein.\n\nDas ist die Kernspannung, die die Branche derzeit prägt. Auf der einen Seite warnen dieselben Firmenchefs öffentlich vor den Risiken zu schneller Entwicklung, auf der anderen Seite laufen die größten Finanzierungsrunden und Börsengänge der Geschichte auf Hochtouren. Ob sich Sicherheitsappelle und Milliardenbewertungen langfristig vertragen, bleibt eine der spannendsten offenen Fragen der kommenden Wochen.\n\nDas war dein KI Daily-Briefing für heute. Wir bleiben dran, insbesondere bei der Frage, ob aus den Arbeitsgruppen von Anthropic, OpenAI und Google tatsächlich eine formelle Standardbehörde wird und wie sich der Zeitplan für den Anthropic-Börsengang weiterentwickelt. Bis morgen."
+}
