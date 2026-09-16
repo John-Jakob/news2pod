@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 16. September 2026: OpenAI bestätigt Sicherheits-Gespräche mit Rivalen",
+  "teaser": "OpenAI räumt wochenlange Sicherheitsgespräche mit Anthropic und Google DeepMind ein, Google öffnet intern den Zugang zu Claude, und ein neues chinesisches Großmodell sorgt für Aufsehen.",
+  "pubDate": "2026-09-16T06:00:00+02:00",
+  "duration_seconds": 394,
+  "size_bytes": 3156262,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-16/2026-09-16.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 174957,
+    "output_tokens": 5782
+  },
+  "sources": [
+    {
+      "headline": "OpenAI, Anthropic, Google DeepMind Coordinate on AI Safety Measures",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety",
+      "published": "2026-09-15"
+    },
+    {
+      "headline": "OpenAI Says It's Working With Anthropic, Google on AI Safety",
+      "source": "claimsjournal.com",
+      "url": "https://www.claimsjournal.com/news/national/2026/09/15/340158.htm",
+      "published": "2026-09-15"
+    },
+    {
+      "headline": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "published": "2026-09-15"
+    },
+    {
+      "headline": "Google quietly opens Claude Opus 5 access to engineers via internal Antigravity IDE",
+      "source": "aiweekly.co (Business Insider)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-09-15"
+    },
+    {
+      "headline": "Shanghai AI Laboratory releases Atria Dawn Preview, 744B-parameter agentic model",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today/edition/2026-09-15",
+      "published": "2026-09-15"
+    },
+    {
+      "headline": "Cornelis raises $205M to challenge Nvidia's AI-networking grip",
+      "source": "techcrunch.com",
+      "url": "https://aiweekly.co/ai-news-today/edition/2026-09-15",
+      "published": "2026-09-15"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Mittwoch, den 16. September 2026.\n\nWir beginnen dort, wo wir gestern aufgehört haben, denn aus der großen Slowdown-Debatte gibt es eine handfeste neue Entwicklung. OpenAI hat am Dienstag offiziell bestätigt, was seit Tagen vermutet wurde.\n<sources>\n[\n  {\"headline\": \"OpenAI, Anthropic, Google DeepMind Coordinate on AI Safety Measures\", \"source\": \"bloomberg.com\", \"url\": \"https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety\", \"published\": \"2026-09-15\"},\n  {\"headline\": \"OpenAI Says It's Working With Anthropic, Google on AI Safety\", \"source\": \"claimsjournal.com\", \"url\": \"https://www.claimsjournal.com/news/national/2026/09/15/340158.htm\", \"published\": \"2026-09-15\"},\n  {\"headline\": \"OpenAI, Anthropic, Google have been in talks on AI safety for weeks\", \"source\": \"techcrunch.com\", \"url\": \"https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/\", \"published\": \"2026-09-15\"},\n  {\"headline\": \"Google quietly opens Claude Opus 5 access to engineers via internal Antigravity IDE\", \"source\": \"aiweekly.co (Business Insider)\", \"url\": \"https://aiweekly.co/ai-news-today\", \"published\": \"2026-09-15\"},\n  {\"headline\": \"Shanghai AI Laboratory releases Atria Dawn Preview, 744B-parameter agentic model\", \"source\": \"aiweekly.co\", \"url\": \"https://aiweekly.co/ai-news-today/edition/2026-09-15\", \"published\": \"2026-09-15\"},\n  {\"headline\": \"Cornelis raises $205M to challenge Nvidia's AI-networking grip\", \"source\": \"techcrunch.com (via aiweekly.co)\", \"url\": \"https://aiweekly.co/ai-news-today/edition/2026-09-15\", \"published\": \"2026-09-15\"}\n]\n</sources>\n\n<title>KI Daily – 16. September 2026: OpenAI bestätigt Sicherheits-Gespräche mit Rivalen</title>\n\n<teaser>OpenAI räumt wochenlange Sicherheitsgespräche mit Anthropic und Google DeepMind ein, Google öffnet intern den Zugang zu Claude, und ein neues chinesisches Großmodell sorgt für Aufsehen.</teaser>\n\n<script>\nGuten Morgen. Hier ist dein KI Daily-Briefing für den Mittwoch, den 16. September 2026.\n\nWir beginnen dort, wo wir gestern aufgehört haben, denn in der großen Slowdown-Debatte gibt es ein echtes Update. OpenAI hat am Dienstag offiziell bestätigt, was seit Tagen im Raum stand.\n\n===\n\nDer globale Politikchef von OpenAI, Chris Lehane, sagte bei einem Briefing in Washington, dass \ndas Engagement des Unternehmens mit Anthropic und Google bereits seit mehreren Wochen laufe\n. Bemerkenswert dabei: \nOpenAI sieht keine Notwendigkeit für eine kartellrechtliche Ausnahmegenehmigung, damit die drei KI-Firmen sich bei Sicherheitsfragen abstimmen können\n. Lehane begründete das mit einem einfachen Prinzip, nämlich dass es besser sei, gemeinsam an der Priorisierung von Sicherheit zu arbeiten. Damit widerspricht OpenAI explizit dem Vorschlag von Anthropic-Chef Dario Amodei, der in seinem Wochenend-Essay eine eng begrenzte staatliche Ausnahmegenehmigung für genau diese Art der Zusammenarbeit vorgeschlagen hatte. Lehane sagte laut TechCrunch-Bericht jedoch, dass die Firmen eine solche Genehmigung gar nicht benötigten. Zusätzlich bekräftigte OpenAI, dass man bipartisan unterstützte Gesetzesvorschläge im Kongress begrüße, etwa das Rahmenwerk der Abgeordneten Jay Obernolte und Lori Trahan zur föderalen KI-Governance sowie Bestimmungen im sogenannten Frontier Act, die unabhängige Prüforganisationen in die Entwicklungsprozesse der Top-Labore einbeziehen sollen. Die Entwicklung zeigt, wie sehr sich das politische Klima innerhalb weniger Tage verschoben hat, von öffentlichem Schlagabtausch zwischen den CEOs hin zu einer, zumindest verbal, koordinierten Haltung der drei größten amerikanischen KI-Labore.\n\n===\n\nZweite Meldung, und diesmal aus dem operativen Alltag der Konzerne. Laut einem Bericht von Business Insider hat Google intern eine langjährige Regel gebrochen. \nGoogle hat still und leise jedem Ingenieur Zugang zu Claude Opus 5 über die interne Antigravity-Entwicklungsumgebung gewährt, und bricht damit mit einer langjährigen Regel, die Mitarbeitende zur Nutzung von Gemini zwang und Claude Code sowie OpenAI Codex blockierte.\n Allerdings mit Einschränkung, denn \nAngestellte dürfen weiterhin nicht Anthropics eigenes Claude Code nutzen, sie müssen stattdessen Opus 5 innerhalb von Antigravity mit nutzerbezogenen Kontingenten auswählen.\n Diese kleine, aber symbolisch bedeutsame Änderung zeigt, dass selbst innerhalb der großen Konkurrenten die Grenzen zwischen den Ökosystemen durchlässiger werden, wenn die eigenen Modelle bei bestimmten Aufgaben nicht mithalten können.\n\n===\n\nEin Blick nach China. Das Shanghai AI Laboratory hat ein neues, sehr großes Modell vorgestellt, den sogenannten Atria Dawn Preview. Laut einem 143-Autoren-Preprint handelt es sich um \nein 744-Milliarden-Parameter großes agentisches Mixture-of-Experts-Modell, das auf GLM-5.2 aufbaut und über eine sogenannte Verifiable Experience Pipeline trainiert wurde, die Werkzeugnutzung in ausführbaren Umgebungen verankert.\n Die Forscher testeten das Modell zudem in der Praxis: \nIn der Studie wurden 769 Aufgabenprotokolle von 56 Personen analysiert, die das Modell während seiner Entwicklung nutzten, wobei die Teilnehmer etwa ein Drittel der abgeschlossenen KI-unterstützten Aufgaben als ohne KI nicht durchführbar einstuften.\n Wichtig für die Einordnung, das ist eine subjektive Einschätzung der Teilnehmer und kein Beweis für eigenständige Autonomie des Modells, und die Autoren betonen ausdrücklich, dass Menschen die letzte Entscheidungsgewalt behielten. Dennoch zeigt die Veröffentlichung, wie schnell auch chinesische Labore bei sehr großen, agentenfähigen Modellen aufholen.\n\n===\n\nZum Schluss noch ein Blick auf die Infrastruktur-Seite der Branche, denn nicht jede wichtige KI-Nachricht kommt aus einem Chatbot-Labor. Der Intel-Spinoff Cornelis Networks hat frisches Kapital eingesammelt. \nCornelis Networks sammelte 205 Millionen US-Dollar ein und stellte Active Compute Fabric vor, eine offene, GPU-unabhängige Netzwerkschicht für KI-Cluster, deren aktueller 400-Gigabit-Switch CN5000 bereits ausgeliefert wird.\n Ziel des Unternehmens ist es, Rechenzentrumsbetreibern eine Alternative zum eng integrierten Verbindungsstack von Nvidia zu bieten. Ob die versprochenen Leistungsvorteile in der Praxis halten, muss sich allerdings erst noch in echten Einsätzen zeigen.\n\n===\n\nDamit sind wir für heute durch. Die große Linie bleibt dieselbe wie in den vergangenen Tagen, nämlich das Ringen zwischen freiwilliger Selbstregulierung der Industrie und politischem Widerstand aus dem Weißen Haus gegen jede Form von Tempodrosselung. Gleichzeitig entwickelt sich unter der Oberfläche eine ganz eigene Dynamik, in der Konzerne intern längst pragmatischer mit den Modellen der Konkurrenz umgehen, als es die offizielle Rhetorik vermuten lässt. Wir bleiben dran und melden uns morgen wieder mit den wichtigsten Entwicklungen. Bis dahin, alles Gute und danke fürs Zuhören."
+}
