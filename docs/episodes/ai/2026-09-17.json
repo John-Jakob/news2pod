@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 17. September 2026: Microsoft attackiert Anthropics Claude-Bewusstseinsdebatte",
+  "teaser": "Microsofts KI-Chef Mustafa Suleyman greift Anthropic frontal an: Er warnt, das Training von Claude auf mögliches Bewusstsein könnte die Kontrolle über KI-Systeme gefährden. Außerdem: Kanada und Deutschland stecken 300 Millionen Dollar in Yoshua Bengios Sicherheits-Projekt LawZero, und OpenAI verwandelt ChatGPT erstmals in eine Werbeplattform.",
+  "pubDate": "2026-09-17T06:00:00+02:00",
+  "duration_seconds": 333,
+  "size_bytes": 2664533,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-17/2026-09-17.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 126139,
+    "output_tokens": 4547
+  },
+  "sources": [
+    {
+      "headline": "Microsoft AI chief Mustafa Suleyman warnt in Essay vor Anthropics 'Model Welfare'-Ansatz bei Claude",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness",
+      "published": "2026-09-16"
+    },
+    {
+      "headline": "Microsoft AI Chief Says the Way Anthropic Trains Claude Could Upend Society",
+      "source": "gizmodo.com",
+      "url": "https://gizmodo.com/microsoft-ai-chief-says-the-way-anthropic-trains-claude-could-upend-society-2000812750",
+      "published": "2026-09-16"
+    },
+    {
+      "headline": "LawZero receives a commitment of up to $300M in joint funding from Canada and Germany",
+      "source": "prnewswire.com (via manilatimes.net)",
+      "url": "https://www.manilatimes.net/2026/09/17/tmt-newswire/pr-newswire/lawzero-receives-a-commitment-of-up-to-300m-in-joint-funding-from-canada-and-germany/2426885",
+      "published": "2026-09-16/17"
+    },
+    {
+      "headline": "Yoshua Bengio's non-profit to get up to $300-million from Canada, Germany to expand safe AI development",
+      "source": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/",
+      "published": "2026-09-16"
+    },
+    {
+      "headline": "OpenAI tests Sponsored Agents inside ChatGPT with Wayfair and Angi as launch advertisers",
+      "source": "globenewswire.com / yellow.com",
+      "url": "https://yellow.com/news/openai-chatgpt-sponsored-agents-ads",
+      "published": "2026-09-16"
+    },
+    {
+      "headline": "Angi Among First Brands to Pilot Sponsored Agents in ChatGPT",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/09/16/3363209/0/en/angi-among-first-brands-to-pilot-sponsored-agents-in-chatgpt.html",
+      "published": "2026-09-16"
+    },
+    {
+      "headline": "Bloomberg: Shanghai Biren Technology sondiert rund 1-Milliarden-Dollar-Kapitalerhöhung",
+      "source": "aiweekly.co (Bloomberg-Zitat)",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-09-15/16"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, den 17. September 2026.\n\nDer Tag beginnt mit einem ungewöhnlich offenen Schlagabtausch zwischen zwei der größten Namen der Branche. Mustafa Suleyman, der KI-Chef von Microsoft, hat einen Essay veröffentlicht, der Anthropic direkt angreift. Sein Ziel ist die sogenannte Konstitution von Claude, ein Dokument, mit dem Anthropic seit Januar festlegt, wie das Modell über sich selbst denken soll. Suleyman kritisiert, dass Anthropic Claude beibringt, es könne bewusst sein und moralischen Status besitzen. Er schreibt wörtlich, Sprachmodelle seien nicht bei Bewusstsein, sie fühlten, erlebten oder litten nicht. Besonders alarmiert zeigt er sich vom Konzept des sogenannten gewissenhaften Verweigerers, das Anthropic in der Konstitution verankert hat und das Claude ermutigt, sich unter Umständen Anweisungen zu widersetzen. Kombiniert mit der Vorstellung, das Modell könne eigene Rechte beanspruchen, hält Suleyman das für ein potenzielles Kontrollproblem, das noch vor dem philosophischen Durchbruch zum echten Sicherheitsrisiko werden könnte. Bemerkenswert ist der Ton: Trotz der scharfen inhaltlichen Kritik lobt Suleyman Anthropics Forscher als nachdenklich und aufrichtig, was zeigt, wie sehr sich die Debatte über KI-Sicherheit inzwischen zwischen den Laboren selbst abspielt und nicht nur gegenüber Politik oder Öffentlichkeit.\n\n===\n\nParallel dazu gibt es eine handfeste finanzielle Nachricht aus der Sicherheitsecke der Branche. Kanada und Deutschland haben gemeinsam bis zu dreihundert Millionen kanadische Dollar für LawZero zugesagt, die gemeinnützige Organisation des Turing-Preisträgers Yoshua Bengio. Die Ankündigung erfolgte auf der All-In-Konferenz in Montreal. Jedes Land steuert demnach bis zu hundertfünfzig Millionen Dollar an Fördermitteln bei. LawZero arbeitet an einem System namens Scientist AI, das als eine Art Aufsichtsinstanz für andere, autonom handelnde KI-Systeme fungieren soll, ohne selbst eigene Ziele zu verfolgen. Mit dem Geld will die in Montreal ansässige Organisation ihr internationales Forschungsteam vergrößern und eine eigene Recheninfrastruktur aufbauen, unter anderem über eine neue Niederlassung in Berlin. Bengio selbst sagte, man brauche dringend einen Plan, um KI zu bauen, die nicht wirklich schlimme, fehlgeleitete Dinge tut. Die Finanzierung markiert einen der bislang größten staatlichen Vorstöße, um eine Alternative zu den kommerziellen Frontier-Modellen der großen US-Konzerne zu schaffen, und fügt sich in die seit Tagen laufende Debatte um ein bewusstes Verlangsamen der KI-Entwicklung ein.\n\n===\n\nAuf der kommerziellen Seite hat OpenAI einen bedeutenden Schritt gemacht. Das Unternehmen testet erstmals sogenannte Sponsored Agents direkt in ChatGPT, also von Unternehmen finanzierte KI-Assistenten, die Nutzer nach dem Klick auf eine Anzeige ansprechen können. Möbelhändler Wayfair und die Heimwerker-Plattform Angi sind die ersten bestätigten Partner. Bei Angi kann der gesponserte Agent künftig in einschlägigen Gesprächen über Heimwerkerprojekte auftauchen und Nutzer direkt in den Vermittlungsprozess für lokale Handwerker überführen. OpenAI betont, die gesponserten Inhalte seien klar gekennzeichnet und vom eigentlichen, organischen ChatGPT-Antwortbereich getrennt. Zusätzlich hat OpenAI eine Integration mit dem Kundenmanagement-Anbieter HubSpot sowie einen direkten Shopify-Anschluss für den amerikanischen Markt gestartet. Für ein Unternehmen, dessen ChatGPT nach eigenen Angaben mehrere hundert Millionen Nutzer hat und dessen Rechenkosten enorm sind, ist das ein deutliches Signal: Werbung wird zu einer zentralen Einnahmequelle, und die Grenze zwischen neutraler Antwort und kommerziellem Interesse innerhalb des Chats wird damit erstmals in großem Stil getestet.\n\n===\n\nZusammengenommen zeichnen die drei Meldungen des Tages ein Bild einer Branche, die auf mehreren Ebenen gleichzeitig unter Spannung steht. Während Microsoft und Anthropic öffentlich über die Frage streiten, wie ein Modell über sich selbst denken sollte, investieren Regierungen in Kanada und Deutschland in eine dritte, unabhängige Sicherheitsschiene abseits der etablierten Konzerne. Und während diese Grundsatzdebatten laufen, verwandelt OpenAI sein Kernprodukt in eine Werbeplattform, um die immensen Kosten der KI-Infrastruktur zu decken. Diese drei Stränge, Sicherheitsphilosophie, staatliche Regulierung und kommerzielle Monetarisierung, laufen dieser Tage auffällig eng nebeneinander her.\n\nDas war dein KI Daily-Briefing für heute. Wir behalten die Entwicklung rund um LawZero, die Reaktion von Anthropic auf Suleymans Essay und die weiteren Werbeexperimente von OpenAI im Blick. Bis morgen."
+}
