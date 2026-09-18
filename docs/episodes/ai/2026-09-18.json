@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 18. September 2026: König Charles warnt die KI-Branche",
+  "teaser": "König Charles ruft die Spitzen von OpenAI, Anthropic, Google DeepMind und Nvidia zur Kontrolle der KI auf, während die EU-Kommission einen Kurswechsel vollzieht und DeepMind-Mitgründer Shane Legg eine neue Denkfabrik für AGI-Sicherheit gründet.",
+  "pubDate": "2026-09-18T06:00:00+02:00",
+  "duration_seconds": 360,
+  "size_bytes": 2884589,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-18/2026-09-18.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 177325,
+    "output_tokens": 4651
+  },
+  "sources": [
+    {
+      "headline": "King Charles III holds court with AI's biggest players—and warns it could soon be too late to rein in the technology",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/09/17/king-charles-ai-existential-dangers-control/",
+      "published": "2026-09-17"
+    },
+    {
+      "headline": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl",
+      "source": "yahoo.com (AP)",
+      "url": "https://www.yahoo.com/news/politics/articles/king-ai-uk-monarch-charles-085557847.html",
+      "published": "2026-09-17"
+    },
+    {
+      "headline": "EU's von der Leyen backs AI slowdown, to invite frontier labs for talks on tackling AI risks",
+      "source": "reuters.com (via theglobeandmail.com)",
+      "url": "https://www.theglobeandmail.com/world/article-eu-von-der-leyen-ai-slowdown-industry-leaders-speech/",
+      "published": "2026-09-16"
+    },
+    {
+      "headline": "Google DeepMind Co-Founder Shane Legg Joins Safety-First Camp in AI Debate",
+      "source": "pymnts.com (via FT)",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-deepmind-co-founder-shane-legg-joins-safety-first-camp-ai-debate",
+      "published": "2026-09-16"
+    },
+    {
+      "headline": "DeepMind's Shane Legg Wants AGI Safety To Keep Up",
+      "source": "finimize.com",
+      "url": "https://finimize.com/content/deepminds-shane-legg-wants-agi-safety-to-keep-up",
+      "published": "2026-09-16"
+    },
+    {
+      "headline": "AI News Today, September 16: Pentagon CTO Emil Michael on AI oversight and Anthropic restrictions",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-09-16"
+    },
+    {
+      "headline": "Trump calls Nvidia CEO Jensen Huang to talk AI — and gets put on speakerphone during industry summit",
+      "source": "nbcnews.com",
+      "url": "https://www.nbcnews.com/politics/donald-trump/nvidia-ceo-jensen-huang-ai-speakerphone-all-hands-meeting-rcna597761",
+      "published": "2026-09-15"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Freitag, 18. September 2026.\n\nWir beginnen heute in Schottland, denn dort hat sich gestern die halbe KI-Führungsriege der Welt versammelt. König Charles der Dritte hat Vertreter von OpenAI, Anthropic, Google DeepMind und Nvidia auf sein Landgut Dumfries House eingeladen, um über die Zukunft der künstlichen Intelligenz zu sprechen. Der Monarch wurde dabei deutlich. Der König erklärte den versammelten Chefs von OpenAI, Anthropic, Google DeepMind und Nvidia, man brauche ausreichende Kontrollmittel, bevor es zu spät sei. Seine Rede fällt in eine Phase, in der der Druck auf die Industrie von mehreren Seiten gleichzeitig wächst, unter anderem durch Warnungen von UN-Generalsekretär António Guterres und durch den vielbeachteten Rücktritt eines Anthropic-Mitarbeiters vor wenigen Wochen. Doch Einigkeit sieht anders aus. Nvidia-Chef Jensen Huang widersprach in seiner eigenen Rede und betonte, die Verantwortung für einen sicheren Einsatz liege bei den einzelnen Unternehmen und nicht bei einer koordinierten Pause. Der Auftritt in Schottland zeigt damit exemplarisch den Graben, der derzeit durch die Branche verläuft.\n\n===\n\nDieser Graben wird auch auf politischer Ebene sichtbar, und zwar in Brüssel. EU-Kommissionspräsidentin Ursula von der Leyen hat sich in ihrer Rede zur Lage der Union klar auf die Seite der Vorsicht geschlagen. Sie unterstützte die Forderung führender US-Labore nach einem Innehalten bei der Entwicklung besonders leistungsfähiger Modelle und kündigte an, die wichtigsten Frontier-Labore zu Gesprächen einzuladen. Von der Leyen warnte, dass die in Entwicklung befindlichen Modelle Hacking auf einem Niveau ermöglichen könnten, das man sich bisher nicht vorstellen konnte. Damit positioniert sich die EU-Kommission explizit gegen die Haltung von US-Präsident Donald Trump, der die Sicherheitsbedenken der Branche bislang als übertrieben abgetan hat. Von der Leyen kündigte zudem an, mit Partnern wie Kanada und Großbritannien bei Fragen der Modellbewertung und KI-Sicherheit zusammenzuarbeiten.\n\n===\n\nParallel dazu bekommt die Sicherheitsdebatte eine neue institutionelle Heimat. Google-DeepMind-Mitgründer Shane Legg hat gemeinsam mit Demis Hassabis und James Manyika das sogenannte DeepMind Institute gegründet, das sich der Erforschung von AGI-Sicherheit, Governance und wirtschaftlichen Folgen widmen soll. Legg positioniert sich damit deutlich im vorsichtigen Lager der Debatte. Legg bezeichnete jüngste Aussagen von Führungskräften bei Nvidia und OpenAI, wonach eine allgemeine künstliche Intelligenz bereits erreicht sei, als verfrüht, hält aber an seiner langjährigen Prognose fest, wonach eine fünfzigprozentige Wahrscheinlichkeit für eine minimale AGI bis zum Jahr 2028 bestehe. Interessant ist, dass Legg den Vorschlag von Anthropic-Chef Dario Amodei, das Entwicklungstempo bei Spitzenmodellen bewusst zu drosseln, als eine Überlegung wert bezeichnete, ohne sich ihm vollständig anzuschließen.\n\n===\n\nNicht jeder in Washington teilt diese Vorsicht. Der Technologiechef des Pentagon, Emil Michael, positionierte sich zuletzt gegen neue föderale Aufsicht über die Branche und argumentierte, bestehendes Produkthaftungsrecht reiche aus, um Risiken abzudecken. Bemerkenswert ist zudem eine Spitze gegen Anthropic. Michael wiederholte demnach die Aussage, dass Claude-Modelle wegen der Nutzungsbeschränkungen von Anthropic die Lieferkette des Verteidigungsministeriums verunreinigen würden. Diese Aussage zeigt, wie tief der Konflikt zwischen sicherheitsorientierten Laboren wie Anthropic und Teilen der US-Regierung inzwischen reicht, gerade wenn es um militärische Nutzung geht.\n\n===\n\nEin Blick auch auf die Marktseite, denn die Spannungen zwischen Vorsicht und Tempo betreffen längst auch die großen Tech-Konzerne selbst. Meta-Chef Mark Zuckerberg äußerte sich diese Woche öffentlich zur Sicherheitsdebatte und erklärte, Vertrauen und Abstimmung würden zunehmend zu den wichtigsten Fähigkeiten, die Agenten und Modelle voneinander unterscheiden. Er verwies darauf, dass Meta die Einführung seines Muse-Modells um mehrere Monate verschoben habe, um Sicherheit und Schutzmaßnahmen zu verbessern. Diese Aussage reiht sich ein in eine Woche, in der praktisch jeder große Akteur der Branche, von Google über Anthropic bis Meta, öffentlich Position zur Geschwindigkeit der KI-Entwicklung bezogen hat.\n\n===\n\nZusammengefasst zeigt der heutige Tag vor allem eins. Die Debatte um Tempo und Kontrolle der KI-Entwicklung hat die höchste politische und gesellschaftliche Ebene erreicht, vom britischen Königshaus über die EU-Kommission bis zum Pentagon. Einigkeit ist dabei weiterhin nicht in Sicht. Wir behalten für dich im Blick, ob aus den angekündigten Gesprächen mit den Frontier-Laboren in Brüssel und den Initiativen des neuen DeepMind Institute in den kommenden Tagen konkrete Schritte werden. Das war dein KI Daily-Briefing für heute. Bis morgen."
+}
