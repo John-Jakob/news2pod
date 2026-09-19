@@ -19,6 +19,33 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 19. September 2026: Tech-Milliardäre stoppen KI-Aufsichtsbehörde</title>
+      <description><![CDATA[<p>Zuckerberg, Musk und Huang bringen Trump dazu, eine geplante KI-Aufsichtsbehörde fallen zu lassen. Außerdem: neue Sicherheitsvorfälle rund um autonome KI-Agenten und schwache Werte für Googles eigene Modelle im direkten Vergleich.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techstartups.com/2026/09/18/top-tech-news-today-september-18-2026-anthropic-google-meta-nvidia-openai-more/">Top Tech News Today, September 18, 2026: Anthropic, Google, Meta, Nvidia, OpenAI &amp; More</a> <em>(techstartups.com)</em></li>
+<li><a href="https://pluang.com/en/news-feed/zuckerberg-musk-dan-huang-meminta-trump-tolak-regulasi-ai">Top AI CEOs convince Trump to drop federal AI oversight body</a> <em>(pluang.com)</em></li>
+<li><a href="https://katv.com/news/nation-world/ai-backlash-raises-political-costs-of-washingtons-hands-off-approach-midterms-data-centers-artificial-intelligence-regulation">AI backlash raises political costs of Washington's hands-off approach</a> <em>(katv.com (TNND))</em></li>
+<li><a href="https://t3n.de/news/">Android Bench 2.0: So schlecht schlagen sich Googles eigene Modelle im Vergleich zu Claude und GPT</a> <em>(t3n.de)</em></li>
+<li><a href="https://www.msn.com/en-us/news/other/openai-anthropic-and-google-deepmind-want-ai-to-be-regulated-here-s-who-could-pay-the-price/ar-AA2cnzZb">OpenAI, Anthropic and Google DeepMind want AI to be regulated</a> <em>(msn.com (Barchart))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Zuckerberg, Musk und Huang bringen Trump dazu, eine geplante KI-Aufsichtsbehörde fallen zu lassen. Außerdem: neue Sicherheitsvorfälle rund um autonome KI-Agenten und schwache Werte für Googles eigene Modelle im direkten Vergleich.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techstartups.com/2026/09/18/top-tech-news-today-september-18-2026-anthropic-google-meta-nvidia-openai-more/">Top Tech News Today, September 18, 2026: Anthropic, Google, Meta, Nvidia, OpenAI &amp; More</a> <em>(techstartups.com)</em></li>
+<li><a href="https://pluang.com/en/news-feed/zuckerberg-musk-dan-huang-meminta-trump-tolak-regulasi-ai">Top AI CEOs convince Trump to drop federal AI oversight body</a> <em>(pluang.com)</em></li>
+<li><a href="https://katv.com/news/nation-world/ai-backlash-raises-political-costs-of-washingtons-hands-off-approach-midterms-data-centers-artificial-intelligence-regulation">AI backlash raises political costs of Washington's hands-off approach</a> <em>(katv.com (TNND))</em></li>
+<li><a href="https://t3n.de/news/">Android Bench 2.0: So schlecht schlagen sich Googles eigene Modelle im Vergleich zu Claude und GPT</a> <em>(t3n.de)</em></li>
+<li><a href="https://www.msn.com/en-us/news/other/openai-anthropic-and-google-deepmind-want-ai-to-be-regulated-here-s-who-could-pay-the-price/ar-AA2cnzZb">OpenAI, Anthropic and Google DeepMind want AI to be regulated</a> <em>(msn.com (Barchart))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Zuckerberg, Musk und Huang bringen Trump dazu, eine geplante KI-Aufsichtsbehörde fallen zu lassen. Außerdem: neue Sicherheitsvorfälle rund um autonome KI-Agenten und schwache Werte für Googles eigene Modelle im direkten Vergleich.</itunes:summary>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-19</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-19/2026-09-19.mp3" length="2664533" type="audio/mpeg"/>
+      <itunes:duration>5:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 18. September 2026: König Charles warnt die KI-Branche</title>
       <description><![CDATA[<p>König Charles ruft die Spitzen von OpenAI, Anthropic, Google DeepMind und Nvidia zur Kontrolle der KI auf, während die EU-Kommission einen Kurswechsel vollzieht und DeepMind-Mitgründer Shane Legg eine neue Denkfabrik für AGI-Sicherheit gründet.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -873,37 +900,6 @@
       <guid isPermaLink="false">ai-2026-08-17</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-17/2026-08-17.mp3" length="2682088" type="audio/mpeg"/>
       <itunes:duration>5:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 15. August 2026: Nvidia wird zum Financier, Sicherheitslücke bei Reasoning-APIs</title>
-      <description><![CDATA[<p>Nvidia mischt als Geldgeber und Open-Source-Anbieter gleichzeitig mit, Anthropic soll mit einer Milliarden-Übernahme liebäugeln, und eine Sicherheitslücke bringt OpenAI, Anthropic und Google in Erklärungsnot. Außerdem: neue Modelle von Z.ai und DeepSeek sowie Bewegung in Kaliforniens KI-Gesetzgebung.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.benzinga.com/markets/tech/26/08/61205810/nvidia-says-free-ai-is-great-for-chips-jensen-huangs-open-source-bet-could-fuel-gpu-demand">NVIDIA is stepping deeper into open-source AI with a new lightweight model, Nemotron 3.5 Lightning</a> <em>(benzinga.com)</em></li>
-<li><a href="https://www.cnn.com/markets/stocks/NVDA">Anthropic Enters Talks to Buy Nvidia-Backed AI Startup Decart for $6 Billion</a> <em>(cnn.com (via TipRanks))</em></li>
-<li><a href="https://www.forbes.com/sites/antoniopequenoiv/2026/08/10/nvidia-stock-loses-130-billion-in-market-value-as-firm-reportedly-enters-500-billion-ai-financing-deal/">Nvidia Stock Loses $130 Billion In Market Value As Firm Reportedly Enters $500 Billion AI Financing Deal</a> <em>(forbes.com)</em></li>
-<li><a href="https://www.fool.com/investing/breakfast-news/2026/08/14/breakfast-news-week-in-review/">Nvidia turns financier: $500 billion AI financing mobilized, $70 billion in equity stakes</a> <em>(fool.com)</em></li>
-<li><a href="https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html">OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</a> <em>(thehackernews.com)</em></li>
-<li><a href="https://aireleasetracker.com/">GLM-5.3 by Z.ai released Aug 14 2026; DeepSeek-V4-Pro-0813 released Aug 13 2026</a> <em>(aireleasetracker.com)</em></li>
-<li><a href="https://www.transparencycoalition.ai/news/ai-legislative-update-august14-2026">California lawmakers held consequential AI bill committee votes on Aug 13</a> <em>(transparencycoalition.ai)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Nvidia mischt als Geldgeber und Open-Source-Anbieter gleichzeitig mit, Anthropic soll mit einer Milliarden-Übernahme liebäugeln, und eine Sicherheitslücke bringt OpenAI, Anthropic und Google in Erklärungsnot. Außerdem: neue Modelle von Z.ai und DeepSeek sowie Bewegung in Kaliforniens KI-Gesetzgebung.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.benzinga.com/markets/tech/26/08/61205810/nvidia-says-free-ai-is-great-for-chips-jensen-huangs-open-source-bet-could-fuel-gpu-demand">NVIDIA is stepping deeper into open-source AI with a new lightweight model, Nemotron 3.5 Lightning</a> <em>(benzinga.com)</em></li>
-<li><a href="https://www.cnn.com/markets/stocks/NVDA">Anthropic Enters Talks to Buy Nvidia-Backed AI Startup Decart for $6 Billion</a> <em>(cnn.com (via TipRanks))</em></li>
-<li><a href="https://www.forbes.com/sites/antoniopequenoiv/2026/08/10/nvidia-stock-loses-130-billion-in-market-value-as-firm-reportedly-enters-500-billion-ai-financing-deal/">Nvidia Stock Loses $130 Billion In Market Value As Firm Reportedly Enters $500 Billion AI Financing Deal</a> <em>(forbes.com)</em></li>
-<li><a href="https://www.fool.com/investing/breakfast-news/2026/08/14/breakfast-news-week-in-review/">Nvidia turns financier: $500 billion AI financing mobilized, $70 billion in equity stakes</a> <em>(fool.com)</em></li>
-<li><a href="https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html">OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</a> <em>(thehackernews.com)</em></li>
-<li><a href="https://aireleasetracker.com/">GLM-5.3 by Z.ai released Aug 14 2026; DeepSeek-V4-Pro-0813 released Aug 13 2026</a> <em>(aireleasetracker.com)</em></li>
-<li><a href="https://www.transparencycoalition.ai/news/ai-legislative-update-august14-2026">California lawmakers held consequential AI bill committee votes on Aug 13</a> <em>(transparencycoalition.ai)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Nvidia mischt als Geldgeber und Open-Source-Anbieter gleichzeitig mit, Anthropic soll mit einer Milliarden-Übernahme liebäugeln, und eine Sicherheitslücke bringt OpenAI, Anthropic und Google in Erklärungsnot. Außerdem: neue Modelle von Z.ai und DeepSeek sowie Bewegung in Kaliforniens KI-Gesetzgebung.</itunes:summary>
-      <pubDate>Sat, 15 Aug 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-08-15</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-15/2026-08-15.mp3" length="3393036" type="audio/mpeg"/>
-      <itunes:duration>7:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

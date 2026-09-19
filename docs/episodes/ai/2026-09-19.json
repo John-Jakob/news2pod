@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 19. September 2026: Tech-Milliardäre stoppen KI-Aufsichtsbehörde",
+  "teaser": "Zuckerberg, Musk und Huang bringen Trump dazu, eine geplante KI-Aufsichtsbehörde fallen zu lassen. Außerdem: neue Sicherheitsvorfälle rund um autonome KI-Agenten und schwache Werte für Googles eigene Modelle im direkten Vergleich.",
+  "pubDate": "2026-09-19T06:00:00+02:00",
+  "duration_seconds": 333,
+  "size_bytes": 2664533,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-19/2026-09-19.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 187056,
+    "output_tokens": 4543
+  },
+  "sources": [
+    {
+      "headline": "Top Tech News Today, September 18, 2026: Anthropic, Google, Meta, Nvidia, OpenAI & More",
+      "source": "techstartups.com",
+      "url": "https://techstartups.com/2026/09/18/top-tech-news-today-september-18-2026-anthropic-google-meta-nvidia-openai-more/",
+      "published": "2026-09-18"
+    },
+    {
+      "headline": "Top AI CEOs convince Trump to drop federal AI oversight body",
+      "source": "pluang.com",
+      "url": "https://pluang.com/en/news-feed/zuckerberg-musk-dan-huang-meminta-trump-tolak-regulasi-ai",
+      "published": "2026-09-17"
+    },
+    {
+      "headline": "AI backlash raises political costs of Washington's hands-off approach",
+      "source": "katv.com (TNND)",
+      "url": "https://katv.com/news/nation-world/ai-backlash-raises-political-costs-of-washingtons-hands-off-approach-midterms-data-centers-artificial-intelligence-regulation",
+      "published": "2026-09-15"
+    },
+    {
+      "headline": "Android Bench 2.0: So schlecht schlagen sich Googles eigene Modelle im Vergleich zu Claude und GPT",
+      "source": "t3n.de",
+      "url": "https://t3n.de/news/",
+      "published": "2026-09-18"
+    },
+    {
+      "headline": "OpenAI, Anthropic and Google DeepMind want AI to be regulated",
+      "source": "msn.com (Barchart)",
+      "url": "https://www.msn.com/en-us/news/other/openai-anthropic-and-google-deepmind-want-ai-to-be-regulated-here-s-who-could-pay-the-price/ar-AA2cnzZb",
+      "published": "2026-09-17"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Saturday, 19. September 2026.\n\nWir beginnen heute mit einer Nachricht aus Washington, die zeigt, wie schnell sich das politische Blatt in der KI-Debatte wenden kann. Erst vor wenigen Tagen hatten OpenAI, Anthropic und Google DeepMind gemeinsam für eine unabhängige Aufsichtsstelle geworben, die fortschrittliche KI-Modelle vor ihrer Veröffentlichung prüfen sollte, ein Vorschlag, der ursprünglich von Google-DeepMind-Chef Demis Hassabis kam. Jetzt berichten mehrere Quellen, dass Metas Mark Zuckerberg, SpaceX-Chef Elon Musk und Nvidia-Chef Jensen Huang unabhängig voneinander bei Präsident Trump vorgesprochen haben, um genau dieses Vorhaben zu stoppen. Ihr Argument, eine solche Behörde würde vor allem etablierten Marktführern wie OpenAI und Google nutzen und den Wettbewerb einschränken. Damit bleibt die USA vorerst ohne eine zentrale Prüfinstanz für KI-Modelle, während der öffentliche Druck durch Sicherheitsvorfälle gleichzeitig weiter wächst.\n\n===\n\nUnd solche Sicherheitsvorfälle gab es in den vergangenen vierundzwanzig Stunden gleich mehrere. Sicherheitsforscher von Hacktron AI haben im Rahmen einer autorisierten Untersuchung demonstriert, wie ein kleines Startup mit Hilfe von Claude Zugriff auf ChatGPT-Konten von OpenAI-Mitarbeitern erlangen konnte. Parallel dazu wurde bekannt, dass ein sogenanntes gepinntes Plugin zu einer Zero-Click-Hintertür in gleich vier verschiedenen Coding-Agenten wurde, und ein manipuliertes Marketing-Skript verbreitete Schadcode über mehr als hunderttausend Webseiten. Aus Spanien wird zudem der erste Fall eines Datenlecks gemeldet, das direkt auf einen autonomen KI-Agenten zurückgeführt wird. Diese Häufung von Vorfällen innerhalb weniger Tage befeuert die Debatte darüber, wie viel Handlungsspielraum man autonomen Systemen tatsächlich geben sollte, gerade jetzt, wo eine zentrale Aufsichtsbehörde politisch vom Tisch ist.\n\n===\n\nAuch bei Meta gab es Bewegung. Das unternehmenseigene, halbunabhängige Oversight Board hat Facebook angewiesen, zwei KI-generierte Videos zu entfernen, weil die bestehenden Richtlinien in diesen Fällen nicht ausreichten. Eines der Videos zeigte fälschlich einen schottischen Kommunalpolitiker mit hetzerischen Aussagen über Geflüchtete, das andere manipulierte das Bild einer jungen muslimischen Wahlkampf-Helferin. Das Board empfiehlt nun grundsätzliche Änderungen, etwa strengere Warnhinweise bei risikoreichen KI-Inhalten und eine geringere algorithmische Verbreitung solcher Videos. Es ist ein weiteres Beispiel dafür, wie Plattformen mit den Folgen von KI-generierten Fälschungen ringen, während die Technologie zur Erstellung solcher Inhalte immer zugänglicher wird.\n\n===\n\nAuf der Geschäftsseite meldet Nvidia-Chef Jensen Huang, das Unternehmen rechne damit, im kommenden Jahr doppelt so viele Chips zu verkaufen wie bisher. Das unterstreicht, wie ungebremst die Nachfrage nach Rechenleistung für KI-Training und -Betrieb weiterhin ist, trotz aller Sicherheitsdebatten und regulatorischer Unsicherheit.\n\n===\n\nEine interessante technische Randnotiz kommt aus Deutschland. Nach einem neuen Vergleichstest mit dem Namen Android Bench 2.0 schneiden Googles eigene KI-Modelle im direkten Vergleich mit Claude und GPT auffällig schwach ab, wenn es um Aufgaben auf Android-Geräten geht. Das ist bemerkenswert, weil Google mit Gemini eigentlich die tiefste Integration in sein eigenes Betriebssystem haben müsste. Der Befund zeigt, dass technische Nähe zur Plattform allein noch keinen Leistungsvorteil garantiert.\n\n===\n\nSchließlich bewegt sich auch etwas beim Verbraucherschutz. Die Europäische Union treibt Pläne voran, KI-Companion-Anwendungen für Kinder standardmäßig zu deaktivieren. Der Vorstoß reiht sich ein in eine wachsende Zahl europäischer Initiativen, die den Zugang von Minderjährigen zu KI-gestützten Chat- und Begleit-Apps stärker einschränken wollen, nachdem in den vergangenen Monaten wiederholt Bedenken über emotionale Abhängigkeiten und ungeeignete Inhalte laut wurden.\n\n===\n\nDas war's für heute. Zusammengefasst zeigt sich ein Muster, das uns wahrscheinlich noch länger begleiten wird. Auf der einen Seite formieren sich mächtige Wirtschaftsinteressen gegen eine zentrale KI-Aufsicht in den USA, auf der anderen Seite häufen sich reale Sicherheitsvorfälle, die genau eine solche Aufsicht rechtfertigen würden. Wir bleiben dran, wie sich dieses Spannungsfeld in den kommenden Tagen entwickelt. Danke fürs Zuhören und bis morgen bei KI Daily."
+}
