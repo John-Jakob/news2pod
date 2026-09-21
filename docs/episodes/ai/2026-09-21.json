@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 21. September 2026: Trumps AI Force und Europas Gegenwehr",
+  "teaser": "Der Wochenend-Rückblick: Trump kündigt eine \"AI Force\" und einen KI-Zaren an, OpenAI rechnet mit 278 Milliarden Dollar Verlust bis 2030, und eine Bloomberg-Recherche zeigt, wie KI-Fehleinschätzungen zu einem tödlichen Luftschlag im Iran beitrugen.",
+  "pubDate": "2026-09-21T06:00:00+02:00",
+  "duration_seconds": 354,
+  "size_bytes": 2835061,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-21/2026-09-21.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 130043,
+    "output_tokens": 4067
+  },
+  "sources": [
+    {
+      "headline": "Trump vows to form 'AI Force,' says he won't allow slowdown of AI development",
+      "source": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/trump-vows-ai-force-czar-development/",
+      "published": "2026-09-19"
+    },
+    {
+      "headline": "Trump vows to create 'AI Force' and appoint czar amid calls for guardrails",
+      "source": "cnn.com",
+      "url": "https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar",
+      "published": "2026-09-19"
+    },
+    {
+      "headline": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says",
+      "published": "2026-09-18"
+    },
+    {
+      "headline": "Europe's AI firms, playing catch-up, challenge US calls for slowdown",
+      "source": "bnnbloomberg.ca",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/18/europes-ai-firms-playing-catch-up-challenge-us-calls-for-slowdown/",
+      "published": "2026-09-18"
+    },
+    {
+      "headline": "Pentagon Investigators Say Overreliance on Palantir AI Tech Contributed to U.S. Strike That Killed 123 Iranian Children",
+      "source": "gizmodo.com",
+      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+      "published": "2026-09-19"
+    },
+    {
+      "headline": "Stale intelligence, AI reliance cited in US strike on Iranian school",
+      "source": "news.cgtn.com",
+      "url": "https://news.cgtn.com/news/2026-09-20/Stale-intelligence-AI-reliance-cited-in-US-strike-on-Iranian-school-1QAxSSs0ILK/p.html",
+      "published": "2026-09-20"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Montag, 21. September 2026. Da heute die erste Ausgabe der Woche ist, blicken wir zurück auf das Wochenende, also auf Samstag und Sonntag, und fassen die wichtigsten Entwicklungen aus der Welt der künstlichen Intelligenz zusammen.\n\n===\n\nDie größte politische Nachricht kam direkt vom amerikanischen Präsidenten. Donald Trump kündigte am Samstag in einem langen Beitrag auf Truth Social an, eine neue Behörde namens AI Force zu gründen und in Kürze einen KI-Zaren zu benennen. Trump verglich die neue Einheit mit der Space Force, die er in seiner ersten Amtszeit gegründet hatte. Wörtlich schrieb er, man werde das Wachstum dieser unglaublichen Industrie in keiner Weise hemmen oder ersticken, sondern es hegen, unterstützen und darüber wachen. Gleichzeitig bezeichnete er die Sorgen um KI-Sicherheit erneut als Schwindel, betonte aber, man werde auch nach dem Schlechten suchen und dafür das bestehende Straf- und Zivilrechtssystem nutzen. Details zur Struktur, zur Finanzierung oder zur rechtlichen Grundlage der AI Force blieben offen. Die Ankündigung kommt just in dem Moment, in dem der Druck auf Washington wächst, überhaupt föderale Leitplanken für KI zu schaffen.\n\n===\n\nParallel dazu berichtete die Financial Times, dass OpenAI zwischen 2026 und 2030 mit einem negativen freien Cashflow von 278 Milliarden Dollar rechnet. Grund sind massive Investitionen in Rechenleistung und Infrastruktur, die laut den internen Planungen bis zum Jahr 2030 auf rund 856 Milliarden Dollar anwachsen sollen. Gleichzeitig soll der Jahresumsatz von derzeit etwa 36 Milliarden auf 350 Milliarden Dollar steigen. OpenAI-Chef Sam Altman bestätigte zudem am Samstag, dass ein Börsengang im Jahr 2026 wegen Sicherheitsbedenken nicht stattfinden werde, während das Unternehmen laut Bloomberg bereits erste Gespräche über eine neue Finanzierungsrunde führt, die die Bewertung auf über 1,2 Billionen Dollar heben könnte.\n\n===\n\nIn Europa hat sich am Wochenende der Streit um Tempo und Sicherheit in der KI-Entwicklung verschärft. Das französische Unternehmen Mistral und weitere europäische Firmen wiesen den Vorschlag von Anthropic-Chef Dario Amodei zurück, das Tempo bei der Verbesserung von KI-Modellen bewusst zu drosseln. Mistral warf US-Konkurrenten vor, das Sicherheitsargument zu nutzen, um die eigene Marktdominanz zu zementieren. Der französische Finanzminister Roland Lescure sagte gegenüber Reuters, er könne das Eigeninteresse der etablierten Anbieter klar erkennen. Auch Deutschland positionierte sich, das Digitalministerium erklärte, ein Entwicklungsstopp sei angesichts der Notwendigkeit digitaler Souveränität unrealistisch. Der Streit zeigt, wie unterschiedlich amerikanische und europäische Akteure die Sicherheitsdebatte gerade nutzen und interpretieren.\n\n===\n\nEin besonders ernüchterndes Thema betrifft den Einsatz von KI im Militär. Eine Bloomberg-Recherche, die am Freitag veröffentlicht wurde, deckt auf, dass eine Überreliance auf das Palantir-System Maven, veraltete Geheimdienstinformationen und stark reduzierte Prüfungen zivilen Schadens zu einem US-Luftschlag auf eine Grundschule im iranischen Minab beigetragen haben. Bei dem Angriff im Februar wurden mehr als 150 Menschen getötet, darunter 123 Kinder. Pentagon-Mitarbeiter hätten demnach erwartet, dass das KI-gestützte System veraltete oder widersprüchliche Informationen automatisch erkennt, was jedoch nicht geschah. Palantir erklärte, das Unternehmen sei nicht für die zugrunde liegenden Daten verantwortlich und es gebe keine Beweise dafür, dass die Software fehlerhaft gearbeitet habe. Eine UN-Untersuchungskommission hatte kurz zuvor erklärt, es gebe hinreichende Gründe für die Annahme, dass die USA bei diesem und einem weiteren Angriff Kriegsverbrechen begangen hätten.\n\n===\n\nZusammengefasst zeigt das Wochenende zwei gegensätzliche Bewegungen. Auf der einen Seite drängt die US-Regierung auf noch weniger Regulierung und mehr Wachstum, während gleichzeitig ein Vorfall aus dem Militärbereich schmerzhaft vor Augen führt, welche realen Konsequenzen ein blindes Vertrauen in KI-Systeme haben kann. Und finanziell zeigt der Fall OpenAI, wie enorm die Wetten der Branche inzwischen geworden sind, mit Verlustprognosen in dreistelliger Milliardenhöhe, während gleichzeitig in Europa der Ton gegenüber amerikanischen Sicherheitsappellen deutlich schärfer wird.\n\nDas war dein KI Daily-Wochenend-Briefing. Wir sind gespannt, ob Trump in den kommenden Tagen tatsächlich einen KI-Zaren benennt und wie die Debatte um Tempo und Sicherheit in der Branche weitergeht. Bis morgen, und einen guten Start in die Woche."
+}
