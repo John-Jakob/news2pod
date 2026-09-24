@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 24. September 2026: UN-Warnung, Claude-Entdeckung, Trump-Xi-Gipfel",
+  "teaser": "",
+  "pubDate": "2026-09-24T06:00:00+02:00",
+  "duration_seconds": 385,
+  "size_bytes": 3087717,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-24/2026-09-24.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 106938,
+    "output_tokens": 4200
+  },
+  "sources": [
+    {
+      "headline": "UN-Sicherheitsrat: Altman, Amodei und Bengio warnen vor Kontrollverlust durch KI",
+      "source": "news.un.org",
+      "url": "https://news.un.org/en/story/2026/09/1168414",
+      "published": "2026-09-23"
+    },
+    {
+      "headline": "OpenAI und Anthropic briefen UN-Sicherheitsrat zu KI-Risiken – keine bindenden Beschlüsse",
+      "source": "decrypt.co",
+      "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
+      "published": "2026-09-23"
+    },
+    {
+      "headline": "Anthropic: Claude entdeckt autonom neues, CRISPR-ähnliches Enzymsystem",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats",
+      "published": "2026-09-23"
+    },
+    {
+      "headline": "Trump-Xi-Gipfel in Washington: KI-Sicherheit auf der Agenda, Handelsstreit vorerst beigelegt",
+      "source": "nbcnews.com",
+      "url": "https://www.nbcnews.com/world/asia/trump-xi-summit-meet-white-house-tensions-taiwan-trade-ai-rcna598073",
+      "published": "2026-09-23"
+    },
+    {
+      "headline": "Trump-Xi-Gipfel: Beide Seiten wollen bei KI nicht bremsen, sondieren aber Dialogkanal",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+      "published": "2026-09-23"
+    },
+    {
+      "headline": "Ex-Anthropic-Startup Mirendil verhandelt Finanzierungsrunde zu 5-Milliarden-Dollar-Bewertung",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/ex-anthropic-staffers-ai-startup-in-talks-to-raise-at-5-billion-value",
+      "published": "2026-09-22"
+    },
+    {
+      "headline": "Xiaomi veröffentlicht offenes MiMo-V2.6-Modell mit 309 Milliarden Parametern",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-09-22"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, 24. September 2026.\n\nWir beginnen mit einem Update zu einer Geschichte, die wir gestern angekündigt hatten. Der UN-Sicherheitsrat hat am Mittwoch tatsächlich eine historische Sitzung zu den Risiken künstlicher Intelligenz abgehalten. Sam Altman von OpenAI, Dario Amodei von Anthropic, Hugging-Face-Chef Clément Delangue und der KI-Forscher Yoshua Bengio sprachen vor dem fünfzehnköpfigen Gremium. Bengio, Träger des Turing Awards, warnte eindringlich, die Gefahr einer außer Kontrolle geratenen KI stelle eine Bedrohung dar, die kein Land allein eindämmen könne. Wichtig für die Einordnung: Die Sitzung brachte keine bindenden Beschlüsse oder Resolutionen hervor. Es war vielmehr ein Signal, dass das mächtigste UN-Gremium das Thema nun offiziell auf der Agenda hat, eingebettet in die Generalversammlung und nur zwei Tage vor dem Gipfeltreffen zwischen Trump und Xi Jinping.\n\n===\n\nApropos Trump und Xi. Die beiden Präsidenten trafen sich am Donnerstag in Washington, und künstliche Intelligenz war neben Handel und Taiwan eines der zentralen Themen. Nach Angaben von US-Sender NBC News stand vor allem die Frage im Raum, wie beide Länder mit den Risiken immer autonomerer KI-Systeme umgehen wollen, während gleichzeitig keine der beiden Seiten das eigene Entwicklungstempo drosseln will. US-Finanzminister Scott Bessent zeigte sich offen für Gespräche über gemeinsame Risiken, und beide Regierungen sondieren einen Mechanismus, um sich gegenseitig über sicherheitsrelevante KI-Vorfälle zu informieren. Zu handfesten Ergebnissen kam es unterdessen beim Handelsstreit: Der bestehende Waffenstillstand wurde bis Anfang Januar verlängert. Bei der KI-Sicherheit dagegen dürfte es vorerst bei Gesprächen über weitere Gespräche bleiben, wie mehrere Beobachter vor dem Treffen einschätzten.\n\n===\n\nEine der bemerkenswertesten Meldungen des Tages kommt von Anthropic. Das Unternehmen hat eine neue Forschungsgruppe für Lebenswissenschaften und ein eigenes Biolabor vorgestellt und gleich den ersten Fund präsentiert. Das Sprachmodell Claude hat demnach autonom ein bislang unbekanntes Enzymsystem in der DNA von Bakteriophagen entdeckt, das strukturelle Ähnlichkeiten mit dem CRISPR-Gen-Editing-System aufweist. Fast neunhundertfünfzig Claude-Agenten durchsuchten über einundzwanzig Stunden hinweg mehr als zweihundert Millionen Datenpunkte, filterten aus zweihunderttausend Kandidaten letztlich zwanzig heraus. Das System wird ART genannt, kurz für Array-Associated Reverse Transcriptases. CRISPR-Pionier Feng Zhang bezeichnete den Fund als genuinely intriguing, also wirklich faszinierend, und riet zu weiterer Forschung. Wichtig ist die Einordnung: Es handelt sich um ein unbegutachtetes Preprint, die Funktion des Systems ist noch unbekannt, und Kritiker weisen darauf hin, dass ein einzelner Kandidatenfund allein noch keine verlässliche Bewertung der Methode erlaubt. Dennoch ist es ein weiteres Beispiel dafür, wie KI-Labore versuchen, ihre Modelle als echte Forschungswerkzeuge zu positionieren, nicht nur als Chatbots.\n\n===\n\nIm Bereich der Finanzierungen sorgt ein junges Unternehmen namens Mirendil für Aufsehen. Das im vergangenen Dezember von zwei ehemaligen Anthropic-Forschern gegründete Startup verhandelt laut Bloomberg über eine neue Finanzierungsrunde, die das Unternehmen mit fünf Milliarden Dollar bewerten würde. Kleiner Perkins soll die Runde anführen, an der sich Andreessen Horowitz erneut beteiligen will, mit einem möglichen Volumen von bis zu einer Milliarde Dollar frischem Kapital. Bemerkenswert daran ist das Tempo: Erst vor drei Monaten hatte Mirendil eine Seed-Runde von zweihundert Millionen Dollar bei einer Bewertung von einer Milliarde Dollar abgeschlossen. Das wäre eine Verfünffachung des Firmenwerts innerhalb eines einzigen Quartals, und das, obwohl das Unternehmen noch kein einziges öffentliches Produkt hat. Mirendil will Systeme bauen, die KI-Forschung selbst automatisieren, ein Trend, der aktuell als recursive self-improvement bezeichnet wird und für den auch Konkurrenten wie Safe Superintelligence von Ilya Sutskever oder Thinking Machines Lab von Mira Murati Milliarden einsammeln.\n\n===\n\nZum Schluss noch ein Blick auf die Modell-Front. Der chinesische Hersteller Xiaomi hat sein neues MiMo-V2.6 als offenes Modell auf Hugging Face veröffentlicht, bestehend aus einer omnimodalen Pro-Version sowie einem schlankeren Flash-Modell mit dreihundertneun Milliarden Parametern, von denen jeweils nur ein Bruchteil aktiv genutzt wird. Beide stehen unter MIT-Lizenz zur freien Verfügung, und Xiaomi selbst positioniert die Pro-Variante auf Augenhöhe mit Claude Opus fünf und GPT-fünf-Punkt-sechs Sol bei den meisten Agenten-Benchmarks. Das unterstreicht erneut, wie eng mittlerweile die Lücke zwischen den großen US-Anbietern und offenen chinesischen Modellen geworden ist.\n\n===\n\nDas war dein KI Daily für heute. Die kommenden Tage dürften vor allem im Zeichen der Nachwehen des Trump-Xi-Gipfels stehen, insbesondere ob aus den angekündigten Gesprächen über einen KI-Sicherheitskanal tatsächlich etwas Konkretes wird. Auch die Reaktionen auf Anthropics Enzym-Fund und mögliche weitere Ergebnisse aus dem neuen Biolabor lohnen einen Blick. Ich danke fürs Zuhören und wünsche einen guten Start in den Tag."
+}

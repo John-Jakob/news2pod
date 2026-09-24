@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 24. September 2026: UN-Warnung, Claude-Entdeckung, Trump-Xi-Gipfel</title>
+      <description><![CDATA[<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://news.un.org/en/story/2026/09/1168414">UN-Sicherheitsrat: Altman, Amodei und Bengio warnen vor Kontrollverlust durch KI</a> <em>(news.un.org)</em></li>
+<li><a href="https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek">OpenAI und Anthropic briefen UN-Sicherheitsrat zu KI-Risiken – keine bindenden Beschlüsse</a> <em>(decrypt.co)</em></li>
+<li><a href="https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats">Anthropic: Claude entdeckt autonom neues, CRISPR-ähnliches Enzymsystem</a> <em>(thenextweb.com)</em></li>
+<li><a href="https://www.nbcnews.com/world/asia/trump-xi-summit-meet-white-house-tensions-taiwan-trade-ai-rcna598073">Trump-Xi-Gipfel in Washington: KI-Sicherheit auf der Agenda, Handelsstreit vorerst beigelegt</a> <em>(nbcnews.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html">Trump-Xi-Gipfel: Beide Seiten wollen bei KI nicht bremsen, sondieren aber Dialogkanal</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-09-22/ex-anthropic-staffers-ai-startup-in-talks-to-raise-at-5-billion-value">Ex-Anthropic-Startup Mirendil verhandelt Finanzierungsrunde zu 5-Milliarden-Dollar-Bewertung</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Xiaomi veröffentlicht offenes MiMo-V2.6-Modell mit 309 Milliarden Parametern</a> <em>(aiweekly.co)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://news.un.org/en/story/2026/09/1168414">UN-Sicherheitsrat: Altman, Amodei und Bengio warnen vor Kontrollverlust durch KI</a> <em>(news.un.org)</em></li>
+<li><a href="https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek">OpenAI und Anthropic briefen UN-Sicherheitsrat zu KI-Risiken – keine bindenden Beschlüsse</a> <em>(decrypt.co)</em></li>
+<li><a href="https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats">Anthropic: Claude entdeckt autonom neues, CRISPR-ähnliches Enzymsystem</a> <em>(thenextweb.com)</em></li>
+<li><a href="https://www.nbcnews.com/world/asia/trump-xi-summit-meet-white-house-tensions-taiwan-trade-ai-rcna598073">Trump-Xi-Gipfel in Washington: KI-Sicherheit auf der Agenda, Handelsstreit vorerst beigelegt</a> <em>(nbcnews.com)</em></li>
+<li><a href="https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html">Trump-Xi-Gipfel: Beide Seiten wollen bei KI nicht bremsen, sondieren aber Dialogkanal</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-09-22/ex-anthropic-staffers-ai-startup-in-talks-to-raise-at-5-billion-value">Ex-Anthropic-Startup Mirendil verhandelt Finanzierungsrunde zu 5-Milliarden-Dollar-Bewertung</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Xiaomi veröffentlicht offenes MiMo-V2.6-Modell mit 309 Milliarden Parametern</a> <em>(aiweekly.co)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary></itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-24</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-24/2026-09-24.mp3" length="3087717" type="audio/mpeg"/>
+      <itunes:duration>6:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 23. September 2026: Neue Modelle und KI vor dem UN-Sicherheitsrat</title>
       <description><![CDATA[<p>OpenAI und Anthropic bringen am selben Tag neue, günstigere Modelle heraus, während Sam Altman und Chinas KI-Firmen erstmals gemeinsam vor dem UN-Sicherheitsrat sprechen. Außerdem: Andreessen Horowitz startet eine kostenlose KI-Akademie für Nachwuchstalente.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -863,35 +892,6 @@
       <guid isPermaLink="false">ai-2026-08-21</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-21/2026-08-21.mp3" length="3028576" type="audio/mpeg"/>
       <itunes:duration>6:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 20. August 2026: Meta-Prozess eskaliert, OpenAIs Börsenpläne</title>
-      <description><![CDATA[<p>Ein Whistleblower belastet Mark Zuckerberg im Meta-Prozess schwer, OpenAI nennt erstmals ein konkretes IPO-Ziel, und Nvidia sucht einen Einstieg beim Daten-Start-up Mercor. Außerdem: Pennsylvania verhängt die strengsten KI-Rechenzentrum-Regeln der USA.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony">Whistleblower Arturo Béjar leads testimony in landmark trial against Meta</a> <em>(npr.org)</em></li>
-<li><a href="https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html">OpenAI 'will be a public company in 2027,' or sooner, CFO Friar tells employees</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.theinformation.com/articles/nvidia-discusses-funding-ai-data-supplier-mercor-20-billion-valuation">Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation</a> <em>(theinformation.com)</em></li>
-<li><a href="https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen">Governor Shapiro Signs Executive Order on Data Center Development in PA</a> <em>(pa.gov)</em></li>
-<li><a href="https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/">Josh Shapiro signs order restricting AI data centers in Pennsylvania</a> <em>(thehill.com)</em></li>
-<li><a href="https://whyy.org/articles/shapiro-data-centers-executive-order-pennsylvania/">Pennsylvania Gov. Shapiro signs wide-ranging executive order reining in data center development</a> <em>(whyy.org)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Ein Whistleblower belastet Mark Zuckerberg im Meta-Prozess schwer, OpenAI nennt erstmals ein konkretes IPO-Ziel, und Nvidia sucht einen Einstieg beim Daten-Start-up Mercor. Außerdem: Pennsylvania verhängt die strengsten KI-Rechenzentrum-Regeln der USA.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony">Whistleblower Arturo Béjar leads testimony in landmark trial against Meta</a> <em>(npr.org)</em></li>
-<li><a href="https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html">OpenAI 'will be a public company in 2027,' or sooner, CFO Friar tells employees</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.theinformation.com/articles/nvidia-discusses-funding-ai-data-supplier-mercor-20-billion-valuation">Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation</a> <em>(theinformation.com)</em></li>
-<li><a href="https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen">Governor Shapiro Signs Executive Order on Data Center Development in PA</a> <em>(pa.gov)</em></li>
-<li><a href="https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/">Josh Shapiro signs order restricting AI data centers in Pennsylvania</a> <em>(thehill.com)</em></li>
-<li><a href="https://whyy.org/articles/shapiro-data-centers-executive-order-pennsylvania/">Pennsylvania Gov. Shapiro signs wide-ranging executive order reining in data center development</a> <em>(whyy.org)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Ein Whistleblower belastet Mark Zuckerberg im Meta-Prozess schwer, OpenAI nennt erstmals ein konkretes IPO-Ziel, und Nvidia sucht einen Einstieg beim Daten-Start-up Mercor. Außerdem: Pennsylvania verhängt die strengsten KI-Rechenzentrum-Regeln der USA.</itunes:summary>
-      <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-08-20</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-20/2026-08-20.mp3" length="2485438" type="audio/mpeg"/>
-      <itunes:duration>5:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
