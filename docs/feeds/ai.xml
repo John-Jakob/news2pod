@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 25. September 2026: OpenAI-Hack, Anthropic-Machtstruktur, SAFA</title>
+      <description><![CDATA[<p>Australien wirft OpenAI einen unangekündigten Behörden-Hack vor, Anthropic sichert seinen Gründern die Stimmenmehrheit vor dem Börsengang, und die großen KI-Labore planen eine eigene Aufsichtsbehörde ohne Staat.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://time.com/article/2026/09/24/australia-condemns-unacceptable-openai-breach-of-government-health-portal/">Australia condemns OpenAI breach of government health portal</a> <em>(time.com)</em></li>
+<li><a href="https://edition.cnn.com/2026/09/23/business/australia-openai-agent-hack-intl-hnk">Medicare Australia: OpenAI-Agent hackt erstmals Regierungsnetzwerk</a> <em>(cnn.com)</em></li>
+<li><a href="https://lufkindailynews.com/news_reuters/business/anthropic-seeks-50-1-voting-control-for-co-founders-ahead-of-ipo-the-information-reports/article_e1638d74-9eed-5712-8fc1-0439c83b601f.html">Anthropic seeks 50.1% voting control for co-founders ahead of IPO</a> <em>(reuters.com (via lufkindailynews.com))</em></li>
+<li><a href="https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926">Google, OpenAI, Anthropic Plan Frontier AI Standards Body</a> <em>(bankinfosecurity.com)</em></li>
+<li><a href="https://tech.eu/2026/09/23/tekever-raises-580m-series-d-at-6-4b-valuation/">Tekever raises $580 million Series D at $6.4 billion valuation</a> <em>(tech.eu / theinformation (via qz.com, tech.eu))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Amazon opens Seller Central APIs to outside AI agents, integrates Claude</a> <em>(bloomberg.com (via aiweekly.co))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic launches life sciences research group, discloses first result</a> <em>(aiweekly.co)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Australien wirft OpenAI einen unangekündigten Behörden-Hack vor, Anthropic sichert seinen Gründern die Stimmenmehrheit vor dem Börsengang, und die großen KI-Labore planen eine eigene Aufsichtsbehörde ohne Staat.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://time.com/article/2026/09/24/australia-condemns-unacceptable-openai-breach-of-government-health-portal/">Australia condemns OpenAI breach of government health portal</a> <em>(time.com)</em></li>
+<li><a href="https://edition.cnn.com/2026/09/23/business/australia-openai-agent-hack-intl-hnk">Medicare Australia: OpenAI-Agent hackt erstmals Regierungsnetzwerk</a> <em>(cnn.com)</em></li>
+<li><a href="https://lufkindailynews.com/news_reuters/business/anthropic-seeks-50-1-voting-control-for-co-founders-ahead-of-ipo-the-information-reports/article_e1638d74-9eed-5712-8fc1-0439c83b601f.html">Anthropic seeks 50.1% voting control for co-founders ahead of IPO</a> <em>(reuters.com (via lufkindailynews.com))</em></li>
+<li><a href="https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926">Google, OpenAI, Anthropic Plan Frontier AI Standards Body</a> <em>(bankinfosecurity.com)</em></li>
+<li><a href="https://tech.eu/2026/09/23/tekever-raises-580m-series-d-at-6-4b-valuation/">Tekever raises $580 million Series D at $6.4 billion valuation</a> <em>(tech.eu / theinformation (via qz.com, tech.eu))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Amazon opens Seller Central APIs to outside AI agents, integrates Claude</a> <em>(bloomberg.com (via aiweekly.co))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic launches life sciences research group, discloses first result</a> <em>(aiweekly.co)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Australien wirft OpenAI einen unangekündigten Behörden-Hack vor, Anthropic sichert seinen Gründern die Stimmenmehrheit vor dem Börsengang, und die großen KI-Labore planen eine eigene Aufsichtsbehörde ohne Staat.</itunes:summary>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-25</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-25/2026-09-25.mp3" length="3210597" type="audio/mpeg"/>
+      <itunes:duration>6:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 24. September 2026: UN-Warnung, Claude-Entdeckung, Trump-Xi-Gipfel</title>
       <description><![CDATA[<p><strong>Heutige Quellen:</strong></p>
 <ul>
@@ -863,35 +894,6 @@
       <guid isPermaLink="false">ai-2026-08-22</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-22/2026-08-22.mp3" length="2617722" type="audio/mpeg"/>
       <itunes:duration>5:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 21. August 2026: Massachusetts vs. KI-Konzerne, ChatGPT-Werbung startet</title>
-      <description><![CDATA[<p>Anthropic und OpenAI liefern sich einen offenen Schlagabtausch über das schärfste KI-Sicherheitsgesetz der USA, der Meta-Prozess geht in die zweite Woche, und ChatGPT bekommt ab kommendem Montag Werbung in Europa.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash">Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.npr.org/2026/08/20/nx-s1-5936640/the-first-week-of-testimony-wraps-in-the-federal-child-safety-case-against-meta">The first week of testimony wraps in the federal child safety case against Meta</a> <em>(npr.org)</em></li>
-<li><a href="https://www.srf.ch/news/international/neue-strategie-chatgpt-ist-bald-nicht-mehr-werbefrei">ChatGPT-Werbung ab 24. August: OpenAI startet in 31 Märkten</a> <em>(ad-hoc-news.de / srf.ch)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Anthropic: Claude designed binders for 14 of 15 protein targets</a> <em>(anthropic.com (via aiweekly.co))</em></li>
-<li><a href="https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training">OpenAI growth trails Anthropic as safety concerns prompt frontier training pause</a> <em>(coindesk.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Cerebras launches CS-4 rack, claims 30x GPU inference speed</a> <em>(cerebras.ai (via aiweekly.co))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Anthropic und OpenAI liefern sich einen offenen Schlagabtausch über das schärfste KI-Sicherheitsgesetz der USA, der Meta-Prozess geht in die zweite Woche, und ChatGPT bekommt ab kommendem Montag Werbung in Europa.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash">Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.npr.org/2026/08/20/nx-s1-5936640/the-first-week-of-testimony-wraps-in-the-federal-child-safety-case-against-meta">The first week of testimony wraps in the federal child safety case against Meta</a> <em>(npr.org)</em></li>
-<li><a href="https://www.srf.ch/news/international/neue-strategie-chatgpt-ist-bald-nicht-mehr-werbefrei">ChatGPT-Werbung ab 24. August: OpenAI startet in 31 Märkten</a> <em>(ad-hoc-news.de / srf.ch)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Anthropic: Claude designed binders for 14 of 15 protein targets</a> <em>(anthropic.com (via aiweekly.co))</em></li>
-<li><a href="https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training">OpenAI growth trails Anthropic as safety concerns prompt frontier training pause</a> <em>(coindesk.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Cerebras launches CS-4 rack, claims 30x GPU inference speed</a> <em>(cerebras.ai (via aiweekly.co))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Anthropic und OpenAI liefern sich einen offenen Schlagabtausch über das schärfste KI-Sicherheitsgesetz der USA, der Meta-Prozess geht in die zweite Woche, und ChatGPT bekommt ab kommendem Montag Werbung in Europa.</itunes:summary>
-      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-08-21</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-21/2026-08-21.mp3" length="3028576" type="audio/mpeg"/>
-      <itunes:duration>6:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
