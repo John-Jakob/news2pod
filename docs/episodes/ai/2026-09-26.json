@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 26. September 2026: Stargate wackelt, Google ins All, SAFA-Chef gesucht",
+  "teaser": "Oracle zieht bei einem Stargate-Rechenzentrum die Notbremse, Google schickt KI-Chips ins Weltall, und die Frontier-Standards-Agentur der großen KI-Labore sucht einen prominenten Chef. Das KI Daily-Briefing für den 26. September.",
+  "pubDate": "2026-09-26T06:00:00+02:00",
+  "duration_seconds": 346,
+  "size_bytes": 2768605,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-26/2026-09-26.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 252011,
+    "output_tokens": 5356
+  },
+  "sources": [
+    {
+      "headline": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "published": "2026-09-24"
+    },
+    {
+      "headline": "Oracle bet $165B on Stargate AI. A gas pipeline permit is holding it up",
+      "source": "martincid.com",
+      "url": "https://www.martincid.com/business/oracle-project-jupiter-force-majeure/",
+      "published": "2026-09-25"
+    },
+    {
+      "headline": "Google Sends Four TPUs to Orbit on Oct. 1 for Project Suncatcher Test",
+      "source": "technology.org",
+      "url": "https://www.technology.org/2026/09/25/google-project-suncatcher-tpu-orbit-test/",
+      "published": "2026-09-25"
+    },
+    {
+      "headline": "Project Suncatcher: Google to launch first space data center test in orbit next week",
+      "source": "datacenterdynamics.com",
+      "url": "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/",
+      "published": "2026-09-25"
+    },
+    {
+      "headline": "Google, OpenAI, Anthropic Court Sriram Krishnan for AI Safety Body",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/alerts/google-openai-anthropic-court-sriram-krishnan-for-ai-safety-body",
+      "published": "2026-09-25"
+    },
+    {
+      "headline": "Standards Authority for Frontier AI SAFA Report",
+      "source": "livenewsworld.com",
+      "url": "https://www.livenewsworld.com/standards-authority-frontier-ai-safa/",
+      "published": "2026-09-25"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, den 26. September 2026.\n\n===\n\nBeginnen wir mit einer Erschütterung im größten KI-Infrastrukturprojekt der Welt. Oracle hat dem Entwickler von Project Jupiter, einem Stargate-Rechenzentrumskomplex in New Mexico, eine sogenannte Force-Majeure-Mitteilung geschickt. Das teilte Bloomberg als Erstes mit. Solche Klauseln, die man eigentlich aus Energie- und Rohstoffverträgen kennt, entbinden ein Unternehmen von vertraglichen Pflichten, wenn Ereignisse außerhalb seiner Kontrolle die Umsetzung verhindern. Oracle will sich nach Angaben von Insidern nicht als Hauptmieter aus dem Projekt zurückziehen, die Mitteilung würde dem Unternehmen aber erlauben, Zahlungen zu verschieben, falls die Anlage ihr Ziel verfehlt, im Jahr 2028 ans Netz zu gehen. Grund für die Verzögerung ist vor allem die Energieversorgung. Eine Gaspipeline von Energy Transfer, die den 2,45 Gigawatt starken Campus mit Brennstoffzellen von Bloom Energy versorgen soll, wurde von Regulierungsbehörden in New Mexico mehrfach die Genehmigung verweigert und hat sich um fast sechs Monate verschoben, auf jetzt Februar 2027. Project Jupiter ist eines der Vorzeigeprojekte von Stargate, jener KI-Infrastrukturinitiative, die Oracle, OpenAI und SoftBank gemeinsam mit Präsident Trump vorgestellt hatten. Der Campus stößt vor Ort auf Widerstand von Anwohnern und Umweltgruppen und ist inzwischen zu einem politischen Streitpunkt vor den Zwischenwahlen geworden. Oracle betont öffentlich, man liege weiterhin im Zeitplan und sei New Mexico voll verpflichtet, doch die Episode zeigt, wie sehr der gigantische Rechenzentrums-Boom an harte physische Grenzen stößt, vor allem bei Strom und Gas.\n\n===\n\nWährend auf der Erde um Stromkapazität gerungen wird, sucht Google die Lösung im Orbit. Am ersten Oktober will der Konzern eine Testsatelliten mit vier Trillium-Tensor-Prozessoren an Bord ins All schießen, an Bord einer SpaceX-Falcon-9-Rakete im Rahmen der Transporter-18-Mitflug-Mission. Das gemeinsam mit dem Erdbeobachtungsunternehmen Planet gebaute Gerät trägt den Namen MVP und soll klären, ob Googles KI-Chips Start, Strahlung und die extremen Temperaturschwankungen im Vakuum überstehen. Die Kernidee von Project Suncatcher: Satelliten in einer fast durchgehend sonnenbeschienenen Umlaufbahn könnten bis zu achtmal mehr Solarenergie liefern als vergleichbare Anlagen am Boden, und Energie ist inzwischen der limitierende Faktor für praktisch jeden Ausbau von Rechenzentren. Der erste Flug ist bewusst klein gehalten, nur vier Chips, um im Erfolgsfall wie im Misserfolgsfall günstig zu lernen. Für 2027 plant Google bereits den nächsten Schritt, zwei Satelliten, die per Laserlink Daten mit fast der Geschwindigkeit eines Serverracks austauschen sollen. Das Ganze bleibt vorerst ein Gedankenexperiment mit Hardware, aber es zeigt, wie ernst die großen KI-Anbieter inzwischen an unkonventionellen Lösungen für ihr Energieproblem arbeiten.\n\n===\n\nEin Update zur neuen Aufsichtsinitiative der großen KI-Labore, über die wir gestern berichtet hatten. Google, OpenAI und Anthropic treiben ihre geplante Selbstregulierungsbehörde, die vorläufig Standards Authority for Frontier AI oder Frontier AI Standards Agency genannt wird, konkret voran. Wie The Information berichtet, haben die drei Unternehmen inzwischen Sriram Krishnan angesprochen, den früheren KI-Politikberater im Weißen Haus, um den Posten des Geschäftsführers zu übernehmen. Krishnan hatte sein Amt im Juni 2026 verlassen, nachdem er öffentlich erklärt hatte, es werde keine Zulassungsbehörde nach dem Vorbild der Arzneimittelbehörde FDA für Künstliche Intelligenz geben. Zusätzlich wurde auch Arati Prabhakar kontaktiert, die frühere Direktorin des wissenschaftspolitischen Büros im Weißen Haus. Die Organisation soll sich am Vorbild der Wall-Street-Selbstregulierungsbehörde FINRA orientieren und unabhängig von staatlicher Aufsicht agieren, mit Vorab-Tests durch Dritte, Meldepflichten bei Vorfällen und Standards für Prüfer, bevor neue Modelle veröffentlicht werden. Nicht alle sind begeistert: Cohere-Chef Aidan Gomez bezeichnete den Vorschlag als, Zitat, ein Kartell unter anderem Namen. Ein Start wird für Ende 2026 oder Anfang 2027 anvisiert, konkrete Personalentscheidungen stehen aber noch aus.\n\n===\n\nDas war's für heute. Drei Geschichten, ein roter Faden: Die physische Infrastruktur der KI-Industrie gerät ins Wanken, sei es durch Gaspipelines in der Wüste New Mexicos oder durch das Vakuum des Weltalls, während die Branche gleichzeitig versucht, sich selbst eine Aufsichtsstruktur zu geben, bevor es andere für sie tun. Wir bleiben dran, ob der Oktober-Start von Google gelingt und wer am Ende die neue Standardsetzungsbehörde führen wird. Bis morgen, und einen schönen Samstag."
+}
