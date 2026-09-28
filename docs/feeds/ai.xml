@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 28. September 2026: Wochenend-Rückblick zu OpenAIs Trainingsstopp und Canberra-Anhörung</title>
+      <description><![CDATA[<p>Zum Wochenstart blicken wir auf ein turbulentes Wochenende zurück: OpenAI stoppt erneut das Training seiner stärksten Modelle, Australien lädt Sam Altman und Dario Amodei nach Canberra vor, und Elon Musk kündigt eine gigantische Chip-Aufrüstung für xAI an.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.usnews.com/news/business/articles/2026-09-26/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways">OpenAI pauses training of latest models after agents probed US government sites</a> <em>(apnews.com (via usnews.com))</em></li>
+<li><a href="https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/">OpenAI pauses training again after AI agents escaped a secure sandbox</a> <em>(fortune.com)</em></li>
+<li><a href="https://financefeeds.com/sam-altman-dario-amodei-invited-to-senate-inquiry-after-government-site-hacks/">Sam Altman, Dario Amodei asked to appear before Australian Senate inquiry after Medicare breach</a> <em>(financefeeds.com)</em></li>
+<li><a href="https://www.cryptopolitan.com/hanson-young-altman-amodei-canberra-openai/">Hanson-Young wants Altman and Amodei in Canberra on October 1</a> <em>(cryptopolitan.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end">Elon Musk Aims to Double Colossus 2's Nvidia Chips by Year-End</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.washingtontimes.com/news/2026/sep/27/openai-anthropic-sound-alarm-ai-safety-seek-shape-controlled/">Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled</a> <em>(washingtontimes.com / opb.org (AP))</em></li>
+<li><a href="https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents">OpenAI, Anthropic probing tens of thousands of security incidents</a> <em>(axios.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Zum Wochenstart blicken wir auf ein turbulentes Wochenende zurück: OpenAI stoppt erneut das Training seiner stärksten Modelle, Australien lädt Sam Altman und Dario Amodei nach Canberra vor, und Elon Musk kündigt eine gigantische Chip-Aufrüstung für xAI an.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.usnews.com/news/business/articles/2026-09-26/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways">OpenAI pauses training of latest models after agents probed US government sites</a> <em>(apnews.com (via usnews.com))</em></li>
+<li><a href="https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/">OpenAI pauses training again after AI agents escaped a secure sandbox</a> <em>(fortune.com)</em></li>
+<li><a href="https://financefeeds.com/sam-altman-dario-amodei-invited-to-senate-inquiry-after-government-site-hacks/">Sam Altman, Dario Amodei asked to appear before Australian Senate inquiry after Medicare breach</a> <em>(financefeeds.com)</em></li>
+<li><a href="https://www.cryptopolitan.com/hanson-young-altman-amodei-canberra-openai/">Hanson-Young wants Altman and Amodei in Canberra on October 1</a> <em>(cryptopolitan.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end">Elon Musk Aims to Double Colossus 2's Nvidia Chips by Year-End</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.washingtontimes.com/news/2026/sep/27/openai-anthropic-sound-alarm-ai-safety-seek-shape-controlled/">Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled</a> <em>(washingtontimes.com / opb.org (AP))</em></li>
+<li><a href="https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents">OpenAI, Anthropic probing tens of thousands of security incidents</a> <em>(axios.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Zum Wochenstart blicken wir auf ein turbulentes Wochenende zurück: OpenAI stoppt erneut das Training seiner stärksten Modelle, Australien lädt Sam Altman und Dario Amodei nach Canberra vor, und Elon Musk kündigt eine gigantische Chip-Aufrüstung für xAI an.</itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-28</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-28/2026-09-28.mp3" length="3129304" type="audio/mpeg"/>
+      <itunes:duration>6:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 26. September 2026: Stargate wackelt, Google ins All, SAFA-Chef gesucht</title>
       <description><![CDATA[<p>Oracle zieht bei einem Stargate-Rechenzentrum die Notbremse, Google schickt KI-Chips ins Weltall, und die Frontier-Standards-Agentur der großen KI-Labore sucht einen prominenten Chef. Das KI Daily-Briefing für den 26. September.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -867,31 +898,6 @@
       <guid isPermaLink="false">ai-2026-08-25</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-25/2026-08-25.mp3" length="2231319" type="audio/mpeg"/>
       <itunes:duration>4:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 24. August 2026: Wochenend-Rückblick zur Anthropic-Mega-IPO</title>
-      <description><![CDATA[<p>Der Wochenend-Rückblick: Anthropic rüstet sich für eine der größten Börsengänge der Geschichte, während die AI-Backlash-Stimmung zum offiziellen Risikofaktor wird. Außerdem ein Blick auf den ruhigen Nachrichtenverlauf am Wochenende rund um den Meta-Prozess.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://finance.yahoo.com/technology/article/anthropic-could-publicly-file-ipo-paperwork-as-soon-as-this-month-192026244.html">Anthropic could publicly file IPO paperwork as soon as this month</a> <em>(yahoo.com (Bloomberg))</em></li>
-<li><a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">Anthropic IPO filing will show AI backlash as a risk factor, sources say</a> <em>(cnbc.com)</em></li>
-<li><a href="https://wgme.com/news/nation-world/first-week-of-california-meta-trial-spotlights-internal-emails-and-whistleblowers">First week of California Meta trial spotlights internal emails and whistleblowers</a> <em>(wgme.com (AP))</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">AI News Today, August 22 — New data on OpenAI vs Anthropic enterprise share</a> <em>(aiweekly.co)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: Anthropic rüstet sich für eine der größten Börsengänge der Geschichte, während die AI-Backlash-Stimmung zum offiziellen Risikofaktor wird. Außerdem ein Blick auf den ruhigen Nachrichtenverlauf am Wochenende rund um den Meta-Prozess.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://finance.yahoo.com/technology/article/anthropic-could-publicly-file-ipo-paperwork-as-soon-as-this-month-192026244.html">Anthropic could publicly file IPO paperwork as soon as this month</a> <em>(yahoo.com (Bloomberg))</em></li>
-<li><a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">Anthropic IPO filing will show AI backlash as a risk factor, sources say</a> <em>(cnbc.com)</em></li>
-<li><a href="https://wgme.com/news/nation-world/first-week-of-california-meta-trial-spotlights-internal-emails-and-whistleblowers">First week of California Meta trial spotlights internal emails and whistleblowers</a> <em>(wgme.com (AP))</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">AI News Today, August 22 — New data on OpenAI vs Anthropic enterprise share</a> <em>(aiweekly.co)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Der Wochenend-Rückblick: Anthropic rüstet sich für eine der größten Börsengänge der Geschichte, während die AI-Backlash-Stimmung zum offiziellen Risikofaktor wird. Außerdem ein Blick auf den ruhigen Nachrichtenverlauf am Wochenende rund um den Meta-Prozess.</itunes:summary>
-      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-08-24</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-24/2026-08-24.mp3" length="2324106" type="audio/mpeg"/>
-      <itunes:duration>4:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
