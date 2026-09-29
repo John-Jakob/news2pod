@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 29. September 2026: AMD kauft World Labs, Bains 6-Billionen-Frage, Papst contra Trump",
+  "teaser": "AMD greift für 8,2 Milliarden Dollar nach Fei-Fei Lis World Labs, Bain warnt vor einer gewaltigen Ertragslücke im KI-Boom, und Papst Leo widerspricht Donald Trump in Sachen KI-Sicherheit. Außerdem: Nvidia bringt eine neue Sicherheitsplattform für KI-Agenten.",
+  "pubDate": "2026-09-29T06:00:00+02:00",
+  "duration_seconds": 377,
+  "size_bytes": 3016664,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-29/2026-09-29.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 106652,
+    "output_tokens": 4230
+  },
+  "sources": [
+    {
+      "headline": "AMD to Acquire World Labs for $8.2 Billion",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "published": "2026-09-28"
+    },
+    {
+      "headline": "AI Faces $6 Trillion Test to Justify Data Centers, Bain Says",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/ai-faces-6-trillion-test-to-justify-data-centers-bain-says",
+      "published": "2026-09-29"
+    },
+    {
+      "headline": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'",
+      "source": "nbcnews.com",
+      "url": "https://www.nbcnews.com/world/pope-leo-xiv/contradicting-trump-pope-leo-says-artificial-intelligence-safety-conce-rcna600390",
+      "published": "2026-09-28"
+    },
+    {
+      "headline": "Anthropic, OpenAI Leaders Call for Oversight of Self-Improving AI Systems",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/anthropic-openai-executives-urge-oversight-of-self-improving-ai",
+      "published": "2026-09-28"
+    },
+    {
+      "headline": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'",
+      "source": "finance.yahoo.com (Reuters/Bloomberg-Wire)",
+      "url": "https://finance.yahoo.com/technology/article/nvidia-launches-ai-safety-platform-after-jensen-huang-calls-anthropic-openai-warnings-odd-103135599.html",
+      "published": "2026-09-28"
+    },
+    {
+      "headline": "Anthropic and OpenAI Sound the Alarm on AI Safety — and Seek to Shape How It's Controlled",
+      "source": "apnews.com (via usnews.com)",
+      "url": "https://www.usnews.com/news/us/articles/2026-09-27/anthropic-and-openai-sound-the-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled",
+      "published": "2026-09-27"
+    },
+    {
+      "headline": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+      "source": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry",
+      "published": "2026-09-27"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Tuesday, den 29. September 2026.\n\nWir starten heute mit einer großen Übernahme aus der Chip-Welt. AMD hat angekündigt, das KI-Forschungslabor World Labs zu übernehmen, gegründet und geleitet von der bekannten Forscherin Fei-Fei Li. Der Deal ist eine reine Aktientransaktion im Wert von rund acht Komma zwei Milliarden Dollar und soll bis Ende des Jahres abgeschlossen werden. World Labs entwickelt sogenannte räumliche Intelligenz-Modelle, die aus Text, Bild und Video interaktive drei-D-Umgebungen erzeugen, rekonstruieren und simulieren können, außerdem Technologie für robotisches Lernen. AMD will damit die eigene Hardware- und Software-Entwicklung enger an neue KI-Workloads wie Robotik und physische Simulation koppeln. Fei-Fei Li wechselt als Chefwissenschaftlerin zu AMD und berichtet künftig direkt an CEO Lisa Su. Bemerkenswert: Su war bereits früh Investorin bei World Labs, die beiden Firmen kooperierten schon vorher technisch. Für AMD ist es die zweitgrößte Übernahme der Firmengeschichte nach dem Xilinx-Kauf.\n\n===\n\nDie zweite große Geschichte des Tages kommt von der Unternehmensberatung Bain. In ihrem sechsten jährlichen globalen Technologiereport rechnet Bain vor, dass die weltweite KI-Industrie bis zum Jahr 2031 sechs Billionen Dollar Jahresumsatz erzielen müsste, um die aktuellen Investitionen in Rechenzentren zu rechtfertigen. Bestehende Verbraucher- und Unternehmensanwendungen könnten davon höchstens ein Komma acht Billionen Dollar beisteuern, bleibt eine Lücke von vier Komma zwei Billionen Dollar, die aus noch kaum existierenden Feldern wie autonomen Maschinen, Robotik, Wirkstoffforschung, mentaler Gesundheit und Energieerzeugung kommen müsste. Bain-Bericht-Autor David Crawford bringt es auf den Punkt: die Branche brauche eine Innovationswelle, die alles übertrifft, was mobiles Internet und Cloud einst ausgelöst haben. Der Bericht befeuert damit die wachsende Debatte darüber, ob sich der aktuelle Rechenzentrums-Boom überhaupt jemals amortisiert.\n\n===\n\nAuf der Sicherheitsseite hat Nvidia reagiert. Der Chiphersteller hat eine sogenannte Open Agent Safety Platform vorgestellt, die Entwicklern helfen soll, Schutzmechanismen für autonome KI-Agenten durchzusetzen. Das Timing ist auffällig, denn CEO Jensen Huang hatte kurz zuvor öffentlich die Sicherheitsansätze von Anthropic und OpenAI als seltsam bezeichnet. In der Pressemitteilung zur neuen Plattform betont Huang nun, dass das außergewöhnliche Potenzial von KI für die Gesellschaft nur dann Wirklichkeit werde, wenn man auch die KI-Sicherheit löse. Damit reiht sich Nvidia in eine Reihe von Unternehmen ein, die zuletzt öffentlich um die Deutungshoheit beim Thema Sicherheit ringen.\n\n===\n\nUnd genau dieses Ringen wurde gestern noch verstärkt. Mehr als zwanzig KI-Führungskräfte und Forscher, darunter Spitzenvertreter von Anthropic, OpenAI, Meta und Microsoft, veröffentlichten ein gemeinsames Papier, in dem sie Politiker auffordern, genauer hinzuschauen, wie stark KI-Systeme bereits an ihrer eigenen Weiterentwicklung mitarbeiten. Die Sorge der Autoren gilt einem Phänomen, das sie als Intelligenzexplosion bezeichnen, also einer möglichen schlagartigen Beschleunigung des Fortschritts durch KI, die zukünftige KI-Modelle mitgestaltet. Die Nachrichtenagentur AP ordnet solche Warnungen kritisch ein und weist darauf hin, dass die Debatte auch politisch und wirtschaftlich nützlich für die Labore sein könnte, weil sie den Fokus von unbequemeren Themen wie Umweltfolgen von Rechenzentren oder unkontrollierten Hacking-Vorfällen wegverschiebt.\n\n===\n\nEin ungewöhnlicher Kommentar kam gestern zudem aus dem Vatikan. Papst Leo der Vierzehnte erklärte an Bord des Papstflugzeugs, die Sorgen vor einer außer Kontrolle geratenden KI seien keine, Zitat, Fake News, und müssten ernst genommen werden. Damit widersprach er direkt Donald Trump, der ähnliche Bedenken zuvor als Hoax bezeichnet hatte. Leo, der seine erste Enzyklika dem Thema künstliche Intelligenz gewidmet hat, sagte, die von vielen Experten geäußerten Sorgen sollten diskutiert und angegangen werden. Trump und der Papst hatten bereits zuvor unterschiedliche Positionen etwa zum Nahost-Konflikt und zur Migrationspolitik.\n\n===\n\nWeiterhin ungelöst bleibt zudem der Fall der Medicare-Sicherheitslücke in Australien. Wie berichtet, hat die australische Regierung die Chefs von OpenAI und Anthropic zu einer Senatsanhörung nach Canberra geladen, die für morgen, Donnerstag, angesetzt ist. Nach Angaben von Al Jazeera reagierte OpenAI zuletzt damit, dass man bislang keine Hinweise auf einen Zugriff auf Patientendaten gefunden habe, wies die schwere Kritik an der dreimonatigen Verzögerung der Meldung aber nicht zurück. Es bleibt eine der bislang größten Belastungsproben für das Vertrauen in autonome KI-Agenten außerhalb der USA.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Im Blick behalten solltest du die Senatsanhörung in Canberra am Donnerstag sowie mögliche weitere Reaktionen aus der Industrie auf den Bain-Bericht zur Wirtschaftlichkeit der KI-Rechenzentren. Vielen Dank fürs Zuhören, bis morgen."
+}
