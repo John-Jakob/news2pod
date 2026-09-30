@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 30. September 2026: OpenAIs Dots, 1,4 Billionen und Canberra-Absage</title>
+      <description><![CDATA[<p>OpenAI startet auf der DevDay eigene KI-Agenten namens Dots und verhandelt eine Rekordfinanzierung von dreißig Milliarden Dollar, während das Unternehmen zusammen mit Anthropic die Senatsanhörung in Canberra doch nicht wahrnimmt.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html">OpenAI DevDay: Start der 'Dots'-Agenten, Astra zurückgehalten, IPO-Aufschub</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value">OpenAI targets $30 billion funding round at $1.4 trillion valuation</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/">OpenAI reportedly in talks to raise $30B round at $1.4T valuation</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.investing.com/news/stock-market-news/anthropic-openai-will-not-attend-australian-senate-ai-hearing-on-october-1-4920817">Anthropic, OpenAI will not attend Australian senate AI hearing on October 1</a> <em>(reuters.com (via investing.com))</em></li>
+<li><a href="https://www.yahoo.com/news/world/articles/openai-anthropic-skip-australia-senate-182344969.html">OpenAI and Anthropic skip Australia Senate AI hearing</a> <em>(yahoo.com (Reuters))</em></li>
+<li><a href="https://llm-stats.com/ai-news">Amazon Bedrock expands Claude model availability to in-country inferencing in India, Seoul and Singapore</a> <em>(llm-stats.com (AWS Announcement))</em></li>
+<li><a href="https://llm-stats.com/ai-news">AI infrastructure company Accelevation and backer Olympus raise $540M in US IPO</a> <em>(llm-stats.com (Bloomberg))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>OpenAI startet auf der DevDay eigene KI-Agenten namens Dots und verhandelt eine Rekordfinanzierung von dreißig Milliarden Dollar, während das Unternehmen zusammen mit Anthropic die Senatsanhörung in Canberra doch nicht wahrnimmt.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html">OpenAI DevDay: Start der 'Dots'-Agenten, Astra zurückgehalten, IPO-Aufschub</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value">OpenAI targets $30 billion funding round at $1.4 trillion valuation</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/">OpenAI reportedly in talks to raise $30B round at $1.4T valuation</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.investing.com/news/stock-market-news/anthropic-openai-will-not-attend-australian-senate-ai-hearing-on-october-1-4920817">Anthropic, OpenAI will not attend Australian senate AI hearing on October 1</a> <em>(reuters.com (via investing.com))</em></li>
+<li><a href="https://www.yahoo.com/news/world/articles/openai-anthropic-skip-australia-senate-182344969.html">OpenAI and Anthropic skip Australia Senate AI hearing</a> <em>(yahoo.com (Reuters))</em></li>
+<li><a href="https://llm-stats.com/ai-news">Amazon Bedrock expands Claude model availability to in-country inferencing in India, Seoul and Singapore</a> <em>(llm-stats.com (AWS Announcement))</em></li>
+<li><a href="https://llm-stats.com/ai-news">AI infrastructure company Accelevation and backer Olympus raise $540M in US IPO</a> <em>(llm-stats.com (Bloomberg))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>OpenAI startet auf der DevDay eigene KI-Agenten namens Dots und verhandelt eine Rekordfinanzierung von dreißig Milliarden Dollar, während das Unternehmen zusammen mit Anthropic die Senatsanhörung in Canberra doch nicht wahrnimmt.</itunes:summary>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-09-30</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-30/2026-09-30.mp3" length="2434238" type="audio/mpeg"/>
+      <itunes:duration>5:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 29. September 2026: AMD kauft World Labs, Bains 6-Billionen-Frage, Papst contra Trump</title>
       <description><![CDATA[<p>AMD greift für 8,2 Milliarden Dollar nach Fei-Fei Lis World Labs, Bain warnt vor einer gewaltigen Ertragslücke im KI-Boom, und Papst Leo widerspricht Donald Trump in Sachen KI-Sicherheit. Außerdem: Nvidia bringt eine neue Sicherheitsplattform für KI-Agenten.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -873,37 +904,6 @@
       <guid isPermaLink="false">ai-2026-08-27</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-27/2026-08-27.mp3" length="2479795" type="audio/mpeg"/>
       <itunes:duration>5:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 26. August 2026: Nvidia-Chip-Details, KI-Kosten-Debatte, Anthropic-IPO-Check</title>
-      <description><![CDATA[<p>Nvidia zeigt neue Chip-Details für Agenten-KI, Unternehmen kämpfen mit steigenden KI-Kosten, und wir machen den Faktencheck zum Stand der Anthropic-Börsenpläne.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://aiweekly.co/ai-news-today">Nvidia details 88-core Vera CPU design at Hot Chips 2026</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Nvidia's Groq 3 LPX inference accelerator enters full production for Vera Rubin platform</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Coddy Developer Survey: 80 Prozent der Entwickler empfinden KI-Coding-Tools als Abhängigkeit</a> <em>(aiweekly.co (via ZDNet))</em></li>
-<li><a href="https://decodethefuture.org/en/anthropic-s1-ipo-filing-explained/">Anthropic IPO status: draft S-1 still confidential, no public filing yet</a> <em>(decodethefuture.org)</em></li>
-<li><a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">Anthropic IPO filing will show AI backlash as a risk factor, sources say</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Unternehmen klagen über hohe KI-Kosten, KI-Router-Markt wächst</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://ch.marketscreener.com/boerse-nachrichten/ehemaliger-meta-manager-zuckerberg-stellte-wachstum-ueber-die-sicherheit-von-kindern-ce7859d2dd8ef221">Meta-Kindersicherheitsprozess: Zuckerberg-Aussage weiterhin ausstehend</a> <em>(handelsblatt.com / vorherige Berichterstattung)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Nvidia zeigt neue Chip-Details für Agenten-KI, Unternehmen kämpfen mit steigenden KI-Kosten, und wir machen den Faktencheck zum Stand der Anthropic-Börsenpläne.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://aiweekly.co/ai-news-today">Nvidia details 88-core Vera CPU design at Hot Chips 2026</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Nvidia's Groq 3 LPX inference accelerator enters full production for Vera Rubin platform</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Coddy Developer Survey: 80 Prozent der Entwickler empfinden KI-Coding-Tools als Abhängigkeit</a> <em>(aiweekly.co (via ZDNet))</em></li>
-<li><a href="https://decodethefuture.org/en/anthropic-s1-ipo-filing-explained/">Anthropic IPO status: draft S-1 still confidential, no public filing yet</a> <em>(decodethefuture.org)</em></li>
-<li><a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">Anthropic IPO filing will show AI backlash as a risk factor, sources say</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.handelsblatt.com/themen/kuenstliche-intelligenz">Unternehmen klagen über hohe KI-Kosten, KI-Router-Markt wächst</a> <em>(handelsblatt.com)</em></li>
-<li><a href="https://ch.marketscreener.com/boerse-nachrichten/ehemaliger-meta-manager-zuckerberg-stellte-wachstum-ueber-die-sicherheit-von-kindern-ce7859d2dd8ef221">Meta-Kindersicherheitsprozess: Zuckerberg-Aussage weiterhin ausstehend</a> <em>(handelsblatt.com / vorherige Berichterstattung)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Nvidia zeigt neue Chip-Details für Agenten-KI, Unternehmen kämpfen mit steigenden KI-Kosten, und wir machen den Faktencheck zum Stand der Anthropic-Börsenpläne.</itunes:summary>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-08-26</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-08-26/2026-08-26.mp3" length="2966509" type="audio/mpeg"/>
-      <itunes:duration>6:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
