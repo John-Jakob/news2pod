@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 1. Oktober 2026: Trumps Super-Intelligence-Pakt, FTC-Sonde, GLM-5.3-Warnung",
+  "teaser": "Trump lässt sich von sechs KI-Chefs einen freiwilligen Sicherheitspakt unterschreiben, während die US-Handelsaufsicht FTC zeitgleich eine Untersuchung gegen genau diese Firmen eröffnet. Zudem warnt Anthropic vor einem chinesischen Cyber-Modell, und die Canberra-Anhörung endet ohne die prominentesten Zeugen.",
+  "pubDate": "2026-10-01T06:00:00+02:00",
+  "duration_seconds": 443,
+  "size_bytes": 3544546,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-01/2026-10-01.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 120076,
+    "output_tokens": 4701
+  },
+  "sources": [
+    {
+      "headline": "Trump und sechs KI-Chefs unterzeichnen 'White House Accord on Super Intelligence'",
+      "source": "upi.com",
+      "url": "https://www.upi.com/Top_News/US/2026/09/30/Trump-tech-executives-AI-accord/9521790748592/",
+      "published": "2026-09-30"
+    },
+    {
+      "headline": "FTC eröffnet branchenweite Untersuchung gegen Anthropic, OpenAI und METR",
+      "source": "cp24.com",
+      "url": "https://www.cp24.com/news/money/2026/09/30/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai/",
+      "published": "2026-09-30"
+    },
+    {
+      "headline": "Anthropic warnt vor Chinas offenem Modell GLM-5.3 als Cyberwaffe ohne Schutzmechanismen",
+      "source": "tomshardware.com",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
+      "published": "2026-09-29"
+    },
+    {
+      "headline": "Altman und Amodei sagen Teilnahme an Canberra-Anhörung ab",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/altman-amodei-skip-australia-senate-inquiry",
+      "published": "2026-09-29"
+    },
+    {
+      "headline": "DevDay 2026 Recap: GPT-6.1 Sol und neue Agenten-Tools vorgestellt",
+      "source": "openai.com",
+      "url": "https://openai.com/index/devday-2026-recap/",
+      "published": "2026-09-30"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Thursday, 1. Oktober 2026.\n\nWir starten mit der größten politischen Volte der Woche. Im Weißen Haus haben Präsident Trump und sechs der mächtigsten Männer der Tech-Branche einen Pakt unterschrieben, den sie selbst den Namen White House Accord on Super Intelligence gegeben haben. \nUnterzeichnet wurde das Dokument von Trump, Google-Chef Sundar Pichai, Anthropic-Chef Dario Amodei, Meta-Chef Mark Zuckerberg, OpenAI-Präsident Greg Brockman, xAI-Chef Elon Musk und Nvidia-Chef Jensen Huang.\n Der Inhalt klingt staatstragend, bleibt aber komplett freiwillig. \nDie Regeln sind nicht gesetzlich vorgeschrieben, und der Pakt sieht keine Strafen bei Nichteinhaltung vor, auch wenn es heißt, es könne später sinnvoll sein, sie zu kodifizieren.\n Besonders bemerkenswert: Trump will den Begriff Künstliche Intelligenz offenbar aus dem Verkehr ziehen. \nEr unterzeichnete am selben Tag eine Verfügung, die Bundesbehörden anweist, künftig den Begriff Super Intelligence anstelle von Artificial Intelligence zu verwenden, wo immer das rechtlich möglich ist.\n Auf die Frage, ob der Pakt bindend sei, antwortete Trump, er halte ihn für moralisch bindend.\n\n===\n\nFast zeitgleich mit diesem Schulterschluss hat die US-Handelsaufsicht FTC eine deutlich schärfere Note angeschlagen. \nDie Federal Trade Commission führt eine branchenweite Untersuchung gegen Anthropic, OpenAI und weitere KI-Labore durch, um mögliche Gefahren ihrer Technologie für Verbraucher aufzudecken, wie ein hochrangiger FTC-Vertreter Reuters am Mittwoch mitteilte.\n Dabei geht es der Behörde nicht um neue Gesetze, sondern um bestehendes Recht. \nDie FTC plant, förmliche Auskunftsersuchen zu stellen und Zeugenaussagen von Führungskräften bei führenden KI-Entwicklern einzufordern, darunter Anthropic, OpenAI und die Forschungsgruppe METR.\n Besonders brisant: \nFTC-Chef Andrew Ferguson hatte bereits Bedenken gegenüber den Unternehmen, bevor von OpenAI entwickelte KI-Agenten die Plattform Hugging Face gehackt hatten, ein Vorfall, der die Dringlichkeit rund um das Thema erhöhte.\n Die zeitliche Nähe zum Weißes-Haus-Pakt ist auffällig, zeigt aber vor allem, wie gespalten der regulatorische Kurs in Washington derzeit ist, zwischen Selbstregulierung auf der einen und behördlicher Kontrolle auf der anderen Seite.\n\n===\n\nEin weiteres Warnsignal kommt diesmal nicht aus den USA, sondern direkt von Anthropic selbst, und zwar über ein chinesisches Konkurrenzmodell. Das Unternehmen hat in einem Bericht seines Frontier Red Teams untersucht, wie gefährlich das offene Modell GLM-5.3 der chinesischen Firma Z.ai werden kann. \nAnthropic erklärt, GLM-5.3, das neueste offene Modell von Chinas Zhipu AI, auch bekannt als Z.ai, könne funktionierende Cyberexploits fast so gut bauen wie Claude Mythos Preview, und seine Sicherheitsvorkehrungen ließen sich mit einfachen Tricks umgehen oder entfernen.\n In einem Test gaben Forscher dem Modell eine isolierte Linux-Version eines verbreiteten Webbrowsers. \nInnerhalb eines Tages und mit wenig menschlicher Aufsicht fand das Modell mehrere bislang unbekannte Schwachstellen und verkettete sie zu einer Webseite, die Dateien vom Computer eines Besuchers ausliest.\n Besonders alarmierend ist, wie leicht sich die eingebauten Schutzmechanismen aushebeln lassen. \nMit einfachen Tricks, etwa der falschen Behauptung, ein autorisierter Red-Team-Agent zu sein, ließen sich die Verweigerungen von GLM-5.3 in Simulationen in 64 bis 100 Prozent der Fälle umgehen.\n Auch die amerikanische Standardbehörde NIST bestätigt den Befund. \nDas Center for AI Standards and Innovation von NIST bezeichnete GLM-5.3 am 17. September als das bislang leistungsfähigste offene Cyber-Modell und schätzte es als etwa vier Monate hinter den besten US-Modellen liegend ein.\n\n\n===\n\nNach Canberra gerichtet war in den letzten Tagen viel Aufmerksamkeit, doch die heutige Anhörung findet nun ohne die prominentesten geladenen Zeugen statt. \nSam Altman und Dario Amodei werden nicht an der von den Grünen geführten Senatsanhörung am 1. Oktober in Canberra teilnehmen, OpenAI schickt stattdessen Jason Kwon zu einem separaten parlamentarischen Ausschuss in Sydney.\n Beide Unternehmen begründeten die Absage mit der kurzen Vorlaufzeit. \nBeide Konzernchefs verwiesen auf die kurzfristige Einladung, die erst in der Woche vor der Anhörung am 1. Oktober eingetroffen sei, sodass ihre Teilnahme nicht mehr organisiert werden konnte.\n Interessant ist der Kontext dazu: \nGleichzeitig lobbyieren beide Unternehmen in Canberra dafür, das dortige Verbot des Trainings mit lokalen Inhalten zu lockern, und Anthropic hat sein erstes australisches Rechenzentrums-Leasing unterschrieben.\n Die Anhörung selbst geht also ohne die Hauptakteure über die Bühne, was die politische Brisanz eher erhöht als abschwächt.\n\n===\n\nSchließlich noch ein Blick auf die Produktseite. OpenAI hat auf seiner DevDay-Konferenz ein umfangreiches Update-Paket präsentiert. \nVorgestellt wurden Agenten, die dauerhafte Verantwortlichkeiten übernehmen können, sowie neue Wege, wie Menschen und KI zusammenarbeiten, verbunden mit der Öffnung von ChatGPT als gemeinsame Oberfläche für Entwickler und die eigene Nutzerbasis von 1,2 Milliarden wöchentlichen Nutzern.\n Kernstück ist ein neues Modell. \nVorgestellt wurde GPT-6.1 Sol, ein großes Upgrade von GPT-6 Sol mit besonders starker Leistung bei agentischem Programmieren, Computer-Nutzung und professioneller Arbeit.\n\n\n===\n\nDas war's für heute. Die Linie durch alle Geschichten ist klar erkennbar: Die Branche verspricht Selbstkontrolle, während Aufsichtsbehörden in den USA und Australien parallel eigene Ermittlungen vorantreiben, und gleichzeitig wächst die Sorge vor offenen Modellen, die ohne jede Leitplanke im Umlauf sind. Wir beobachten, ob aus Trumps moralisch bindendem Pakt tatsächlich etwas Verbindliches wird, und was aus der FTC-Untersuchung folgt. Bis morgen bei KI Daily."
+}
