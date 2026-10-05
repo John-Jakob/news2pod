@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 5. Oktober 2026: Trumps Super Intelligence Force, OpenAI-Sicherheitschef wirft hin",
+  "teaser": "Der Wochenend-Rückblick: Trump ernennt einen KI-Zaren fürs Weiße Haus, ein weiterer OpenAI-Sicherheitschef verlässt das Unternehmen mit einer scharfen Abrechnung, und Meta lässt KI an echten, offenen Mathematikproblemen mitforschen.",
+  "pubDate": "2026-10-05T06:00:00+02:00",
+  "duration_seconds": 346,
+  "size_bytes": 2769023,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-05/2026-10-05.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 180403,
+    "output_tokens": 6995
+  },
+  "sources": [
+    {
+      "headline": "Trump launches Super Intelligence Force with Jay Clayton as AI czar",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-force-with-jay-clayton-as-ai-czar/",
+      "published": "2026-10-04"
+    },
+    {
+      "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "published": "2026-10-03"
+    },
+    {
+      "headline": "Trump announces formation of AI 'Super Intelligence Force'",
+      "source": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/",
+      "published": "2026-10-04"
+    },
+    {
+      "headline": "Trump Announces New AI Leadership For 'Super Intelligence Force'",
+      "source": "dailycaller.com",
+      "url": "https://dailycaller.com/2026/10/04/trump-super-intelligence-force-jay-clayton/",
+      "published": "2026-10-04"
+    },
+    {
+      "headline": "OpenAI safety employee resigns, claiming the company's 'culture is broken'",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "published": "2026-10-03"
+    },
+    {
+      "headline": "OpenAI Safety Lead Resigns, Calls Company Culture 'Broken'",
+      "source": "kucoin.com",
+      "url": "https://www.kucoin.com/news/flash/openai-safety-lead-resigns-calls-company-culture-broken",
+      "published": "2026-10-04"
+    },
+    {
+      "headline": "Solving Open Research Problems Together",
+      "source": "research.meta.ai",
+      "url": "https://research.meta.ai/blog/solving-open-research-problems-together",
+      "published": "2026-10-02"
+    },
+    {
+      "headline": "Meta's Muse Spark Helped Mathematicians Solve Five Open Research Problems",
+      "source": "alphasignal.ai",
+      "url": "https://alphasignal.ai/news/meta-s-muse-spark-helped-mathematicians-solve-five-open-research-problems",
+      "published": "2026-10-03"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Montag, den 5. Oktober 2026. Da heute die erste Ausgabe nach dem Wochenende ist, blicken wir zurück auf die wichtigsten Entwicklungen von Samstag und Sonntag in der Welt der künstlichen Intelligenz. Drei Geschichten haben das Wochenende dominiert, und wir ordnen sie für dich ein.\n\n===\n\nBeginnen wir in Washington. Am Sonntag hat Donald Trump per Truth-Social-Post die Gründung einer neuen Behörde verkündet, der sogenannten Super Intelligence Force, kurz SIF. An der Spitze steht Geheimdienstdirektor Jay Clayton, der damit offiziell zum neuen KI-Zaren der Regierung wird. Der Auftrag der Gruppe: die Beziehungen der Bundesregierung zu Verbrauchern, Interessengruppen, religiösen Organisationen, Betreibern kritischer Infrastruktur und den großen KI-Konzernen zu koordinieren. Clayton erhält hundertzwanzig Tage Zeit, um einen Bericht über Chancen und Risiken der Technologie vorzulegen und Empfehlungen für die künftige Rolle des Staates zu entwickeln. Mit an Bord sind FTC-Chef Andrew Ferguson, der stellvertretende Verteidigungsminister für Forschung Emil Michael sowie der Leiter der Personalbehörde, Scott Kupor. Clayton hatte zuvor in einem Interview deutlich gemacht, dass er von einer Entwicklungspause nichts hält. Das Risiko, nicht die Ersten zu sein, sei hoch, sagte er dem Wall Street Journal. Die Initiative folgt auf den freiwilligen Sicherheits-Pakt, den sechs Technologiekonzerne vor wenigen Tagen im Weißen Haus unterzeichnet hatten, und auf Trumps Vorliebe, künstliche Intelligenz offiziell als Super Intelligence zu bezeichnen.\n\n===\n\nUpdate zur OpenAI-Forscher-Rebellion, über die wir bereits berichtet hatten. Am Samstag hat ein weiterer prominenter Sicherheitsmitarbeiter das Unternehmen verlassen: David Robinson, der gut dreieinhalb Jahre bei OpenAI tätig war und die Sicherheitsberichte zu zwölf großen Modell-Veröffentlichungen verantwortete. In einem Essay im Magazin The Atlantic mit dem Titel „I Quit OpenAI Because Its Culture Is Broken\" schreibt Robinson, die Unternehmenskultur sei kaputt. Er habe am aktuellen Preparedness Framework mitgearbeitet, jenem Regelwerk, das festlegt, wann ein Modell zu gefährlich für eine Veröffentlichung ohne zusätzliche Schutzmaßnahmen ist. Sein zentraler Vorwurf: Das Prinzip von Versuch und Irrtum, mit dem OpenAI bislang immer leistungsfähigere Systeme veröffentlicht, beobachtet und nachbessert, tauge nicht mehr für die aktuelle Risikostufe. Er fordert, Sicherheitsarbeit in der Branche müsse eher wie bei Atomkraftwerken oder in der Luftfahrt organisiert werden, mit mehrfacher Absicherung und sorgfältiger Planung. Sein Abgang folgt nur wenige Tage, nachdem OpenAI drei weitere Sicherheitsmitarbeiter wegen des Umgangs mit vertraulichen Informationen entlassen hatte. OpenAI selbst erklärte, man erweitere die Fähigkeiten der eigenen Modelle nicht über das hinaus, was sicher kontrollierbar sei, und verstärke externe Prüfungen sowie Echtzeit-Überwachung.\n\n===\n\nEine deutlich positivere Geschichte kommt von Meta. Der Konzern hat am Freitag sechs mathematische Forschungsarbeiten veröffentlicht, die gemeinsam von externen Mathematikern und dem hauseigenen Modell Muse Spark in den Versionen eins eins und eins zwei verfasst wurden. Fünf der sechs Arbeiten beantworten Fragen, die in ihren jeweiligen Teilgebieten bislang offen waren, darunter Probleme aus der Wahrscheinlichkeitstheorie, der Gruppentheorie, der Optimierung und der nicht-assoziativen Algebra. Bemerkenswert ist der methodische Ansatz: Die Mathematiker arbeiteten nicht mit einem speziell für Forschung zugeschnittenen System, sondern über die ganz normale Chat-Oberfläche von Meta.ai im sogenannten Thinking Mode, ohne zusätzliches Forschungsgerüst. Jede Arbeit kennzeichnet transparent, welche Passagen von Menschen und welche vom Modell stammen. Vorausgegangen war dem Projekt, dass Metas Modelle zuvor Goldmedaillen-Niveau bei fünf Schul-Olympiaden in Mathematik, Physik und Chemie erreicht hatten. Der Unterschied zu offenen Forschungsproblemen ist allerdings entscheidend: Bei Olympiade-Aufgaben existiert immer eine bekannte Lösung, bei echten offenen Problemen dagegen nicht. Das Experiment gilt deshalb als einer der bislang konkretesten Belege dafür, dass aktuelle Sprachmodelle tatsächlich an der Front der Forschung mitarbeiten können, auch wenn einzelne Ergebnisse teilweise parallel von menschlichen Forschergruppen erzielt wurden.\n\n===\n\nDas war dein Wochenend-Rückblick für den fünften Oktober. Drei Linien zeichnen sich für die kommende Woche ab: Wie die neue Super Intelligence Force in Washington arbeiten wird, ob OpenAI auf die wachsende Zahl kritischer Stimmen aus den eigenen Reihen reagiert, und ob Metas Muse Spark künftig öfter als Co-Autor in der Forschung auftaucht. Wir bleiben dran und melden uns morgen wieder mit den wichtigsten Entwicklungen. Bis dahin, einen guten Start in die Woche."
+}
