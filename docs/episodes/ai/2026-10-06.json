@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 6. Oktober 2026: KI-Konzerne vor Gericht, Streit um Risiko",
+  "teaser": "Erstmals sagen Spitzenvertreter von OpenAI, Anthropic, Google und Meta unter Eid vor einem Stadtparlament aus. Dazu: Sam Altmans umstrittene Aussage über akzeptable Risiken, ein Milliarden-Deal für KI-Rechenzentren in Japan und ein bayerischer KI-Gipfel.",
+  "pubDate": "2026-10-06T06:00:00+02:00",
+  "duration_seconds": 402,
+  "size_bytes": 3222927,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-06/2026-10-06.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 121678,
+    "output_tokens": 4916
+  },
+  "sources": [
+    {
+      "headline": "Anthropic, OpenAI, Google, Meta execs testify NYC Council AI hearing",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "published": "2026-10-05"
+    },
+    {
+      "headline": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
+      "source": "abcnews.com",
+      "url": "https://abcnews.com/Technology/wireStory/ai-industry-insiders-voice-alarms-nyc-council-local-137012480",
+      "published": "2026-10-05"
+    },
+    {
+      "headline": "Sam Altman tells Politico the world 'should accept some harm from AI'",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/sam-altman-ai-risks-politico-anthropic",
+      "published": "2026-10-05"
+    },
+    {
+      "headline": "In NYC, Mamdani cedes AI regulation lane",
+      "source": "yahoo.com (Politico)",
+      "url": "https://www.yahoo.com/news/politics/articles/nyc-mamdani-cedes-ai-regulation-230756704.html",
+      "published": "2026-10-05"
+    },
+    {
+      "headline": "AI News Today, October 4: Bessent brands AI doom warnings 'alarmism without solutions'",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-10-04"
+    },
+    {
+      "headline": "Why AI Researchers Are Leaving OpenAI, Anthropic and Google DeepMind",
+      "source": "winbuzzer.com",
+      "url": "https://winbuzzer.com/2026/10/05/why-ai-researchers-left-openai-anthropic-and-google-deepmind-xcxwbn/",
+      "published": "2026-10-05"
+    },
+    {
+      "headline": "Japan eyes $140bn AI data centre push with Dell and JERA, FT reports",
+      "source": "thenextweb.com (FT)",
+      "url": "https://thenextweb.com/news/japan-140bn-ai-data-centre-dell-jera",
+      "published": "2026-10-01/02"
+    },
+    {
+      "headline": "Bayerns Digitalminister lädt zum KI-Gipfel",
+      "source": "egovernment.de",
+      "url": "https://egovernment.de/bayerns-digitalminister-laedt-zum-ki-gipfel-a-cea6489f8445e5be927a40b59b00c8d4",
+      "published": "2026-10-05"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Dienstag, 6. Oktober 2026.\n\n===\n\nDie größte Geschichte der letzten vierundzwanzig Stunden kommt aus New York. Dort mussten sich führende Vertreter von OpenAI, Anthropic, Google und Meta erstmals in der Geschichte der Branche unter Eid vor einem gewählten Stadtparlament den Fragen von Abgeordneten stellen. \nSenior leaders from Anthropic, OpenAI, Google und Meta testifizierten am Montag vor dem New Yorker Stadtrat über die Gefahren künstlicher Intelligenz, wobei ein Zeuge warnte, die Menschheit könne die Kontrolle über die Technologie vollständig verlieren.\n Alle vier Unternehmen erschienen dabei nicht freiwillig. \nSie stimmten der Anhörung erst zu, nachdem der Rat mit Vorladungen gedroht hatte, Meta hatte schon im Vormonat ohne Druck zugesagt, während Anthropic, OpenAI und Google erst am Wochenende vom 27. auf den 28. September einlenkten.\n Besonders eindringlich äußerte sich der frühere Anthropic-Mitarbeiter Jacob Coxon. \nEr eröffnete seine Ausführungen mit scharfer Kritik am aus seiner Sicht extrem rücksichtslosen Ansatz der Branche beim Bau fortgeschrittener KI-Systeme.\n Auch ein ehemaliger Google-DeepMind-Forscher meldete sich zu Wort. \nAlex Turner warnte, fehlgeleitete KI könne eines Tages eine größere Bedrohung darstellen als China.\n Google selbst forderte unterdessen klare staatliche Vorgaben. \nAlice Friend, Googles Direktorin für KI- und Technologiepolitik, rief zu einem umfassenden Bundesrahmen für den Umgang mit KI-Risiken auf und verwies dabei auf Fragen der nationalen Sicherheit.\n\n\n===\n\nZeitgleich sorgte eine Aussage von OpenAI-Chef Sam Altman für Aufsehen. In einem Interview mit dem neuen Politico-Format Decoded erklärte er, die Vorteile von KI rechtfertigten gewisse Schäden. \nWörtlich sagte er, man glaube, dass die Welt einige schlechte Dinge in Kauf nehmen müsse, um von den Vorteilen dieser Technologie und der Handlungsfähigkeit der Menschen zu profitieren.\n Altman betonte zudem, zwischen OpenAI und Anthropic bestehe weiterhin eine grundlegende Differenz in der Frage der Regulierung. \nEr sagte, OpenAI und Anthropic unterschieden sich noch erheblich in Fragen der KI-Regeln, manche Menschen hielten KI für so gefährlich, dass ein einziges Labor sie kontrollieren und die Gewinne verteilen sollte, eine Haltung, die er zwar nachvollziehen, aber nicht teilen könne.\n Die Aussage kam ausgerechnet kurz vor der New Yorker Anhörung und sorgte dort für Verstimmung. \nRatspräsidentin Julie Menin sagte CNN, Altmans Kommentare seien nicht akzeptabel, die Vorstellung, die Gesellschaft solle dieses Risiko für den Nutzen der KI tragen, könne sie nicht mittragen.\n\n\n===\n\nAuch aus der US-Regierung kam ein deutliches Signal in die entgegengesetzte Richtung. US-Finanzminister Scott Bessent bezeichnete Warnungen vor einer außer Kontrolle geratenden KI als wenig hilfreich. \nGegenüber Axios nannte er Warnungen von Anthropic-Chef Amodei, OpenAI-Chef Altman und xAI-Chef Musk vor einer zu schnellen KI-Entwicklung Alarmismus ohne Lösungen und machte stattdessen die Labore selbst für das Risikomanagement verantwortlich, während er neue Bundesregeln weiterhin ablehnte.\n\n\n===\n\nHinter den Kulissen zeigt sich derweil eine wachsende Fluchtbewegung aus den großen KI-Laboren. Acht ehemalige Mitarbeiter von OpenAI, Anthropic und Google DeepMind haben öffentlich erklärt, warum sie ihre Unternehmen verlassen haben. \nSie beschreiben, dass sie wegen des Wettrüstens in der Branche, militärischer Nutzungsmöglichkeiten und nicht mehr verfolgbarer Forschung gegangen seien, und berichten von größerer Freiheit, offen zu sprechen oder eigene Forschungsthemen zu wählen.\n Der frühere OpenAI-Politikchef Miles Brundage hat inzwischen sogar eine eigene Organisation gegründet. \nMit AVERI will er KI-Unternehmen anhand ihrer Prozesse und Sicherheitsbewertungen prüfen.\n\n\n===\n\nAbseits der Sicherheitsdebatte macht die Branche auch industriell weiter Tempo. In Japan haben Dell, der Energiekonzern Jera und der britische Infrastrukturentwickler Rhaelm ein gewaltiges Investitionsprogramm angekündigt. \nSie unterzeichneten eine Vereinbarung für ein 400-Megawatt-Rechenzentrum nahe Tokio im Wert von über fünfzehn Milliarden Dollar, finanziert von der Beteiligungsgesellschaft Apollo, wobei das Finanzministerium Financial Times berichtet, dass der breitere Ausbau bis zu hundertvierzig Milliarden Dollar erreichen könnte.\n Besonders bemerkenswert ist das Energiekonzept dahinter. \nDas Rechenzentrum bezieht seinen Strom direkt vom angeschlossenen Gaskraftwerk, statt jahrelang auf einen Netzanschluss zu warten.\n\n\n===\n\nAuch in Deutschland tut sich etwas, wenn auch leiser. In München lud das bayerische Digitalministerium zu einem nicht öffentlichen KI-Gipfel. \nDigitalminister Fabian Mehring brachte dabei internationale KI-Unternehmen mit Vertretern aus Wissenschaft, Ethikrat und Kirche zusammen, im Fokus standen Fortschritte bei Frontier-Modellen und agentischer KI sowie die Frage, welche politischen und technischen Leitplanken leistungsfähige KI künftig braucht.\n\n\n===\n\nDas war dein KI Daily-Briefing. Die Auseinandersetzung zwischen den großen Laboren, der Politik und den eigenen ehemaligen Mitarbeitern dürfte sich in den kommenden Tagen weiter zuspitzen, besonders mit Blick auf mögliche neue Vorgaben in New York und Washington. Wir bleiben dran und melden uns morgen wieder. Bis dann."
+}
