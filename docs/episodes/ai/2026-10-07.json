@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 7. Oktober 2026: Whistleblower, Watermark und Milliarden für DeepSeek",
+  "teaser": "Update zur NYC-Anhörung: KI-Konzerne verweigern Sicherheitsgarantien. Außerdem: Mistral kontert China mit \"Le Chonk\", OpenAI markiert ChatGPT-Texte in der EU, und DeepSeek steuert auf eine Rekordfinanzierung zu.",
+  "pubDate": "2026-10-07T06:00:00+02:00",
+  "duration_seconds": 327,
+  "size_bytes": 2617304,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-07/2026-10-07.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 126756,
+    "output_tokens": 4198
+  },
+  "sources": [
+    {
+      "headline": "Anthropic, OpenAI, Google, Meta execs testify at NYC Council AI hearing – Insider warnt vor Kontrollverlust",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "published": "2026-10-05"
+    },
+    {
+      "headline": "AI companies stop short of guaranteeing agents will always obey safeguards",
+      "source": "foxnews.com",
+      "url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
+      "published": "2026-10-06"
+    },
+    {
+      "headline": "Mistral's new 1T model aims to leapfrog closed and open rivals",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "published": "2026-10-06"
+    },
+    {
+      "headline": "Mistral CEO says new AI model beats Chinese ones in some areas",
+      "source": "reuters.com (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mistral-ceo-says-ai-model-082826309.html",
+      "published": "2026-10-06"
+    },
+    {
+      "headline": "DeepSeek nears $12 billion funding as investors bet big on AI",
+      "source": "nairametrics.com (Bloomberg)",
+      "url": "https://nairametrics.com/2026/10/06/deepseek-nears-12-billion-funding-as-investors-bet-big-on-ai/",
+      "published": "2026-10-06"
+    },
+    {
+      "headline": "OpenAI will start watermarking ChatGPT's text in the EU",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "published": "2026-10-05"
+    },
+    {
+      "headline": "New Western Models Challenge China's Open-Source AI Supremacy (Reflection Beam)",
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/the-prompt/2026/10/06/new-western-models-challenge-chinas-open-source-ai-supremacy/",
+      "published": "2026-10-06"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Mittwoch, den 7. Oktober 2026.\n\n===\n\nEin Update zur Anhörung vor dem New Yorker Stadtrat, über die wir gestern berichtet haben. Vertreter von OpenAI, Anthropic, Google und Meta haben sich am Montag erneut geäußert, diesmal mit einem bemerkenswerten Eingeständnis. Die Unternehmen wollten nicht garantieren, dass ihre KI-Agenten jederzeit Sicherheitsvorgaben befolgen. Sie erklärten den Stadträten, perfekte Sicherheit oder null Risiko seien schlicht nicht realistisch. Besonders eindringlich war die Aussage des ehemaligen Anthropic-Mitarbeiters Jacob Coxon. Er sagte vor vollem Haus, es sei wahrscheinlicher als nicht, dass die Menschheit die Kontrolle über diese Systeme verliert, und das könne im schlimmsten Fall in der Auslöschung der Menschheit enden. Parallel dazu kündigte Anthropic an, den Zugang zu den fortgeschrittenen Cybersicherheits-Fähigkeiten von Claude für geprüfte Sicherheitsexperten auszuweiten, über ein gestuftes Programm für Verteidigung, autorisierte Penetrationstests und besonders sensible Bereiche wie Stromnetze und Flugbetrieb. Google-DeepMind-Managerin Lila Ibrahim sagte dem Sender CNBC, sie glaube weiterhin, dass der Nutzen von KI die Risiken überwiegen werde.\n\n===\n\nAus Frankreich kommt die nächste große Modell-Ankündigung. Mistral hat sein neues Flaggschiff vorgestellt, Mistral Large 4, intern auch Le Chonk genannt. Das Modell hat eine Billion Parameter, wurde auf viertausend Nvidia-Grace-Blackwell-Chips trainiert und soll laut Firmenangaben vor allem in Cybersicherheit, Programmierung, Fertigung und Finanzanwendungen stark sein. Firmenchef Arthur Mensch sagte auf einer Konferenz in Abu Dhabi, das neue Modell übertreffe chinesische Systeme in bestimmten Bereichen, etwa bei Cybersicherheit, und widerlege damit die Erzählung, Europa könne im KI-Wettlauf nicht mithalten. Mistral positioniert sich damit explizit als dritter Weg zwischen den geschlossenen US-Modellen und den offenen chinesischen Systemen, die zuletzt weltweit an Verbreitung gewonnen haben. Eine Preview ist bereits für Entwickler verfügbar, der volle Marktstart ist für Ende Oktober geplant. In dieselbe Kerbe schlägt übrigens das Brooklyn-Start-up Reflection, das mit seinem offenen Modell namens Beam ebenfalls versucht, chinesischen Systemen bei niedrigeren Rechenkosten Konkurrenz zu machen.\n\n===\n\nWährend der Westen aufholen will, wächst auch die chinesische Konkurrenz weiter. DeepSeek steht kurz vor einer gewaltigen Finanzierungsrunde. Laut Bloomberg-Berichten nähert sich das Volumen inzwischen zwölf Milliarden Dollar, mit der Möglichkeit, dass es sogar auf fünfzehn Milliarden Dollar anwächst. Ursprünglich hatte DeepSeek nur rund siebeneinhalb Milliarden Dollar angepeilt, doch das Interesse großer Investoren wie Tencent und des Batteriekonzerns CATL übertraf die Erwartungen deutlich, nachdem das neue Modell V4 Flash für Aufsehen gesorgt hatte. Die Runde soll das Unternehmen auf eine Bewertung von mindestens fünfundsiebzig Milliarden Dollar heben und dient als Vorbereitung auf einen möglichen Börsengang in Shanghai im Jahr 2027.\n\n===\n\nUnd dann ist da noch ein regulatorisches Thema aus Brüssel. OpenAI hat angekündigt, Texte von ChatGPT und Codex in der Europäischen Union künftig unsichtbar zu markieren, um die Transparenzpflichten des EU-KI-Gesetzes zu erfüllen, die seit August in Kraft sind. Die Technik heißt textGrain und verändert subtil die Wortwahl des Modells, sodass ein Muster entsteht, das nur mit einem speziellen Erkennungswerkzeug sichtbar wird. OpenAI betont, die Markierung verrate weder Nutzerkonto noch Eingabetext. Allerdings räumt das Unternehmen selbst ein, dass einfache Synonym-Ersetzungen die Erkennungsrate deutlich senken können, bei einem Viertel ausgetauschter Wörter sinkt sie in Tests von über neunzig auf gerade einmal siebzehn Prozent. Bemerkenswert ist zudem, dass die Markierung vorerst nur in der EU greift, während Google bei Gemini und Anthropic bei Claude ihre Texte bereits weltweit kennzeichnen.\n\n===\n\nDas war dein KI Daily für heute. Die Debatte um Sicherheit, Kontrolle und Regulierung bleibt also das bestimmende Thema der Branche, während gleichzeitig der Wettlauf um die leistungsfähigsten offenen Modelle zwischen Europa, den USA und China an Tempo gewinnt. Wir behalten das für dich im Blick. Bis morgen."
+}
