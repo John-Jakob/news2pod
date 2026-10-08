@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 8. Oktober 2026: Mathe-Durchbruch, Blasen-Warnung, Milliarden",
+  "teaser": "OpenAI überrascht die Mathe-Welt mit hunderten gelösten Problemen, Ray Dalio warnt vor einer platzenden KI-Blase, und eine neue Umfrage zeigt: Amerikaner trauen Washington beim Thema KI nicht. Außerdem: Milliarden für den KI-Cloud-Anbieter Lambda.",
+  "pubDate": "2026-10-08T06:00:00+02:00",
+  "duration_seconds": 400,
+  "size_bytes": 3204955,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-08/2026-10-08.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 121154,
+    "output_tokens": 4720
+  },
+  "sources": [
+    {
+      "headline": "OpenAI veröffentlicht 722 Mathe-Manuskripte, behauptet Fortschritt bei der Riemannschen Vermutung",
+      "source": "biggo.com",
+      "url": "https://finance.biggo.com/news/1d522643-5fd9-4ac5-ae86-e4a5b99edfe2",
+      "published": "2026-10-07"
+    },
+    {
+      "headline": "Most US Voters Say Trump, Congress Don't Take AI Risks Seriously, Reuters/Ipsos Poll Finds",
+      "source": "usnews.com (Reuters)",
+      "url": "https://www.usnews.com/news/politics/articles/2026-10-07/most-us-voters-say-trump-congress-dont-take-ai-risks-seriously-reuters-ipsos-poll-finds",
+      "published": "2026-10-07"
+    },
+    {
+      "headline": "Dalio Says We're Nearing Point Where AI Bubble May Burst",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/ray-dalio-warns-ai-bubble-is-approaching-burst-point",
+      "published": "2026-10-07"
+    },
+    {
+      "headline": "Lambda is raising up to $4B ahead of a planned 2027 IPO",
+      "source": "runtimewire.com (via WSJ)",
+      "url": "https://runtimewire.com/article/lambda-raising-4-billion-pre-ipo-round",
+      "published": "2026-10-06"
+    },
+    {
+      "headline": "Anthropic merges Glasswing into tiered Cyber Verification Program",
+      "source": "foxnews.com",
+      "url": "https://foxnews.com/live-news/open-ai-anthropic-us-tech-security-october-7",
+      "published": "2026-10-06/07"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Donnerstag, den 8. Oktober 2026.\n\nWir starten heute mit einer Geschichte, die in der Mathe-Welt für ziemliches Aufsehen gesorgt hat. OpenAI hat am Mittwoch über Nacht ein GitHub-Repository mit insgesamt 722 Manuskripten veröffentlicht, die 372 Familien bislang ungelöster mathematischer Probleme abdecken sollen. \nAm 7. Oktober machte OpenAI abrupt ein GitHub-Repository namens \"math\" öffentlich und veröffentlichte 722 mathematische Manuskripte in einem einzigen Batch, die 372 Familien zuvor ungelöster Spitzenprobleme abdecken, kuratiert aus rund 4.000 Problemen, die dem Modell während einer internen Evaluierungsphase gestellt wurden.\n Besonders bemerkenswert: Für die meisten dieser Beweise brauchte das noch unveröffentlichte interne Modell im Schnitt nur drei Stunden Rechenzeit. \nCEO Sam Altman schrieb auf X: \"Wir betreten jetzt eine neue Ära der Entdeckung.\"\n Allerdings gibt es auch Kritik. Fachleute bemängeln, dass die Veröffentlichung nicht den eigenen Transparenz-Regeln entspricht, die eine unabhängige Beratergruppe für den Umgang mit solchen KI-Ergebnissen aufgestellt hatte. Konkret fehlen Angaben zu Prompts, genauen Rechenzeiten pro Ergebnis und dem genauen Modellnamen. Die Reaktionen schwanken daher zwischen Begeisterung über mögliche wissenschaftliche Durchbrüche und Vorsicht, weil die Ergebnisse bislang nicht unabhängig überprüft wurden.\n\n===\n\nWährend OpenAI wissenschaftliche Erfolge feiert, wächst in der amerikanischen Öffentlichkeit das Misstrauen gegenüber der Politik im Umgang mit KI. Eine neue Reuters-Ipsos-Umfrage zeigt, dass die Mehrheit der US-Wähler findet, Regierung und Kongress würden die Risiken der Technologie nicht ernst genug nehmen. \n57 Prozent der registrierten Wähler, darunter ein Drittel der Republikaner, sagten, die Trump-Regierung nehme die Risiken von KI nicht ausreichend oder gar nicht ernst. 54 Prozent sagten dasselbe über den Kongress.\n Die Umfrage unterstreicht damit eine wachsende parteiübergreifende Skepsis gegenüber der Technologie, insbesondere mit Blick auf mögliche Jobverluste.\n\n===\n\nDiese Skepsis bekommt zusätzlichen Rückenwind durch eine prominente Stimme aus der Finanzwelt. Bridgewater-Gründer Ray Dalio warnte bei der Forbes Global CEO Conference in Singapur, die KI-Branche zeige alle Anzeichen einer klassischen Spekulationsblase, die kurz vor dem Platzen stehe. \nDalio sagte einem Publikum in Singapur, künstliche Intelligenz habe alle Merkmale einer \"klassischen Blase\" kurz vor dem Kollaps, wobei Schuldenaufbau und steigende Zinsen die treibenden Kräfte seien, die er sieht.\n Konkret verweist er auf das enorme Volumen an Anleihen, mit denen große Tech-Konzerne ihre KI-Infrastruktur finanzieren. \nAmazon, Microsoft, Alphabet, Meta Platforms und Oracle zusammen verkauften laut Benzinga im ersten Halbjahr 2026 rund 200 Milliarden Dollar an Investment-Grade-Anleihen, fast doppelt so viel wie die fünf Unternehmen zusammen im gesamten Jahr 2025.\n Nach einer Prognose von Morgan Stanley dürfte die weltweite KI-bezogene Schuldenausgabe dieses Jahr fast 570 Milliarden Dollar erreichen, mehr als doppelt so viel wie im Vorjahr.\n\n===\n\nTrotz solcher Warnungen fließt weiterhin viel frisches Kapital in die Branche. Der Nvidia-unterstützte Cloud-Anbieter Lambda verhandelt laut Wall Street Journal über eine Finanzierungsrunde von bis zu vier Milliarden Dollar, die das Unternehmen vor dem geplanten Börsengang 2027 auf 14,5 Milliarden Dollar bewerten würde. \nBlackstone und Coatue Management führen die Runde an, wie das Wall Street Journal berichtet.\n Treiber des Wachstums ist vor allem ein einzelner Großkunde. \nEin Investorenbrief, den das Journal einsehen konnte, zeigt, dass Lambdas Auftragsbestand von 15 Milliarden Dollar im Juni auf 50 Milliarden Dollar im September gestiegen ist, wobei ein Großteil dieses Anstiegs auf eine 35-Milliarden-Dollar-Verpflichtung eines einzigen Unternehmens zurückzuführen ist: Anthropic.\n Das zeigt, wie stark die boomende Cloud-Infrastruktur inzwischen von wenigen Großverträgen der führenden KI-Labore abhängt.\n\n===\n\nUnd auch bei Anthropic selbst gibt es Neuigkeiten abseits der üblichen Modell-Updates. Das Unternehmen hat sein Sicherheitsprogramm für externe Fachleute neu strukturiert. \nAnthropic stellte am 6. Oktober ein erweitertes Cyber Verification Program vor, das die frühere Project-Glasswing-Initiative in eine dreistufige Struktur überführt, mit Defense Access für Incident Response, Red Team Access für autorisierte Pen-Testing-Organisationen und Specialized Access für sicherheitskritische Systeme wie Stromnetze. Das Unternehmen gibt an, dass Glasswing-Partner zwischen April und Juli 2026 über 129.000 verifizierte Software-Schwachstellen aufgedeckt haben, darunter mehr als 33.000 als kritisch oder hoch eingestufte.\n Die Maßnahme zeigt, wie ernst die Labore inzwischen die Cybersicherheit ihrer eigenen Modelle nehmen, auch als Reaktion auf den wachsenden politischen Druck der vergangenen Wochen.\n\n===\n\nDas war's für heute. Die Themen Finanzierung, Regulierung und die Frage, wie viel Vertrauen man den selbstberichteten Erfolgen der KI-Labore schenken kann, werden uns wohl noch länger begleiten. Wir beobachten besonders, ob sich die Kritik an OpenAIs Mathe-Veröffentlichung durch unabhängige Prüfungen bestätigt oder zerstreut. Danke fürs Zuhören, bis morgen bei KI Daily."
+}
