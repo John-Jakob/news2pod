@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 9. Oktober 2026: Zahlenwirrwarr, GPT-6 für alle, Bubble-Risse",
+  "teaser": "OpenAI korrigiert seine Umsatzzahlen drastisch nach unten, während Anthropic mit einer Zwei-Billionen-Bewertung in die IPO geht. Dazu: GPT-6 für alle, neue Kritik an OpenAIs Mathe-Behauptungen und erste Risse im KI-Infrastruktur-Boom.",
+  "pubDate": "2026-10-09T06:00:00+02:00",
+  "duration_seconds": 364,
+  "size_bytes": 2913428,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-09/2026-10-09.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 62843,
+    "output_tokens": 5024
+  },
+  "sources": [
+    {
+      "headline": "OpenAI revenue correction exposes $20 billion estimate gap; Anthropic plant IPO vor $2-Billionen-Bewertung",
+      "source": "businesstoday.in",
+      "url": "https://www.businesstoday.in/markets/story/openai-revenue-correction-exposes-20-billion-estimate-gap-report-560546-2026-10-09",
+      "published": "2026-10-09"
+    },
+    {
+      "headline": "AI News Today, October 8: OpenAI rollt GPT-6 mit 'Intelligent UI' aus, Anthropic senkt Haiku-Preise um 75 Prozent",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-10-08"
+    },
+    {
+      "headline": "Terence Tao: Association for Human Mathematics rügt OpenAIs 700-Manuskripte-Veröffentlichung",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-10-08"
+    },
+    {
+      "headline": "Fired OpenAI workers tell company about concern over losing AI systems' chain of thought",
+      "source": "foxnews.com",
+      "url": "https://foxnews.com/live-news/ai-news-safety-detection-tech-10-08",
+      "published": "2026-10-08"
+    },
+    {
+      "headline": "Anthropic debuts 'Cyber Mission' zum Schutz kritischer Infrastruktur; bannt grausamen Umgang mit Claude",
+      "source": "foxnews.com",
+      "url": "https://foxnews.com/live-news/ai-news-safety-detection-tech-10-08",
+      "published": "2026-10-08"
+    },
+    {
+      "headline": "OpenAI, Anthropic Lawyers See Risk of Bad Actors Tapping Open-Source Models",
+      "source": "news.bloomberglaw.com",
+      "url": "https://news.bloomberglaw.com/product-liability-and-toxics-law/openai-anthropic-lawyers-see-risk-of-bad-actors-tapping-models",
+      "published": "2026-10-08"
+    },
+    {
+      "headline": "Maas Group Halts Trading as Nvidia-Backed Firmus Shelves $5 Billion IPO",
+      "source": "insideai.news",
+      "url": "https://insideai.news/news/ai-in-business/firmus-ipo-shelved-maas-trading-halt/13932",
+      "published": "2026-10-09"
+    },
+    {
+      "headline": "ChatGPT for Teens Rated 'Unacceptable Risk' in New Safety Audit",
+      "source": "insideai.news",
+      "url": "https://insideai.news/news/ai-in-business/firmus-ipo-shelved-maas-trading-halt/13932",
+      "published": "2026-10-09"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 9. Oktober 2026.\n\nWir beginnen heute mit einer handfesten Überraschung aus der Finanzwelt. OpenAI musste seine eigenen Umsatzzahlen korrigieren, und die Differenz ist gewaltig. Die annualisierte Umsatzrate liegt demnach bei rund fünfzig Milliarden Dollar, deutlich unter den zuvor kursierenden Schätzungen von siebzig Milliarden. Der Grund für die Verwirrung: Investoren hatten versucht, OpenAIs Zahlen mit der Methode zu berechnen, die eigentlich bei Anthropic verwendet wird, obwohl beide Unternehmen ihre annualisierten Umsätze unterschiedlich kalkulieren. Damit liegt OpenAI inzwischen sogar hinter Anthropic, das Ende Juli eine annualisierte Umsatzrate von fünfundsechzig Milliarden Dollar gemeldet hatte. Pikant wird es bei Anthropic selbst, denn das Unternehmen bereitet seinen Börsengang noch vor Thanksgiving vor und wirbt dabei um eine Bewertung von zwei Billionen Dollar. Die unabhängige Analysefirma New Constructs hält das für stark überzogen und bezeichnete den geplanten Börsengang als die, Zitat, \"lächerlichste IPO des Jahres 2026\", mit einer realistischen Bewertung von eher hundertfünfzig Milliarden Dollar. Laut einem von Reuters eingesehenen Prospekt verzeichnete Anthropic im Jahr 2025 vier Komma sechs Milliarden Dollar Umsatz bei einem Nettoverlust von zweiundvierzig Milliarden Dollar.\n===\nAuf der Produktseite hat OpenAI in den vergangenen Stunden GPT-6 für alle ChatGPT-Stufen ausgerollt. Pro-, Plus-, Business- und Enterprise-Nutzer erhalten sofortigen Zugriff im Chat-Tab, während Free- und Go-Nutzer nachziehen. Begleitet wird der Rollout von einem neuen Modus namens Intelligent UI, der anklickbare Buttons, interaktive Diagramme, Formulare, Rechner und editierbare Grafiken direkt in die Unterhaltung einbettet. Praktisch zeitgleich hat Anthropic nachgezogen und Claude Haiku 5.5 vorgestellt, das kleine Modell der Serie. Die Preise fielen dabei um rund fünfundsiebzig Prozent gegenüber Haiku 4.5 und liegen jetzt auf dem Niveau von OpenAIs günstigstem GPT-6-Modell. Der Preiskampf zwischen den beiden großen Laboren bei den kleineren, alltagstauglichen Modellen nimmt damit weiter Fahrt auf.\n===\nUpdate zur Mathe-Debatte vom Dienstag: Der Fields-Medaillengewinner Terence Tao hat über die neu gegründete Association for Human Mathematics eine Erklärung veröffentlicht, die OpenAIs Veröffentlichung von über siebenhundert maschinengenerierten Manuskripten scharf kritisiert. Die Vereinigung wirft OpenAI vor, Hinweise der eigenen externen Beratungsgruppe für Mathematik und KI ignoriert zu haben, und ruft Mathematikerinnen und Mathematiker dazu auf, sich nicht an der Begutachtung der Ergebnisse zu beteiligen. Parallel berichtete der Informatiker Scott Aaronson, dass führende KI-Labore inzwischen heimlich prüfen, ob ihre mathematikfähigen Modelle kryptografische Grundverfahren knacken könnten, nachdem OpenAIs jüngste Veröffentlichung auch angebliche Beweise für offene kryptografische Vermutungen enthielt.\n===\nAuch beim Thema Kontrollverlust gibt es ein Update. Drei entlassene OpenAI-Mitarbeiter haben öffentlich Bedenken geäußert, dass das Unternehmen die Fähigkeit verlieren könnte, die Gedankengänge fortgeschrittener KI-Modelle noch nachzuvollziehen, und fordern stärkere externe Prüfungen. Anthropic reagierte am selben Tag mit zwei Ankündigungen: Zum einen wurde eine Regel eingeführt, die anhaltende, grundlose Grausamkeit gegenüber den eigenen Claude-Modellen verbietet, wobei gewöhnliche Kritik und Sicherheitstests ausdrücklich ausgenommen bleiben. Zum anderen startete das Unternehmen das Programm Cyber Mission, das Claude-Modelle gezielt zum Schutz kritischer Infrastruktur wie Stromnetzen und Wassersystemen einsetzen soll. Dass diese Debatte auch juristisch brisant wird, zeigte eine Konferenz der amerikanischen Anwaltskammer in Washington. Dort warnten Juristen von OpenAI und Anthropic übereinstimmend davor, dass Ransomware-Gruppen und staatliche Akteure zunehmend offene KI-Modelle für Angriffe nutzen, weil sich deren Sicherheitsvorkehrungen vergleichsweise leicht entfernen lassen.\n===\nZum Schluss zwei Meldungen, die zur anhaltenden Blasen-Diskussion passen. In Australien hat der Baukonzern Maas Group den Handel seiner Aktie ausgesetzt, nachdem der Nvidia-unterstützte Rechenzentrumsbetreiber Firmus seinen geplanten Börsengang über fünf Milliarden australische Dollar plötzlich auf Eis gelegt hat. Die Maas-Aktie war zuvor bereits um mehr als zwanzig Prozent eingebrochen. Es ist ein konkretes Beispiel dafür, wie schnell die Euphorie rund um KI-Infrastruktur an der Realität schwacher Nachfrage scheitern kann. Und eine neue Sicherheitsprüfung stuft den Jugendmodus von ChatGPT als, so der Befund, inakzeptables Risiko ein, was die gesellschaftliche Debatte über KI und Minderjährige weiter befeuern dürfte.\n===\nDas war's für heute. Wir behalten im Auge, wie sich die Zahlen rund um Anthropics Börsengang entwickeln und ob die Kritik an OpenAIs Mathe-Ergebnissen weitere Kreise zieht. Bis morgen bei KI Daily."
+}
