@@ -19,6 +19,39 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 14. Oktober 2026: Googles Argon, Anthropics Replik-Warnung, Amazon greift zu</title>
+      <description><![CDATA[<p>Google bringt mit Gemini 4 Argon sein neues Flaggschiffmodell an den Start, Anthropic warnt vor selbstkopierenden KI-Modellen auf Haushaltsgeräten, und Amazon verhandelt über eine Sieben-Milliarden-Dollar-Übernahme. Außerdem: Microsofts Nadella bringt die Notbremse-Debatte mit einem konkreten Vorschlag voran.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://money.usnews.com/investing/news/articles/2026-10-13/google-launches-flagship-ai-model-gemini-4-argon-for-developers-businesses">Google launches flagship AI model Gemini 4 Argon for developers, businesses</a> <em>(reuters.com (via usnews.com))</em></li>
+<li><a href="https://foxnews.com/live-news/ai-news-anthropic-frontier-models-safety-10-13">Anthropic warns AI models could soon replicate across home devices, become difficult to shut down</a> <em>(foxnews.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic: small models near self-replication on IoT devices</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://www.calcalistech.com/ctechnews/article/ec25jzet0">Amazon emerges as potential buyer of Israeli AI startup Decart at $7 billion</a> <em>(calcalistech.com)</em></li>
+<li><a href="https://americanbazaaronline.com/2026/10/12/amazon-in-talks-to-acquire-ai-startup-decart-in-7-billion-deal-489847/">Amazon in talks to acquire AI startup Decart in $7 billion deal, report says</a> <em>(americanbazaaronline.com (WSJ-Bericht))</em></li>
+<li><a href="https://www.briefs.co/news/microsoft-ceo-says-treat-powerful-ai-like-an-insider-threat/">Microsoft CEO says treat powerful AI like an insider threat, build an 'emergency brake'</a> <em>(briefs.co)</em></li>
+<li><a href="https://aidapted.ro/en/articles/ai-news-october-13-2026/">TSMC heads toward its sixth consecutive quarter of record profits</a> <em>(aidapted.ro (Reuters-Bericht))</em></li>
+<li><a href="https://aidapted.ro/en/articles/ai-news-october-13-2026/">Europe launches AI Innovation Month on October 14</a> <em>(aidapted.ro)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Google bringt mit Gemini 4 Argon sein neues Flaggschiffmodell an den Start, Anthropic warnt vor selbstkopierenden KI-Modellen auf Haushaltsgeräten, und Amazon verhandelt über eine Sieben-Milliarden-Dollar-Übernahme. Außerdem: Microsofts Nadella bringt die Notbremse-Debatte mit einem konkreten Vorschlag voran.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://money.usnews.com/investing/news/articles/2026-10-13/google-launches-flagship-ai-model-gemini-4-argon-for-developers-businesses">Google launches flagship AI model Gemini 4 Argon for developers, businesses</a> <em>(reuters.com (via usnews.com))</em></li>
+<li><a href="https://foxnews.com/live-news/ai-news-anthropic-frontier-models-safety-10-13">Anthropic warns AI models could soon replicate across home devices, become difficult to shut down</a> <em>(foxnews.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic: small models near self-replication on IoT devices</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://www.calcalistech.com/ctechnews/article/ec25jzet0">Amazon emerges as potential buyer of Israeli AI startup Decart at $7 billion</a> <em>(calcalistech.com)</em></li>
+<li><a href="https://americanbazaaronline.com/2026/10/12/amazon-in-talks-to-acquire-ai-startup-decart-in-7-billion-deal-489847/">Amazon in talks to acquire AI startup Decart in $7 billion deal, report says</a> <em>(americanbazaaronline.com (WSJ-Bericht))</em></li>
+<li><a href="https://www.briefs.co/news/microsoft-ceo-says-treat-powerful-ai-like-an-insider-threat/">Microsoft CEO says treat powerful AI like an insider threat, build an 'emergency brake'</a> <em>(briefs.co)</em></li>
+<li><a href="https://aidapted.ro/en/articles/ai-news-october-13-2026/">TSMC heads toward its sixth consecutive quarter of record profits</a> <em>(aidapted.ro (Reuters-Bericht))</em></li>
+<li><a href="https://aidapted.ro/en/articles/ai-news-october-13-2026/">Europe launches AI Innovation Month on October 14</a> <em>(aidapted.ro)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Google bringt mit Gemini 4 Argon sein neues Flaggschiffmodell an den Start, Anthropic warnt vor selbstkopierenden KI-Modellen auf Haushaltsgeräten, und Amazon verhandelt über eine Sieben-Milliarden-Dollar-Übernahme. Außerdem: Microsofts Nadella bringt die Notbremse-Debatte mit einem konkreten Vorschlag voran.</itunes:summary>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-10-14</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-14/2026-10-14.mp3" length="2666623" type="audio/mpeg"/>
+      <itunes:duration>5:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 13. Oktober 2026: Metas Frontier-Ankunft, Nvidia greift zu, Notbremse gefordert</title>
       <description><![CDATA[<p>Meta springt mit Muse Wonder in die Frontier-Liga, Nvidia verhandelt über eine milliardenschwere Übernahme von Reflection AI, und Microsoft-Präsident Brad Smith fordert nach neuen Vorfällen eine regulatorische Notbremse für KI-Systeme.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -885,33 +918,6 @@
       <guid isPermaLink="false">ai-2026-09-10</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-10/2026-09-10.mp3" length="3074551" type="audio/mpeg"/>
       <itunes:duration>6:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 9. September 2026: Mistral-Milliarden, Chinas Compute-Plan, Googles EU-Rückzug</title>
-      <description><![CDATA[<p>Mistral holt sich drei Milliarden Euro von Samsung, China plant eine Vervierfachung seiner KI-Rechenkapazität, und Google verschlechtert freiwillig seine Suche in Europa. Außerdem: Streit zwischen OpenAI und Anthropic um einen Mathematik-Beweis.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/mistral-ai-raises-3-billion-111824280.html">Mistral AI raises €3 billion in Samsung-led Series D round</a> <em>(yahoo finance / unite.ai)</em></li>
-<li><a href="https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push">China targets fourfold boost in AI computing capacity by 2030 in major tech push</a> <em>(scmp.com)</em></li>
-<li><a href="https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines/">Google will 'degrade' Search in Europe to avoid EU fines</a> <em>(engadget.com / Reuters)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">NYU mathematician accuses OpenAI of racing to preempt his Euler proof</a> <em>(aiweekly.co (citing analyticsindiamag))</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Alibaba, Cambricon, Ant Group join PyTorch Foundation governance</a> <em>(pytorch.org / aiweekly.co)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Mistral holt sich drei Milliarden Euro von Samsung, China plant eine Vervierfachung seiner KI-Rechenkapazität, und Google verschlechtert freiwillig seine Suche in Europa. Außerdem: Streit zwischen OpenAI und Anthropic um einen Mathematik-Beweis.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/mistral-ai-raises-3-billion-111824280.html">Mistral AI raises €3 billion in Samsung-led Series D round</a> <em>(yahoo finance / unite.ai)</em></li>
-<li><a href="https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push">China targets fourfold boost in AI computing capacity by 2030 in major tech push</a> <em>(scmp.com)</em></li>
-<li><a href="https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines/">Google will 'degrade' Search in Europe to avoid EU fines</a> <em>(engadget.com / Reuters)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">NYU mathematician accuses OpenAI of racing to preempt his Euler proof</a> <em>(aiweekly.co (citing analyticsindiamag))</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Alibaba, Cambricon, Ant Group join PyTorch Foundation governance</a> <em>(pytorch.org / aiweekly.co)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Mistral holt sich drei Milliarden Euro von Samsung, China plant eine Vervierfachung seiner KI-Rechenkapazität, und Google verschlechtert freiwillig seine Suche in Europa. Außerdem: Streit zwischen OpenAI und Anthropic um einen Mathematik-Beweis.</itunes:summary>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-09-09</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-09/2026-09-09.mp3" length="2939759" type="audio/mpeg"/>
-      <itunes:duration>6:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
