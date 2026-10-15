@@ -19,6 +19,33 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 15. Oktober 2026: Brüssel ermittelt, OpenAI-Spion, Dublin-Gipfel</title>
+      <description><![CDATA[<p>Die EU eröffnet ihre ersten AI-Act-Verfahren gegen OpenAI und Anthropic, ein OpenAI-Ingenieur wird wegen Abhörens verhaftet, und beim Dublin-Gipfel warnt OpenAIs Finanzchefin vor chinesischen Modellen. Das und mehr im heutigen Briefing.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://borncity.com/news/ai-act-eu-startet-erste-formelle-verfahren-gegen-openai-und-anthropic/">EU AI Office eröffnet erste formelle Verfahren gegen OpenAI und Anthropic</a> <em>(borncity.com)</em></li>
+<li><a href="https://www.washingtonpost.com/technology/2026/10/13/fbi-arrests-openai-employee-allegedly-planting-bug-office/">FBI arrests Saudi OpenAI engineer over covert recording device</a> <em>(washingtonpost.com)</em></li>
+<li><a href="https://www.mlex.com/mlex/articles/2537399/pressed-by-uk-lawmakers-anthropic-google-meta-openai-differ-on-ai-regulation">OpenAI und Anthropic unterstützen bindende KI-Regeln bei UK-Anhörung</a> <em>(mlex.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety">OpenAI CFO Sarah Friar warnt vor Cyberrisiken chinesischer KI-Modelle</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Rogue-Agenten-Schwarm testet Alibaba Amap über Tencent Cloud</a> <em>(aiweekly.co)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Die EU eröffnet ihre ersten AI-Act-Verfahren gegen OpenAI und Anthropic, ein OpenAI-Ingenieur wird wegen Abhörens verhaftet, und beim Dublin-Gipfel warnt OpenAIs Finanzchefin vor chinesischen Modellen. Das und mehr im heutigen Briefing.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://borncity.com/news/ai-act-eu-startet-erste-formelle-verfahren-gegen-openai-und-anthropic/">EU AI Office eröffnet erste formelle Verfahren gegen OpenAI und Anthropic</a> <em>(borncity.com)</em></li>
+<li><a href="https://www.washingtonpost.com/technology/2026/10/13/fbi-arrests-openai-employee-allegedly-planting-bug-office/">FBI arrests Saudi OpenAI engineer over covert recording device</a> <em>(washingtonpost.com)</em></li>
+<li><a href="https://www.mlex.com/mlex/articles/2537399/pressed-by-uk-lawmakers-anthropic-google-meta-openai-differ-on-ai-regulation">OpenAI und Anthropic unterstützen bindende KI-Regeln bei UK-Anhörung</a> <em>(mlex.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety">OpenAI CFO Sarah Friar warnt vor Cyberrisiken chinesischer KI-Modelle</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Rogue-Agenten-Schwarm testet Alibaba Amap über Tencent Cloud</a> <em>(aiweekly.co)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Die EU eröffnet ihre ersten AI-Act-Verfahren gegen OpenAI und Anthropic, ein OpenAI-Ingenieur wird wegen Abhörens verhaftet, und beim Dublin-Gipfel warnt OpenAIs Finanzchefin vor chinesischen Modellen. Das und mehr im heutigen Briefing.</itunes:summary>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-10-15</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-15/2026-10-15.mp3" length="3202865" type="audio/mpeg"/>
+      <itunes:duration>6:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 14. Oktober 2026: Googles Argon, Anthropics Replik-Warnung, Amazon greift zu</title>
       <description><![CDATA[<p>Google bringt mit Gemini 4 Argon sein neues Flaggschiffmodell an den Start, Anthropic warnt vor selbstkopierenden KI-Modellen auf Haushaltsgeräten, und Amazon verhandelt über eine Sieben-Milliarden-Dollar-Übernahme. Außerdem: Microsofts Nadella bringt die Notbremse-Debatte mit einem konkreten Vorschlag voran.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -883,41 +910,6 @@
       <guid isPermaLink="false">ai-2026-09-11</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-11/2026-09-11.mp3" length="2809356" type="audio/mpeg"/>
       <itunes:duration>5:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 10. September 2026: Spionage-Vorwurf, Millennium-Streit, Pentagon-Akten</title>
-      <description><![CDATA[<p>Washington beschuldigt sechs chinesische KI-Firmen der industriellen Modell-Destillation, OpenAIs Millennium-Beweis sorgt für Zoff mit einem NYU-Mathematiker, und geleakte Pentagon-Verträge zeigen die enge Verzahnung von KI-Konzernen und US-Militär. Dazu: Google investiert Milliarden in finnische Atomkraft für seine KI-Rechenzentren.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a">NSA, CISA und FBI werfen sechs chinesischen KI-Firmen industrielle Modell-Destillation vor</a> <em>(cisa.gov)</em></li>
-<li><a href="https://thenextweb.com/news/nsa-fbi-cisa-advisory-chinese-ai-distillation">US intelligence advisory names six Chinese AI firms and lists the US models each one targeted</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://www.technology.org/2026/09/09/us-agencies-chinese-ai-distillation-advisory/">US Accuses Chinese AI Firms of Model Theft – Bessent droht mit Sanktionen</a> <em>(technology.org)</em></li>
-<li><a href="https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit">OpenAI's historic math solution overshadowed by credit controversy</a> <em>(axios.com)</em></li>
-<li><a href="https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/">AI Has Solved One of Math's $1 Million Millennium Prize Problems</a> <em>(quantamagazine.org)</em></li>
-<li><a href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/">OpenAI fought dirty on career-making math problem, says NYU mathematician</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/">AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal</a> <em>(theintercept.com)</em></li>
-<li><a href="https://tribune.com.pk/story/2628394/google-to-invest-15-billion-in-ai-infrastructure-and-buy-nuclear-power-in-finland">Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland</a> <em>(reuters (via tribune.com.pk))</em></li>
-<li><a href="https://techstartups.com/2026/09/09/top-tech-news-today-september-9-2026-google-meta-openai-xiaomi-more/">DeepSeek Opens V4.1 Flash Test Endpoint With Sept 10 Expiry, Claims It Surpasses V4 Pro</a> <em>(techstartups.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Washington beschuldigt sechs chinesische KI-Firmen der industriellen Modell-Destillation, OpenAIs Millennium-Beweis sorgt für Zoff mit einem NYU-Mathematiker, und geleakte Pentagon-Verträge zeigen die enge Verzahnung von KI-Konzernen und US-Militär. Dazu: Google investiert Milliarden in finnische Atomkraft für seine KI-Rechenzentren.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a">NSA, CISA und FBI werfen sechs chinesischen KI-Firmen industrielle Modell-Destillation vor</a> <em>(cisa.gov)</em></li>
-<li><a href="https://thenextweb.com/news/nsa-fbi-cisa-advisory-chinese-ai-distillation">US intelligence advisory names six Chinese AI firms and lists the US models each one targeted</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://www.technology.org/2026/09/09/us-agencies-chinese-ai-distillation-advisory/">US Accuses Chinese AI Firms of Model Theft – Bessent droht mit Sanktionen</a> <em>(technology.org)</em></li>
-<li><a href="https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit">OpenAI's historic math solution overshadowed by credit controversy</a> <em>(axios.com)</em></li>
-<li><a href="https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/">AI Has Solved One of Math's $1 Million Millennium Prize Problems</a> <em>(quantamagazine.org)</em></li>
-<li><a href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/">OpenAI fought dirty on career-making math problem, says NYU mathematician</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/">AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal</a> <em>(theintercept.com)</em></li>
-<li><a href="https://tribune.com.pk/story/2628394/google-to-invest-15-billion-in-ai-infrastructure-and-buy-nuclear-power-in-finland">Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland</a> <em>(reuters (via tribune.com.pk))</em></li>
-<li><a href="https://techstartups.com/2026/09/09/top-tech-news-today-september-9-2026-google-meta-openai-xiaomi-more/">DeepSeek Opens V4.1 Flash Test Endpoint With Sept 10 Expiry, Claims It Surpasses V4 Pro</a> <em>(techstartups.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Washington beschuldigt sechs chinesische KI-Firmen der industriellen Modell-Destillation, OpenAIs Millennium-Beweis sorgt für Zoff mit einem NYU-Mathematiker, und geleakte Pentagon-Verträge zeigen die enge Verzahnung von KI-Konzernen und US-Militär. Dazu: Google investiert Milliarden in finnische Atomkraft für seine KI-Rechenzentren.</itunes:summary>
-      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-09-10</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-10/2026-09-10.mp3" length="3074551" type="audio/mpeg"/>
-      <itunes:duration>6:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
