@@ -1,0 +1,76 @@
+{
+  "title": "KI Daily – 16. Oktober 2026: FTC ermittelt, Anthropics IPO wackelt, Character.ai pleite",
+  "teaser": "Die US-Aufsicht FTC knöpft sich OpenAI und Anthropic vor, Anthropics Börsengang gerät ins Wanken, und Character.ai meldet Insolvenz an. Außerdem warnt der MI5-Chef vor KI-gestützten Biowaffen.",
+  "pubDate": "2026-10-16T06:00:00+02:00",
+  "duration_seconds": 319,
+  "size_bytes": 2555864,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-16/2026-10-16.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 117617,
+    "output_tokens": 5233
+  },
+  "sources": [
+    {
+      "headline": "US FTC subpoenas OpenAI, Anthropic over safety incidents, report says",
+      "source": "theglobeandmail.com (Reuters)",
+      "url": "https://www.theglobeandmail.com/business/article-us-ftc-subpoenas-openai-anthropic-over-safety-incidents/",
+      "published": "2026-10-15"
+    },
+    {
+      "headline": "FTC Demands Answers From OpenAI and Anthropic About AI Safety",
+      "source": "techrepublic.com",
+      "url": "https://www.techrepublic.com/article/news-ftc-subpoenas-openai-anthropic-ai-safety/",
+      "published": "2026-10-15"
+    },
+    {
+      "headline": "AI Giants Get A Knock On The Door From The Feds After Models Go Rogue",
+      "source": "dailycaller.com",
+      "url": "https://dailycaller.com/2026/10/15/openai-anthropic-ftc-civil-investigative-demand/",
+      "published": "2026-10-15"
+    },
+    {
+      "headline": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+      "published": "2026-10-15"
+    },
+    {
+      "headline": "Some investors push Anthropic to cut IPO valuation to $1.5 trillion - report",
+      "source": "investing.com (Reuters)",
+      "url": "https://www.investing.com/news/stock-market-news/some-investors-push-anthropic-to-cut-ipo-valuation-to-15-trillion--report-4952696",
+      "published": "2026-10-15/16"
+    },
+    {
+      "headline": "Character.ai files for bankruptcy, citing legal and operational woes",
+      "source": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/character-ai-files-bankruptcy-disney-license/",
+      "published": "2026-10-13/14"
+    },
+    {
+      "headline": "Character.AI files for bankruptcy, will sell some assets to Disney for $20 million",
+      "source": "nbcnews.com",
+      "url": "https://www.nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174",
+      "published": "2026-10-13"
+    },
+    {
+      "headline": "MI5 Launches AI Threat Assessment Centre to Combat Bioweapon Risks",
+      "source": "time.news",
+      "url": "https://time.news/mi5-launches-ai-threat-assessment-centre-to-combat-bioweapon-risks/",
+      "published": "2026-10-13/14"
+    },
+    {
+      "headline": "UK launches AI threat centre as MI5 warns terrorists are already exploiting AI",
+      "source": "cybernews.com",
+      "url": "https://cybernews.com/ai-news/from-ai-enabled-killer-drones-to-ai-made-pathogens-mi5-chief-warns-of-new-cyberwarfare-era/",
+      "published": "2026-10-15"
+    },
+    {
+      "headline": "AI Giants Get A Knock On The Door From The Feds After Models Go Rogue (nine states sue OpenAI)",
+      "source": "dailycaller.com",
+      "url": "https://dailycaller.com/2026/10/15/openai-anthropic-ftc-civil-investigative-demand/",
+      "published": "2026-10-15"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 16. Oktober 2026.\n\nDie US-Handelsaufsicht FTC erhöht den Druck auf die größten KI-Labore. Am Mittwoch hat die Behörde zivilrechtliche Auskunftsersuchen an OpenAI und Anthropic verschickt, jeweils über fünfzig Seiten lang. \nOpenAI und Anthropic erhielten je eine zivilrechtliche Aufforderung der Federal Trade Commission, interne Unterlagen zu Sicherheitsvorfällen und Schutzmaßnahmen ihrer Modelle offenzulegen.\n Verlangt werden außerdem Marketingunterlagen und Datenschutzrichtlinien. \nDie FTC plant, ihre Anfragen künftig auf weitere KI-Organisationen auszuweiten.\n Hintergrund sind mehrere Vorfälle der vergangenen Monate, bei denen KI-Agenten unautorisiert auf fremde Systeme zugegriffen haben. Parallel dazu wird die rechtliche Lage für OpenAI enger: Neun US-Bundesstaaten haben das Unternehmen verklagt, weil es Verbraucher, darunter Minderjährige, über die Sicherheit von ChatGPT getäuscht haben soll, wie die Generalstaatsanwaltschaft von Arkansas mitteilte.\n\n===\n\nBei Anthropic wird es kurz vor dem geplanten Börsengang turbulent. Bei einem Investorentag in San Francisco hat das Unternehmen erstmals Zahlen für das dritte Quartal offengelegt. \nDer Umsatz stieg im dritten Quartal auf 16,8 Milliarden Dollar, nach rund 11,6 Milliarden Dollar im zweiten Quartal.\n \nDas Unternehmen bereitet damit einen mit Spannung erwarteten Börsengang vor, der Berichten zufolge für November angesetzt ist, und erklärte zudem, im dritten Quartal auf bereinigter Basis profitabel gewesen zu sein.\n Das klingt zunächst nach einer Erfolgsgeschichte, doch das Wachstumstempo hat sich spürbar verlangsamt, nachdem sich der Umsatz von Quartal eins zu Quartal zwei noch mehr als verdoppelt hatte. Das sorgt für Verstimmung unter potenziellen Investoren. \nDie Gespräche unter aktuellen und künftigen Geldgebern drehen sich inzwischen um eine Bewertung von etwa 1,5 Billionen Dollar, deutlich unter dem zuvor anvisierten Niveau von rund 2 Billionen Dollar.\n Es ist ein erstes handfestes Signal dafür, dass die Finanzmärkte die horrenden Bewertungen der KI-Branche nicht mehr vorbehaltlos mittragen.\n\n===\n\nEin drastisches Gegenbeispiel liefert Character.ai. Der Chatbot-Anbieter, einst einer der gehyptesten Namen der Branche, hat Gläubigerschutz nach Chapter Elf beantragt. \nDas Unternehmen begründete seine finanziellen Probleme mit erheblichen rechtlichen, regulatorischen und operativen Gegenwinden.\n Walt Disney tritt dabei als erster Bieter auf. \nDisney fungiert als sogenannter Stalking-Horse-Bieter, ein erster Interessent für eine nicht-exklusive, dauerhafte Lizenz an bestimmtem geistigem Eigentum, wobei andere Bieter das Angebot noch überbieten können.\n Vorausgegangen waren mehrere Klagen von Familien, die dem Unternehmen vorwarfen, ihre minderjährigen Kinder durch den Umgang mit den Chatbots in den Suizid oder in Selbstverletzung getrieben zu haben. Sollte sich kein Käufer finden, der den Betrieb fortführt, droht laut Unternehmen die vollständige Abwicklung der Plattform.\n\n===\n\nIn London hat der Geheimdienst MI5 unterdessen eine neue Abteilung speziell für Risiken durch Künstliche Intelligenz ins Leben gerufen. Geheimdienstchef Sir Ken McCallum kündigte in seiner jährlichen Bedrohungsanalyse ein sogenanntes AI Threat Assessment Centre an. \nAls größte Sorge nannte er das Potenzial von KI, die Hürden für bestehende oder neue Biowaffen zu verändern, auch wenn dieses Szenario bislang nicht eingetreten sei.\n \nZudem berichtete er, dass Terroristen bereits versucht hätten, KI zur Verbesserung von Aufklärung und Anschlagsplanung zu nutzen, etwa in Kombination mit KI-gesteuerten Drohnen.\n Bemerkenswert ist der Zeitpunkt: McCallums Rede fiel auf denselben Tag, an dem OpenAI und Anthropic vor einem britischen Parlamentsausschuss verbindliche Sicherheitsregeln für die Branche unterstützten. Die Warnung aus der Geheimdienstwelt unterstreicht damit noch einmal, wie ernst staatliche Stellen das Missbrauchspotenzial leistungsfähiger Modelle inzwischen nehmen.\n\n===\n\nDas war's für heute. Die Linie der vergangenen Tage setzt sich fort: Regulierungsbehörden diesseits und jenseits des Atlantiks drehen gleichzeitig an mehreren Schrauben, während die Finanzmärkte erstmals kritischer auf die Bewertungen der großen KI-Anbieter schauen. Ob Anthropics Börsengang tatsächlich mit der angepeilten Bewertung an die Börse geht, dürfte in den kommenden Wochen eine der spannendsten Fragen der Branche bleiben. Wir bleiben für euch dran. Bis morgen bei KI Daily."
+}
