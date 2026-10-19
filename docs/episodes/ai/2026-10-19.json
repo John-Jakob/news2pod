@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 19. Oktober 2026: Wochenend-Rückblick zu Anthropic, OpenAI und Meta",
+  "teaser": "Der Wochenend-Rückblick: Anthropic gibt Milliarden an einen neuen Gemeinwohl-Fonds ab, OpenAI bestätigt einen humanoiden Roboter, und Banken schotten sich vor fremden KI-Agenten ab.",
+  "pubDate": "2026-10-19T06:00:00+02:00",
+  "duration_seconds": 344,
+  "size_bytes": 2758574,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-19/2026-10-19.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 113650,
+    "output_tokens": 5167
+  },
+  "sources": [
+    {
+      "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+      "published": "2026-10-18"
+    },
+    {
+      "headline": "Investing in the public benefit",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "published": "2026-10-18"
+    },
+    {
+      "headline": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
+      "source": "engadget.com",
+      "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+      "published": "2026-10-18"
+    },
+    {
+      "headline": "Meta Removes Commercial Terms Language Permitting AI Content Scraping Across Publisher and News Websites",
+      "source": "aitoolly.com",
+      "url": "https://aitoolly.com/ai-news/2026-10-18",
+      "published": "2026-10-18"
+    },
+    {
+      "headline": "OpenAI's three unannounced 'aurora' models flash in API, then vanish",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-10-18"
+    },
+    {
+      "headline": "Anthropic proposes a US bill to regulate AI risks",
+      "source": "aidapted.ro",
+      "url": "https://aidapted.ro/en/articles/ai-news-october-18-2026/",
+      "published": "2026-10-18"
+    },
+    {
+      "headline": "Big US banks lock out AI agents trying to move customer money",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse",
+      "published": "2026-10-16"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Monday, den 19. October 2026. Da heute die erste Ausgabe nach dem Wochenende ist, blicken wir zurück auf Samstag und Sonntag und fassen die wichtigsten Entwicklungen zusammen.\n\n===\n\nDie größte Meldung des Wochenendes kommt von Anthropic. Das Unternehmen hat am Sonntag angekündigt, fünf Prozent seiner Aktien in einen neu geschaffenen Anthropic Public Benefit Fund einzubringen. Vorbehaltlich der Zustimmung der Aktionäre soll dieser Anteil wachsen: Für je fünfzig Prozent Wertsteigerung über eine noch nicht veröffentlichte Basislinie hinaus kann der Vorstand weitere zwei Prozent hinzufügen. Der Fonds wird als hundertprozentige Tochtergesellschaft in Form einer LLC organisiert, nicht als klassische gemeinnützige Stiftung, was laut Anthropic mehr Flexibilität bei Spenden und direkten Ausschüttungen erlaubt. Ziel ist es unter anderem, die Auswirkungen von KI auf den Arbeitsmarkt abzufedern. Zusammen mit bereits bestehenden Zusagen der Gründer sind damit rund zwanzig Prozent der Anthropic-Anteile dem Gemeinwohl gewidmet. Bei der im Mai erzielten Bewertung von knapp einer Billion Dollar entspräche der Fünf-Prozent-Anteil etwa achtundvierzig Milliarden Dollar. Die Ankündigung fällt in eine Phase, in der Anthropic Investoren für einen möglichen Börsengang gewinnen will.\n\n===\n\nZweite große Geschichte: OpenAI treibt sein Robotik-Programm voran. Firmenchef Sam Altman bestätigte gegenüber dem Magazin Fortune, dass OpenAI einen humanoiden Roboter entwickelt und für das Jahr 2027 eine Demonstration plant. Altman betonte dabei, dass nicht die Hardware die größte Herausforderung sei, sondern das, was er das Gehirn des Roboters nennt, also die Software, die Wahrnehmung, Planung und Bewegungssteuerung zusammenbringt. Seine Begründung für die menschenähnliche Form: Die Welt mit Türen, Tastaturen und Werkzeugen sei nun einmal für Menschen gebaut. Gleichzeitig dämpfte er Erwartungen, dass solche Roboter schon bald auf den Straßen unterwegs sein werden. OpenAI hat sein Karriereportal bereits mit mehreren Dutzend offenen Stellen im Bereich Robotik bestückt, von Aktuatoren bis zur Fertigungskette.\n\n===\n\nAuch bei Meta gab es am Wochenende eine bemerkenswerte Kehrtwende. Nach öffentlicher und branchenweiter Kritik hat der Konzern eine Klausel aus seinen kommerziellen Nutzungsbedingungen gestrichen, die es erlaubt hätte, Inhalte von Webseiten Dritter, einschließlich journalistischer Angebote, zum Training eigener KI-Modelle zu verwenden. Die gestrichene Formulierung hatte zuvor ausdrücklich erlaubt, Inhalte verbundener Domains und Webseiten für Entwicklung, Verbesserung und Training der eigenen Produkte zu nutzen. Der Rückzieher zeigt, wie sensibel das Thema Trainingsdaten und Urheberrecht derzeit gehandhabt wird, gerade nachdem Verlage und Nachrichtenorganisationen zunehmend Druck machen.\n\n===\n\nParallel dazu sorgt bei OpenAI ein kleines Rätsel für Gesprächsstoff. In der API des Unternehmens tauchten am Wochenende kurzzeitig drei bislang undokumentierte Modell-Kennungen auf, intern als aurora-red, aurora-green und aurora-blue bezeichnet. Während die rote Variante Kapazitätsfehler zurückgab, was auf eine bereits laufende Backend-Anbindung hindeutet, antworteten die beiden anderen Varianten schlicht mit Fehlermeldungen, dass sie nicht existieren. OpenAI hat sich bislang nicht offiziell dazu geäußert, doch Beobachter werten das Auftauchen als Hinweis auf kommende Modell-Generationen, die noch vor der offiziellen Ankündigung getestet werden.\n\n===\n\nZum Schluss ein Blick auf eine Debatte, die sich über das Wochenende weiter zugespitzt hat: Große US-Banken wehren sich zunehmend gegen fremde KI-Agenten, die im Namen von Kunden Geld bewegen wollen. Schwab-Chef Rick Wurster bestätigte gegenüber Bloomberg Television, dass sein Haus wöchentlich zwischen zehn und zwanzig Versuche nicht autorisierter Agenten blockiert, darunter Metas persönlichen Assistenten Muse. JPMorgan-Chef Jamie Dimon äußerte sich in der vergangenen Woche ähnlich kritisch. Die Banken wollen KI-Tools zwar lesenden Zugriff auf Kontostände erlauben, nicht aber das eigenständige Bewegen von Geld, solange die Haftungsfrage bei Fehlern ungeklärt ist.\n\n===\n\nDas war unser Wochenend-Rückblick für den 19. Oktober. Besonders spannend bleibt, ob Anthropic in den kommenden Wochen weitere Details zum Public Benefit Fund nachliefert und ob sich die mysteriösen Aurora-Modelle bei OpenAI tatsächlich zu einer neuen Modellgeneration entpuppen. Wir bleiben dran und melden uns morgen wieder mit dem KI Daily-Briefing. Bis dahin, einen guten Start in die Woche."
+}

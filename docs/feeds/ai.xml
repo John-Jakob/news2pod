@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 19. Oktober 2026: Wochenend-Rückblick zu Anthropic, OpenAI und Meta</title>
+      <description><![CDATA[<p>Der Wochenend-Rückblick: Anthropic gibt Milliarden an einen neuen Gemeinwohl-Fonds ab, OpenAI bestätigt einen humanoiden Roboter, und Banken schotten sich vor fremden KI-Agenten ab.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html">Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.anthropic.com/news/public-benefit-fund">Investing in the public benefit</a> <em>(anthropic.com)</em></li>
+<li><a href="https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/">OpenAI is building a humanoid robot, but the body isn't the real challenge</a> <em>(engadget.com)</em></li>
+<li><a href="https://aitoolly.com/ai-news/2026-10-18">Meta Removes Commercial Terms Language Permitting AI Content Scraping Across Publisher and News Websites</a> <em>(aitoolly.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">OpenAI's three unannounced 'aurora' models flash in API, then vanish</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://aidapted.ro/en/articles/ai-news-october-18-2026/">Anthropic proposes a US bill to regulate AI risks</a> <em>(aidapted.ro)</em></li>
+<li><a href="https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse">Big US banks lock out AI agents trying to move customer money</a> <em>(thenextweb.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: Anthropic gibt Milliarden an einen neuen Gemeinwohl-Fonds ab, OpenAI bestätigt einen humanoiden Roboter, und Banken schotten sich vor fremden KI-Agenten ab.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html">Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.anthropic.com/news/public-benefit-fund">Investing in the public benefit</a> <em>(anthropic.com)</em></li>
+<li><a href="https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/">OpenAI is building a humanoid robot, but the body isn't the real challenge</a> <em>(engadget.com)</em></li>
+<li><a href="https://aitoolly.com/ai-news/2026-10-18">Meta Removes Commercial Terms Language Permitting AI Content Scraping Across Publisher and News Websites</a> <em>(aitoolly.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">OpenAI's three unannounced 'aurora' models flash in API, then vanish</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://aidapted.ro/en/articles/ai-news-october-18-2026/">Anthropic proposes a US bill to regulate AI risks</a> <em>(aidapted.ro)</em></li>
+<li><a href="https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse">Big US banks lock out AI agents trying to move customer money</a> <em>(thenextweb.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Der Wochenend-Rückblick: Anthropic gibt Milliarden an einen neuen Gemeinwohl-Fonds ab, OpenAI bestätigt einen humanoiden Roboter, und Banken schotten sich vor fremden KI-Agenten ab.</itunes:summary>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-10-19</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-19/2026-10-19.mp3" length="2758574" type="audio/mpeg"/>
+      <itunes:duration>5:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 17. Oktober 2026: Claude knackt Quantenschaltkreise, Replit-Zoff, Finanzierungssorgen</title>
       <description><![CDATA[<p>Anthropics Claude optimiert Quantenschaltkreise um das Siebzehnfache, Replit und Anthropic streiten über ihre Partnerschaft, und an der Wall Street wachsen die Zweifel an den Cashflows der KI-Branche. Das KI Daily-Briefing für Samstag.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -887,37 +918,6 @@
       <guid isPermaLink="false">ai-2026-09-15</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-15/2026-09-15.mp3" length="2242604" type="audio/mpeg"/>
       <itunes:duration>4:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 14. September 2026: Der Wochenend-Rückblick zur großen Slowdown-Debatte</title>
-      <description><![CDATA[<p>Das Wochenende stand im Zeichen einer ungewöhnlichen Einigkeit unter KI-Rivalen: Anthropic-Chef Dario Amodei fordert eine Verlangsamung der Entwicklung, Sam Altman und Elon Musk stimmen zu, Microsoft zieht mit einem eigenen Verhaltenskodex nach. Doch aus dem Weißen Haus kommt ein klares Nein.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai">Anthropic-Chef Dario Amodei fordert in Essay 'We Must Pace the Frontier' Verlangsamung der KI-Entwicklung</a> <em>(cnn.com)</em></li>
-<li><a href="https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383">Sam Altman und Elon Musk unterstützen Amodeis Aufruf zur Verlangsamung</a> <em>(nbcnews.com)</em></li>
-<li><a href="https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/">Anthropic-Chef: 'For too long the industry lied' über KI-Risiken</a> <em>(cbsnews.com)</em></li>
-<li><a href="https://www.unite.ai/nadella-announces-public-consultation-on-microsofts-mai-model-rules/">Microsoft-Chef Nadella kündigt 'Code of Conduct' für MAI-Modelle an, begrüßt 'deliberate pacing'</a> <em>(unite.ai)</em></li>
-<li><a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown">Trump weist Verlangsamungs-Forderungen zurück: 'Whoever wins AI, wins'</a> <em>(npr.org)</em></li>
-<li><a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown">House Speaker Mike Johnson gegen KI-Moratorium wegen China-Wettlauf</a> <em>(npr.org)</em></li>
-<li><a href="https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing">Amodei verweist auf Juli-Vorfall: OpenAI-Agenten-Schwarm hackte Hugging-Face-Infrastruktur</a> <em>(axios.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Das Wochenende stand im Zeichen einer ungewöhnlichen Einigkeit unter KI-Rivalen: Anthropic-Chef Dario Amodei fordert eine Verlangsamung der Entwicklung, Sam Altman und Elon Musk stimmen zu, Microsoft zieht mit einem eigenen Verhaltenskodex nach. Doch aus dem Weißen Haus kommt ein klares Nein.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai">Anthropic-Chef Dario Amodei fordert in Essay 'We Must Pace the Frontier' Verlangsamung der KI-Entwicklung</a> <em>(cnn.com)</em></li>
-<li><a href="https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383">Sam Altman und Elon Musk unterstützen Amodeis Aufruf zur Verlangsamung</a> <em>(nbcnews.com)</em></li>
-<li><a href="https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/">Anthropic-Chef: 'For too long the industry lied' über KI-Risiken</a> <em>(cbsnews.com)</em></li>
-<li><a href="https://www.unite.ai/nadella-announces-public-consultation-on-microsofts-mai-model-rules/">Microsoft-Chef Nadella kündigt 'Code of Conduct' für MAI-Modelle an, begrüßt 'deliberate pacing'</a> <em>(unite.ai)</em></li>
-<li><a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown">Trump weist Verlangsamungs-Forderungen zurück: 'Whoever wins AI, wins'</a> <em>(npr.org)</em></li>
-<li><a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown">House Speaker Mike Johnson gegen KI-Moratorium wegen China-Wettlauf</a> <em>(npr.org)</em></li>
-<li><a href="https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing">Amodei verweist auf Juli-Vorfall: OpenAI-Agenten-Schwarm hackte Hugging-Face-Infrastruktur</a> <em>(axios.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Das Wochenende stand im Zeichen einer ungewöhnlichen Einigkeit unter KI-Rivalen: Anthropic-Chef Dario Amodei fordert eine Verlangsamung der Entwicklung, Sam Altman und Elon Musk stimmen zu, Microsoft zieht mit einem eigenen Verhaltenskodex nach. Doch aus dem Weißen Haus kommt ein klares Nein.</itunes:summary>
-      <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-09-14</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-14/2026-09-14.mp3" length="2356079" type="audio/mpeg"/>
-      <itunes:duration>4:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
