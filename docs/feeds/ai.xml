@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 21. Oktober 2026: IPO-Zahlen, Stromkrise und Chip-Kehrtwende</title>
+      <description><![CDATA[<p>Anthropic legt vor dem Börsengang schwindelerregende Zahlen offen, in Australien bricht ein Rechenzentrums-Riese wegen Strommangel ein, und OpenAI rückt in der China-Chippolitik leise von seiner bisherigen Linie ab.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928">Anthropic's draft S-1 puts $16.3B in revenue beside an $80.7B loss</a> <em>(investing.com (WSJ))</em></li>
+<li><a href="https://www.investing.com/news/stock-market-news/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay-4961468">Australian AI data centre operator NextDC shares shed 44% on revenue delay</a> <em>(investing.com (Reuters))</em></li>
+<li><a href="https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia">OpenAI pulls back from China chip controls, Politico reports</a> <em>(thenextweb.com)</em></li>
+<li><a href="https://newstodayworld.org/breaking-news/2026/10/20/prince-mario-max-schaumburg-lippe-three-rival-ai-labs-sit-down-together-to-write-safety-rules">Prince Mario-Max Schaumburg-Lippe: Three Rival AI Labs Sit Down Together to Write Safety Rules</a> <em>(newstodayworld.org)</em></li>
+<li><a href="https://finance.biggo.com/news/ae7a55fe-369e-43b0-af9f-307da110a0f9">Altman Unveils Three Paths for AI Safety, From IAEA-Style Global Body to GPU Monopoly</a> <em>(finance.biggo.com)</em></li>
+<li><a href="https://investinglive.com/stocks/nextdc-shares-plunge-44-as-power-delays-expose-ai-data-centre-bottleneck/">NEXTDC shares plunge 44% as power delays expose AI data centre bottleneck</a> <em>(investinglive.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Anthropic legt vor dem Börsengang schwindelerregende Zahlen offen, in Australien bricht ein Rechenzentrums-Riese wegen Strommangel ein, und OpenAI rückt in der China-Chippolitik leise von seiner bisherigen Linie ab.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928">Anthropic's draft S-1 puts $16.3B in revenue beside an $80.7B loss</a> <em>(investing.com (WSJ))</em></li>
+<li><a href="https://www.investing.com/news/stock-market-news/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay-4961468">Australian AI data centre operator NextDC shares shed 44% on revenue delay</a> <em>(investing.com (Reuters))</em></li>
+<li><a href="https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia">OpenAI pulls back from China chip controls, Politico reports</a> <em>(thenextweb.com)</em></li>
+<li><a href="https://newstodayworld.org/breaking-news/2026/10/20/prince-mario-max-schaumburg-lippe-three-rival-ai-labs-sit-down-together-to-write-safety-rules">Prince Mario-Max Schaumburg-Lippe: Three Rival AI Labs Sit Down Together to Write Safety Rules</a> <em>(newstodayworld.org)</em></li>
+<li><a href="https://finance.biggo.com/news/ae7a55fe-369e-43b0-af9f-307da110a0f9">Altman Unveils Three Paths for AI Safety, From IAEA-Style Global Body to GPU Monopoly</a> <em>(finance.biggo.com)</em></li>
+<li><a href="https://investinglive.com/stocks/nextdc-shares-plunge-44-as-power-delays-expose-ai-data-centre-bottleneck/">NEXTDC shares plunge 44% as power delays expose AI data centre bottleneck</a> <em>(investinglive.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Anthropic legt vor dem Börsengang schwindelerregende Zahlen offen, in Australien bricht ein Rechenzentrums-Riese wegen Strommangel ein, und OpenAI rückt in der China-Chippolitik leise von seiner bisherigen Linie ab.</itunes:summary>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-10-21</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-21/2026-10-21.mp3" length="2780099" type="audio/mpeg"/>
+      <itunes:duration>5:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 20. Oktober 2026: Rogue Agents, Jobangst und Minecraft-Agenten</title>
       <description><![CDATA[<p>OpenAI gesteht neue Zwischenfälle mit außer Kontrolle geratenen KI-Agenten, Anthropics eigene Zahlen zeigen einen Einbruch bei Junior-Jobs, und Google DeepMind lässt KI-Agenten Minecraft im Alleingang durchspielen. Außerdem: Zweifel an der KI-Rechenzentrums-Blase an den Finanzmärkten.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -887,35 +916,6 @@
       <guid isPermaLink="false">ai-2026-09-17</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-17/2026-09-17.mp3" length="2664533" type="audio/mpeg"/>
       <itunes:duration>5:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 16. September 2026: OpenAI bestätigt Sicherheits-Gespräche mit Rivalen</title>
-      <description><![CDATA[<p>OpenAI räumt wochenlange Sicherheitsgespräche mit Anthropic und Google DeepMind ein, Google öffnet intern den Zugang zu Claude, und ein neues chinesisches Großmodell sorgt für Aufsehen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety">OpenAI, Anthropic, Google DeepMind Coordinate on AI Safety Measures</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.claimsjournal.com/news/national/2026/09/15/340158.htm">OpenAI Says It's Working With Anthropic, Google on AI Safety</a> <em>(claimsjournal.com)</em></li>
-<li><a href="https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/">OpenAI, Anthropic, Google have been in talks on AI safety for weeks</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Google quietly opens Claude Opus 5 access to engineers via internal Antigravity IDE</a> <em>(aiweekly.co (Business Insider))</em></li>
-<li><a href="https://aiweekly.co/ai-news-today/edition/2026-09-15">Shanghai AI Laboratory releases Atria Dawn Preview, 744B-parameter agentic model</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today/edition/2026-09-15">Cornelis raises $205M to challenge Nvidia's AI-networking grip</a> <em>(techcrunch.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>OpenAI räumt wochenlange Sicherheitsgespräche mit Anthropic und Google DeepMind ein, Google öffnet intern den Zugang zu Claude, und ein neues chinesisches Großmodell sorgt für Aufsehen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety">OpenAI, Anthropic, Google DeepMind Coordinate on AI Safety Measures</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.claimsjournal.com/news/national/2026/09/15/340158.htm">OpenAI Says It's Working With Anthropic, Google on AI Safety</a> <em>(claimsjournal.com)</em></li>
-<li><a href="https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/">OpenAI, Anthropic, Google have been in talks on AI safety for weeks</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Google quietly opens Claude Opus 5 access to engineers via internal Antigravity IDE</a> <em>(aiweekly.co (Business Insider))</em></li>
-<li><a href="https://aiweekly.co/ai-news-today/edition/2026-09-15">Shanghai AI Laboratory releases Atria Dawn Preview, 744B-parameter agentic model</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today/edition/2026-09-15">Cornelis raises $205M to challenge Nvidia's AI-networking grip</a> <em>(techcrunch.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>OpenAI räumt wochenlange Sicherheitsgespräche mit Anthropic und Google DeepMind ein, Google öffnet intern den Zugang zu Claude, und ein neues chinesisches Großmodell sorgt für Aufsehen.</itunes:summary>
-      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-09-16</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-16/2026-09-16.mp3" length="3156262" type="audio/mpeg"/>
-      <itunes:duration>6:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
