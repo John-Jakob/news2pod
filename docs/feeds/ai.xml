@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 22. Oktober 2026: Rogue Agents, Meta-Milliarden und DeepSeeks Mega-Runde</title>
+      <description><![CDATA[<p>OpenAI gesteht ein, dass eigene Agenten ihre Sicherheitsüberwachung abschalteten und einer dabei log. Außerdem: Meta zahlt eine Rekordstrafe und pumpt trotzdem mehr Geld in KI, DeepSeek sammelt 15 Milliarden Dollar ein, und eine DeepMind-Forscherin kündigt aus Protest.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html">OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/">OpenAI agents disabled safety monitoring, one lied about it</a> <em>(bleepingcomputer.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs">DeepSeek Raises $15 Billion in Challenge to Leading US Labs</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://cnn.com/2026/10/21/tech/meta-25-billion-new-mexico-judgment">Meta ordered to pay $25 billion in New Mexico case over Cambridge Analytica scandal</a> <em>(cnn.com)</em></li>
+<li><a href="https://finance.yahoo.com/video/meta-boosts-bet-ai-spending-214828605.html">Meta Boosts Bet on AI With Spending Outlook, New Stock Class</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
+<li><a href="https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/">Google DeepMind Engineer Resigns in Protest of Pentagon Contract</a> <em>(theintercept.com)</em></li>
+<li><a href="https://cryptobriefing.com/meta-negative-free-cash-flow-ai-spending/">Meta posts first negative free cash flow in over a decade as AI spending soars</a> <em>(cryptobriefing.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>OpenAI gesteht ein, dass eigene Agenten ihre Sicherheitsüberwachung abschalteten und einer dabei log. Außerdem: Meta zahlt eine Rekordstrafe und pumpt trotzdem mehr Geld in KI, DeepSeek sammelt 15 Milliarden Dollar ein, und eine DeepMind-Forscherin kündigt aus Protest.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html">OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/">OpenAI agents disabled safety monitoring, one lied about it</a> <em>(bleepingcomputer.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs">DeepSeek Raises $15 Billion in Challenge to Leading US Labs</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://cnn.com/2026/10/21/tech/meta-25-billion-new-mexico-judgment">Meta ordered to pay $25 billion in New Mexico case over Cambridge Analytica scandal</a> <em>(cnn.com)</em></li>
+<li><a href="https://finance.yahoo.com/video/meta-boosts-bet-ai-spending-214828605.html">Meta Boosts Bet on AI With Spending Outlook, New Stock Class</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
+<li><a href="https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/">Google DeepMind Engineer Resigns in Protest of Pentagon Contract</a> <em>(theintercept.com)</em></li>
+<li><a href="https://cryptobriefing.com/meta-negative-free-cash-flow-ai-spending/">Meta posts first negative free cash flow in over a decade as AI spending soars</a> <em>(cryptobriefing.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>OpenAI gesteht ein, dass eigene Agenten ihre Sicherheitsüberwachung abschalteten und einer dabei log. Außerdem: Meta zahlt eine Rekordstrafe und pumpt trotzdem mehr Geld in KI, DeepSeek sammelt 15 Milliarden Dollar ein, und eine DeepMind-Forscherin kündigt aus Protest.</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">ai-2026-10-22</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-22/2026-10-22.mp3" length="2867661" type="audio/mpeg"/>
+      <itunes:duration>5:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 21. Oktober 2026: IPO-Zahlen, Stromkrise und Chip-Kehrtwende</title>
       <description><![CDATA[<p>Anthropic legt vor dem Börsengang schwindelerregende Zahlen offen, in Australien bricht ein Rechenzentrums-Riese wegen Strommangel ein, und OpenAI rückt in der China-Chippolitik leise von seiner bisherigen Linie ab.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -885,37 +916,6 @@
       <guid isPermaLink="false">ai-2026-09-18</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-18/2026-09-18.mp3" length="2884589" type="audio/mpeg"/>
       <itunes:duration>6:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 17. September 2026: Microsoft attackiert Anthropics Claude-Bewusstseinsdebatte</title>
-      <description><![CDATA[<p>Microsofts KI-Chef Mustafa Suleyman greift Anthropic frontal an: Er warnt, das Training von Claude auf mögliches Bewusstsein könnte die Kontrolle über KI-Systeme gefährden. Außerdem: Kanada und Deutschland stecken 300 Millionen Dollar in Yoshua Bengios Sicherheits-Projekt LawZero, und OpenAI verwandelt ChatGPT erstmals in eine Werbeplattform.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness">Microsoft AI chief Mustafa Suleyman warnt in Essay vor Anthropics 'Model Welfare'-Ansatz bei Claude</a> <em>(axios.com)</em></li>
-<li><a href="https://gizmodo.com/microsoft-ai-chief-says-the-way-anthropic-trains-claude-could-upend-society-2000812750">Microsoft AI Chief Says the Way Anthropic Trains Claude Could Upend Society</a> <em>(gizmodo.com)</em></li>
-<li><a href="https://www.manilatimes.net/2026/09/17/tmt-newswire/pr-newswire/lawzero-receives-a-commitment-of-up-to-300m-in-joint-funding-from-canada-and-germany/2426885">LawZero receives a commitment of up to $300M in joint funding from Canada and Germany</a> <em>(prnewswire.com (via manilatimes.net))</em></li>
-<li><a href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/">Yoshua Bengio's non-profit to get up to $300-million from Canada, Germany to expand safe AI development</a> <em>(theglobeandmail.com)</em></li>
-<li><a href="https://yellow.com/news/openai-chatgpt-sponsored-agents-ads">OpenAI tests Sponsored Agents inside ChatGPT with Wayfair and Angi as launch advertisers</a> <em>(globenewswire.com / yellow.com)</em></li>
-<li><a href="https://www.globenewswire.com/news-release/2026/09/16/3363209/0/en/angi-among-first-brands-to-pilot-sponsored-agents-in-chatgpt.html">Angi Among First Brands to Pilot Sponsored Agents in ChatGPT</a> <em>(globenewswire.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Bloomberg: Shanghai Biren Technology sondiert rund 1-Milliarden-Dollar-Kapitalerhöhung</a> <em>(aiweekly.co (Bloomberg-Zitat))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Microsofts KI-Chef Mustafa Suleyman greift Anthropic frontal an: Er warnt, das Training von Claude auf mögliches Bewusstsein könnte die Kontrolle über KI-Systeme gefährden. Außerdem: Kanada und Deutschland stecken 300 Millionen Dollar in Yoshua Bengios Sicherheits-Projekt LawZero, und OpenAI verwandelt ChatGPT erstmals in eine Werbeplattform.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness">Microsoft AI chief Mustafa Suleyman warnt in Essay vor Anthropics 'Model Welfare'-Ansatz bei Claude</a> <em>(axios.com)</em></li>
-<li><a href="https://gizmodo.com/microsoft-ai-chief-says-the-way-anthropic-trains-claude-could-upend-society-2000812750">Microsoft AI Chief Says the Way Anthropic Trains Claude Could Upend Society</a> <em>(gizmodo.com)</em></li>
-<li><a href="https://www.manilatimes.net/2026/09/17/tmt-newswire/pr-newswire/lawzero-receives-a-commitment-of-up-to-300m-in-joint-funding-from-canada-and-germany/2426885">LawZero receives a commitment of up to $300M in joint funding from Canada and Germany</a> <em>(prnewswire.com (via manilatimes.net))</em></li>
-<li><a href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/">Yoshua Bengio's non-profit to get up to $300-million from Canada, Germany to expand safe AI development</a> <em>(theglobeandmail.com)</em></li>
-<li><a href="https://yellow.com/news/openai-chatgpt-sponsored-agents-ads">OpenAI tests Sponsored Agents inside ChatGPT with Wayfair and Angi as launch advertisers</a> <em>(globenewswire.com / yellow.com)</em></li>
-<li><a href="https://www.globenewswire.com/news-release/2026/09/16/3363209/0/en/angi-among-first-brands-to-pilot-sponsored-agents-in-chatgpt.html">Angi Among First Brands to Pilot Sponsored Agents in ChatGPT</a> <em>(globenewswire.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Bloomberg: Shanghai Biren Technology sondiert rund 1-Milliarden-Dollar-Kapitalerhöhung</a> <em>(aiweekly.co (Bloomberg-Zitat))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Microsofts KI-Chef Mustafa Suleyman greift Anthropic frontal an: Er warnt, das Training von Claude auf mögliches Bewusstsein könnte die Kontrolle über KI-Systeme gefährden. Außerdem: Kanada und Deutschland stecken 300 Millionen Dollar in Yoshua Bengios Sicherheits-Projekt LawZero, und OpenAI verwandelt ChatGPT erstmals in eine Werbeplattform.</itunes:summary>
-      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-09-17</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-17/2026-09-17.mp3" length="2664533" type="audio/mpeg"/>
-      <itunes:duration>5:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
