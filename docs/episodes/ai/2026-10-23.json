@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 23. Oktober 2026: Börsenbeben, Meta-Milliarden und Anthropics IPO-Papiere",
+  "teaser": "Die Furcht vor einer KI-Blase erfasst die Weltbörsen von New York bis Seoul, Meta offenbart 825 Milliarden Dollar an künftigen Verpflichtungen, und Anthropic steht kurz vor der öffentlichen IPO-Einreichung. Außerdem: ein neuer proaktiver Claude-Assistent und ein weiterer prominenter Abgang bei Google DeepMind.",
+  "pubDate": "2026-10-23T06:00:00+02:00",
+  "duration_seconds": 379,
+  "size_bytes": 3035263,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-23/2026-10-23.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 118246,
+    "output_tokens": 5635
+  },
+  "sources": [
+    {
+      "headline": "Nasdaq falls more than 2% for worst day since June as AI spending woes spark sell-off",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+      "published": "2026-10-22"
+    },
+    {
+      "headline": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+      "source": "reuters.com (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html",
+      "published": "2026-10-22"
+    },
+    {
+      "headline": "Korea Stock Market (KRX) Today: KOSPI Plunges 2.05% as AI Fears Hit Samsung Electronics",
+      "source": "sundayguardianlive.com",
+      "url": "https://sundayguardianlive.com/business/korea-stock-market-krx-today-october-23-kospi-plunges-205-as-ai-fears-hit-samsung-electronics-kosdaq-slides-and-oil-surges-to-114-check-top-gainers-and-losers-310443/",
+      "published": "2026-10-23"
+    },
+    {
+      "headline": "Meta Reports $825 Billion in Future Spending Commitments",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/meta-reports-825-billion-in-future-spending-commitments",
+      "published": "2026-10-22"
+    },
+    {
+      "headline": "Anthropic to publicly file for IPO as early as Friday, sources say",
+      "source": "finance.yahoo.com (Reuters)",
+      "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html",
+      "published": "2026-10-22"
+    },
+    {
+      "headline": "SK Hyper seeks $350 billion to fund South Korea's biggest AI data center bet",
+      "source": "startupfortune.com (Bloomberg)",
+      "url": "https://startupfortune.com/sk-hyper-seeks-350-billion-to-fund-south-koreas-biggest-ai-data-center-bet/",
+      "published": "2026-10-23"
+    },
+    {
+      "headline": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+      "source": "macrumors.com",
+      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+      "published": "2026-10-21"
+    },
+    {
+      "headline": "Google DeepMind researchers are quitting over military AI",
+      "source": "madrobot.blog (BBC)",
+      "url": "https://madrobot.blog/",
+      "published": "2026-10-21/22"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Freitag, 23. Oktober 2026.\n\nHeute dreht sich vieles um Geld, Zweifel und Zahlen in schwindelerregender Höhe. Die Künstliche-Intelligenz-Branche steckt mitten in einem handfesten Börsenschreck, und die Wellen schwappen bis nach Asien.\n===\nBeginnen wir mit dem größten Thema des Tages, dem Ausverkauf an den Technologiebörsen. Der Nasdaq Composite ist am Donnerstag um zwei Komma sechs Prozent eingebrochen, der stärkste Tagesverlust seit Juni. \nUS-Aktien fielen deutlich, und der Nasdaq verzeichnete seinen stärksten Tagesrückgang seit Anfang Juni, nachdem mehrere prominente Quartalsberichte neue Sorgen um das Tempo der KI-Ausgaben ausgelöst hatten.\n Besonders betroffen waren Chip- und Infrastrukturwerte. \nAdvanced Micro Devices verlor mehr als acht Prozent, während Micron Technology und Nvidia sechs beziehungsweise vier Prozent einbüßten.\n Auch der Cloud-Anbieter CoreWeave geriet unter Druck. Nvidia-Chef Jensen Huang sagte gegenüber CNBC, die Nachfrage nach sogenannten Neoclouds sei enorm, Kapital dafür aber knapp. Die Unruhe blieb nicht auf die USA beschränkt. Am Freitag fiel der südkoreanische Leitindex KOSPI um gut zwei Prozent, \nnachdem ein scharfer nächtlicher Ausverkauf bei US-Technologiewerten die Stimmung an den asiatischen Märkten belastet hatte, wobei südkoreanische Chiphersteller wegen ihres großen Einflusses auf die lokalen Indizes besonders unter Druck gerieten.\n Auch Japans Nikkei gab deutlich nach.\n===\nMittendrin im Sturm steht Meta. Der Konzern hat in einer Pflichtmitteilung offengelegt, dass er sich zu rund 825 Milliarden Dollar an künftigen Leasing- und Vertragsverpflichtungen committed hat, der Großteil davon für Rechenzentren und KI-Infrastruktur. \nNoch nicht begonnene Leasingverträge summieren sich auf etwa 355 Komma 73 Milliarden Dollar, dazu kommen 454 Komma 52 Milliarden Dollar an unkündbaren vertraglichen Verpflichtungen.\n Im Juli lag diese Summe noch bei knapp 700 Milliarden Dollar. Die Aktie fiel trotz eines Umsatzplus deutlich, weil Meta gleichzeitig einen negativen freien Cashflow meldete und die Kosten für Kreditausfallversicherungen auf Rekordniveau stiegen.\n===\nParallel nimmt der womöglich größte Börsengang der Geschichte Form an. Anthropic will nach übereinstimmenden Berichten noch heute, am Freitag, seinen S-1-Prospekt öffentlich bei der US-Börsenaufsicht einreichen. \nDer Schritt wäre ein entscheidender nächster Baustein für einen möglichen Börsengang, der den Rekord von SpaceX übertreffen könnte, und gilt als wichtiger Test für das Investoreninteresse am KI-Boom.\n Die Erwartungen an die Bewertung sind zuletzt aber spürbar gesunken, von rund zwei Billionen auf etwa eineinhalb Billionen Dollar, ein Zeichen für die wachsende Skepsis gegenüber den gigantischen Ausgaben der Branche.\n===\nWährend in New York die Nerven blank liegen, wird in Südkorea weiter kräftig investiert. Der Konzernableger SK Hyper verhandelt laut Bloomberg über eine Finanzierung von 350 Milliarden Dollar für den Aufbau von KI-Rechenzentren im Land. Geplant ist demnach eine erste Phase mit fünf Gigawatt Kapazität, die bis 2035 auf fünfzehn Gigawatt wachsen soll. Der Deal zeigt, dass trotz der Marktturbulenzen einzelne Akteure ihre milliardenschweren Wetten auf die KI-Infrastruktur nicht zurückfahren.\n===\nAuf der Produktseite hat Anthropic mit Claude Duet einen neuen, proaktiven KI-Assistenten vorgestellt. \nDas ist die Antwort auf Metas Muse-Agenten und OpenAIs Dots-Agenten, ein proaktiver Assistent, der sich meldet, bevor man fragt, und der sich mit Apps verbindet, um Dinge vorzuschlagen, die Aufmerksamkeit brauchen.\n Das System basiert auf Claude Opus fünf Komma fünf, verschickt morgens ein kurzes Briefing und holt sich vor wichtigen Aktionen stets die Zustimmung der Nutzerinnen und Nutzer. Vorerst läuft der Dienst als Forschungsvorschau über eine Warteliste, exklusiv für Pro- und Max-Abonnenten in den USA.\n===\nZum Abschluss ein Update zur Geschichte rund um Google DeepMind. Nachdem gestern bereits von einem Rücktritt aus Protest gegen einen Pentagon-Vertrag berichtet wurde, ist nun der Name bekannt: Die Londoner Forschungsingenieurin Sofia Liguori hat öffentlich gemacht, dass sie das Unternehmen verlassen hat. \nSie nannte dabei den im April 2026 geschlossenen Pentagon-Vertrag für klassifizierte militärische KI-Arbeiten, den Ein-Komma-Zwei-Milliarden-Dollar-Deal Project Nimbus mit Israel sowie die im Dezember 2025 eingeführte Plattform GenAI-Punkt-mil als Gründe.\n Berichten zufolge sprach sie trotz vertraglicher Restriktionen öffentlich mit der BBC, ein weiteres Zeichen für die wachsende interne Unruhe bei Google DeepMind über die militärische Nutzung der eigenen Technologie.\n===\nDas war's für heute. Die kommenden Tage dürften entscheidend werden, vor allem wenn Anthropics Zahlen tatsächlich öffentlich werden und weitere Tech-Konzerne ihre Quartalsberichte vorlegen. Bleibt die Frage, ob sich die Nervosität an den Märkten weiter verschärft oder wieder beruhigt. Wir halten euch auf dem Laufenden. Bis morgen, hier bei KI Daily."
+}
