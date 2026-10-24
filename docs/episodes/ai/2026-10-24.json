@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 24. Oktober 2026: IPO-Rennen, Bio-Labor und Wahlwerbung ohne Label",
+  "teaser": "Wall Street drängt OpenAI und Anthropic zur Eile beim Börsengang, Großbritannien startet ein KI-Biosicherheitslabor mit beiden Firmen, und in den USA sorgt KI-Wahlwerbung ohne Kennzeichnung für Diskussionen.",
+  "pubDate": "2026-10-24T06:00:00+02:00",
+  "duration_seconds": 327,
+  "size_bytes": 2618558,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-24/2026-10-24.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 166872,
+    "output_tokens": 4781
+  },
+  "sources": [
+    {
+      "headline": "Dow Falls 1.2% as AI Spending Fears Hit Tech",
+      "source": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-october-24-2026",
+      "published": "2026-10-24"
+    },
+    {
+      "headline": "OpenAI races to raise funding before Anthropic's market debut: report",
+      "source": "thedailystar.net (Reuters)",
+      "url": "https://www.thedailystar.net/news/technology/news/openai-races-raise-funding-anthropics-market-debut-report-4303276",
+      "published": "2026-10-20 (Update 2026-10-23)"
+    },
+    {
+      "headline": "Wall Street urges Anthropic and OpenAI to speed up IPOs",
+      "source": "newsbytesapp.com",
+      "url": "https://www.newsbytesapp.com/news/business/wall-street-urges-anthropic-and-openai-to-speed-up-ipos/tldr",
+      "published": "2026-10-23"
+    },
+    {
+      "headline": "UK Commits £100M to AI Biosecurity Lab With OpenAI, Anthropic",
+      "source": "bbc.com (via aiweekly.co)",
+      "url": "https://aiweekly.co/alerts/uk-commits-100m-to-ai-biosecurity-lab-with-openai-anthropic",
+      "published": "2026-10-24"
+    },
+    {
+      "headline": "America Is About to See What Happens When Voters Turn to AI",
+      "source": "theatlantic.com (via electionlawblog.org)",
+      "url": "https://electionlawblog.org/2026/america-is-about-to-see-what-happens-when-voters-turn-to-ai/",
+      "published": "2026-10-23"
+    },
+    {
+      "headline": "AI-Generated Midterm Ads Hit $137M, Most Without a Label",
+      "source": "nytimes.com (via gadgetreview.com)",
+      "url": "https://www.gadgetreview.com/ai-generated-midterm-ads-hit-137m-most-without-a-label",
+      "published": "2026-10-23"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Saturday, 24. October 2026.\n\nWir beginnen mit einem kurzen Update zur Börsenlage, über die wir gestern ausführlich berichtet haben. Die Unruhe an den Märkten hält an.\n\n===\n\nDer Dow Jones ist am Freitag um 1,2 Prozent gefallen, der S&P 500 gab 0,5 Prozent nach. Besonders betroffen bleibt Meta. Nachdem die Aktie am Donnerstag bereits rund 7 Prozent verloren hatte, ging es am Freitag noch einmal 1 Prozent abwärts. Gleichzeitig kletterte der Ölpreis auf über 116 Dollar pro Barrel, und die Rendite zehnjähriger US-Staatsanleihen erreichte 5 Prozent. Die Kombination aus teurem Öl und wachsender Skepsis gegenüber den gigantischen KI-Investitionen sorgt weiter für Nervosität an den Börsen. Analysten sprechen von einer zunehmend fragilen Lage für Risikoanlagen, solange sich weder der Ölpreis noch das Vertrauen in den KI-Investitionszyklus stabilisiert.\n\n===\n\nDas bringt uns zum IPO-Wettlauf zwischen OpenAI und Anthropic, den wir bereits in den letzten Tagen verfolgt haben. Hier gibt es ein substanzielles Update. Wall Street drängt beide Unternehmen offenbar dazu, ihre Börsengänge noch vor Jahresende abzuschließen. Hintergrund ist die Sorge, dass sich nach den anstehenden US-Zwischenwahlen die politischen Mehrheiten im Kongress verschieben könnten, was strengere Regulierung für Technologiekonzerne bedeuten könnte. Anthropic peilt demnach einen Börsengang rund um Thanksgiving an. OpenAI wiederum beschleunigt parallel eine große private Finanzierungsrunde über rund 30 Milliarden Dollar, mit der das Unternehmen Berichten zufolge auf eine Bewertung von mehr als 1,4 Billionen Dollar kommen könnte. SoftBank und der aus Abu Dhabi stammende Investor MGX sollen zu den Interessenten gehören. OpenAI will die Finanzierung offenbar abschließen, bevor Anthropics Börsengang direkte Vergleiche der Geschäftszahlen beider Unternehmen provoziert.\n\n===\n\nEine positivere Nachricht kommt aus Großbritannien. Die britische Regierung hat die Gründung eines, wie sie es nennt, weltweit ersten KI-Biosicherheitslabors angekündigt und dafür 100 Millionen Pfund an Regierungsgeldern zugesagt. OpenAI und Anthropic beteiligen sich zusätzlich mit jeweils bis zu 100 Millionen Pfund in Form von Modellzugang und Rechenleistung. OpenAI bringt sein Rosalind-Biodefense-Programm ein, Anthropic stellt Modellzugang und technische Unterstützung bereit. Das Labor ist Teil eines größeren, 600 Millionen Pfund schweren Sicherheits- und Cyberpakets, das kommende Woche im britischen Haushalt näher vorgestellt werden soll. Ziel ist es, mithilfe von KI frühzeitig biologische Bedrohungen zu erkennen und abzuwehren.\n\n===\n\nWeniger erfreulich ist eine Geschichte aus den laufenden US-Zwischenwahlen, über die das Magazin The Atlantic berichtet. Mehrere Wähler, die eigentlich an den demokratischen Senatskandidaten James Talarico in Texas spenden wollten, landeten stattdessen bei einer völlig anderen Kampagne, nämlich der von Senator John Hickenlooper aus Colorado. Der Grund: Googles KI-gestützte Suche hatte einen Link angezeigt, der zwar Talaricos Namen und Bild trug, tatsächlich aber zu einer nicht verbundenen politischen Aktionsgruppe führte, weil das KI-Tool das Kleingedruckte offenbar nicht korrekt ausgewertet hatte. Der Fall zeigt beispielhaft, wie KI-gestützte Suchergebnisse im Wahlkampf zu echten finanziellen Verwirrungen führen können.\n\n===\n\nIm selben Themenfeld gibt es eine aktuelle Auswertung des Wesleyan Media Project, über die unter anderem die New York Times berichtet. Demnach wurden im laufenden Zwischenwahlkampf in den USA bereits mehr als 137 Millionen Dollar für KI-generierte oder KI-bearbeitete Wahlwerbung ausgegeben. Besonders bemerkenswert: Rund 70 Prozent dieser Anzeigen tragen keinerlei Hinweis darauf, dass Künstliche Intelligenz im Spiel war. Die Kosten für aufwendig produzierte, aber täuschend echte Angriffswerbung sind durch KI-Werkzeuge drastisch gesunken, was die Verbreitung solcher Inhalte zusätzlich befeuert. Nur etwa die Hälfte der US-Bundesstaaten schreibt überhaupt eine Kennzeichnungspflicht für KI-Material in der Politik vor, und selbst dort unterscheiden sich die Regeln stark.\n\n===\n\nDas war's für heute. Wir behalten für dich im Blick, wie sich der IPO-Wettlauf zwischen OpenAI und Anthropic in den kommenden Wochen entwickelt, und ob sich die Nervosität an den Technologiebörsen weiter fortsetzt. Danke fürs Zuhören bei KI Daily, bis morgen."
+}
