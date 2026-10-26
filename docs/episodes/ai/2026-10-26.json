@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 26. Oktober 2026: Wochenend-Rückblick vor Anthropics IPO-Tag",
+  "teaser": "Der Wochenend-Rückblick: Anthropics Börsengangs-Papiere könnten heute auftauchen, DeepSeek bekommt mit Tencent und CATL schwergewichtige Investoren, Washington zwingt Verbündete zur Seitenwahl im KI-Wettlauf mit China, und Google gerät wegen Gmail-Daten für Werbung in die Kritik.",
+  "pubDate": "2026-10-26T06:00:00+01:00",
+  "duration_seconds": 352,
+  "size_bytes": 2816253,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-26/2026-10-26.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 170216,
+    "output_tokens": 5064
+  },
+  "sources": [
+    {
+      "headline": "Anthropic's IPO Filing Could Go Public Monday, Days Before Google and Amazon Report",
+      "source": "webpronews.com",
+      "url": "https://www.webpronews.com/anthropic-s1-public-filing-google-amazon-earnings-week",
+      "published": "2026-10-25"
+    },
+    {
+      "headline": "Chinese AI startup DeepSeek raises $15 billion ahead of potential IPO",
+      "source": "thedailystar.net",
+      "url": "https://www.thedailystar.net/news/technology/news/chinese-ai-startup-deepseek-raises-15-billion-ahead-potential-ipo-4305031",
+      "published": "2026-10-25"
+    },
+    {
+      "headline": "DeepSeek closes 100 billion yuan funding round with CATL and Tencent; valuation targets 2.5 trillion yuan",
+      "source": "finance.biggo.com",
+      "url": "https://finance.biggo.com/news/d8b7b396-e0bf-45f1-a693-b4ce743c1f7e",
+      "published": "2026-10-22/23"
+    },
+    {
+      "headline": "29 Countries Sign WAICO as Pax Silica Rivals It",
+      "source": "tech-insider.org",
+      "url": "https://tech-insider.org/us-china-ai-blocs-waico-pax-silica-countries-torn-2026/",
+      "published": "2026-10-25"
+    },
+    {
+      "headline": "China and US Compete for Global AI Partnerships",
+      "source": "demokratis.co.id",
+      "url": "https://demokratis.co.id/en/china-us-global-ai-partnerships",
+      "published": "2026-10-26"
+    },
+    {
+      "headline": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "source": "thehackernews.com",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "published": "2026-10-24"
+    },
+    {
+      "headline": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+      "source": "tech.yahoo.com",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/google-quietly-updates-privacy-policy-170102174.html",
+      "published": "2026-10-24"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Montag, 26. Oktober 2026. Da heute die erste Ausgabe nach dem Wochenende ist, blicken wir auf die wichtigsten Entwicklungen von Samstag und Sonntag zurück, bevor wir in die neue Woche starten.\n\n===\n\nGanz oben auf der Liste steht ein Termin, auf den die gesamte Tech-Branche seit Monaten wartet. Anthropic könnte schon heute, am Montag, seine öffentlichen IPO-Unterlagen bei der US-Börsenaufsicht SEC einreichen. Laut einem Bericht von The Information vom Sonntagabend könnte das S-1-Formular jederzeit auf der EDGAR-Plattform auftauchen. Am Sonntagabend um kurz nach achtzehn Uhr Ostküstenzeit war dort allerdings noch nichts zu finden. Der Finanzdienst IFR hatte zuvor berichtet, dass Anthropic am 26. Oktober öffentlich einreichen, die Investoren-Roadshow am 9. November starten und die Aktie in der Woche danach bepreisen will, mit einem möglichen Volumen von bis zu hundert Milliarden Dollar bei einer Bewertung von zwei Billionen Dollar. Besonders spannend wird das Timing, weil in derselben Woche auch Microsoft, Alphabet und Amazon ihre Quartalszahlen vorlegen, drei Partner, über die laut früheren Entwürfen allein siebenundvierzig Prozent von Anthropics Umsatz im Jahr 2025 liefen. Offen bleibt zudem, wie stark die Kundenkonzentration tatsächlich ist, da laut Reuters zwei einzelne Kunden jeweils zwölf Prozent des Umsatzes ausmachten.\n\n===\n\nEin Update aus China zur bereits gemeldeten Mega-Finanzierungsrunde von DeepSeek. Was am Donnerstag als Gerücht startete, hat sich über das Wochenende zu einem handfesten Bild verdichtet. DeepSeek hat demnach rund hundert Milliarden Yuan, umgerechnet etwa fünfzehn Milliarden Dollar, eingesammelt, wobei der Batteriehersteller CATL und der Internetkonzern Tencent zu den größten Investoren zählen. Das ursprüngliche Ziel lag bei nur fünfzig Milliarden Yuan und wurde während der Verhandlungen gleich zweimal nach oben korrigiert. Laut Reuters sollen daneben auch Haushaltsgerätehersteller Midea, der Lieferdienst Meituan, Autobauer Geely und der Chiphersteller GigaDevice beteiligt sein. Die Finanzierung dient erkennbar als Vorbereitung auf einen möglichen Börsengang an Shanghais STAR Market, für den DeepSeek bereits die Bank CITIC Securities engagiert hat. Die Bewertung vor der neuen Runde lag bei rund fünfhundert Milliarden Yuan, nach dem Listing könnten laut Marktbeobachtern zwischen eineinhalb und zweieinhalb Billionen Yuan möglich sein. Die Botschaft ist klar, auch chinesisches Kapital setzt inzwischen in einer Größenordnung auf KI-Infrastruktur, die bislang amerikanischen Laboren vorbehalten war.\n\n===\n\nGeopolitisch spitzt sich der Wettlauf um KI-Allianzen zu. Eine Associated-Press-Analyse vom Samstag beschreibt, wie Staaten zwischen zwei rivalisierenden Blöcken aufgerieben werden, dem amerikanisch geführten Pax-Silica-Bündnis und Chinas World AI Cooperation Organization, kurz WAICO, die im Juli in Schanghai gegründet wurde und inzwischen neunundzwanzig Gründungsmitglieder zählt, darunter Brasilien, Russland und Südafrika. Washington hat laut Reuters einen Entwurf an fünfunddreißig Unterzeichnerstaaten einer gemeinsamen Erklärung verschickt, der klarmacht, dass eine parallele WAICO-Mitgliedschaft den Ausschluss aus dem amerikanischen Lager bedeuten könnte. Besonders betroffen ist Südostasien, wo Singapur und die Philippinen bei Pax Silica stehen, während Indonesien, Malaysia, Kambodscha, Laos und Myanmar WAICO beigetreten sind. Kasachstan ist derzeit das einzige Land, das offiziell in beiden Lagern mitmischt, genau die Konstellation, die Washington nun beenden will.\n\n===\n\nUnd ein Datenschutzthema, das übers Wochenende weiter Wellen schlägt. Google hat seine Datenschutzrichtlinie zum sechzehnten Oktober stillschweigend geändert und damit ein seit über fünf Jahren geltendes Versprechen aufgeweicht. Bislang hieß es klar, Inhalte aus Gmail, Drive und Google Fotos würden nicht für personalisierte Werbung genutzt. Die neue Fassung enthält nun eine Ausnahme, wer diese Dienste über die KI-Funktion Personal Intelligence mit der Google-Suche oder Gemini verknüpft, dessen Daten können laut dem überarbeiteten Wortlaut künftig auch zur Personalisierung von Inhalten, einschließlich Werbung, verwendet werden. Google betont, dass dies nur greift, wenn Nutzer die Verknüpfung aktiv herstellen, und dass es bei Standardeinstellungen keine Änderung gebe. Dennoch sorgt der Schritt für Kritik, weil er zeigt, wie KI-Funktionen zunehmend als Einfallstor für neue Datennutzungen dienen, selbst wenn die Opt-in-Logik technisch sauber bleibt.\n\n===\n\nDas war der Wochenend-Rückblick für KI Daily. Die kommende Woche dürfte vom möglichen Anthropic-Listing dominiert werden, während gleichzeitig die großen Cloud-Konzerne ihre Quartalszahlen vorlegen und damit zeigen, wie tragfähig die milliardenschweren KI-Wetten tatsächlich sind. Wir bleiben dran und melden uns morgen wieder. Bis dahin, einen guten Start in die Woche."
+}
