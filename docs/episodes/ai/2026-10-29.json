@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 29. Oktober 2026: Googles Gemini 4 Carbon, OpenAIs Wahl-Zentrale, Anti-Bailout-Resolution",
+  "teaser": "Google bringt mit Gemini 4 Carbon ein neues Spitzenmodell für Cybersicherheit, OpenAI richtet vor den US-Midterms eine Wahl-Einsatzzentrale ein, und im Kongress formiert sich Widerstand gegen mögliche Staatshilfen für taumelnde KI-Konzerne.",
+  "pubDate": "2026-10-29T06:00:00+01:00",
+  "duration_seconds": 345,
+  "size_bytes": 2764217,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-29/2026-10-29.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 115981,
+    "output_tokens": 4231
+  },
+  "sources": [
+    {
+      "headline": "Gemini 4 Carbon AI Model Puts Google Back on Top, But Only Cyber Defenders Can Use It For Now",
+      "source": "winbuzzer.com",
+      "url": "https://winbuzzer.com/2026/10/28/gemini-4-carbon-ai-leads-test-for-fixing-vulnerable-code-xcxwbn",
+      "published": "2026-10-28"
+    },
+    {
+      "headline": "OpenAI Opens Election Operations Center for Nov. 3 Midterms",
+      "source": "aiweekly.co / Politico via mehrere Outlets",
+      "url": "https://aiweekly.co/alerts/openai-opens-election-operations-center-for-nov-3-midterms",
+      "published": "2026-10-28"
+    },
+    {
+      "headline": "House Progressives Throw Down a Marker: No AI Bailouts",
+      "source": "prospect.org",
+      "url": "https://prospect.org/2026/10/28/house-progressives-ai-bailout-anthropic-google/",
+      "published": "2026-10-28"
+    },
+    {
+      "headline": "House Democrats push resolution to let failing AI firms go bankrupt, not bailed out",
+      "source": "cryptobriefing.com",
+      "url": "https://cryptobriefing.com/democrats-resolution-ai-bankruptcy-no-bailouts/",
+      "published": "2026-10-28"
+    },
+    {
+      "headline": "House Dems want AI firms to know Congress won't bail them out if they go bankrupt",
+      "source": "dailycaller.com / bizpacreview.com",
+      "url": "https://dailycaller.com/2026/10/28/house-democrats-ai-resolution-bail-outs/",
+      "published": "2026-10-28"
+    },
+    {
+      "headline": "Google DeepMind launches Genie 4 interactive world model",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-10-28/29"
+    },
+    {
+      "headline": "Everything That Happened in AI Today (Thursday, October 29, 2026)",
+      "source": "theneuron.ai",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-29-2026/",
+      "published": "2026-10-29"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Thursday, 29. October 2026.\n\n===\n\nBeginnen wir mit Google. Der Konzern hat ein neues Spitzenmodell namens Gemini 4 Carbon vorgestellt, das speziell für Cybersicherheit und langwierige technische Arbeiten entwickelt wurde. \nGoogle nannte Gemini 4 Carbon am 28. Oktober sein bislang stärkstes Modell, das 15 Tage nach Gemini 4 Argon erschien und dieses bei jedem veröffentlichten Benchmark übertrifft, womit Google wieder an die Spitze eines viel beachteten Branchenrankings zurückkehrt.\n Allerdings bleibt der Zugang vorerst stark eingeschränkt. \nDie meisten Organisationen können Carbon noch nicht nutzen, denn Google gibt es zunächst ausgewählten Cyberverteidigern, und die bisherigen Phasen an der Spitze der Rankings hielten jeweils nur wenige Wochen, bevor OpenAI und Anthropic aufholten.\n Interessant ist auch der Blick hinter die Kulissen. \nGoogle positioniert Carbon zudem für nachhaltige agentenbasierte Arbeit, wobei DeepMind-Chef Koray Kavukcuoglu schrieb, interne Teams hätten beobachtet, wie Carbon tagelang an Sackgassen durchhält, während es subtile Fehler in großen Codebasen aufspürt und behebt.\n Parallel dazu hat Google DeepMind mit Genie 4 ein neues interaktives Weltmodell vorgestellt, das in Echtzeit Musik, Umgebungsgeräusche und Dialoge erzeugt und von Testern per natürlicher Sprache gesteuert werden kann. Es startet zunächst als Forschungs-Vorschau für ausgewählte Nutzer.\n\n===\n\nEin zweites großes Thema heute dreht sich um die bevorstehenden US-Zwischenwahlen. OpenAI hat eine eigene Einsatzzentrale für die Wahlen am 3. November eingerichtet. \nDas Unternehmen richtet ein Election Operations Center ein, um mögliche Einmischung bei den Midterms zu überwachen, nachdem es Anfang des Monats bekanntgegeben hatte, dass Einflussoperationen aus Russland und dem Iran ChatGPT genutzt hätten.\n \nHunderte OpenAI-Mitarbeiter sollen an der Wahlüberwachung beteiligt sein, mit dem Ziel, verdächtige Aktivitäten zu erkennen und Berichte über unerwartetes KI-Verhalten zu untersuchen. Geleitet wird die Initiative von Josh Lawson, dem Leiter für zivilgesellschaftliche und strategische Risiken bei OpenAI.\n Zusätzlich gibt es eine technische Schutzmaßnahme: \nEine sogenannte Cartoonification-Regel wandelt fotorealistische Bildanfragen zu Wahlthemen automatisch in Cartoon-Ausgaben um.\n\n\n===\n\nIm politischen Washington formiert sich derweil Widerstand gegen mögliche staatliche Rettungsaktionen für die KI-Industrie. Zwei demokratische Abgeordnete haben eine Resolution eingebracht, die genau das verhindern soll. \nDie Abgeordneten Greg Casar und Maxine Waters brachten am 28. Oktober eine nicht bindende Resolution ein, die erklärt, der Kongress solle sich strikt gegen Bundeshilfen für insolvente KI-Unternehmen stellen.\n Hintergrund ist die Sorge, dass die enormen Investitionen in KI-Infrastruktur systemische Risiken für das Finanzsystem bergen. \nDas Dokument verlangt, dass KI-Firmen sich im Falle einer Pleite durch ordentliche Insolvenzverfahren abwickeln oder reorganisieren sollen, während Führungskräfte, die übermäßige Risiken eingegangen sind oder unrechtmäßig gehandelt haben, zivil- und strafrechtlich voll zur Verantwortung gezogen werden sollen.\n Die Dimension der Investitionen ist gewaltig. \nS&P schätzt, dass Amazon, Microsoft, Alphabet, Oracle, Meta und SpaceX zwischen 2025 und 2030 zusammen mehr als sieben Billionen Dollar für KI-bezogene Investitionen ausgeben werden.\n Diese Resolution kommt nur wenige Tage nach Anthropics Börsengangs-Unterlagen und unterstreicht, wie nervös Teile der Politik angesichts der hohen Bewertungen und Schuldenlast der Branche geworden sind.\n\n===\n\nZum Abschluss noch ein Blick auf die Modell-Landschaft insgesamt. Während es heute keine großen neuen Modell-Releases von Meta, xAI, Mistral oder DeepSeek gab, bleibt der Veröffentlichungskalender eng getaktet. Mistral hat für Ende Oktober eine Veröffentlichung der Gewichte für sein Modell Large 4 angekündigt, und auch bei xAI und Kimi stehen in den kommenden Tagen weitere Updates an. Der Rhythmus der Branche bleibt also hoch, auch wenn heute die großen Schlagzeilen eher aus den Bereichen Regulierung und Unternehmenspolitik kamen als aus neuen Modell-Launches.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Im Fokus bleiben die US-Zwischenwahlen am kommenden Dienstag, bei denen OpenAI, Google und andere Anbieter ihre Plattformen besonders genau überwachen wollen, sowie die Frage, wie der Kongress mit den wachsenden finanziellen Risiken der KI-Industrie umgehen wird. Wir hören uns morgen wieder. Bis dahin, alles Gute."
+}
