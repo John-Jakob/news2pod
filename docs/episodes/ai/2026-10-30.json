@@ -1,0 +1,46 @@
+{
+  "title": "KI Daily – 30. Oktober 2026: Microsofts OpenAI-Milliarden, Intels KI-Boom, Mistrals Le Chonk",
+  "teaser": "Microsoft verrät, wie viel Geld OpenAI ihm wirklich bringt, Nvidia steigt noch tiefer ins Anthropic-Finanzierungskarussell ein, und Intels KI-Sparte boomt, während die PC-Flaute die Aktie abstürzen lässt. Außerdem: Mistral bringt ein neues offenes Modell, und die EU verschiebt Fristen beim AI Act.",
+  "pubDate": "2026-10-30T06:00:00+01:00",
+  "duration_seconds": 330,
+  "size_bytes": 2643426,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-30/2026-10-30.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 153111,
+    "output_tokens": 4766
+  },
+  "sources": [
+    {
+      "headline": "Microsoft's OpenAI-Geschäft bringt 10 Milliarden Dollar Quartalsumsatz",
+      "source": "geekwire.com",
+      "url": "https://www.geekwire.com/2026/bigger-than-bing-or-xbox-microsofts-openai-haul-reaches-10b-in-quarterly-revenue/",
+      "published": "2026-10-29"
+    },
+    {
+      "headline": "Nvidia erwägt Kreditgarantien für Nscale-Schulden zugunsten von Anthropics zweitem 45-Milliarden-Dollar-Deal",
+      "source": "reuters.com (via kelo.com)",
+      "url": "https://kelo.com/2026/10/29/nvidia-in-talks-to-give-credit-support-for-nscales-deal-with-anthropic-the-information-reports/",
+      "published": "2026-10-29"
+    },
+    {
+      "headline": "Intel: Data-Center-KI-Umsatz steigt 78 Prozent, Aktie bricht wegen schwachem Q4-Ausblick ein",
+      "source": "fool.com / investing.com",
+      "url": "https://www.fool.com/investing/2026/10/29/intel-server-sales-jump-78-q4-outlook-dims-rapid-e/",
+      "published": "2026-10-29"
+    },
+    {
+      "headline": "Mistral veröffentlicht offenes Modell Mistral Large 4 ('Le Chonk') für Coding und Cybersicherheit",
+      "source": "winbuzzer.com",
+      "url": "https://winbuzzer.com/2026/10/29/mistral-releases-le-chonk-ai-for-self-hosted-cyber-defense-xcxwbn/",
+      "published": "2026-10-29"
+    },
+    {
+      "headline": "EU verschiebt Hochrisiko-KI-Pflichten auf Ende 2027, erste harmonisierte Norm zum AI Act veröffentlicht",
+      "source": "borncity.com",
+      "url": "https://borncity.com/news/eu-ai-act-hochrisiko-ki-pflichten-fuer-eigenstaendige-systeme-bis-ende-2027-verschoben/",
+      "published": "2026-10-2x (jüngste Woche)"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 30. Oktober 2026.\n\nWir starten mit einer Zahl, die zeigt, wie eng Microsoft und OpenAI inzwischen finanziell verflochten sind. In seinem jüngsten Quartalsbericht hat Microsoft erstmals offengelegt, wie viel Umsatz die Geschäftsbeziehung zu OpenAI tatsächlich bringt. Im Quartal, das Ende September endete, generierte OpenAI für Microsoft satte zehn Milliarden Dollar Umsatz. Zum Vergleich: Die Xbox-Sparte brachte im selben Zeitraum nur fünfeinhalb Milliarden Dollar ein. Damit übertrifft das OpenAI-Geschäft inzwischen einige der traditionsreichsten Geschäftsfelder von Microsoft. Diese Zahl setzt sich zusammen aus Umsatzbeteiligungen und der Nutzung von Microsofts Azure-Cloud durch OpenAI für Training und Betrieb seiner Modelle. Microsoft muss die Zahlen offenlegen, weil sein rund vierundzwanzig Prozent-Anteil an OpenAI das Unternehmen zu einer sogenannten nahestehenden Partei macht. Gleichzeitig zeigt der Bericht, dass Microsoft bereits zwölf von dreizehn versprochenen Milliarden Dollar in OpenAI investiert hat.\n\nEin weiteres Kapitel in der Geschichte der milliardenschweren KI-Finanzierungsketten kommt von Nvidia und dem britischen Cloud-Anbieter Nscale. Laut einem Bericht von The Information, den Reuters aufgegriffen hat, verhandelt Nvidia darüber, milliardenschwere Kreditgarantien für Schulden zu übernehmen, mit denen Nscale eine zweite Erweiterungsstufe seines Rechenzentrumscampus in West Virginia bauen will. Dort soll erneut Anthropic einziehen. Anthropic hatte bereits im August einen sechsjährigen Deal im Volumen von rund fünfundvierzig Milliarden Dollar mit Nscale für die erste vierhundertsechzig Megawatt starke Ausbaustufe unterschrieben. Jetzt steht eine zweite, gleich große Ausbaustufe zur Debatte, die das Volumen auf rund neunzig Milliarden Dollar verdoppeln könnte. Nvidia wäre damit gleichzeitig Chiplieferant, Investor und Kreditgeber in derselben Kette, was Beobachter zunehmend als Risiko für zirkuläre Finanzierung im KI-Infrastrukturboom werten. Nvidia hat laut Berichten inzwischen insgesamt rund hundertsiebzig Milliarden Dollar an Kreditunterstützung und Investitionen in sogenannte Neoclouds wie Nscale, Coreweave und Firmus gesteckt.\n\nAuch Intel lieferte gestern einen Beleg dafür, wie zweigeteilt die Chipbranche derzeit ist. Der Umsatz in der Data-Center- und KI-Sparte stieg im dritten Quartal um achtundsiebzig Prozent auf siebeneinhalb Milliarden Dollar, das stärkste Wachstum in diesem Bereich seit fünfzehn Jahren. Doch der Ausblick für das vierte Quartal fiel deutlich schwächer aus als von Analysten erwartet, unter anderem wegen einer anhaltenden PC-Flaute und steigender Speicherchip-Preise. Die Aktie brach im nachbörslichen Handel um rund zwanzig Prozent ein. Intel-Finanzchef David Zinsner sagte, die Schwäche im PC-Geschäft werde wohl mindestens bis zur Jahresmitte zweitausendsiebenundzwanzig anhalten.\n\nAuf der Modellseite hat das französische Unternehmen Mistral AI ein neues offenes Modell veröffentlicht. Mistral Large 4, intern auch Le Chonk genannt, ist ein offenes Mixture-of-Experts-Modell mit einer Billion Parametern, das speziell für Coding- und Cybersicherheitsaufgaben optimiert wurde. Mistral positioniert das Modell als Angebot für Organisationen, die KI komplett selbst hosten und kontrollieren wollen, statt auf externe Cloud-Anbieter angewiesen zu sein. Laut unabhängigen Tests von Artificial Analysis liegt Mistral bei Cybersicherheits-Benchmarks nah an aktuellen chinesischen Konkurrenzmodellen, auch wenn es diese insgesamt noch nicht vollständig einholt.\n\nUnd schließlich ein Blick auf die Regulierungsseite in Europa. Die EU hat kürzlich strenge Pflichten für eigenständige Hochrisiko-KI-Systeme, etwa im öffentlichen Dienst, von August zweitausendsechsundzwanzig auf Dezember zweitausendsiebenundzwanzig verschoben. Parallel dazu wurde mit der Norm EN 18286 der erste harmonisierte Standard zum AI Act im Amtsblatt veröffentlicht, der Qualitätsmanagementsysteme für Regulierungszwecke festlegt. Die EU-Kommission treibt also gleichzeitig Fristverschiebungen und technische Standardisierung voran, während in mehreren Mitgliedstaaten bereits erste Prüfungen zu Kennzeichnungspflichten laufen.\n\nDamit sind wir am Ende des heutigen Briefings. Die großen Linien bleiben dieselben: gigantische Finanzierungsketten rund um Nvidia, Anthropic und die Cloud-Anbieter, ein Wettlauf bei offenen Modellen und eine europäische Regulierung, die versucht, mit dem Tempo der Branche Schritt zu halten. Wir hören uns morgen wieder. Bis dahin, einen guten Start in den Tag."
+}
