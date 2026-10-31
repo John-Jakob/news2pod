@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 31. Oktober 2026: Scraping-Opt-out, Firmware-Lücke, Anthropic-Zahlen",
+  "teaser": "OpenAI, Google, Microsoft und Anthropic einigen sich auf einen gemeinsamen Opt-out-Standard für KI-Scraping, Claude und Google-Forscher decken eine kritische Firmware-Sicherheitslücke auf, und erste Risse im KI-Investitionsboom werden sichtbar.",
+  "pubDate": "2026-10-31T06:00:00+01:00",
+  "duration_seconds": 379,
+  "size_bytes": 3033800,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-31/2026-10-31.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 122897,
+    "output_tokens": 4529
+  },
+  "sources": [
+    {
+      "headline": "AI Giants Back Shared Standard for Publishers to Opt Out of AI Scraping",
+      "source": "theverge.com (via hyper.ai/mezha.net Zusammenfassung)",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30"
+    },
+    {
+      "headline": "Anthropic and Google Researchers Find a Critical UEFI Firmware Flaw (CVE-2026-97631)",
+      "source": "securityweek.com",
+      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+      "published": "2026-10-30"
+    },
+    {
+      "headline": "Claude Model Builds Exploits Across Major Browsers & OSes",
+      "source": "darkreading.com",
+      "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+      "published": "2026-10-29/30"
+    },
+    {
+      "headline": "Anthropic's S-1: $16.3B in Revenue, a $127.6B Hole, and a $266B Bill",
+      "source": "finance.biggo.com",
+      "url": "https://finance.biggo.com/news/30ac02515ae0d83b",
+      "published": "2026-10-29/30"
+    },
+    {
+      "headline": "Cracks are emerging in the AI spending boom",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "published": "2026-10-30"
+    },
+    {
+      "headline": "DoorDash said it's only received several hundred orders from AI agents",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "published": "2026-10-30"
+    },
+    {
+      "headline": "FTC summons Anthropic executives to testify in consumer harm probe",
+      "source": "p3humansonai.substack.com (Humans on AI #66)",
+      "url": "https://p3humansonai.substack.com/p/humans-on-ai-66-october-30-2026",
+      "published": "2026-10-30"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, 31. Oktober 2026.\n\nWir beginnen heute mit einer Nachricht, die das Verhältnis zwischen der KI-Industrie und dem offenen Web neu ordnen könnte. OpenAI, Google, Microsoft und Anthropic haben angekündigt, gemeinsam einen neuen Opt-out-Standard für Webseiten-Betreiber zu unterstützen. Konkret geht es um ein geteiltes Signal, das in der robots-txt-Datei hinterlegt wird und es Webseiten erlaubt, mit einer einzigen Einstellung allen beteiligten Anbietern gleichzeitig mitzuteilen, dass ihre Inhalte nicht für das Training generativer KI-Modelle verwendet werden dürfen. Entwickelt wurde der sogenannte Policy Token von einem technischen Standards-Verantwortlichen bei Anthropic im Rahmen der Internet Engineering Task Force. Anthropic hat das Signal bereits umgesetzt, Microsoft bietet zusätzlich getrennte Einstellungen für Training und für sogenanntes Grounding an, bei dem Modelle Quellen zur Absicherung ihrer Antworten heranziehen. Microsoft betont dabei ausdrücklich, dass Webseiten trotzdem weiterhin in der Bing-Suche erscheinen. OpenAI will die Unterstützung in den kommenden Monaten einführen, Google und Microsoft planen die Umsetzung für das kommende Jahr. Der Schritt ist auch vor dem Hintergrund laufender Urheberrechtsklagen von Verlagen gegen OpenAI zu sehen.\n\n===\n\nIm Bereich KI-Sicherheit gibt es gleich zwei bemerkenswerte Meldungen. Zum einen haben Forscher von Anthropic und Google eine kritische Schwachstelle in weit verbreiteter Server-Firmware entdeckt. Die Lücke mit der Kennung CVE-2026-97631 betrifft den Code TianoCore EDK II, auf dem die Firmware zahlreicher Serverhersteller basiert. Ein Angreifer mit Zugang zum lokalen Netzwerk kann demnach während eines sogenannten Netzwerk-Boots Schadcode mit höchsten Rechten ausführen, bevor das Betriebssystem überhaupt startet. Betroffen sind vor allem Server, die per PXE über das Netzwerk booten, normale Laptops sind in aller Regel nicht gefährdet.\n\nZum anderen hat Anthropic offengelegt, dass ein noch unveröffentlichtes internes Claude-Modell eigenständig Sicherheitslücken in Chrome, Safari, Android, Windows und Linux gefunden und zu funktionierenden Exploit-Ketten kombiniert hat. In einem Beispiel gelang es dem Modell, über eine Schwachstelle in Chromes V8-JavaScript-Engine und weitere verkettete Fehler die Taschenrechner-App auf einem Mac zu starten, ohne dass der Nutzer danach noch etwas tun musste. \nInsgesamt erzeugte das Modell fünf funktionierende Exploits gegen Chrome, Safari, Android, Windows und Linux, wobei alle betroffenen Hersteller die Schwachstellen inzwischen behoben haben.\n \nAnthropic meldete 62 Schwachstellen an Google, die alle CVE-Kennungen erhielten, als hoch oder kritisch eingestuft und bis Chrome Version 156 gepatcht wurden.\n Sicherheitsexperten weisen allerdings darauf hin, dass der Bericht keine Angaben zu Erfolgsquoten oder zum tatsächlichen Zeitaufwand macht und dass laut einer anderen Analyse nur ein kleiner Bruchteil solcher KI-entdeckter Schwachstellen in der Praxis tatsächlich ausgenutzt wird.\n\n===\n\nFinanziell bleibt Anthropic im Zentrum der Aufmerksamkeit. Die Details aus dem Börsenprospekt des Unternehmens werden weiterhin intensiv analysiert. Die Zahlen zeigen enormes Wachstum bei gleichzeitig gewaltigen Verpflichtungen. Besonders auffällig sind die langfristigen Einkaufs- und Leasingverpflichtungen in Höhe von zusammengerechnet weit über 600 Milliarden Dollar, die die bisherigen Jahresumsätze um ein Vielfaches übersteigen. Beobachter sehen darin sowohl den Beweis für echte Kundennachfrage als auch ein erhebliches finanzielles Risiko, sollte das Wachstum nicht in diesem Tempo weitergehen.\n\nDiese Vorsicht passt zu einem größeren Thema, das in der Branche gerade an Fahrt gewinnt. Es mehren sich Berichte über erste Risse im KI-Investitionsboom, da große Technologiekonzerne weiterhin Milliarden in den Ausbau von Rechenzentren stecken, während gleichzeitig steigende Schulden, negative Cashflows einzelner Anbieter und zunehmend skeptische Investoren Fragen zur Nachhaltigkeit dieses Booms aufwerfen. Ein kleines, aber plastisches Beispiel für die Lücke zwischen Erwartung und Realität liefert der Lieferdienst DoorDash. Das Unternehmen erklärte, bislang nur wenige hundert Bestellungen über KI-Agenten erhalten zu haben, zeigte sich aber grundsätzlich offen für Kooperationen mit Entwicklern solcher Agenten. Das deutet darauf hin, dass autonome KI-Einkaufsassistenten im Alltag der Verbraucher bislang kaum angekommen sind.\n\n===\n\nAbschließend ein Blick auf die regulatorische und aufsichtsrechtliche Seite. Die US-Handelsaufsicht FTC, die bereits zuvor Unterlagen sowohl von OpenAI als auch von Anthropic angefordert hatte, hat nun Führungskräfte von Anthropic vorgeladen, um im Rahmen einer Untersuchung zu möglichen Verbraucherschäden auszusagen. Details zum genauen Gegenstand der Befragung liegen noch nicht vollständig vor, die Entwicklung zeigt aber, dass die Aufsicht ihren Fokus auf die großen KI-Anbieter weiter verschärft.\n\nDas war dein KI Daily-Briefing für heute. In den kommenden Tagen dürfte es vor allem um die weitere Entwicklung rund um Anthropics Börsengang gehen, um die Umsetzung des neuen Scraping-Standards sowie um mögliche weitere Reaktionen der Aufsichtsbehörden. Vielen Dank fürs Zuhören, bis morgen."
+}

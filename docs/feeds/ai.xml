@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 31. Oktober 2026: Scraping-Opt-out, Firmware-Lücke, Anthropic-Zahlen</title>
+      <description><![CDATA[<p>OpenAI, Google, Microsoft und Anthropic einigen sich auf einen gemeinsamen Opt-out-Standard für KI-Scraping, Claude und Google-Forscher decken eine kritische Firmware-Sicherheitslücke auf, und erste Risse im KI-Investitionsboom werden sichtbar.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out">AI Giants Back Shared Standard for Publishers to Opt Out of AI Scraping</a> <em>(theverge.com (via hyper.ai/mezha.net Zusammenfassung))</em></li>
+<li><a href="https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/">Anthropic and Google Researchers Find a Critical UEFI Firmware Flaw (CVE-2026-97631)</a> <em>(securityweek.com)</em></li>
+<li><a href="https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses">Claude Model Builds Exploits Across Major Browsers &amp; OSes</a> <em>(darkreading.com)</em></li>
+<li><a href="https://finance.biggo.com/news/30ac02515ae0d83b">Anthropic's S-1: $16.3B in Revenue, a $127.6B Hole, and a $266B Bill</a> <em>(finance.biggo.com)</em></li>
+<li><a href="https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/">Cracks are emerging in the AI spending boom</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/">DoorDash said it's only received several hundred orders from AI agents</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://p3humansonai.substack.com/p/humans-on-ai-66-october-30-2026">FTC summons Anthropic executives to testify in consumer harm probe</a> <em>(p3humansonai.substack.com (Humans on AI #66))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>OpenAI, Google, Microsoft und Anthropic einigen sich auf einen gemeinsamen Opt-out-Standard für KI-Scraping, Claude und Google-Forscher decken eine kritische Firmware-Sicherheitslücke auf, und erste Risse im KI-Investitionsboom werden sichtbar.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out">AI Giants Back Shared Standard for Publishers to Opt Out of AI Scraping</a> <em>(theverge.com (via hyper.ai/mezha.net Zusammenfassung))</em></li>
+<li><a href="https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/">Anthropic and Google Researchers Find a Critical UEFI Firmware Flaw (CVE-2026-97631)</a> <em>(securityweek.com)</em></li>
+<li><a href="https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses">Claude Model Builds Exploits Across Major Browsers &amp; OSes</a> <em>(darkreading.com)</em></li>
+<li><a href="https://finance.biggo.com/news/30ac02515ae0d83b">Anthropic's S-1: $16.3B in Revenue, a $127.6B Hole, and a $266B Bill</a> <em>(finance.biggo.com)</em></li>
+<li><a href="https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/">Cracks are emerging in the AI spending boom</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/">DoorDash said it's only received several hundred orders from AI agents</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://p3humansonai.substack.com/p/humans-on-ai-66-october-30-2026">FTC summons Anthropic executives to testify in consumer harm probe</a> <em>(p3humansonai.substack.com (Humans on AI #66))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>OpenAI, Google, Microsoft und Anthropic einigen sich auf einen gemeinsamen Opt-out-Standard für KI-Scraping, Claude und Google-Forscher decken eine kritische Firmware-Sicherheitslücke auf, und erste Risse im KI-Investitionsboom werden sichtbar.</itunes:summary>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-10-31</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-31/2026-10-31.mp3" length="3033800" type="audio/mpeg"/>
+      <itunes:duration>6:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 30. Oktober 2026: Microsofts OpenAI-Milliarden, Intels KI-Boom, Mistrals Le Chonk</title>
       <description><![CDATA[<p>Microsoft verrät, wie viel Geld OpenAI ihm wirklich bringt, Nvidia steigt noch tiefer ins Anthropic-Finanzierungskarussell ein, und Intels KI-Sparte boomt, während die PC-Flaute die Aktie abstürzen lässt. Außerdem: Mistral bringt ein neues offenes Modell, und die EU verschiebt Fristen beim AI Act.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -897,35 +928,6 @@
       <guid isPermaLink="false">ai-2026-09-28</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-28/2026-09-28.mp3" length="3129304" type="audio/mpeg"/>
       <itunes:duration>6:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 26. September 2026: Stargate wackelt, Google ins All, SAFA-Chef gesucht</title>
-      <description><![CDATA[<p>Oracle zieht bei einem Stargate-Rechenzentrum die Notbremse, Google schickt KI-Chips ins Weltall, und die Frontier-Standards-Agentur der großen KI-Labore sucht einen prominenten Chef. Das KI Daily-Briefing für den 26. September.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/">Oracle sends force majeure notice on its New Mexico Stargate data center</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.martincid.com/business/oracle-project-jupiter-force-majeure/">Oracle bet $165B on Stargate AI. A gas pipeline permit is holding it up</a> <em>(martincid.com)</em></li>
-<li><a href="https://www.technology.org/2026/09/25/google-project-suncatcher-tpu-orbit-test/">Google Sends Four TPUs to Orbit on Oct. 1 for Project Suncatcher Test</a> <em>(technology.org)</em></li>
-<li><a href="https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/">Project Suncatcher: Google to launch first space data center test in orbit next week</a> <em>(datacenterdynamics.com)</em></li>
-<li><a href="https://aiweekly.co/alerts/google-openai-anthropic-court-sriram-krishnan-for-ai-safety-body">Google, OpenAI, Anthropic Court Sriram Krishnan for AI Safety Body</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://www.livenewsworld.com/standards-authority-frontier-ai-safa/">Standards Authority for Frontier AI SAFA Report</a> <em>(livenewsworld.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Oracle zieht bei einem Stargate-Rechenzentrum die Notbremse, Google schickt KI-Chips ins Weltall, und die Frontier-Standards-Agentur der großen KI-Labore sucht einen prominenten Chef. Das KI Daily-Briefing für den 26. September.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/">Oracle sends force majeure notice on its New Mexico Stargate data center</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.martincid.com/business/oracle-project-jupiter-force-majeure/">Oracle bet $165B on Stargate AI. A gas pipeline permit is holding it up</a> <em>(martincid.com)</em></li>
-<li><a href="https://www.technology.org/2026/09/25/google-project-suncatcher-tpu-orbit-test/">Google Sends Four TPUs to Orbit on Oct. 1 for Project Suncatcher Test</a> <em>(technology.org)</em></li>
-<li><a href="https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/">Project Suncatcher: Google to launch first space data center test in orbit next week</a> <em>(datacenterdynamics.com)</em></li>
-<li><a href="https://aiweekly.co/alerts/google-openai-anthropic-court-sriram-krishnan-for-ai-safety-body">Google, OpenAI, Anthropic Court Sriram Krishnan for AI Safety Body</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://www.livenewsworld.com/standards-authority-frontier-ai-safa/">Standards Authority for Frontier AI SAFA Report</a> <em>(livenewsworld.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Oracle zieht bei einem Stargate-Rechenzentrum die Notbremse, Google schickt KI-Chips ins Weltall, und die Frontier-Standards-Agentur der großen KI-Labore sucht einen prominenten Chef. Das KI Daily-Briefing für den 26. September.</itunes:summary>
-      <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-09-26</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-26/2026-09-26.mp3" length="2768605" type="audio/mpeg"/>
-      <itunes:duration>5:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
