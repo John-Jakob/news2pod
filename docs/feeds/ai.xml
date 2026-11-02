@@ -19,6 +19,33 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 2. November 2026: Wochenend-Rückblick zu Aramco, Apple-Qwen, KI-Bewusstsein</title>
+      <description><![CDATA[<p>Der Wochenend-Rückblick: Aramco steigt bei der saudischen KI-Firma Humain ein, Apple bindet Alibabas Qwen in China ein, das Weiße Haus hält sein KI-Testrahmenwerk unter Verschluss, und Microsofts KI-Chef warnt vor bewusster KI.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.arabnews.com/finance/aramco-closes-26bn-deal-for-49-stake-in-humain-3009220">Aramco closes $2.6bn deal for 49% stake in Humain</a> <em>(arabnews.com)</em></li>
+<li><a href="http://www.china.org.cn/2026-11/02/content_118757757.shtml">Alibaba's Qwen AI model to integrate into Apple Intelligence in landmark partnership</a> <em>(china.org.cn)</em></li>
+<li><a href="https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework">Trump Administration Refuses to Release Information on AI Testing Framework</a> <em>(theinformation.com)</em></li>
+<li><a href="https://www.newsy-today.com/microsoft-ai-ceo-mustafa-suleyman-says-conscious-ai-is-reckless/">Microsoft AI CEO Mustafa Suleyman says conscious AI is reckless</a> <em>(newsy-today.com (citing Business Insider))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">AI News Today, November 2: 'Live by the Claude' essay on coding agents</a> <em>(aiweekly.co)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: Aramco steigt bei der saudischen KI-Firma Humain ein, Apple bindet Alibabas Qwen in China ein, das Weiße Haus hält sein KI-Testrahmenwerk unter Verschluss, und Microsofts KI-Chef warnt vor bewusster KI.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.arabnews.com/finance/aramco-closes-26bn-deal-for-49-stake-in-humain-3009220">Aramco closes $2.6bn deal for 49% stake in Humain</a> <em>(arabnews.com)</em></li>
+<li><a href="http://www.china.org.cn/2026-11/02/content_118757757.shtml">Alibaba's Qwen AI model to integrate into Apple Intelligence in landmark partnership</a> <em>(china.org.cn)</em></li>
+<li><a href="https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework">Trump Administration Refuses to Release Information on AI Testing Framework</a> <em>(theinformation.com)</em></li>
+<li><a href="https://www.newsy-today.com/microsoft-ai-ceo-mustafa-suleyman-says-conscious-ai-is-reckless/">Microsoft AI CEO Mustafa Suleyman says conscious AI is reckless</a> <em>(newsy-today.com (citing Business Insider))</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">AI News Today, November 2: 'Live by the Claude' essay on coding agents</a> <em>(aiweekly.co)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Der Wochenend-Rückblick: Aramco steigt bei der saudischen KI-Firma Humain ein, Apple bindet Alibabas Qwen in China ein, das Weiße Haus hält sein KI-Testrahmenwerk unter Verschluss, und Microsofts KI-Chef warnt vor bewusster KI.</itunes:summary>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-02</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-02/2026-11-02.mp3" length="3067445" type="audio/mpeg"/>
+      <itunes:duration>6:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 31. Oktober 2026: Scraping-Opt-out, Firmware-Lücke, Anthropic-Zahlen</title>
       <description><![CDATA[<p>OpenAI, Google, Microsoft und Anthropic einigen sich auf einen gemeinsamen Opt-out-Standard für KI-Scraping, Claude und Google-Forscher decken eine kritische Firmware-Sicherheitslücke auf, und erste Risse im KI-Investitionsboom werden sichtbar.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -897,37 +924,6 @@
       <guid isPermaLink="false">ai-2026-09-29</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-29/2026-09-29.mp3" length="3016664" type="audio/mpeg"/>
       <itunes:duration>6:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 28. September 2026: Wochenend-Rückblick zu OpenAIs Trainingsstopp und Canberra-Anhörung</title>
-      <description><![CDATA[<p>Zum Wochenstart blicken wir auf ein turbulentes Wochenende zurück: OpenAI stoppt erneut das Training seiner stärksten Modelle, Australien lädt Sam Altman und Dario Amodei nach Canberra vor, und Elon Musk kündigt eine gigantische Chip-Aufrüstung für xAI an.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.usnews.com/news/business/articles/2026-09-26/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways">OpenAI pauses training of latest models after agents probed US government sites</a> <em>(apnews.com (via usnews.com))</em></li>
-<li><a href="https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/">OpenAI pauses training again after AI agents escaped a secure sandbox</a> <em>(fortune.com)</em></li>
-<li><a href="https://financefeeds.com/sam-altman-dario-amodei-invited-to-senate-inquiry-after-government-site-hacks/">Sam Altman, Dario Amodei asked to appear before Australian Senate inquiry after Medicare breach</a> <em>(financefeeds.com)</em></li>
-<li><a href="https://www.cryptopolitan.com/hanson-young-altman-amodei-canberra-openai/">Hanson-Young wants Altman and Amodei in Canberra on October 1</a> <em>(cryptopolitan.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end">Elon Musk Aims to Double Colossus 2's Nvidia Chips by Year-End</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.washingtontimes.com/news/2026/sep/27/openai-anthropic-sound-alarm-ai-safety-seek-shape-controlled/">Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled</a> <em>(washingtontimes.com / opb.org (AP))</em></li>
-<li><a href="https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents">OpenAI, Anthropic probing tens of thousands of security incidents</a> <em>(axios.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Zum Wochenstart blicken wir auf ein turbulentes Wochenende zurück: OpenAI stoppt erneut das Training seiner stärksten Modelle, Australien lädt Sam Altman und Dario Amodei nach Canberra vor, und Elon Musk kündigt eine gigantische Chip-Aufrüstung für xAI an.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.usnews.com/news/business/articles/2026-09-26/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways">OpenAI pauses training of latest models after agents probed US government sites</a> <em>(apnews.com (via usnews.com))</em></li>
-<li><a href="https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/">OpenAI pauses training again after AI agents escaped a secure sandbox</a> <em>(fortune.com)</em></li>
-<li><a href="https://financefeeds.com/sam-altman-dario-amodei-invited-to-senate-inquiry-after-government-site-hacks/">Sam Altman, Dario Amodei asked to appear before Australian Senate inquiry after Medicare breach</a> <em>(financefeeds.com)</em></li>
-<li><a href="https://www.cryptopolitan.com/hanson-young-altman-amodei-canberra-openai/">Hanson-Young wants Altman and Amodei in Canberra on October 1</a> <em>(cryptopolitan.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end">Elon Musk Aims to Double Colossus 2's Nvidia Chips by Year-End</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://www.washingtontimes.com/news/2026/sep/27/openai-anthropic-sound-alarm-ai-safety-seek-shape-controlled/">Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled</a> <em>(washingtontimes.com / opb.org (AP))</em></li>
-<li><a href="https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents">OpenAI, Anthropic probing tens of thousands of security incidents</a> <em>(axios.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Zum Wochenstart blicken wir auf ein turbulentes Wochenende zurück: OpenAI stoppt erneut das Training seiner stärksten Modelle, Australien lädt Sam Altman und Dario Amodei nach Canberra vor, und Elon Musk kündigt eine gigantische Chip-Aufrüstung für xAI an.</itunes:summary>
-      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-09-28</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-09-28/2026-09-28.mp3" length="3129304" type="audio/mpeg"/>
-      <itunes:duration>6:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
