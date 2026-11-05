@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 5. November 2026: Daten­center-Backlash, Meta kauft Conductor, OpenAIs Linux-Fund</title>
+      <description><![CDATA[<p>Die Midterms werden zum Daten-Center-Referendum mit klarer Absage an die KI-Infrastruktur, Meta schnappt sich den Coding-Agenten-Orchestrator Conductor, und OpenAIs Sicherheitsagenten finden fast tausend Root-Lücken im Linux-Kernel. Außerdem: Anthropic bricht mit der Lizenz-Zurückhaltung und bindet erstmals einen Verlag ein.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html">Voters rebuff data centers in every ballot measure except one during the 2026 midterms</a> <em>(cnbc.com)</em></li>
+<li><a href="https://capitalbnews.org/data-center-ballot-measures-2026-midterms/">Revolting Against Data Centers, Voters in Nearly 40 Towns Reject Projects</a> <em>(capitalbnews.org)</em></li>
+<li><a href="https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/">Meta acquires AI coding startup Conductor</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://openai.com/index/a-thousand-fewer-paths-to-root/">A thousand fewer paths to root (OpenAI findet 948 Linux-Sicherheitslücken)</a> <em>(openai.com)</em></li>
+<li><a href="https://www.adweek.com/media/anthropic-licensing-deal-ap-election/">Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage</a> <em>(adweek.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic adds invisible watermark to four older Claude models</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Google backstops TeraWulf's $19B Anthropic Kentucky lease</a> <em>(aiweekly.co)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Die Midterms werden zum Daten-Center-Referendum mit klarer Absage an die KI-Infrastruktur, Meta schnappt sich den Coding-Agenten-Orchestrator Conductor, und OpenAIs Sicherheitsagenten finden fast tausend Root-Lücken im Linux-Kernel. Außerdem: Anthropic bricht mit der Lizenz-Zurückhaltung und bindet erstmals einen Verlag ein.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html">Voters rebuff data centers in every ballot measure except one during the 2026 midterms</a> <em>(cnbc.com)</em></li>
+<li><a href="https://capitalbnews.org/data-center-ballot-measures-2026-midterms/">Revolting Against Data Centers, Voters in Nearly 40 Towns Reject Projects</a> <em>(capitalbnews.org)</em></li>
+<li><a href="https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/">Meta acquires AI coding startup Conductor</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://openai.com/index/a-thousand-fewer-paths-to-root/">A thousand fewer paths to root (OpenAI findet 948 Linux-Sicherheitslücken)</a> <em>(openai.com)</em></li>
+<li><a href="https://www.adweek.com/media/anthropic-licensing-deal-ap-election/">Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage</a> <em>(adweek.com)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Anthropic adds invisible watermark to four older Claude models</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://aiweekly.co/ai-news-today">Google backstops TeraWulf's $19B Anthropic Kentucky lease</a> <em>(aiweekly.co)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Die Midterms werden zum Daten-Center-Referendum mit klarer Absage an die KI-Infrastruktur, Meta schnappt sich den Coding-Agenten-Orchestrator Conductor, und OpenAIs Sicherheitsagenten finden fast tausend Root-Lücken im Linux-Kernel. Außerdem: Anthropic bricht mit der Lizenz-Zurückhaltung und bindet erstmals einen Verlag ein.</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-05</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-05/2026-11-05.mp3" length="3198893" type="audio/mpeg"/>
+      <itunes:duration>6:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 4. November 2026: Hazelbaker bei OpenAI, Nvidias China-Regel, KI-Schuldenberg</title>
       <description><![CDATA[<p>OpenAI holt sich mit Jill Hazelbaker eine neue Kommunikationschefin, Nvidia schraubt die Daumenschrauben für chinesische Cloud-Kunden an, und ein Nikkei-Bericht zeigt einen explodierenden, bilanzfremden Schuldenberg der Tech-Giganten. Außerdem: Apple öffnet Siri für alle Entwickler, und die US-Zwischenwahlen zeigen, wie sehr KI-Rechenzentren inzwischen Wahlkampfthema sind.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -893,33 +924,6 @@
       <guid isPermaLink="false">ai-2026-10-02</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-02/2026-10-02.mp3" length="2538519" type="audio/mpeg"/>
       <itunes:duration>5:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 1. Oktober 2026: Trumps Super-Intelligence-Pakt, FTC-Sonde, GLM-5.3-Warnung</title>
-      <description><![CDATA[<p>Trump lässt sich von sechs KI-Chefs einen freiwilligen Sicherheitspakt unterschreiben, während die US-Handelsaufsicht FTC zeitgleich eine Untersuchung gegen genau diese Firmen eröffnet. Zudem warnt Anthropic vor einem chinesischen Cyber-Modell, und die Canberra-Anhörung endet ohne die prominentesten Zeugen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.upi.com/Top_News/US/2026/09/30/Trump-tech-executives-AI-accord/9521790748592/">Trump und sechs KI-Chefs unterzeichnen 'White House Accord on Super Intelligence'</a> <em>(upi.com)</em></li>
-<li><a href="https://www.cp24.com/news/money/2026/09/30/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai/">FTC eröffnet branchenweite Untersuchung gegen Anthropic, OpenAI und METR</a> <em>(cp24.com)</em></li>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai">Anthropic warnt vor Chinas offenem Modell GLM-5.3 als Cyberwaffe ohne Schutzmechanismen</a> <em>(tomshardware.com)</em></li>
-<li><a href="https://thenextweb.com/news/altman-amodei-skip-australia-senate-inquiry">Altman und Amodei sagen Teilnahme an Canberra-Anhörung ab</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://openai.com/index/devday-2026-recap/">DevDay 2026 Recap: GPT-6.1 Sol und neue Agenten-Tools vorgestellt</a> <em>(openai.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Trump lässt sich von sechs KI-Chefs einen freiwilligen Sicherheitspakt unterschreiben, während die US-Handelsaufsicht FTC zeitgleich eine Untersuchung gegen genau diese Firmen eröffnet. Zudem warnt Anthropic vor einem chinesischen Cyber-Modell, und die Canberra-Anhörung endet ohne die prominentesten Zeugen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.upi.com/Top_News/US/2026/09/30/Trump-tech-executives-AI-accord/9521790748592/">Trump und sechs KI-Chefs unterzeichnen 'White House Accord on Super Intelligence'</a> <em>(upi.com)</em></li>
-<li><a href="https://www.cp24.com/news/money/2026/09/30/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai/">FTC eröffnet branchenweite Untersuchung gegen Anthropic, OpenAI und METR</a> <em>(cp24.com)</em></li>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai">Anthropic warnt vor Chinas offenem Modell GLM-5.3 als Cyberwaffe ohne Schutzmechanismen</a> <em>(tomshardware.com)</em></li>
-<li><a href="https://thenextweb.com/news/altman-amodei-skip-australia-senate-inquiry">Altman und Amodei sagen Teilnahme an Canberra-Anhörung ab</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://openai.com/index/devday-2026-recap/">DevDay 2026 Recap: GPT-6.1 Sol und neue Agenten-Tools vorgestellt</a> <em>(openai.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Trump lässt sich von sechs KI-Chefs einen freiwilligen Sicherheitspakt unterschreiben, während die US-Handelsaufsicht FTC zeitgleich eine Untersuchung gegen genau diese Firmen eröffnet. Zudem warnt Anthropic vor einem chinesischen Cyber-Modell, und die Canberra-Anhörung endet ohne die prominentesten Zeugen.</itunes:summary>
-      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-01</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-01/2026-10-01.mp3" length="3544546" type="audio/mpeg"/>
-      <itunes:duration>7:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
