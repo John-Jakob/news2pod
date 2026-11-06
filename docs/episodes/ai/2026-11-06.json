@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 6. November 2026: Aktien-Beben, GPT-6 Cyber, Baidus offenes Großmodell",
+  "teaser": "Die Wahl-Nachwehen erreichen die Börse: Der Nasdaq erlebt den schärfsten Einbruch seit anderthalb Jahren. Außerdem: OpenAI stellt ein hochkritisches Cybersecurity-Modell vor, und Baidu öffnet ein neues 280-Milliarden-Parameter-Modell.",
+  "pubDate": "2026-11-06T06:00:00+01:00",
+  "duration_seconds": 383,
+  "size_bytes": 3066609,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-06/2026-11-06.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 123988,
+    "output_tokens": 4853
+  },
+  "sources": [
+    {
+      "headline": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations",
+      "source": "reuters.com (via yahoo finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-futures-steady-midterm-105838388.html",
+      "published": "2026-11-05"
+    },
+    {
+      "headline": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+      "source": "npr.org",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+      "published": "2026-11-05"
+    },
+    {
+      "headline": "OpenAI released a new cybersecurity model. Is that enough?",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "published": "2026-11-05"
+    },
+    {
+      "headline": "OpenAI Launches GPT-6 Cyber That Finds 81 Firefox Flaws and Develops 948 Linux Exploits",
+      "source": "cybersecuritynews.com",
+      "url": "https://cybersecuritynews.com/openai-launches-gpt-6-cyber/",
+      "published": "2026-11-06"
+    },
+    {
+      "headline": "Baidu Releases ERNIE 5.5 Flash Base for Further Training",
+      "source": "unite.ai",
+      "url": "https://www.unite.ai/baidu-releases-ernie-5-5-flash-base-for-further-training/",
+      "published": "2026-11-05"
+    },
+    {
+      "headline": "OpenAI's Lehane likens backing a data centre ban to the 2002 Iraq vote",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/chris-lehane-memo-openai-2028-ai-election",
+      "published": "2026-11-02"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Friday, 6. November 2026.\n\nHeute dreht sich vieles um die Frage, wie die US-Politik nach den Zwischenwahlen auf die KI-Branche einwirkt, um ein neues Hochrisiko-Modell von OpenAI und um ein großes offenes Sprachmodell aus China. Fangen wir mit dem größten Knall des Tages an: der Börse.\n\n===\n\nDer Nasdaq hat gestern den schärfsten Tagesverlust seit neunzehn Monaten verzeichnet und damit offiziell eine Korrektur bestätigt. Auslöser war die Sorge der Anleger, dass die neue demokratische Mehrheit im Kongress den Ausbau von Rechenzentren und die KI-Regulierung deutlich verschärfen könnte. \nDer Nasdaq Composite schloss am Donnerstag deutlich im Minus, verzeichnete den tiefsten Tagesverlust seit neunzehn Monaten, da Chiphersteller wegen der Sorge vor strengerer KI-Regulierung nach dem demokratischen Sieg bei den Kongresswahlen einbrachen.\n \nDer Ausverkauf vernichtete drei Billionen Dollar an Börsenwert bei S&P-500-Unternehmen.\n Besonders hart traf es Nvidia und auf Rechenzentren spezialisierte Firmen wie CoreWeave, IREN und Applied Digital. \nEine Investmentchefin erklärte, es gebe Sorgen über eine mögliche KI-Regulierung und eine Rückkehr der Bevölkerung gegen den Ausbau von Rechenzentren im ganzen Land.\n Die Branche reagiert bereits: Laut Berichten plant OpenAI, direkt nach der Wahl eine politische Offensive in Washington zu starten. \nOpenAI will demnach dem Kongress neue Ideen für verpflichtende Sicherheitsvorgaben für die leistungsfähigsten KI-Systeme vorstellen, die das Unternehmen Geschwindigkeitsbegrenzungen nennt.\n Zusätzlich sollen Rechenzentren künftig als \"KI-Compute-Campusse\" vermarktet werden, um den lokalen Widerstand gegen neue Bauprojekte zu entschärfen.\n\n===\n\nParallel zur politischen Großwetterlage hat OpenAI ein neues, besonders leistungsfähiges Modell für Cybersicherheit vorgestellt. \nOpenAI hat GPT-6 Cyber eingeführt, ein sicherheitsfokussiertes Modell, das einundachtzig neue, hochkritische Schwachstellen im Firefox-Browser fand und funktionierende Exploits für neunhundertachtundvierzig Linux-Kernel-Bugs entwickelte.\n \nBei internen Tests löste das Modell fünfundneunzig Prozent der Aufgaben in einer Testreihe für Fernzugriffs-Exploits, weshalb OpenAI es nun als kritisch für die Cybersicherheit einstuft, während der Vorgänger lediglich als hoch eingestuft war.\n Begleitend kündigte das Unternehmen laut Berichterstattung eine Investition von einer Milliarde Dollar an, um Sicherheitsfachleute zu unterstützen, die kritische Infrastruktur wie Stromnetze oder Wassersysteme schützen. Die Entwicklung zeigt, wie schnell die offensiven und defensiven Fähigkeiten von KI-Modellen im Bereich Cybersicherheit zunehmen, und wirft zugleich die Frage auf, wie gut solche Werkzeuge gegen Missbrauch abgesichert sind.\n\n===\n\nAus China kommt heute eine weitere bedeutende Modell-Neuigkeit. Baidu hat ein neues offenes Großmodell veröffentlicht. \nBaidus ERNIE-Team kündigte ERNIE-5.5-Flash-Base am 5. November 2026 an und veröffentlichte herunterladbare Gewichte für ein reines Text-Modell mit Mixture-of-Experts-Architektur, das 280 Milliarden Gesamtparameter besitzt und davon 14 Milliarden pro Token aktiviert.\n \nDas Pre-Training nutzte 33,5 Billionen Tokens, den Muon-Optimierer und gemischte FP8-Präzision, wobei der Kontext während des Trainings schrittweise auf 128.000 Tokens erweitert wurde und Feintuning sowie Inferenz bis zu einer Million Tokens unterstützen.\n Allerdings ist die Lizenz enger gefasst als bei früheren Baidu-Modellen. Nutzer in der EU, Großbritannien und Südkorea sind laut Lizenztext ausgeschlossen, und eine groß angelegte kommerzielle Nutzung erfordert eine gesonderte schriftliche Genehmigung von Baidu. Das Modell zeigt dennoch, wie intensiv der Wettbewerb um effiziente, aber mächtige offene Sprachmodelle zwischen chinesischen und westlichen Anbietern weitergeht.\n\n===\n\nAm Rande der Branchennachrichten gibt es auch eine Stimme zur Risikodebatte. Der Chef von Hugging Face, Clement Delangue, äußerte sich in einem Interview sehr zurückhaltend zu Weltuntergangsszenarien durch KI und richtete stattdessen Kritik an geschlossenen Labors, die ihre Modelle nicht offenlegen. Diese Position steht im deutlichen Kontrast zu den Sicherheitsdebatten, die derzeit in Washington rund um OpenAIs Vorschläge für verpflichtende Geschwindigkeitsbegrenzungen geführt werden, und zeigt, wie gespalten die Branche selbst in der Frage ist, wie viel Regulierung nötig ist.\n\n===\n\nDas war's für heute. Zusammengefasst: Die politischen Nachwehen der US-Zwischenwahlen haben die Finanzmärkte erreicht, mit dem schärfsten Nasdaq-Einbruch seit anderthalb Jahren. OpenAI schärft gleichzeitig sein Profil bei Cybersicherheit mit einem neu als kritisch eingestuften Modell, während Baidu mit einem großen offenen Modell den globalen Wettbewerb weiter anheizt. Wir beobachten in den kommenden Tagen vor allem, wie der Kongress nach seiner Rückkehr am 9. November auf OpenAIs Regulierungsvorschläge reagiert und ob sich die Kursverluste bei KI-Aktien fortsetzen. Bis morgen bei KI Daily."
+}

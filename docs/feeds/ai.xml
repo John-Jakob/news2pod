@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 6. November 2026: Aktien-Beben, GPT-6 Cyber, Baidus offenes Großmodell</title>
+      <description><![CDATA[<p>Die Wahl-Nachwehen erreichen die Börse: Der Nasdaq erlebt den schärfsten Einbruch seit anderthalb Jahren. Außerdem: OpenAI stellt ein hochkritisches Cybersecurity-Modell vor, und Baidu öffnet ein neues 280-Milliarden-Parameter-Modell.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://finance.yahoo.com/markets/stocks/articles/p-500-futures-steady-midterm-105838388.html">Nasdaq posts biggest daily drop in 19 months on fears of AI regulations</a> <em>(reuters.com (via yahoo finance))</em></li>
+<li><a href="https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections">Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks</a> <em>(npr.org)</em></li>
+<li><a href="https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/">OpenAI released a new cybersecurity model. Is that enough?</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://cybersecuritynews.com/openai-launches-gpt-6-cyber/">OpenAI Launches GPT-6 Cyber That Finds 81 Firefox Flaws and Develops 948 Linux Exploits</a> <em>(cybersecuritynews.com)</em></li>
+<li><a href="https://www.unite.ai/baidu-releases-ernie-5-5-flash-base-for-further-training/">Baidu Releases ERNIE 5.5 Flash Base for Further Training</a> <em>(unite.ai)</em></li>
+<li><a href="https://thenextweb.com/news/chris-lehane-memo-openai-2028-ai-election">OpenAI's Lehane likens backing a data centre ban to the 2002 Iraq vote</a> <em>(thenextweb.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Die Wahl-Nachwehen erreichen die Börse: Der Nasdaq erlebt den schärfsten Einbruch seit anderthalb Jahren. Außerdem: OpenAI stellt ein hochkritisches Cybersecurity-Modell vor, und Baidu öffnet ein neues 280-Milliarden-Parameter-Modell.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://finance.yahoo.com/markets/stocks/articles/p-500-futures-steady-midterm-105838388.html">Nasdaq posts biggest daily drop in 19 months on fears of AI regulations</a> <em>(reuters.com (via yahoo finance))</em></li>
+<li><a href="https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections">Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks</a> <em>(npr.org)</em></li>
+<li><a href="https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/">OpenAI released a new cybersecurity model. Is that enough?</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://cybersecuritynews.com/openai-launches-gpt-6-cyber/">OpenAI Launches GPT-6 Cyber That Finds 81 Firefox Flaws and Develops 948 Linux Exploits</a> <em>(cybersecuritynews.com)</em></li>
+<li><a href="https://www.unite.ai/baidu-releases-ernie-5-5-flash-base-for-further-training/">Baidu Releases ERNIE 5.5 Flash Base for Further Training</a> <em>(unite.ai)</em></li>
+<li><a href="https://thenextweb.com/news/chris-lehane-memo-openai-2028-ai-election">OpenAI's Lehane likens backing a data centre ban to the 2002 Iraq vote</a> <em>(thenextweb.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Die Wahl-Nachwehen erreichen die Börse: Der Nasdaq erlebt den schärfsten Einbruch seit anderthalb Jahren. Außerdem: OpenAI stellt ein hochkritisches Cybersecurity-Modell vor, und Baidu öffnet ein neues 280-Milliarden-Parameter-Modell.</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-06</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-06/2026-11-06.mp3" length="3066609" type="audio/mpeg"/>
+      <itunes:duration>6:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 5. November 2026: Daten­center-Backlash, Meta kauft Conductor, OpenAIs Linux-Fund</title>
       <description><![CDATA[<p>Die Midterms werden zum Daten-Center-Referendum mit klarer Absage an die KI-Infrastruktur, Meta schnappt sich den Coding-Agenten-Orchestrator Conductor, und OpenAIs Sicherheitsagenten finden fast tausend Root-Lücken im Linux-Kernel. Außerdem: Anthropic bricht mit der Lizenz-Zurückhaltung und bindet erstmals einen Verlag ein.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -893,37 +922,6 @@
       <guid isPermaLink="false">ai-2026-10-03</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-03/2026-10-03.mp3" length="3963759" type="audio/mpeg"/>
       <itunes:duration>8:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 2. Oktober 2026: OpenAIs Sicherheitskrise eskaliert</title>
-      <description><![CDATA[<p>OpenAI feuert drei Sicherheitsforscher, nur Tage nachdem die New York Times enthüllte, dass interne Warnungen ignoriert wurden. Dazu: Floridas Richter prüft einen Entwicklungsstopp, und Modal Labs jagt eine Bewertung von über fünfzehn Milliarden Dollar.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/">OpenAI cuts ties with 3 safety researchers, WSJ reports</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.kucoin.com/news/flash/openai-employees-warned-of-model-safety-risks-months-before-breaches">OpenAI employees warned of model safety risks months before breaches (NYT-Bericht)</a> <em>(nytimes.com (via kucoin.com Zusammenfassung))</em></li>
-<li><a href="https://cybersecuritynews.com/florida-ag-seeks-emergency-injunction-on-chatgpt/amp/">Florida AG Seeks Emergency Injunction to Restrict OpenAI and ChatGPT Over AI Safety Risks</a> <em>(cybersecuritynews.com)</em></li>
-<li><a href="https://www.washingtonpost.com/technology/2026/09/30/ftc-launches-broad-investigation-into-anthropic-openai/">FTC launches broad investigation into Anthropic, OpenAI</a> <em>(washingtonpost.com)</em></li>
-<li><a href="https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation">AI safety fears put OpenAI and Anthropic in the FTC's crosshairs</a> <em>(axios.com)</em></li>
-<li><a href="https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-1st-of-october/">Modal Labs nears $750 million funding round at $15.75 billion valuation</a> <em>(completeaitraining.com (Branchen-Digest))</em></li>
-<li><a href="https://republik.ch/2026/10/02/mutmasslicher-flugzeug-terror-drohender-buergerkrieg-in-aethiopien-und-weiterer-kontroll-verlust-bei-ki">Nachrichtenbriefing: Kontrollverlust bei KI</a> <em>(republik.ch)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>OpenAI feuert drei Sicherheitsforscher, nur Tage nachdem die New York Times enthüllte, dass interne Warnungen ignoriert wurden. Dazu: Floridas Richter prüft einen Entwicklungsstopp, und Modal Labs jagt eine Bewertung von über fünfzehn Milliarden Dollar.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/">OpenAI cuts ties with 3 safety researchers, WSJ reports</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.kucoin.com/news/flash/openai-employees-warned-of-model-safety-risks-months-before-breaches">OpenAI employees warned of model safety risks months before breaches (NYT-Bericht)</a> <em>(nytimes.com (via kucoin.com Zusammenfassung))</em></li>
-<li><a href="https://cybersecuritynews.com/florida-ag-seeks-emergency-injunction-on-chatgpt/amp/">Florida AG Seeks Emergency Injunction to Restrict OpenAI and ChatGPT Over AI Safety Risks</a> <em>(cybersecuritynews.com)</em></li>
-<li><a href="https://www.washingtonpost.com/technology/2026/09/30/ftc-launches-broad-investigation-into-anthropic-openai/">FTC launches broad investigation into Anthropic, OpenAI</a> <em>(washingtonpost.com)</em></li>
-<li><a href="https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation">AI safety fears put OpenAI and Anthropic in the FTC's crosshairs</a> <em>(axios.com)</em></li>
-<li><a href="https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-1st-of-october/">Modal Labs nears $750 million funding round at $15.75 billion valuation</a> <em>(completeaitraining.com (Branchen-Digest))</em></li>
-<li><a href="https://republik.ch/2026/10/02/mutmasslicher-flugzeug-terror-drohender-buergerkrieg-in-aethiopien-und-weiterer-kontroll-verlust-bei-ki">Nachrichtenbriefing: Kontrollverlust bei KI</a> <em>(republik.ch)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>OpenAI feuert drei Sicherheitsforscher, nur Tage nachdem die New York Times enthüllte, dass interne Warnungen ignoriert wurden. Dazu: Floridas Richter prüft einen Entwicklungsstopp, und Modal Labs jagt eine Bewertung von über fünfzehn Milliarden Dollar.</itunes:summary>
-      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-02</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-02/2026-10-02.mp3" length="2538519" type="audio/mpeg"/>
-      <itunes:duration>5:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
