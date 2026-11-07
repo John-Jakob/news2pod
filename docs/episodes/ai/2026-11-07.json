@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 7. November 2026: KI knackt RSA-Verschlüsselung, Anthropics Mini-IPO, Protest in Amsterdam",
+  "teaser": "Google DeepMind lässt KI-Agenten jahrzehntealte Kryptografie durchbrechen, Anthropics Börsengang schrumpft dramatisch, und in Amsterdam eskaliert der Protest gegen Rechenzentren. Dazu: ein neuer Industriestandard für Jailbreak-Risiken.",
+  "pubDate": "2026-11-07T06:00:00+01:00",
+  "duration_seconds": 383,
+  "size_bytes": 3068072,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-07/2026-11-07.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 117654,
+    "output_tokens": 4237
+  },
+  "sources": [
+    {
+      "headline": "Google DeepMind's AI Agents Expose Two Legacy 1024-Bit RSA Weaknesses",
+      "source": "bloomberg.com / fourweekmba.com",
+      "url": "https://fourweekmba.com/ai-deepmind-ai-agents-find-2-weaknesses-in-legacy-1024-bit-rsa/",
+      "published": "2026-11-06"
+    },
+    {
+      "headline": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "published": "2026-11-06"
+    },
+    {
+      "headline": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam",
+      "published": "2026-11-06"
+    },
+    {
+      "headline": "Frontier Model Forum releases a framework to rate AI cyber jailbreaks",
+      "source": "cryptobriefing.com",
+      "url": "https://cryptobriefing.com/frontier-model-forum-jailbreak-rating-framework/",
+      "published": "2026-11-05/06"
+    },
+    {
+      "headline": "DeepMind Staff Challenge Lifetime Ban on Criticizing Google",
+      "source": "technology.org",
+      "url": "https://www.technology.org/2026/11/06/deepmind-staff-lifetime-ban-criticizing-google-non-disparagement/",
+      "published": "2026-11-06"
+    },
+    {
+      "headline": "Gemini Omni 1.2 Flash goes GA: 15-second clips, conversational editing, 30% cheaper",
+      "source": "dev.to (AI Daily Digest)",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-7-2026-ai-cracks-legacy-rsa-gemini-omni-gets-longer-clips-first-3f6p",
+      "published": "2026-11-07"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, 7. November 2026.\n\nWir beginnen heute mit einer Forschungsmeldung, die zeigt, wie schnell Künstliche Intelligenz ganze Sicherheitsannahmen ins Wanken bringen kann. Google DeepMind hat am Donnerstag bekanntgegeben, dass von Menschen angeleitete KI-Agenten zwei bedeutende Schwachstellen in der veralteten 1024-Bit-RSA-Verschlüsselung gefunden haben. Dabei wurde die Fälschung digitaler Signaturen gegen kurze Hash-Werte rund 1600-mal effizienter gemacht, während die Kosten für das massenhafte Faktorisieren weiterer 1024-Bit-Schlüssel um etwa das 30-fache sanken. DeepMind-Forscher betonten dabei ausdrücklich, dass moderne 2048-Bit-Schlüssel von diesen Ergebnissen nicht betroffen sind. Trotzdem ist die eigentliche Botschaft beunruhigend: Was früher Jahre an Expertenarbeit gekostet hätte, erledigen KI-Systeme heute in wenigen Wochen. Für Betreiber alter Zertifikate und eingebetteter Geräte mit Legacy-Schlüsseln dürfte das ein Weckruf sein, die eigene Infrastruktur zu überprüfen.\n\n===\n\nWeiter geht es mit einer der größten Finanzgeschichten des Jahres. Anthropics geplanter Börsengang gerät unter massiven Druck. Laut Bloomberg diskutieren potenzielle Investoren inzwischen über eine Bewertungsspanne von 1,2 bis 1,3 Billionen Dollar, einige ziehen sogar nur 1,1 Billionen Dollar in Betracht. Noch vor einem Monat stand eine Bewertung von rund 2 Billionen Dollar im Raum. Grund für den Absturz ist der heftige Ausverkauf an den Tech-Märkten nach den Midterm-Wahlen, der die gesamte KI-Branche verunsichert hat. Das Wall Street Journal berichtete bereits, dass große Investoren zunehmend skeptisch sind, ob Anthropic überhaupt die zuvor anvisierten 1,5 Billionen Dollar erreichen kann. Der Börsengang, der noch vor Thanksgiving stattfinden soll, gilt inzwischen als wichtigster Stimmungstest für die gesamte Bewertungslogik der KI-Industrie.\n\n===\n\nDer gesellschaftliche Widerstand gegen die KI-Infrastruktur nimmt derweil an Schärfe zu. Am Freitag brachen mehr als hundert Aktivisten der Gruppe Geef Tegengas in eine Baustelle für ein neues Microsoft-Rechenzentrum im Amsterdamer Stadtteil Sloterdijk ein. Mehrere Demonstranten kletterten auf einen Baukran, es kam zu Zusammenstößen mit der Polizei, ein Mensch wurde festgenommen. Die Proteste richteten sich gegen den enormen Energie- und Wasserverbrauch der Anlage sowie gegen Microsofts Geschäftsbeziehungen zu umstrittenen Regierungsbehörden. Der Vorfall markiert laut Berichten den Auftakt zu zwei Tagen koordinierter Protestaktionen, die am Wochenende in zahlreichen europäischen Ländern gegen den rasanten Ausbau von Rechenzentren stattfinden sollen. Das passt zu einem Trend, den wir in den letzten Tagen bereits beobachtet haben: Nach dem Rückschlag für Rechenzentrumsprojekte bei den amerikanischen Midterms wächst nun auch in Europa der organisierte Widerstand gegen die physische Infrastruktur der KI-Industrie.\n\n===\n\nAuf der Regulierungsseite gibt es eine bemerkenswerte Selbstverpflichtung der Branche. Das Frontier Model Forum, der Branchenverband von OpenAI, Anthropic, Google DeepMind, Microsoft und Amazon, hat ein gemeinsames Bewertungssystem für sogenannte Jailbreaks veröffentlicht, also erfolgreiche Versuche, Sicherheitsmechanismen von KI-Modellen zu umgehen. Das System bewertet Vorfälle nach vier Kategorien, darunter der zusätzliche Fähigkeitsgewinn und die Leichtigkeit der Ausnutzung, mit Risikostufen von vernachlässigbar bis kritisch. Ziel ist es, dass Sicherheitsforscher und Unternehmen künftig eine einheitliche Sprache sprechen, wenn sie über die Gefährlichkeit einer entdeckten Schwachstelle berichten. Kritiker weisen allerdings darauf hin, dass der Standard größtenteils von denselben Unternehmen entwickelt wurde, deren Modelle er bewerten soll.\n\n===\n\nAuch innerhalb der Labore selbst gärt es. Bei Google DeepMind in London fordern Mitarbeitende, eine lebenslange Klausel aus ihren Verträgen zu streichen, die es ihnen verbietet, sich öffentlich kritisch über Google zu äußern, selbst nach dem Ausscheiden aus dem Unternehmen. Google erklärte zwar, die Klausel werde gegenüber ehemaligen Mitarbeitenden nicht durchgesetzt und sei für neue Verträge bereits gestrichen worden, doch die Beschäftigten fordern nun auch die Entfernung aus bestehenden Verträgen. Der Vorstoß fällt in eine Zeit, in der führende Forscher bei Google, OpenAI und Anthropic in den vergangenen Monaten öffentlich aus Sorge um die gesellschaftlichen Risiken der KI-Entwicklung zurückgetreten sind.\n\n===\n\nZum Abschluss noch kurz ein Blick auf ein neues Produkt-Update: Google DeepMind hat die allgemeine Verfügbarkeit von Gemini Omni 1.2 Flash bekanntgegeben. Die neue Version erlaubt Videoclips von bis zu 15 Sekunden Länge bei frei wählbarer Dauer und senkt die Kosten gegenüber der Vorgängerversion um rund 30 Prozent, ein Hinweis darauf, dass der Wettbewerb bei generativen Videomodellen zunehmend über den Preis statt über reine Modellstärke ausgetragen wird.\n\nDas war's für heute. Wir behalten besonders im Blick, wie sich die Anthropic-Bewertung in den kommenden Tagen weiterentwickelt und ob die europäischen Protestaktionen am Wochenende weitere Rechenzentrumsprojekte ins Visier nehmen. Vielen Dank fürs Zuhören, bis morgen bei KI Daily."
+}

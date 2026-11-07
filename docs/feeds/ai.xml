@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 7. November 2026: KI knackt RSA-Verschlüsselung, Anthropics Mini-IPO, Protest in Amsterdam</title>
+      <description><![CDATA[<p>Google DeepMind lässt KI-Agenten jahrzehntealte Kryptografie durchbrechen, Anthropics Börsengang schrumpft dramatisch, und in Amsterdam eskaliert der Protest gegen Rechenzentren. Dazu: ein neuer Industriestandard für Jailbreak-Risiken.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://fourweekmba.com/ai-deepmind-ai-agents-find-2-weaknesses-in-legacy-1024-bit-rsa/">Google DeepMind's AI Agents Expose Two Legacy 1024-Bit RSA Weaknesses</a> <em>(bloomberg.com / fourweekmba.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout">Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam">Protesters Break Into Microsoft Data Center Site in Amsterdam</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://cryptobriefing.com/frontier-model-forum-jailbreak-rating-framework/">Frontier Model Forum releases a framework to rate AI cyber jailbreaks</a> <em>(cryptobriefing.com)</em></li>
+<li><a href="https://www.technology.org/2026/11/06/deepmind-staff-lifetime-ban-criticizing-google-non-disparagement/">DeepMind Staff Challenge Lifetime Ban on Criticizing Google</a> <em>(technology.org)</em></li>
+<li><a href="https://dev.to/hiroki-ii-ai/ai-daily-digest-november-7-2026-ai-cracks-legacy-rsa-gemini-omni-gets-longer-clips-first-3f6p">Gemini Omni 1.2 Flash goes GA: 15-second clips, conversational editing, 30% cheaper</a> <em>(dev.to (AI Daily Digest))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Google DeepMind lässt KI-Agenten jahrzehntealte Kryptografie durchbrechen, Anthropics Börsengang schrumpft dramatisch, und in Amsterdam eskaliert der Protest gegen Rechenzentren. Dazu: ein neuer Industriestandard für Jailbreak-Risiken.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://fourweekmba.com/ai-deepmind-ai-agents-find-2-weaknesses-in-legacy-1024-bit-rsa/">Google DeepMind's AI Agents Expose Two Legacy 1024-Bit RSA Weaknesses</a> <em>(bloomberg.com / fourweekmba.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout">Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam">Protesters Break Into Microsoft Data Center Site in Amsterdam</a> <em>(bloomberg.com)</em></li>
+<li><a href="https://cryptobriefing.com/frontier-model-forum-jailbreak-rating-framework/">Frontier Model Forum releases a framework to rate AI cyber jailbreaks</a> <em>(cryptobriefing.com)</em></li>
+<li><a href="https://www.technology.org/2026/11/06/deepmind-staff-lifetime-ban-criticizing-google-non-disparagement/">DeepMind Staff Challenge Lifetime Ban on Criticizing Google</a> <em>(technology.org)</em></li>
+<li><a href="https://dev.to/hiroki-ii-ai/ai-daily-digest-november-7-2026-ai-cracks-legacy-rsa-gemini-omni-gets-longer-clips-first-3f6p">Gemini Omni 1.2 Flash goes GA: 15-second clips, conversational editing, 30% cheaper</a> <em>(dev.to (AI Daily Digest))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Google DeepMind lässt KI-Agenten jahrzehntealte Kryptografie durchbrechen, Anthropics Börsengang schrumpft dramatisch, und in Amsterdam eskaliert der Protest gegen Rechenzentren. Dazu: ein neuer Industriestandard für Jailbreak-Risiken.</itunes:summary>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-07</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-07/2026-11-07.mp3" length="3068072" type="audio/mpeg"/>
+      <itunes:duration>6:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 6. November 2026: Aktien-Beben, GPT-6 Cyber, Baidus offenes Großmodell</title>
       <description><![CDATA[<p>Die Wahl-Nachwehen erreichen die Börse: Der Nasdaq erlebt den schärfsten Einbruch seit anderthalb Jahren. Außerdem: OpenAI stellt ein hochkritisches Cybersecurity-Modell vor, und Baidu öffnet ein neues 280-Milliarden-Parameter-Modell.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -893,35 +922,6 @@
       <guid isPermaLink="false">ai-2026-10-05</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-05/2026-10-05.mp3" length="2769023" type="audio/mpeg"/>
       <itunes:duration>5:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 3. Oktober 2026: Microsoft warnt vor KI-Hackern, Apple reagiert</title>
-      <description><![CDATA[<p>Microsofts großer Sicherheitsbericht zeigt, wie KI Cyberangriffe beschleunigt, Apple zieht bei macOS die Zügel an, und Anthropic investiert hundert Millionen Dollar in die Ausbildung von KI-Ingenieuren. Außerdem: ein brisanter Bericht über Trumps Chatbot-Beratung vor der Festnahme Maduros.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/">Microsoft Digital Defense Report 2026: AI gibt Angreifern derzeit einen Vorsprung</a> <em>(helpnetsecurity.com)</em></li>
-<li><a href="https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk">Apple verschärft macOS 'Full Disk Access'-Kontrollen wegen KI-Agenten-Risiken</a> <em>(techcrunch.com (via Slashdot/Engadget))</em></li>
-<li><a href="https://www.anthropic.com/news/claude-frontier-academy">Anthropic launcht Claude Frontier Academy mit 100-Millionen-Dollar-Investition</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.ibtimes.co.uk/trump-grok-maduro-venezuela-ai-consultation-1823270">TIME: Trump konsultierte Musks Chatbot Grok vor Maduro-Festnahme</a> <em>(time.com (via Yahoo/ibtimes))</em></li>
-<li><a href="https://axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion">Axios: Forscher-Rebellion bei OpenAI und Anthropic verändert die Unternehmen</a> <em>(axios.com)</em></li>
-<li><a href="https://x.com/NeoAIForecast/article/2105966638927397167">OpenAI setzt globalen Nutzungs-Reset für ChatGPT-Accounts nach GPT-6.1-Sol-Überlastung an</a> <em>(x.com (Daily AI Recap))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Microsofts großer Sicherheitsbericht zeigt, wie KI Cyberangriffe beschleunigt, Apple zieht bei macOS die Zügel an, und Anthropic investiert hundert Millionen Dollar in die Ausbildung von KI-Ingenieuren. Außerdem: ein brisanter Bericht über Trumps Chatbot-Beratung vor der Festnahme Maduros.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/">Microsoft Digital Defense Report 2026: AI gibt Angreifern derzeit einen Vorsprung</a> <em>(helpnetsecurity.com)</em></li>
-<li><a href="https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk">Apple verschärft macOS 'Full Disk Access'-Kontrollen wegen KI-Agenten-Risiken</a> <em>(techcrunch.com (via Slashdot/Engadget))</em></li>
-<li><a href="https://www.anthropic.com/news/claude-frontier-academy">Anthropic launcht Claude Frontier Academy mit 100-Millionen-Dollar-Investition</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.ibtimes.co.uk/trump-grok-maduro-venezuela-ai-consultation-1823270">TIME: Trump konsultierte Musks Chatbot Grok vor Maduro-Festnahme</a> <em>(time.com (via Yahoo/ibtimes))</em></li>
-<li><a href="https://axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion">Axios: Forscher-Rebellion bei OpenAI und Anthropic verändert die Unternehmen</a> <em>(axios.com)</em></li>
-<li><a href="https://x.com/NeoAIForecast/article/2105966638927397167">OpenAI setzt globalen Nutzungs-Reset für ChatGPT-Accounts nach GPT-6.1-Sol-Überlastung an</a> <em>(x.com (Daily AI Recap))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Microsofts großer Sicherheitsbericht zeigt, wie KI Cyberangriffe beschleunigt, Apple zieht bei macOS die Zügel an, und Anthropic investiert hundert Millionen Dollar in die Ausbildung von KI-Ingenieuren. Außerdem: ein brisanter Bericht über Trumps Chatbot-Beratung vor der Festnahme Maduros.</itunes:summary>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-03</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-03/2026-10-03.mp3" length="3963759" type="audio/mpeg"/>
-      <itunes:duration>8:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
