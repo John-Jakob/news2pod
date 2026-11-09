@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 9. November 2026: Wochenend-Rückblick zu OpenAI, Anthropic &amp; Microsoft</title>
+      <description><![CDATA[<p>Der Wochenend-Rückblick: OpenAI holt sich elf Milliarden Dollar frisches Kapital, ein unveröffentlichtes Anthropic-Modell knackt ein achtzehn Jahre altes Quantenrätsel, und Microsoft zieht sich von Oracles Rechenzentren zurück.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/openai-closes-11-billion-funding-213757127.html">OpenAI closes $11 billion funding at $1.25 trillion valuation</a> <em>(reuters.com (via investing.com/Bloomberg))</em></li>
+<li><a href="https://psi.inc/research/aaronson-ambainis/">Physical Superintelligence claims unreleased Anthropic model proved Aaronson-Ambainis conjecture</a> <em>(psi.inc / cryptobriefing.com)</em></li>
+<li><a href="https://live.euronext.com/en/financial-news/microsoft-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-reports">Microsoft is winding down Oracle deal to rent AI cloud capacity</a> <em>(reuters.com (Bloomberg))</em></li>
+<li><a href="https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/">Thinking Machines' Inkling 2 Small claims top spot among western open-weight models</a> <em>(the-decoder.com)</em></li>
+<li><a href="https://deepgains.substack.com/p/morning-brief-sunday-november-8-2026-149">Claude Code's 'Don't Ask Again' option leaked secrets into public GitHub files</a> <em>(deepgains.substack.com (Morning Brief))</em></li>
+<li><a href="https://mindandmachineweekly.substack.com/p/mind-and-machine-weekly-8-november">Roche signs collaboration with Chai Discovery for AI protein design</a> <em>(mindandmachineweekly.substack.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: OpenAI holt sich elf Milliarden Dollar frisches Kapital, ein unveröffentlichtes Anthropic-Modell knackt ein achtzehn Jahre altes Quantenrätsel, und Microsoft zieht sich von Oracles Rechenzentren zurück.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/openai-closes-11-billion-funding-213757127.html">OpenAI closes $11 billion funding at $1.25 trillion valuation</a> <em>(reuters.com (via investing.com/Bloomberg))</em></li>
+<li><a href="https://psi.inc/research/aaronson-ambainis/">Physical Superintelligence claims unreleased Anthropic model proved Aaronson-Ambainis conjecture</a> <em>(psi.inc / cryptobriefing.com)</em></li>
+<li><a href="https://live.euronext.com/en/financial-news/microsoft-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-reports">Microsoft is winding down Oracle deal to rent AI cloud capacity</a> <em>(reuters.com (Bloomberg))</em></li>
+<li><a href="https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/">Thinking Machines' Inkling 2 Small claims top spot among western open-weight models</a> <em>(the-decoder.com)</em></li>
+<li><a href="https://deepgains.substack.com/p/morning-brief-sunday-november-8-2026-149">Claude Code's 'Don't Ask Again' option leaked secrets into public GitHub files</a> <em>(deepgains.substack.com (Morning Brief))</em></li>
+<li><a href="https://mindandmachineweekly.substack.com/p/mind-and-machine-weekly-8-november">Roche signs collaboration with Chai Discovery for AI protein design</a> <em>(mindandmachineweekly.substack.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Der Wochenend-Rückblick: OpenAI holt sich elf Milliarden Dollar frisches Kapital, ein unveröffentlichtes Anthropic-Modell knackt ein achtzehn Jahre altes Quantenrätsel, und Microsoft zieht sich von Oracles Rechenzentren zurück.</itunes:summary>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-09</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-09/2026-11-09.mp3" length="2985316" type="audio/mpeg"/>
+      <itunes:duration>6:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 7. November 2026: KI knackt RSA-Verschlüsselung, Anthropics Mini-IPO, Protest in Amsterdam</title>
       <description><![CDATA[<p>Google DeepMind lässt KI-Agenten jahrzehntealte Kryptografie durchbrechen, Anthropics Börsengang schrumpft dramatisch, und in Amsterdam eskaliert der Protest gegen Rechenzentren. Dazu: ein neuer Industriestandard für Jailbreak-Risiken.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -889,39 +918,6 @@
       <guid isPermaLink="false">ai-2026-10-06</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-06/2026-10-06.mp3" length="3222927" type="audio/mpeg"/>
       <itunes:duration>6:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 5. Oktober 2026: Trumps Super Intelligence Force, OpenAI-Sicherheitschef wirft hin</title>
-      <description><![CDATA[<p>Der Wochenend-Rückblick: Trump ernennt einen KI-Zaren fürs Weiße Haus, ein weiterer OpenAI-Sicherheitschef verlässt das Unternehmen mit einer scharfen Abrechnung, und Meta lässt KI an echten, offenen Mathematikproblemen mitforschen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-force-with-jay-clayton-as-ai-czar/">Trump launches Super Intelligence Force with Jay Clayton as AI czar</a> <em>(siliconangle.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html">Trump taps Director of National Intelligence Jay Clayton as AI czar</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/">Trump announces formation of AI 'Super Intelligence Force'</a> <em>(cbsnews.com)</em></li>
-<li><a href="https://dailycaller.com/2026/10/04/trump-super-intelligence-force-jay-clayton/">Trump Announces New AI Leadership For 'Super Intelligence Force'</a> <em>(dailycaller.com)</em></li>
-<li><a href="https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/">OpenAI safety employee resigns, claiming the company's 'culture is broken'</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.kucoin.com/news/flash/openai-safety-lead-resigns-calls-company-culture-broken">OpenAI Safety Lead Resigns, Calls Company Culture 'Broken'</a> <em>(kucoin.com)</em></li>
-<li><a href="https://research.meta.ai/blog/solving-open-research-problems-together">Solving Open Research Problems Together</a> <em>(research.meta.ai)</em></li>
-<li><a href="https://alphasignal.ai/news/meta-s-muse-spark-helped-mathematicians-solve-five-open-research-problems">Meta's Muse Spark Helped Mathematicians Solve Five Open Research Problems</a> <em>(alphasignal.ai)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: Trump ernennt einen KI-Zaren fürs Weiße Haus, ein weiterer OpenAI-Sicherheitschef verlässt das Unternehmen mit einer scharfen Abrechnung, und Meta lässt KI an echten, offenen Mathematikproblemen mitforschen.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-force-with-jay-clayton-as-ai-czar/">Trump launches Super Intelligence Force with Jay Clayton as AI czar</a> <em>(siliconangle.com)</em></li>
-<li><a href="https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html">Trump taps Director of National Intelligence Jay Clayton as AI czar</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/">Trump announces formation of AI 'Super Intelligence Force'</a> <em>(cbsnews.com)</em></li>
-<li><a href="https://dailycaller.com/2026/10/04/trump-super-intelligence-force-jay-clayton/">Trump Announces New AI Leadership For 'Super Intelligence Force'</a> <em>(dailycaller.com)</em></li>
-<li><a href="https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/">OpenAI safety employee resigns, claiming the company's 'culture is broken'</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.kucoin.com/news/flash/openai-safety-lead-resigns-calls-company-culture-broken">OpenAI Safety Lead Resigns, Calls Company Culture 'Broken'</a> <em>(kucoin.com)</em></li>
-<li><a href="https://research.meta.ai/blog/solving-open-research-problems-together">Solving Open Research Problems Together</a> <em>(research.meta.ai)</em></li>
-<li><a href="https://alphasignal.ai/news/meta-s-muse-spark-helped-mathematicians-solve-five-open-research-problems">Meta's Muse Spark Helped Mathematicians Solve Five Open Research Problems</a> <em>(alphasignal.ai)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Der Wochenend-Rückblick: Trump ernennt einen KI-Zaren fürs Weiße Haus, ein weiterer OpenAI-Sicherheitschef verlässt das Unternehmen mit einer scharfen Abrechnung, und Meta lässt KI an echten, offenen Mathematikproblemen mitforschen.</itunes:summary>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-05</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-05/2026-10-05.mp3" length="2769023" type="audio/mpeg"/>
-      <itunes:duration>5:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

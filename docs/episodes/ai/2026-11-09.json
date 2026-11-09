@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 9. November 2026: Wochenend-Rückblick zu OpenAI, Anthropic & Microsoft",
+  "teaser": "Der Wochenend-Rückblick: OpenAI holt sich elf Milliarden Dollar frisches Kapital, ein unveröffentlichtes Anthropic-Modell knackt ein achtzehn Jahre altes Quantenrätsel, und Microsoft zieht sich von Oracles Rechenzentren zurück.",
+  "pubDate": "2026-11-09T06:00:00+01:00",
+  "duration_seconds": 373,
+  "size_bytes": 2985316,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-09/2026-11-09.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 130136,
+    "output_tokens": 4986
+  },
+  "sources": [
+    {
+      "headline": "OpenAI closes $11 billion funding at $1.25 trillion valuation",
+      "source": "reuters.com (via investing.com/Bloomberg)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-closes-11-billion-funding-213757127.html",
+      "published": "2026-11-06"
+    },
+    {
+      "headline": "Physical Superintelligence claims unreleased Anthropic model proved Aaronson-Ambainis conjecture",
+      "source": "psi.inc / cryptobriefing.com",
+      "url": "https://psi.inc/research/aaronson-ambainis/",
+      "published": "2026-11-06"
+    },
+    {
+      "headline": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "source": "reuters.com (Bloomberg)",
+      "url": "https://live.euronext.com/en/financial-news/microsoft-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-reports",
+      "published": "2026-11-06/08"
+    },
+    {
+      "headline": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "published": "2026-11-05/07"
+    },
+    {
+      "headline": "Claude Code's 'Don't Ask Again' option leaked secrets into public GitHub files",
+      "source": "deepgains.substack.com (Morning Brief)",
+      "url": "https://deepgains.substack.com/p/morning-brief-sunday-november-8-2026-149",
+      "published": "2026-11-08"
+    },
+    {
+      "headline": "Roche signs collaboration with Chai Discovery for AI protein design",
+      "source": "mindandmachineweekly.substack.com",
+      "url": "https://mindandmachineweekly.substack.com/p/mind-and-machine-weekly-8-november",
+      "published": "2026-11-08"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Montag, den 9. November 2026. Heute blicken wir zurück auf das Wochenende, denn zwischen Samstag und Sonntag hat sich in der KI-Welt einiges angesammelt. Fassen wir die wichtigsten Entwicklungen zusammen.\n\n===\n\nGanz oben auf der Liste steht OpenAI. Das Unternehmen hat den ersten Teil einer neuen Finanzierungsrunde abgeschlossen. \nOpenAI hat die erste Tranche einer neuen Finanzierungsrunde abgeschlossen, elf Milliarden Dollar, die das Unternehmen mit einer Bewertung von einer Billion zweihundertfünfzig Milliarden Dollar versehen. Die Gelder wurden am Freitag überwiesen.\n Bemerkenswert ist dabei die Entwicklung im Vergleich zum ursprünglichen Plan. \nDie Finanzierung stellt den ersten Teil einer Runde dar, die in den kommenden Wochen auf zwanzig Milliarden Dollar anwachsen könnte. Das Unternehmen hatte ursprünglich versucht, dreißig Milliarden Dollar oder mehr bei einer Bewertung von einer Billion vierhundert Milliarden Dollar aufzunehmen, bevor es seine Ziele angesichts eines Ausverkaufs bei KI-Aktien reduzierte.\n Als Investoren werden unter anderem SoftBank und der Staatsfonds MGX genannt. Die gesenkten Ziele gelten als Signal für eine insgesamt vorsichtigere Stimmung bei privaten KI-Bewertungen, und Beobachter sehen darin auch einen Maßstab für die bevorstehende Bewertung von Anthropic.\n\n===\n\nFür Aufsehen in der Forschungswelt sorgte am Wochenende eine Ankündigung des noch wenig bekannten Labors Physical Superintelligence, kurz PSI. Das Unternehmen behauptet, mit einem internen Forschungssystem ein seit achtzehn Jahren offenes Problem der Quantencomputertheorie gelöst zu haben. \nEin intern bei Physical Superintelligence entwickeltes Forschungssystem, das ein nicht öffentliches Anthropic-Modell nutzte, fand einen Beweis für die Aaronson-Ambainis-Vermutung und löste damit eine der grundlegendsten Fragen der Quantencomputertheorie. Das System hatte am dritten Tag des Durchlaufs einen vollständigen Beweis der Vermutung, und der Beweisassistent Lean, der jeden Schritt computergestützt prüft, akzeptierte ihn.\n Wichtig für die Einordnung: \ndas Modell, das die eigentliche Arbeit leistete, ist unbenannt und nicht veröffentlicht, und der Prozess läuft auf einem Modell, auf das niemand außerhalb der Vereinbarung Zugriff hat.\n Eine unabhängige Begutachtung steht also noch aus, dennoch zeigt der Fall, wie weit nicht-öffentliche Spitzenmodelle inzwischen in der reinen Mathematik vordringen können.\n\n===\n\nIm Infrastrukturbereich gibt es eine überraschende Kehrtwende bei Microsoft. \nMicrosoft fährt eine Vereinbarung zur Anmietung von KI-Rechenleistung von Oracle zurück, im Rahmen einer größeren Neubewertung milliardenschwerer Cloud-Partnerschaften. Die gemietete Rechenkapazität wurde im Laufe der Zeit weniger wertvoll, da sie nicht mehr den sich wandelnden Anforderungen von Microsoft entsprach, wobei die Oracle-Hardware eine ältere Generation von Nvidia-Chips nutzte.\n Oracle wehrt sich öffentlich gegen die Darstellung eines Rückzugs. \nEin Oracle-Sprecher sagte Reuters, die Nachfrage nach der KI-Infrastruktur von OCI bleibe stark, auch für ältere Generationen von GPUs.\n Der Vorgang reiht sich ein in eine Serie von Berichten, wonach Microsoft generell strenger mit externen Cloud-Partnern verhandelt, nachdem es zuletzt auch die Kontrolle über Projekte anderer Anbieter verschärft hatte.\n\n===\n\nAus der Modellwelt kommt ein offenes Gewicht-Update von Thinking Machines Lab, dem Labor der ehemaligen OpenAI-Technikchefin Mira Murati. \nThinking Machines Lab hat sein Modell der zweiten Generation, Inkling 2 Small, veröffentlicht und plant, die Gewichte in der kommenden Woche unter einer Apache-2.0-Lizenz zu öffnen, nach externen Sicherheitstests. Das Unternehmen stellte Inkling 2 Small am 5. November vor, ein Mixture-of-Experts-Modell mit 594 Milliarden Gesamtparametern und 17 Milliarden aktiven Parametern.\n Damit positioniert sich das Modell als bislang leistungsstärkstes offenes Modell außerhalb Chinas, sobald die Gewichte tatsächlich verfügbar sind.\n\n===\n\nZum Schluss noch zwei kurze Meldungen aus dem Wochenend-Nachrichtenstrom. Bei Anthropic sorgte ein Sicherheitsdetail für Diskussionen: Eine Funktion namens \"Don't Ask Again\" im Programmierwerkzeug Claude Code soll Geheimnisse in öffentlich zugängliche GitHub-Dateien haben durchsickern lassen, ein Hinweis darauf, dass automatisierte Freigaben in Coding-Agenten riskant bleiben. Und im Pharmabereich hat Roche eine Zusammenarbeit mit dem Biotech-Startup Chai Discovery angekündigt. \nChai Discovery, das KI-Modelle für das Design proteinbasierter Therapeutika entwickelt, gab bekannt, dass Roche seine KI-Modelle und Plattform, zentriert um das Chai-3-Modell, in mehreren Arzneimittelforschungsprogrammen einsetzen wird.\n\n\n===\n\nDas war der Wochenend-Rückblick für euer KI Daily. Im Laufe der Woche dürfte vor allem interessant werden, ob die zweite Tranche der OpenAI-Finanzierung zur gleichen Bewertung abgeschlossen wird und wie sich die PSI-Behauptung zur Quantenvermutung unter externer Prüfung hält. Vielen Dank fürs Zuhören, bis morgen bei KI Daily."
+}
