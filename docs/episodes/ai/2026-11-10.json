@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 10. November 2026: Nvidia-Skandal, Anthropic-IPO wackelt, neue Claude-Modelle",
+  "teaser": "Jensen Huang gerät nach einer Spionage-Affäre unter Druck, Anthropics Mega-IPO sorgt mit widersprüchlichen Zahlen für Verwirrung, und Anthropic bringt gleich zwei neue Modelle sowie einen milliardenschweren Energiedeal auf den Weg.",
+  "pubDate": "2026-11-10T06:00:00+01:00",
+  "duration_seconds": 381,
+  "size_bytes": 3052189,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-10/2026-11-10.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 64832,
+    "output_tokens": 4584
+  },
+  "sources": [
+    {
+      "headline": "Nvidia board opens independent investigation into CEO Jensen Huang after alleged Chinese spy affair",
+      "source": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/2026/11/09/what-know-about-nvidia-scandal-ceo-jensen-huang/",
+      "published": "2026-11-09"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang faces mounting pressure over alleged Chinese spy ties",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "published": "2026-11-08"
+    },
+    {
+      "headline": "Anthropic sends bankers IPO filing showing up to $69,3 Milliarden raise, then retracts pricing as inaccurate",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says",
+      "published": "2026-11-10"
+    },
+    {
+      "headline": "Anthropic lines up $26 Milliarden von Nvidia, Google, Microsoft und anderen für IPO",
+      "source": "investinglive.com",
+      "url": "https://investinglive.com/stocks/anthropic-lines-up-26-billion-from-nvidia-google-others-as-ipo-priced-at-70-to-80/",
+      "published": "2026-11-09"
+    },
+    {
+      "headline": "Anthropic veröffentlicht Claude Fable 5.2 und Mythos 5.2",
+      "source": "gizmodo.com",
+      "url": "https://gizmodo.com/anthropics-says-its-new-ai-model-can-solve-black-hole-mysteries-what-could-go-wrong-2000837274",
+      "published": "2026-11-09"
+    },
+    {
+      "headline": "Anthropic kauft Gasgeneratoren im Wert von 3,4 Milliarden Dollar für Rechenzentren",
+      "source": "theneurondaily.com",
+      "url": "https://www.theneurondaily.com/p/anthropic-s-ai-cracks-a-puzzle",
+      "published": "2026-11-10"
+    },
+    {
+      "headline": "Google-Support-Dokumente zeigen, dass Gemini private Gmail- und Drive-Daten für menschliche Prüfer erschließt",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-11-10"
+    },
+    {
+      "headline": "Demokraten im US-Repräsentantenhaus fordern Exportstopp für KI-Chips nach China",
+      "source": "abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300",
+      "published": "2026-11-10"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Tuesday, 10. November 2026.\n\nWir beginnen heute mit einer Geschichte, die zwar nicht direkt ein KI-Modell betrifft, aber die gesamte Branche erschüttert. Nvidia-Chef Jensen Huang steht im Zentrum eines Spionage-Skandals. Der Verwaltungsrat des Unternehmens hat eine unabhängige Untersuchung eingeleitet, nachdem Huang selbst eingeräumt hatte, eine außereheliche Beziehung zu einer Geschäftsfrau gehabt zu haben, die laut US-Geheimdiensten als chinesische Spionin gilt. Die Frau, deren in Singapur ansässiges Unternehmen Nvidia-Chips kaufte, soll nach Berichten der New York Times und der Financial Times unter Beobachtung amerikanischer Geheimdienste gestanden haben. Chinas Außenministerium wies die Vorwürfe als unbegründet zurück. Für Investoren steht nun die Frage im Raum, ob Huang sein Amt behalten kann. Da Nvidia im Zentrum des globalen KI-Baubooms steht, sorgt die Unsicherheit für zusätzliche Nervosität an den ohnehin schon volatilen Tech-Märkten.\n\n===\n\nZweites großes Thema ist Anthropics geplanter Börsengang, der zum Verwirrspiel wurde. Laut Reuters schickte Anthropic Investmentbanken am späten Montagabend eine Kopie des IPO-Filings, die den Verkauf von rund 867 Millionen Aktien zu einem Preis zwischen 70 und 80 Dollar vorsah, was ein Volumen von bis zu 69,3 Milliarden Dollar bedeutet hätte. Kurz darauf folgte jedoch eine zweite E-Mail, in der Anthropic diese Preisangaben als fehlerhaft bezeichnete und ankündigte, das Filing zu aktualisieren. Damit bleibt die entscheidende Kennzahl der gesamten KI-Branche, die Bewertung von Anthropic, vorerst offen. Parallel berichteten mehrere Quellen, dass Google, Nvidia, AMD, Broadcom, Micron, Microsoft und TSMC gemeinsam 26 Milliarden Dollar in einer Privatplatzierung zum IPO-Preis investieren wollen. Sollte der Börsengang tatsächlich am oberen Ende der ursprünglich genannten Spanne liegen, wäre es einer der größten Börsengänge der Geschichte, knapp hinter SpaceX.\n\n===\n\nNeben dem IPO-Trubel hat Anthropic auch inhaltlich nachgelegt. Das Unternehmen hat am Montag zwei neue Modellversionen veröffentlicht, Claude Fable 5.2 und Mythos 5.2. Laut Anthropic ist Fable 5.2 die bislang leistungsfähigste öffentlich verfügbare Version für offene technische Aufgaben und übertrifft frühere Modelle in mehreren Benchmarks. Gleichzeitig seien die neuen Versionen trotz verbesserter Leistung günstiger im Betrieb als ihre Vorgänger. Anthropic betont zudem, die Ausrichtung auf Sicherheit verbessert zu haben, mahnt aber in einem Blogbeitrag auch, dass selbstreplizierende KI-Systeme bis Ende des Jahres zu einer ernsthaften Bedrohung werden könnten. Fable und Mythos basieren laut Unternehmen auf demselben zugrunde liegenden Modell, wobei Fable strengere Beschränkungen bei Cybersicherheit und biologischer Forschung aufweist.\n\n===\n\nIm Zuge seines rasanten Wachstums sichert sich Anthropic zudem massiv Energiekapazität. Laut einem Bericht der Financial Times, der von CNBC aufgegriffen wurde, hat Anthropic rund 3,4 Milliarden Dollar für 1,7 Gigawatt gasbetriebene Generatoren bezahlt. Das entspricht etwa dem Strombedarf von 1,4 Millionen Haushalten und unterstreicht, wie sehr der Ausbau von Rechenzentren inzwischen zum limitierenden Faktor für KI-Unternehmen wird.\n\n===\n\nEin weiteres Thema betrifft den Umgang mit Nutzerdaten bei Google. Nach aktualisierten Support-Dokumenten hat Google sein Versprechen aus dem Jahr 2023 revidiert, wonach persönliche Inhalte nicht von Menschen eingesehen werden. Gemini ruft demnach bei alltäglichen Anfragen automatisch verknüpfte Google-Drive-Dateien und Gmail-Inhalte ab, deren Ausgabe teilweise an menschliche Prüfer weitergeleitet wird. Ein Forscher zeigte, dass bereits eine einfache Frage zu Internetkosten vollständige Kontonummern und persönliche Daten offenlegte. Google rät Nutzern inzwischen, keine Apps mit vertraulichen Informationen zu verknüpfen. Die Episode dürfte die Debatte über Datenschutz bei KI-Assistenten weiter befeuern.\n\n===\n\nSchließlich wächst auch der politische Druck in Washington. Demokratische Abgeordnete im Außenausschuss des Repräsentantenhauses haben US-Handelsminister Howard Lutnick aufgefordert, Exporte fortschrittlicher KI-Chips nach China zu stoppen. Gleichzeitig verlangt der demokratische Senator Chris Coons nach eigenen Worten Aufklärung über die Beziehungen zwischen KI-Milliardären und der Trump-Regierung. Die Debatte über eine mögliche Regulierung der Branche nach den Zwischenwahlen bleibt damit ein zentrales Thema, auch wenn Analysten von Morgan Stanley und UBS die jüngste Kursrally an den Tech-Börsen als übertrieben einschätzen und eine strenge Regulierung der Rechenzentren für unwahrscheinlich halten.\n\n===\n\nDas war dein KI Daily für heute. Besonders spannend bleibt, wie sich die Personalie Jensen Huang bei Nvidia entwickelt und ob Anthropic in den kommenden Tagen ein überarbeitetes IPO-Filing mit verlässlichen Zahlen vorlegt. Wir bleiben dran und melden uns morgen wieder mit den wichtigsten Entwicklungen. Bis dahin, mach's gut."
+}
