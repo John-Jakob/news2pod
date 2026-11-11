@@ -19,6 +19,39 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 11. November 2026: Anthropic-IPO fixiert, Nvidia-Krise, Grok 4.8</title>
+      <description><![CDATA[<p>Anthropic nennt Preisspanne und Termin für den Börsengang, während Nvidia unter dem Huang-Skandal weiter leidet. Außerdem: xAI kämpft mit Grok, und Brüssel macht Tempo bei den KI-Bußgeldregeln.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html">Nvidia sells off for second day in fallout from Jensen Huang's affair with alleged spy</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.marketscreener.com/news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai-ce785edadf8af724">TSMC to invest up to $1 billion in Anthropic, OpenAI</a> <em>(reuters.com (via marketscreener.com))</em></li>
+<li><a href="https://cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html">Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.anthropic.com/news/roadshow-launch">Anthropic launches roadshow for proposed initial public offering</a> <em>(anthropic.com)</em></li>
+<li><a href="https://fourweekmba.com/ai-grok-4-8-in-rl-after-a-57-day-wait-as-xai-dumps-jax-for-cpp">Grok 4.8 in RL After a 57-Day Wait as xAI Dumps JAX for C++</a> <em>(fourweekmba.com)</em></li>
+<li><a href="https://beincrypto.com/elon-musk-claude-opus-grok-comparison/">Is Grok Losing the AI Race? Elon Musk Says Claude is Better 'For Now'</a> <em>(beincrypto.com)</em></li>
+<li><a href="https://www.ad-hoc-news.de/wissenschaft/eu-ki-bussgelder-kommission-schliesst-konsultation-zu-verfahrensregeln-ab/70485011">EU-KI-Bußgelder: Kommission schließt Konsultation zu Verfahrensregeln ab</a> <em>(ad-hoc-news.de)</em></li>
+<li><a href="https://mezha.net/eng/news/mezha-43aaed4810007cc23f8fa664_grok_build_exposed">Grok Build exposed confidential data, including SpaceXSI material</a> <em>(mezha.net)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Anthropic nennt Preisspanne und Termin für den Börsengang, während Nvidia unter dem Huang-Skandal weiter leidet. Außerdem: xAI kämpft mit Grok, und Brüssel macht Tempo bei den KI-Bußgeldregeln.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html">Nvidia sells off for second day in fallout from Jensen Huang's affair with alleged spy</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.marketscreener.com/news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai-ce785edadf8af724">TSMC to invest up to $1 billion in Anthropic, OpenAI</a> <em>(reuters.com (via marketscreener.com))</em></li>
+<li><a href="https://cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html">Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.anthropic.com/news/roadshow-launch">Anthropic launches roadshow for proposed initial public offering</a> <em>(anthropic.com)</em></li>
+<li><a href="https://fourweekmba.com/ai-grok-4-8-in-rl-after-a-57-day-wait-as-xai-dumps-jax-for-cpp">Grok 4.8 in RL After a 57-Day Wait as xAI Dumps JAX for C++</a> <em>(fourweekmba.com)</em></li>
+<li><a href="https://beincrypto.com/elon-musk-claude-opus-grok-comparison/">Is Grok Losing the AI Race? Elon Musk Says Claude is Better 'For Now'</a> <em>(beincrypto.com)</em></li>
+<li><a href="https://www.ad-hoc-news.de/wissenschaft/eu-ki-bussgelder-kommission-schliesst-konsultation-zu-verfahrensregeln-ab/70485011">EU-KI-Bußgelder: Kommission schließt Konsultation zu Verfahrensregeln ab</a> <em>(ad-hoc-news.de)</em></li>
+<li><a href="https://mezha.net/eng/news/mezha-43aaed4810007cc23f8fa664_grok_build_exposed">Grok Build exposed confidential data, including SpaceXSI material</a> <em>(mezha.net)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Anthropic nennt Preisspanne und Termin für den Börsengang, während Nvidia unter dem Huang-Skandal weiter leidet. Außerdem: xAI kämpft mit Grok, und Brüssel macht Tempo bei den KI-Bußgeldregeln.</itunes:summary>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-11</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-11/2026-11-11.mp3" length="2685430" type="audio/mpeg"/>
+      <itunes:duration>5:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 10. November 2026: Nvidia-Skandal, Anthropic-IPO wackelt, neue Claude-Modelle</title>
       <description><![CDATA[<p>Jensen Huang gerät nach einer Spionage-Affäre unter Druck, Anthropics Mega-IPO sorgt mit widersprüchlichen Zahlen für Verwirrung, und Anthropic bringt gleich zwei neue Modelle sowie einen milliardenschweren Energiedeal auf den Weg.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -887,37 +920,6 @@
       <guid isPermaLink="false">ai-2026-10-08</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-08/2026-10-08.mp3" length="3204955" type="audio/mpeg"/>
       <itunes:duration>6:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 7. Oktober 2026: Whistleblower, Watermark und Milliarden für DeepSeek</title>
-      <description><![CDATA[<p>Update zur NYC-Anhörung: KI-Konzerne verweigern Sicherheitsgarantien. Außerdem: Mistral kontert China mit "Le Chonk", OpenAI markiert ChatGPT-Texte in der EU, und DeepSeek steuert auf eine Rekordfinanzierung zu.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html">Anthropic, OpenAI, Google, Meta execs testify at NYC Council AI hearing – Insider warnt vor Kontrollverlust</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06">AI companies stop short of guaranteeing agents will always obey safeguards</a> <em>(foxnews.com)</em></li>
-<li><a href="https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/">Mistral's new 1T model aims to leapfrog closed and open rivals</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/mistral-ceo-says-ai-model-082826309.html">Mistral CEO says new AI model beats Chinese ones in some areas</a> <em>(reuters.com (via Yahoo Finance))</em></li>
-<li><a href="https://nairametrics.com/2026/10/06/deepseek-nears-12-billion-funding-as-investors-bet-big-on-ai/">DeepSeek nears $12 billion funding as investors bet big on AI</a> <em>(nairametrics.com (Bloomberg))</em></li>
-<li><a href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/">OpenAI will start watermarking ChatGPT's text in the EU</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.forbes.com/sites/the-prompt/2026/10/06/new-western-models-challenge-chinas-open-source-ai-supremacy/">New Western Models Challenge China's Open-Source AI Supremacy (Reflection Beam)</a> <em>(forbes.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Update zur NYC-Anhörung: KI-Konzerne verweigern Sicherheitsgarantien. Außerdem: Mistral kontert China mit "Le Chonk", OpenAI markiert ChatGPT-Texte in der EU, und DeepSeek steuert auf eine Rekordfinanzierung zu.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html">Anthropic, OpenAI, Google, Meta execs testify at NYC Council AI hearing – Insider warnt vor Kontrollverlust</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06">AI companies stop short of guaranteeing agents will always obey safeguards</a> <em>(foxnews.com)</em></li>
-<li><a href="https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/">Mistral's new 1T model aims to leapfrog closed and open rivals</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/mistral-ceo-says-ai-model-082826309.html">Mistral CEO says new AI model beats Chinese ones in some areas</a> <em>(reuters.com (via Yahoo Finance))</em></li>
-<li><a href="https://nairametrics.com/2026/10/06/deepseek-nears-12-billion-funding-as-investors-bet-big-on-ai/">DeepSeek nears $12 billion funding as investors bet big on AI</a> <em>(nairametrics.com (Bloomberg))</em></li>
-<li><a href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/">OpenAI will start watermarking ChatGPT's text in the EU</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.forbes.com/sites/the-prompt/2026/10/06/new-western-models-challenge-chinas-open-source-ai-supremacy/">New Western Models Challenge China's Open-Source AI Supremacy (Reflection Beam)</a> <em>(forbes.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Update zur NYC-Anhörung: KI-Konzerne verweigern Sicherheitsgarantien. Außerdem: Mistral kontert China mit "Le Chonk", OpenAI markiert ChatGPT-Texte in der EU, und DeepSeek steuert auf eine Rekordfinanzierung zu.</itunes:summary>
-      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-07</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-07/2026-10-07.mp3" length="2617304" type="audio/mpeg"/>
-      <itunes:duration>5:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 11. November 2026: Anthropic-IPO fixiert, Nvidia-Krise, Grok 4.8",
+  "teaser": "Anthropic nennt Preisspanne und Termin für den Börsengang, während Nvidia unter dem Huang-Skandal weiter leidet. Außerdem: xAI kämpft mit Grok, und Brüssel macht Tempo bei den KI-Bußgeldregeln.",
+  "pubDate": "2026-11-11T06:00:00+01:00",
+  "duration_seconds": 335,
+  "size_bytes": 2685430,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-11/2026-11-11.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 127224,
+    "output_tokens": 3877
+  },
+  "sources": [
+    {
+      "headline": "Nvidia sells off for second day in fallout from Jensen Huang's affair with alleged spy",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+      "published": "2026-11-10"
+    },
+    {
+      "headline": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+      "source": "reuters.com (via marketscreener.com)",
+      "url": "https://www.marketscreener.com/news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai-ce785edadf8af724",
+      "published": "2026-11-10"
+    },
+    {
+      "headline": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19",
+      "source": "cnbc.com",
+      "url": "https://cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "published": "2026-11-10"
+    },
+    {
+      "headline": "Anthropic launches roadshow for proposed initial public offering",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "published": "2026-11-10"
+    },
+    {
+      "headline": "Grok 4.8 in RL After a 57-Day Wait as xAI Dumps JAX for C++",
+      "source": "fourweekmba.com",
+      "url": "https://fourweekmba.com/ai-grok-4-8-in-rl-after-a-57-day-wait-as-xai-dumps-jax-for-cpp",
+      "published": "2026-11-10"
+    },
+    {
+      "headline": "Is Grok Losing the AI Race? Elon Musk Says Claude is Better 'For Now'",
+      "source": "beincrypto.com",
+      "url": "https://beincrypto.com/elon-musk-claude-opus-grok-comparison/",
+      "published": "2026-11-11"
+    },
+    {
+      "headline": "EU-KI-Bußgelder: Kommission schließt Konsultation zu Verfahrensregeln ab",
+      "source": "ad-hoc-news.de",
+      "url": "https://www.ad-hoc-news.de/wissenschaft/eu-ki-bussgelder-kommission-schliesst-konsultation-zu-verfahrensregeln-ab/70485011",
+      "published": "2026-11-10"
+    },
+    {
+      "headline": "Grok Build exposed confidential data, including SpaceXSI material",
+      "source": "mezha.net",
+      "url": "https://mezha.net/eng/news/mezha-43aaed4810007cc23f8fa664_grok_build_exposed",
+      "published": "2026-11-11"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Mittwoch, 11. November 2026.\n\nHeute dominiert ein Thema die Nachrichtenlage wie selten zuvor: der Börsengang von Anthropic nimmt feste Form an. Das Unternehmen hat gestern offiziell die Preisspanne für seine Aktien bekanntgegeben.\n\n===\n\nAnthropic plant, am 19. November an der Nasdaq zu debütieren, und zwar unter dem Kürzel ANT. Konkret heißt es, Anthropic wird 825 Millionen Aktien zu einem Preis zwischen 70 und 78 Dollar anbieten, was dem Unternehmen bei Ausschöpfung der oberen Spanne bis zu 64,35 Milliarden Dollar einbringen würde. Das entspricht einer Bewertung von bis zu 1,4 Billionen Dollar, deutlich weniger als die zwischenzeitlich kolportierten 2 Billionen Dollar. Parallel zum Börsengang hat auch der Chiphersteller TSMC reagiert. Nach Reuters-Informationen plant TSMC, bis zu einer Milliarde Dollar in Anthropic und OpenAI zu investieren. Konkret hat der TSMC-Vorstand am Dienstag eine Investition von bis zu 500 Millionen Dollar genehmigt, um Anteile an Anthropic zum Ausgabepreis zu erwerben, sowie weitere 500 Millionen Dollar für Vorzugsaktien bei OpenAI. Das zeigt, wie eng die gesamte Chip- und KI-Branche inzwischen miteinander verflochten ist, auch über klassische Kunden-Lieferanten-Beziehungen hinaus.\n\n===\n\nGleichzeitig bleibt Nvidia unter Druck. Nachdem CEO Jensen Huang am Wochenende eingeräumt hatte, eine Affäre mit einer Frau gehabt zu haben, die laut US-Geheimdiensten als chinesische Spionin gilt, fiel die Nvidia-Aktie am Dienstag zum zweiten Tag in Folge, diesmal um rund 5,5 Prozent. Der Börsenwert des Konzerns sackte im Handelsverlauf kurzzeitig unter vier Billionen Dollar. Analyst Dan Ives von Yorkville Ives schätzt die Wahrscheinlichkeit, dass Huang als CEO abgelöst wird, auf etwa 15 Prozent, rechnet aber mit einer mehrwöchigen Untersuchung des Nvidia-Vorstands, die wie ein Damoklesschwert über der Aktie hängen dürfte. Die Episode zeigt, wie stark Vertrauen in einzelne Führungspersonen mittlerweile mit der Bewertung ganzer Industriezweige verknüpft ist, schließlich hängt der gesamte KI-Boom an der Verfügbarkeit von Nvidia-Chips.\n\n===\n\nBei xAI tut sich ebenfalls einiges, allerdings mit gemischten Vorzeichen. Elon Musk bezeichnete Anthropics Claude Opus 5.5 öffentlich als Meisterwerk und räumte ein, dass das kommende Grok 4.8 zunächst nicht mithalten könne. Nach seinen Angaben hat Grok 4.8 das Pretraining abgeschlossen und befindet sich jetzt in der Phase des Reinforcement Learning, wobei xAI die bisherige Trainings- und Inferenz-Software komplett verworfen und in C und C plus plus neu geschrieben hat. Musk rechnet damit, dass erst das nachfolgende Modell Grok 5 Anthropics Flaggschiff innerhalb weniger Monate übertreffen könnte. Parallel dazu meldeten Sicherheitsforscher ein weiteres Datenschutzproblem bei xAI. Die Programmierplattform Grok Build habe vertrauliche Informationen offengelegt, weil Links über passive DNS-Abfragen auffindbar waren, nachdem man sie eigentlich als privat markiert hatte. Betroffen war demnach auch Material des inzwischen mit xAI verschmolzenen Raumfahrtunternehmens. Das reiht sich ein in eine Serie von Sicherheitsvorfällen rund um schnell wachsende KI-Agentenprodukte in diesem Herbst.\n\n===\n\nAuf der regulatorischen Seite bewegt sich etwas in Brüssel. Die EU-Kommission hat ihre öffentliche Konsultation zu den künftigen Verfahrensregeln für Bußgelder im Rahmen des AI Acts abgeschlossen. Die Frist zur Stellungnahme endete am 9. November, und die Kommission plant, die endgültige Durchführungsverordnung noch im vierten Quartal dieses Jahres zu verabschieden. Damit erhält das Europäische KI-Büro erstmals klare rechtliche Leitplanken, um Sanktionen gegenüber global agierenden Modellentwicklern durchzusetzen. Nach den vergangenen Monaten mit viel Diskussion um Fristverschiebungen beim AI Act ist das ein konkreter, wenn auch technischer Schritt in Richtung Durchsetzung.\n\n===\n\nZum Abschluss ein Blick auf das große Bild. Die kommenden Tage werden von der Anthropic-IPO geprägt sein, mit Preisfestsetzung am 18. November und Handelsstart einen Tag später. Gleichzeitig bleibt offen, wie die Nvidia-Vorstandsuntersuchung ausgeht und ob sie Folgen für Jensen Huangs Position hat. Und bei xAI zeigt sich, dass selbst Elon Musk inzwischen offen zugibt, im Modellwettlauf hinter Anthropic zu liegen, zumindest vorübergehend. Wir bleiben für dich dran. Das war dein KI Daily-Briefing für heute. Bis morgen."
+}
