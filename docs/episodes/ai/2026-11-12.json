@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 12. November 2026: Nvidia-Eklat spitzt sich zu, Anthropic-IPO überzeichnet",
+  "teaser": "Nvidias Vorstand erwägt offenbar die Ablösung von Jensen Huang nach einer zweiten Affäre, Anthropics Börsengang ist mehrfach überzeichnet, und OpenAI meldet erstmals über zehn Milliarden Dollar Quartalsumsatz bei weiter wachsenden Verlusten. Außerdem: Neues von Google Gemini und Metas Muse-Modellen.",
+  "pubDate": "2026-11-12T06:00:00+01:00",
+  "duration_seconds": 358,
+  "size_bytes": 2867452,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-12/2026-11-12.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 96669,
+    "output_tokens": 4710
+  },
+  "sources": [
+    {
+      "headline": "Nvidia preparing to oust CEO Jensen Huang after 2nd affair with subordinate revealed",
+      "source": "abc7news.com",
+      "url": "https://abc7news.com/post/nvidia-board-preparing-oust-ceo-jensen-huang-2nd-affair-subordinate-revealed-reports-say/20034548/",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "Alleged Chinese Spy at Center of Nvidia Firestorm Is in Beijing",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "Anthropic's record-breaking $90 billion IPO is already oversubscribed several times over",
+      "source": "businesstoday.in",
+      "url": "https://www.businesstoday.in/markets/ipo-corner/story/anthropics-record-breaking-90-billion-ipo-is-already-oversubscribed-several-times-over-566945-2026-11-12",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "OpenAI Q3 profit up 50%; losses continue",
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/12/business/foreign-business/openai-q3-profit-up-50-losses-continue/2467819",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "Google startet Gemini Decisions API für 0,10 Dollar pro Million Tokens",
+      "source": "pasqualepillitteri.it",
+      "url": "https://pasqualepillitteri.it/de/news/32271/google-gemini-decisions-api-preis",
+      "published": "2026-11-11"
+    },
+    {
+      "headline": "Sundar Pichai welcomes Mark Zuckerberg's Meta AI models to Google Cloud",
+      "source": "businesstoday.in",
+      "url": "https://businesstoday.in/technology/news/story/sundar-pichai-welcomes-mark-zuckerbergs-meta-ai-models-to-google-cloud-with-a-special-message-566892-2026-11-12",
+      "published": "2026-11-12"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Thursday, 12. November 2026.\n\nWir beginnen heute mit einem Update zur Nvidia-Affäre, die sich in den letzten Stunden deutlich zugespitzt hat. Nachdem bereits bekannt war, dass Nvidia-Chef Jensen Huang eine Beziehung zu einer Frau hatte, die laut US-Geheimdiensten als chinesische Spionin eingestuft wird, kommt jetzt eine zweite Affäre hinzu. Berichten zufolge soll Huang auch ein Verhältnis mit einer ihm direkt unterstellten Nvidia-Führungskraft gehabt haben. \nDie New York Times deckte Huangs zweite mutmaßliche Affäre mit einer Nvidia-Führungskraft auf, die ihm direkt unterstellt ist.\n Das hat offenbar Konsequenzen: \nEin neuer Bericht besagt, dass sich Nvidias Vorstand am Mittwoch treffen wollte, um über eine mögliche Entlassung Huangs zu beraten.\n Parallel dazu wird die ursprüngliche Spionage-Geschichte weiterverfolgt. Laut Bloomberg \nist die mutmaßliche chinesische Spionin, die im Zentrum des Skandals um Nvidia-Chef Jensen Huang steht, in ihr Heimatland zurückgekehrt.\n Konkret soll sich die Unternehmerin Alice Huang mittlerweile in Peking aufhalten, mit Wissen chinesischer Sicherheitsbehörden. Die politische Dimension bleibt brisant, denn gleichzeitig fordern Abgeordnete im US-Kongress weiterhin Antworten von Huang zu möglichen Sicherheitsrisiken.\n\n===\n\nZur Anthropic-IPO gibt es ebenfalls ein substanzielles Update. Nach dem Start der Roadshow am Montag zeichnet sich eine außergewöhnlich hohe Nachfrage ab. \nAnthropic bietet 825 Millionen Class-A-Aktien zu einem Preis zwischen 70 und 78 Dollar an, was bei Erreichen der Preisobergrenze einen Bruttoerlös von 64,35 Milliarden Dollar und eine voll verwässerte Marktbewertung von nahezu 1,4 Billionen Dollar bedeuten würde.\n Laut aktuellen Berichten ist das Orderbuch bereits mehrfach überzeichnet. Zusätzlich abgesichert wird der Börsengang durch \neine gleichzeitige Privatplatzierung von Class-N-Stammaktien im Wert von 26 Milliarden Dollar zum IPO-Preis.\n Die endgültige Preisfestsetzung ist für den 18. November geplant, der Handelsstart an der Nasdaq unter dem Kürzel ANT für den 19. November.\n\n===\n\nAuch bei OpenAI gibt es neue Zahlen, die das Spannungsfeld zwischen Wachstum und Verlusten verdeutlichen. \nOpenAIs Quartalsumsatz stieg im dritten Quartal um rund 50 Prozent auf 10 Milliarden Dollar, doch der ChatGPT-Hersteller verzeichnete laut einem Bericht des Wall Street Journal weiterhin hohe operative Verluste.\n Konkret heißt es, \ndie operativen Verluste des Unternehmens seien von 10,1 auf 10,9 Milliarden Dollar gestiegen.\n Immerhin verbesserte sich die Marge: \ndie bereinigte operative Marge verbesserte sich auf minus 109 Prozent, nach minus 150 Prozent im Vorquartal.\n Analysten ordnen das als Ausdruck eines branchenweiten Musters ein, bei dem enormes Umsatzwachstum auf noch schneller wachsende Rechenzentrums- und Computing-Kosten trifft. Das dürfte auch im Hinblick auf die bevorstehende Anthropic-Bewertung genau beobachtet werden.\n\n===\n\nBei Google tut sich ebenfalls einiges. Das Unternehmen hat sein neues Modell Gemini 4 Carbon breiter verfügbar gemacht und gleichzeitig ein ungewöhnliches neues Produkt gestartet. \nGemini Decision 1 schreibt keinen Text, sondern bewertet Text, Bilder, Audio, Video und PDF, zum Preis von 0,10 Dollar pro Million Token für den Input, während der Output kostenlos bleibt.\n Das neue Modell \nweist jeder Option einer geschlossenen Frage eine Wahrscheinlichkeit zu\n und ist über Google AI Studio zugänglich. Es zielt also nicht auf klassische Textgenerierung, sondern auf schnelle, strukturierte Entscheidungsprozesse in Agenten-Workflows.\n\n===\n\nInteressant ist auch eine überraschende Kooperation zwischen zwei Konkurrenten. Meta hat laut eigener Ankündigung drei seiner Muse-Modelle nun auch über Google Cloud verfügbar gemacht. \nZuckerberg schrieb auf X, dass Muse Ember, Muse Spark 1.3 und Muse Wonder nun auf Google Cloud verfügbar seien.\n Google-Chef Sundar Pichai reagierte öffentlich positiv darauf und hieß die Modelle willkommen. Für Unternehmenskunden bedeutet das mehr Auswahl an leistungsfähigen KI-Modellen innerhalb einer einzigen Cloud-Infrastruktur, und es zeigt, wie durchlässig die Konkurrenzlinien in der Branche inzwischen geworden sind, selbst zwischen Schwergewichten wie Meta und Google.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Im Fokus bleibt in den kommenden Tagen vor allem die Entwicklung bei Nvidia, wo eine mögliche Vorstandsentscheidung über die Zukunft von Jensen Huang unmittelbar bevorstehen könnte, sowie die Feinjustierung der Anthropic-Preisfindung am 18. November vor dem Börsenstart einen Tag später. Wir halten dich auf dem Laufenden. Bis morgen."
+}
