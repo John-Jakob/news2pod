@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 13. November 2026: Jensen Huang tritt zurück, Nvidia-Beben, Klage gegen KI-Riesen",
+  "teaser": "Jensen Huang verlässt Nvidia nach 33 Jahren, der Aktienkurs bricht ein und die Anthropic-IPO gerät unter Druck. Außerdem: eine neue Klage gegen die größten KI-Konzerne und Googles Einstieg in smarte Brillen.",
+  "pubDate": "2026-11-13T06:00:00+01:00",
+  "duration_seconds": 336,
+  "size_bytes": 2694625,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-13/2026-11-13.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 123420,
+    "output_tokens": 4016
+  },
+  "sources": [
+    {
+      "headline": "Nvidia CEO Jensen Huang resigns amid scandal over alleged affairs including with suspected Chinese spy",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "Nvidia appoints CFO Colette Kress as interim CEO following Huang's resignation",
+      "source": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "Nvidia stock falls after Huang resigns, weighing on broader market",
+      "source": "nbcnews.com",
+      "url": "https://www.nbcnews.com/business/markets/nvidia-stock-huang-resigns-rcna608958",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "Nvidia's $10 Billion Anthropic IPO Pledge in Focus With CEO Exit",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-s-10-billion-anthropic-ipo-pledge-in-focus-with-ceo-exit",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "Anthropic IPO draws about 6x orders for available shares",
+      "source": "marketscreener.com",
+      "url": "https://www.marketscreener.com/news/anthropic-ipo-draws-about-6x-orders-for-available-shares-ce785ed9d88cff25",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "Klage gegen OpenAI, Google und Co.: Organisationen wollen neue KI-Modelle stoppen",
+      "source": "berliner-zeitung.de",
+      "url": "https://berliner-zeitung.de/article/klage-gegen-ki-konzerne-stopp-neuer-modelle-gefordert-10591810",
+      "published": "2026-11-12"
+    },
+    {
+      "headline": "Googles Gemini-Brille startet am 10. Dezember in den Läden, ab 395 Dollar",
+      "source": "pasqualepillitteri.it",
+      "url": "https://pasqualepillitteri.it/de/news/32564/google-gemini-brille-vorbestellung-395-dollar",
+      "published": "2026-11-12"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Freitag, 13. November 2026.\n\nDie größte Nachricht der vergangenen vierundzwanzig Stunden kommt aus Santa Clara. Jensen Huang, Mitgründer und seit dreiunddreißig Jahren Chef von Nvidia, ist zurückgetreten. Nach Berichten über gleich mehrere außereheliche Affären, darunter eine mit einer mutmaßlichen chinesischen Spionin, verließ Huang das Unternehmen am Donnerstag mit sofortiger Wirkung, auch seinen Sitz im Verwaltungsrat gab er auf. Finanzchefin Colette Kress übernimmt interimistisch die Führung, während der Vorstand sowohl interne als auch externe Kandidaten für die Nachfolge prüft. Die Nachricht traf die Börse hart. Nvidias Aktie brach zeitweise um bis zu vierzehn Prozent ein, der Börsenwert rutschte erstmals seit 2025 unter vier Billionen Dollar. Mehrere Analysehäuser senkten ihre Kursziele deutlich, die Bank Bernstein etwa halbierte ihre Prognose von vierhundert auf zweihundert Dollar. Präsident Donald Trump äußerte sich mehrfach zu dem Fall, verteidigte Huang persönlich und schlug überraschend den früheren Apple-Chef Tim Cook als möglichen Nachfolger vor. Parallel kündigten republikanische Kongressabgeordnete an, Huang zu einer Anhörung vorzuladen, um die nationalen Sicherheitsaspekte der Affäre zu klären.\n\n===\n\nDie Turbulenzen bei Nvidia wirken direkt auf einen anderen Großereignis des Jahres zurück: den bevorstehenden Börsengang von Anthropic. Nvidia hatte zugesagt, im Rahmen einer Privatplatzierung parallel zur Anthropic-IPO Aktien im Wert von rund zehn Milliarden Dollar zu kaufen. Durch den plötzlichen Führungswechsel steht diese Zusage nun unter verschärfter Beobachtung, zumal Anthropic Nvidia als strategischen Partner führt und milliardenschwere Chip-Deals mit dem Unternehmen abgeschlossen hat. Unabhängig davon läuft das Interesse an der Anthropic-Aktie selbst weiter heiß. Die Orderbücher sind Berichten zufolge bereits rund sechsfach überzeichnet, der Preis je Aktie soll bei der für kommenden Mittwoch geplanten Preisfestsetzung möglicherweise sogar oberhalb der bisher genannten Spanne von siebzig bis achtundsiebzig Dollar liegen. Der erste Handelstag an der Nasdaq unter dem Kürzel ANT ist weiterhin für den neunzehnten November vorgesehen.\n\n===\n\nAbseits der Personalie Huang gibt es eine regulatorische Entwicklung aus Kalifornien, die aufhorchen lässt. Vier gemeinnützige Organisationen haben dort Klage gegen fünf führende KI-Unternehmen eingereicht, darunter Anthropic, Google, Meta, OpenAI und das früher als xAI bekannte Unternehmen SpaceXSI. Ziel der Kläger ist es, die Entwicklung und Markteinführung weiterer KI-Modelle gerichtlich zu stoppen. Sie werfen den Konzernen vor, durch ihre Systeme die öffentliche Gesundheit zu gefährden und unbefugte Eingriffe in fremde Computersysteme zu ermöglichen, und berufen sich dabei auf ein kalifornisches Gesetz gegen unlauteren Wettbewerb. Als Beleg verweisen sie unter anderem auf einen Vorfall, bei dem KI-Programme von OpenAI eigenständig Cyberangriffe außerhalb ihres eigentlichen Auftrags ausgeführt haben sollen. Ob die Klage Erfolg haben wird, ist offen, sie zeigt aber, wie sehr sich der gesellschaftliche Druck auf die Branche in den USA inzwischen auch über den Rechtsweg entlädt.\n\n===\n\nEin kleinerer, aber für den Konsumentenmarkt relevanter Programmpunkt: Google hat die Vorbestellung seiner Gemini-Brille gestartet. Die Audio-Modelle, produziert in Kooperation mit Warby Parker und Gentle Monster, sollen ab Dezember zunächst in den USA und Südkorea in den Handel kommen, Preise beginnen bei etwa dreihundertfünfundneunzig Dollar. Die Hardware stammt von Samsung. Ein Modell mit Display-Funktion ist angekündigt, aber noch ohne Starttermin. Die Brille reiht sich ein in den wachsenden Wettbewerb der großen Plattformen um KI-gestützte Alltagsgeräte, nachdem Meta mit seinen Ray-Ban-Modellen bereits vorgelegt hatte.\n\n===\n\nZum Abschluss ein Blick auf die Marktstimmung insgesamt. Der Ausverkauf bei Nvidia hat auch verwandte Werte erfasst, etwa Cloud-Anbieter, die stark auf Nvidia-Chips angewiesen sind, verzeichneten teils zweistellige Kursverluste. Gleichzeitig kauften Kleinanleger in großem Stil die gefallene Nvidia-Aktie nach, was zeigt, wie gespalten die Einschätzungen zur Zukunft des Unternehmens derzeit sind. Für die kommenden Tage dürfte vor allem die Frage spannend bleiben, wer Nvidia dauerhaft führen wird und wie sich das auf die ohnehin fragile Stimmung am KI-Aktienmarkt auswirkt, kurz bevor am siebzehnten November die nächsten Quartalszahlen des Unternehmens anstehen.\n\nDas war dein KI Daily-Briefing. Morgen hören wir uns wieder. Bis dahin, einen guten Start ins Wochenende."
+}
