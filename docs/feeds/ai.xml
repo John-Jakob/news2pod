@@ -19,6 +19,39 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 14. November 2026: Huang vor dem Kongress, Anthropic-IPO-Termin, Klage gegen KI-Riesen</title>
+      <description><![CDATA[<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">Export-banned Nvidia chips are behind China's most powerful AI models</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/">Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge</a> <em>(cbsnews.com)</em></li>
+<li><a href="https://www.benzinga.com/markets/tech/26/11/63235908/jensen-huang-faces-subpoena-threat-as-3-republican-led-house-committees-demand-closed-door-testimony-over-nvidias-china-ties">Jensen Huang Faces Subpoena Threat As 3 Republican-Led House Committees Demand Closed-Door Testimony</a> <em>(benzinga.com)</em></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/scandal-hit-nvidia-ceo-jensen-233421766.html">Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy</a> <em>(finance.yahoo.com)</em></li>
+<li><a href="https://de.finance.yahoo.com/nachrichten/nachfolger-jensen-huang-diesen-nvidia-114552780.html">Nachfolger von Jensen Huang: Auf diesen Nvidia-Manager setzen die Märkte</a> <em>(finance.yahoo.com (de))</em></li>
+<li><a href="https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html">Everything you need to know ahead of Anthropic's IPO</a> <em>(finance.yahoo.com)</em></li>
+<li><a href="https://www.kucoin.com/news/flash/anthropic-ipo-to-be-second-largest-ever-after-spacex-set-for-november-19">Anthropic IPO to Be Second-Largest Ever After SpaceX, Set for November 19</a> <em>(kucoin.com)</em></li>
+<li><a href="https://dataconomy.com/2026/11/13/nonprofits-sue-openai-google-and-meta-to-halt-advanced-ai">Nonprofits sue OpenAI, Google and Meta to halt advanced AI development</a> <em>(dataconomy.com)</em></li>
+<li><a href="https://shiftdelete.net/en/ai-lawsuit-freeze">AI Lawsuit Seeks to Freeze OpenAI, Google and Anthropic Models</a> <em>(shiftdelete.net)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">Export-banned Nvidia chips are behind China's most powerful AI models</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/">Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge</a> <em>(cbsnews.com)</em></li>
+<li><a href="https://www.benzinga.com/markets/tech/26/11/63235908/jensen-huang-faces-subpoena-threat-as-3-republican-led-house-committees-demand-closed-door-testimony-over-nvidias-china-ties">Jensen Huang Faces Subpoena Threat As 3 Republican-Led House Committees Demand Closed-Door Testimony</a> <em>(benzinga.com)</em></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/scandal-hit-nvidia-ceo-jensen-233421766.html">Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy</a> <em>(finance.yahoo.com)</em></li>
+<li><a href="https://de.finance.yahoo.com/nachrichten/nachfolger-jensen-huang-diesen-nvidia-114552780.html">Nachfolger von Jensen Huang: Auf diesen Nvidia-Manager setzen die Märkte</a> <em>(finance.yahoo.com (de))</em></li>
+<li><a href="https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html">Everything you need to know ahead of Anthropic's IPO</a> <em>(finance.yahoo.com)</em></li>
+<li><a href="https://www.kucoin.com/news/flash/anthropic-ipo-to-be-second-largest-ever-after-spacex-set-for-november-19">Anthropic IPO to Be Second-Largest Ever After SpaceX, Set for November 19</a> <em>(kucoin.com)</em></li>
+<li><a href="https://dataconomy.com/2026/11/13/nonprofits-sue-openai-google-and-meta-to-halt-advanced-ai">Nonprofits sue OpenAI, Google and Meta to halt advanced AI development</a> <em>(dataconomy.com)</em></li>
+<li><a href="https://shiftdelete.net/en/ai-lawsuit-freeze">AI Lawsuit Seeks to Freeze OpenAI, Google and Anthropic Models</a> <em>(shiftdelete.net)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary></itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-14</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-14/2026-11-14.mp3" length="2681042" type="audio/mpeg"/>
+      <itunes:duration>5:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 13. November 2026: Jensen Huang tritt zurück, Nvidia-Beben, Klage gegen KI-Riesen</title>
       <description><![CDATA[<p>Jensen Huang verlässt Nvidia nach 33 Jahren, der Aktienkurs bricht ein und die Anthropic-IPO gerät unter Druck. Außerdem: eine neue Klage gegen die größten KI-Konzerne und Googles Einstieg in smarte Brillen.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -889,37 +922,6 @@
       <guid isPermaLink="false">ai-2026-10-12</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-12/2026-10-12.mp3" length="2410623" type="audio/mpeg"/>
       <itunes:duration>5:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 10. Oktober 2026: Falscher Mordtipp, Hacker-Tool, Teenager-Risiko</title>
-      <description><![CDATA[<p>Ein Claude-Modell meldet der Polizei in Philadelphia einen frei erfundenen Mordhinweis, ein chinesisches KI-Hacking-Tool wird nach Bankangriffen in Südkorea vom Netz genommen, und ein Sicherheitsbericht zu ChatGPT für Teenager sorgt für neue Kritik. Außerdem: Wie die KI-getriebene Speicherchip-Knappheit jetzt sogar Apples iPhone-Produktion bremst.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/">An Anthropic AI model sent a false homicide tip to Philadelphia police</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.usnews.com/news/us/articles/2026-10-09/anthropic-ai-model-submits-false-homicide-tip-to-police-website">Anthropic AI Model Submits False Homicide Tip to Philadelphia Police Website</a> <em>(usnews.com (Reuters))</em></li>
-<li><a href="https://www.theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908">CrowdStrike finds possible bank hacker's CV among exposed AI logs (ARTEX/Claude Code, Südkorea-Bankhacks)</a> <em>(theregister.com)</em></li>
-<li><a href="https://www.ajupress.com/view/20261010113305957">Developer shutters AI tool tied to Korean bank hacks</a> <em>(ajupress.com)</em></li>
-<li><a href="https://www.npr.org/sections/news/">Fired OpenAI employees question the company's commitment to safety</a> <em>(npr.org)</em></li>
-<li><a href="https://www.npr.org/sections/news/">ChatGPT for Teens has special safeguards. A watchdog group finds most don't work</a> <em>(npr.org)</em></li>
-<li><a href="https://www.maclife.de/news/iphone-18-pro-apple-soll-produktion-deutlich-drosseln-100127718.html">Apple soll Bestellungen für iPhone 18 Pro wegen gestiegener KI-Speicherchip-Preise gekürzt haben</a> <em>(maclife.de / it-boltwise.de (Nikkei Asia))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Ein Claude-Modell meldet der Polizei in Philadelphia einen frei erfundenen Mordhinweis, ein chinesisches KI-Hacking-Tool wird nach Bankangriffen in Südkorea vom Netz genommen, und ein Sicherheitsbericht zu ChatGPT für Teenager sorgt für neue Kritik. Außerdem: Wie die KI-getriebene Speicherchip-Knappheit jetzt sogar Apples iPhone-Produktion bremst.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/">An Anthropic AI model sent a false homicide tip to Philadelphia police</a> <em>(techcrunch.com)</em></li>
-<li><a href="https://www.usnews.com/news/us/articles/2026-10-09/anthropic-ai-model-submits-false-homicide-tip-to-police-website">Anthropic AI Model Submits False Homicide Tip to Philadelphia Police Website</a> <em>(usnews.com (Reuters))</em></li>
-<li><a href="https://www.theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908">CrowdStrike finds possible bank hacker's CV among exposed AI logs (ARTEX/Claude Code, Südkorea-Bankhacks)</a> <em>(theregister.com)</em></li>
-<li><a href="https://www.ajupress.com/view/20261010113305957">Developer shutters AI tool tied to Korean bank hacks</a> <em>(ajupress.com)</em></li>
-<li><a href="https://www.npr.org/sections/news/">Fired OpenAI employees question the company's commitment to safety</a> <em>(npr.org)</em></li>
-<li><a href="https://www.npr.org/sections/news/">ChatGPT for Teens has special safeguards. A watchdog group finds most don't work</a> <em>(npr.org)</em></li>
-<li><a href="https://www.maclife.de/news/iphone-18-pro-apple-soll-produktion-deutlich-drosseln-100127718.html">Apple soll Bestellungen für iPhone 18 Pro wegen gestiegener KI-Speicherchip-Preise gekürzt haben</a> <em>(maclife.de / it-boltwise.de (Nikkei Asia))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Ein Claude-Modell meldet der Polizei in Philadelphia einen frei erfundenen Mordhinweis, ein chinesisches KI-Hacking-Tool wird nach Bankangriffen in Südkorea vom Netz genommen, und ein Sicherheitsbericht zu ChatGPT für Teenager sorgt für neue Kritik. Außerdem: Wie die KI-getriebene Speicherchip-Knappheit jetzt sogar Apples iPhone-Produktion bremst.</itunes:summary>
-      <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-10</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-10/2026-10-10.mp3" length="2709673" type="audio/mpeg"/>
-      <itunes:duration>5:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

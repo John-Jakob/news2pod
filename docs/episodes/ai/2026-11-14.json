@@ -1,0 +1,70 @@
+{
+  "title": "KI Daily – 14. November 2026: Huang vor dem Kongress, Anthropic-IPO-Termin, Klage gegen KI-Riesen",
+  "teaser": "",
+  "pubDate": "2026-11-14T06:00:00+01:00",
+  "duration_seconds": 335,
+  "size_bytes": 2681042,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-14/2026-11-14.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 124127,
+    "output_tokens": 4231
+  },
+  "sources": [
+    {
+      "headline": "Export-banned Nvidia chips are behind China's most powerful AI models",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "published": "2026-11-13"
+    },
+    {
+      "headline": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge",
+      "source": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
+      "published": "2026-11-13"
+    },
+    {
+      "headline": "Jensen Huang Faces Subpoena Threat As 3 Republican-Led House Committees Demand Closed-Door Testimony",
+      "source": "benzinga.com",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63235908/jensen-huang-faces-subpoena-threat-as-3-republican-led-house-committees-demand-closed-door-testimony-over-nvidias-china-ties",
+      "published": "2026-11-13"
+    },
+    {
+      "headline": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/scandal-hit-nvidia-ceo-jensen-233421766.html",
+      "published": "2026-11-13"
+    },
+    {
+      "headline": "Nachfolger von Jensen Huang: Auf diesen Nvidia-Manager setzen die Märkte",
+      "source": "finance.yahoo.com (de)",
+      "url": "https://de.finance.yahoo.com/nachrichten/nachfolger-jensen-huang-diesen-nvidia-114552780.html",
+      "published": "2026-11-13"
+    },
+    {
+      "headline": "Everything you need to know ahead of Anthropic's IPO",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html",
+      "published": "2026-11-13"
+    },
+    {
+      "headline": "Anthropic IPO to Be Second-Largest Ever After SpaceX, Set for November 19",
+      "source": "kucoin.com",
+      "url": "https://www.kucoin.com/news/flash/anthropic-ipo-to-be-second-largest-ever-after-spacex-set-for-november-19",
+      "published": "2026-11-14"
+    },
+    {
+      "headline": "Nonprofits sue OpenAI, Google and Meta to halt advanced AI development",
+      "source": "dataconomy.com",
+      "url": "https://dataconomy.com/2026/11/13/nonprofits-sue-openai-google-and-meta-to-halt-advanced-ai",
+      "published": "2026-11-13"
+    },
+    {
+      "headline": "AI Lawsuit Seeks to Freeze OpenAI, Google and Anthropic Models",
+      "source": "shiftdelete.net",
+      "url": "https://shiftdelete.net/en/ai-lawsuit-freeze",
+      "published": "2026-11-13"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, 14. November 2026.\n\nDie Nvidia-Affäre um Jensen Huang nimmt eine neue politische Wendung. Nachdem Huang am Donnerstag seinen Rücktritt als Präsident, CEO und Verwaltungsratsmitglied erklärt hatte, fordern nun gleich drei Ausschüsse des US-Repräsentantenhauses sowie der Bankenausschuss des Senats seine Aussage unter Eid. Huang hat zugestimmt, noch vor Thanksgiving hinter verschlossenen Türen vor dem Auswärtigen Ausschuss, dem China-Sonderausschuss und dem Geheimdienstausschuss auszusagen. Der Senats-Bankenausschuss unter Tim Scott hat Huang zudem für den dritten Dezember geladen, parallel soll Handelsminister Howard Lutnick eine Woche später erscheinen. Im Zentrum steht die Frage, wie export-beschränkte Chips über Umwege nach China gelangen konnten, und welche Rolle Huangs mutmaßliche Affäre mit einer als chinesische Spionin verdächtigten Managerin dabei spielte. Hinzu kommt ein neuer Rechercheansatz von TechCrunch: Die derzeit leistungsstärksten offenen KI-Modelle aus China sollen demnach auf genau jenen Blackwell-Chips trainiert worden sein, deren Export in die Volksrepublik eigentlich verboten ist. \nDie führenden offenen Modelle chinesischer Unternehmen wurden demnach auf Nvidia-Chips trainiert, deren Export in den größten geopolitischen Rivalen die US-Regierung eigentlich untersagt hatte, und die offenbar weit verbreitete Verfügbarkeit von Blackwell-GPUs bei chinesischen Spitzenlaboren zeigt das Ausmaß des Problems.\n Gleichzeitig gerät Handelsminister Lutnick selbst unter Druck. Kritiker werfen ihm vor, die Abwanderung sensibler Nvidia-Chips nicht verhindert zu haben, zumal er vor seinem Amtsantritt als Chef von Cantor Fitzgerald selbst erhebliche Nvidia-Aktienbestände hielt. Wer Huang langfristig als CEO beerbt, ist weiterhin offen, Interims-Chefin bleibt Finanzvorständin Colette Kress, während Prognosemärkte den langjährigen Hardware-Manager Ian Buck als Favoriten für die Dauerlösung sehen.\n\n===\n\nBei Anthropic rückt der Börsengang nun auf den Tag genau näher. Nach dem Start der Investoren-Roadshow am 10. November hat das Unternehmen seinen Zeitplan konkretisiert. \nAnthropic wird am 19. November 2026 mit dem Handel beginnen, und das KI-Labor hinter Claude wird an diesem Tag erstmals öffentlich gehandelt.\n Der finale Ausgabepreis soll bereits einen Tag zuvor, am 18. November, festgelegt werden. Die Preisspanne liegt weiterhin zwischen 70 und 78 US-Dollar je Aktie, bei 825 Millionen angebotenen Aktien könnte der Börsengang damit bis zu 64,4 Milliarden Dollar einspielen. Damit wäre es nach dem SpaceX-Börsengang im Juni der zweitgrößte Börsengang der Geschichte, mit einer angestrebten Bewertung von rund 1,4 Billionen Dollar. Die Nachfrage soll bereits jetzt etwa das Sechsfache des Angebots übersteigen.\n\n===\n\nEine handfeste rechtliche Herausforderung trifft derweil praktisch die gesamte Branche gleichzeitig. Eine Koalition von Nichtregierungsorganisationen hat am Donnerstag in San Francisco Klage gegen OpenAI, Anthropic, Google, Meta und die KI-Sparte von SpaceX eingereicht. \nDie Koalition verklagte OpenAI, Anthropic, die KI-Sparte von SpaceX, Meta Platforms und Google vor dem Superior Court in San Francisco und will damit die Entwicklung und den Einsatz neuer, fortschrittlicher KI-Modelle stoppen lassen.\n Die Klage argumentiert, \ndie Beklagten wollten KI-Systeme mit menschenähnlichen allgemeinen Fähigkeiten bauen, die zunehmend selbstständig lernen und Aufgaben verwalten könnten.\n Ein zentrales Argument der Kläger lautet, \nkeiner Branche stehe das Recht zu, die Entwicklung derart gefährlicher Produkte selbst zu regulieren.\n Bemerkenswert ist die Reaktion von OpenAI: Nach einer separaten Klage aus Florida erklärte ein Unternehmenssprecher, \nman habe das Training der leistungsfähigsten Modelle pausiert und werde es erst wieder aufnehmen, wenn zusätzliche Sicherheitsvorkehrungen vorhanden seien.\n Das reiht sich ein in eine wachsende Zahl juristischer Angriffe auf die Branche, darunter auch Klagen mehrerer US-Bundesstaaten, die OpenAI vorwerfen, Chatbot-Nutzer, darunter Minderjährige, zu selbstschädigendem Verhalten angeleitet zu haben.\n\n===\n\nDas waren die wichtigsten Entwicklungen rund um KI für diesen Samstag. In den kommenden Tagen dürfte vor allem die Anthropic-Preisfestsetzung am 18. November sowie der darauffolgende Handelsstart im Mittelpunkt stehen, während sich parallel die politische Aufarbeitung der Nvidia-Affäre mit den angekündigten Kongressanhörungen weiter zuspitzt. Wir bleiben für euch dran. Bis morgen bei KI Daily."
+}
