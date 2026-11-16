@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 16. November 2026: Wochenend-Rückblick zu Huang, Anthropic-IPO, Nvidia-OpenAI-Deal",
+  "teaser": "Das Wochenende brachte eine überraschende Wendung im Nvidia-Drama: Jensen Huang denkt offenbar über ein Comeback nach. Außerdem: Die Anthropic-IPO ist fast siebenfach überzeichnet, Nvidia kürzt offenbar seine Finanzierungszusage für OpenAI, und Google bringt ein neues Gemini-Modell an den Start.",
+  "pubDate": "2026-11-16T06:00:00+01:00",
+  "duration_seconds": 396,
+  "size_bytes": 3172562,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-16/2026-11-16.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 115951,
+    "output_tokens": 4253
+  },
+  "sources": [
+    {
+      "headline": "Anthropic IPO reportedly oversubscribed nearly 7-fach",
+      "source": "finance.yahoo.com / Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-reportedly-oversubscribed-7-035659320.html",
+      "published": "2026-11-15"
+    },
+    {
+      "headline": "Jensen Huang erwägt Comeback als Nvidia-CEO, laut FT",
+      "source": "Bloomberg / Reuters",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
+      "published": "2026-11-15"
+    },
+    {
+      "headline": "Huang stimmt nicht-öffentlicher Kongress-Anhörung zu, Termin offen",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet",
+      "published": "2026-11-15"
+    },
+    {
+      "headline": "Bessent fordert 'radikalen Umbau' bei Nvidia, externen CEO",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/15/jensen-huang-is-already-considering-returning-to-nvidia-report-says/",
+      "published": "2026-11-15"
+    },
+    {
+      "headline": "Nvidia senkt offenbar Finanzierungszusage für OpenAI von 250 auf 105 Milliarden Dollar",
+      "source": "456X Research / 10-Q Filing",
+      "url": "https://404kresearch.substack.com/p/456x-morning-brief-november-15-2026",
+      "published": "2026-11-15"
+    },
+    {
+      "headline": "OpenAI löst Robotik-Team auf, setzt auf General-Purpose-Modelle",
+      "source": "Fortune / aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published": "2026-11-15"
+    },
+    {
+      "headline": "Google veröffentlicht Gemini 4 Hydrogen für Suche und Agenten-Workflows",
+      "source": "Search Engine Roundtable / aiagentstore.ai",
+      "url": "https://seroundtable.com/recap-11-13-2026-42531.html",
+      "published": "2026-11-13"
+    },
+    {
+      "headline": "Bitcoin fällt unter 62.000 Dollar, Anthropic-IPO zieht Kapital aus Krypto ab",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/eb69aa85-f9e3-4e28-9ff9-532057bee39b",
+      "published": "2026-11-15/16"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Monday, den 16. November 2026. Da heute die erste Ausgabe nach dem Wochenende ist, blicken wir kurz zurück auf Samstag und Sonntag, bevor wir in die Woche starten.\n\n===\n\nDie größte Überraschung des Wochenendes kommt aus dem Hause Nvidia. Nur wenige Tage nach seinem Rücktritt denkt Jensen Huang offenbar über eine Rückkehr als Chief Executive nach. Die Financial Times berichtete am Sonntag unter Berufung auf Insider, dass Huang mit Vertrauten über eine mögliche Rückkehr gesprochen habe. Ein Verbündeter erklärte der Zeitung demnach, man stelle gerade einen regelrechten Kriegsraum aus Silicon-Valley-Führungskräften zusammen, um für Huangs Wiedereinsetzung zu werben, und wolle dafür auch Unterstützung aus dem Weißen Haus gewinnen. Tech-Unternehmer Elon Musk stellte sich öffentlich hinter Huang und warnte, zahlreiche Lieferketten-Deals seien lediglich per Handschlag vereinbart worden und könnten ohne ihn verloren gehen. Eine Petition für seine Wiedereinsetzung kam Berichten zufolge bereits auf über 164.000 Unterschriften. Allerdings gibt es auch prominenten Widerstand. US-Finanzminister Scott Bessent forderte am Sonntag einen, so wörtlich, radikalen Umbau bei Nvidia und sprach sich für einen externen Nachfolger aus. Er wolle zudem genau prüfen, ob das Unternehmen Warnsignale bei Geschäften mit ausländischen Firmen ignoriert habe. Parallel stimmte Huang laut dem republikanischen Abgeordneten John Moolenaar einer nicht-öffentlichen Anhörung vor dem Kongress zu, ein konkreter Termin steht aber noch aus.\n\n===\n\nMitten in diesem Führungschaos läuft die Anthropic-IPO auf Hochtouren. Laut einem Bloomberg-Bericht vom Sonntag haben die Zeichnungsaufträge mittlerweile fast das Siebenfache der verfügbaren Aktien erreicht, womit die Nachfrage sogar die des SpaceX-Börsengangs übertrifft. Die Stimmung unter Privatanlegern wurde am Sonntag als außerordentlich bullisch beschrieben. Anthropic und einige seiner Investoren wollen über den Börsengang und eine separate Privatplatzierung bis zu 90,4 Milliarden Dollar einsammeln, der Handelsstart wird für Donnerstag oder Freitag dieser Woche erwartet. Bemerkenswert ist, dass Nvidia selbst Teil einer separaten Privatplatzierung über 26 Milliarden Dollar ist, gemeinsam mit Google, AMD, Broadcom, Micron, Microsoft und TSMC, die alle Anteile zum IPO-Preis erwerben wollen. Die Personalturbulenzen bei Nvidia werfen damit einen Schatten auf einen der größten Börsengänge der Geschichte, da Huangs Abgang und seine mögliche Rückkehr direkt die Beziehung zwischen den beiden eng verflochtenen Unternehmen berühren.\n\n===\n\nEin weiteres Detail aus dem Wochenende betrifft das Verhältnis zwischen Nvidia und OpenAI. Laut Berichten, die sich auf eine aktuelle Quartalsmitteilung von Nvidia stützen, hat der Chiphersteller eine geplante Finanzierungszusage für OpenAIs Rechenzentren offenbar deutlich zurückgefahren, von ursprünglich 250 Milliarden auf etwa 105 Milliarden Dollar. Diese Kreditunterstützung sollte demnach erst 2028 greifen, die Kürzung verändert aber schon jetzt die strukturelle Absicherung für OpenAIs geplante Rechenzentrums-Expansion. Passend dazu berichtete Fortune am Wochenende, dass OpenAI sein spezialisiertes Robotik-Team aufgelöst und die Mitarbeiter anderen Abteilungen zugeteilt hat. Ein OpenAI-Sprecher bestätigte dies und begründete den Schritt damit, dass allgemeine Sprachmodelle Roboter künftig direkt steuern könnten, Robotik sei damit eher eine nachgelagerte Anwendung allgemeiner Intelligenz als ein eigenständiges Forschungsfeld.\n\n===\n\nAuch bei Google gab es über das Wochenende Bewegung. Das Unternehmen hat laut mehreren Berichten sein neues Modell Gemini 4 Hydrogen ausgerollt, das speziell für mehrstufige, agentenhafte Aufgaben wie Recherche, Datenanalyse und Programmierung konzipiert ist. Google zufolge erledigt Hydrogen Aufgaben zweieinhalbmal schneller als das Vorgängermodell Gemini 3.8 Flash und unterstützt vier verschiedene Stufen des logischen Schließens. Das Modell wird weltweit in die Google-Suche integriert und steht zusätzlich über die Gemini-API, AI Studio und die Entwicklerplattform Antigravity zur Verfügung. Google-Manager Nick Fox bezeichnete es als das bislang größte Modell-Upgrade für die Suche.\n\n===\n\nAbseits der großen KI-Konzerne zeigte sich am Wochenende auch, wie stark die Finanzmärkte inzwischen auf die KI-Branche reagieren. Bitcoin fiel kurzzeitig unter 62.000 Dollar, den tiefsten Stand seit etwa drei Monaten. Als Gründe wurden neben Zinsängsten vor allem die bevorstehende Anthropic-IPO sowie anhaltende Mittelabflüsse aus US-Bitcoin-ETFs genannt, die zusammen Liquidität aus dem Kryptomarkt abzogen. Analysten sprachen von einer spürbaren Kapitalverschiebung weg von Krypto-Anlagen hin zu KI-Investments.\n\n===\n\nDamit zum Ausblick für die neue Woche. Nvidia veröffentlicht am Dienstag seine Quartalszahlen, was angesichts der Führungskrise mit besonderer Spannung erwartet wird. Und am Donnerstag oder Freitag dürfte Anthropic an der Nasdaq unter dem Kürzel ANT debütieren, was als einer der größten Tests für das Vertrauen der Finanzmärkte in die KI-Branche gilt. Wir bleiben für dich dran. Das war dein KI Daily-Briefing für heute. Einen guten Start in die Woche."
+}
