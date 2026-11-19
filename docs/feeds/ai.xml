@@ -19,6 +19,39 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 19. November 2026: Anthropic-Börsengang, Huang-Nachbeben, Arizona-Ermittlung</title>
+      <description><![CDATA[<p>Anthropic startet an der Nasdaq und knackt den IPO-Rekord von SpaceX, während bei Nvidia die Nachwirkungen der Causa Jensen Huang weitergehen und Arizona eine Strafermittlung gegen OpenAI eröffnet.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html">Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/">Anthropic's IPO set for blastoff Thursday in key test for AI boom</a> <em>(cbsnews.com)</em></li>
+<li><a href="https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings">Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings</a> <em>(aljazeera.com)</em></li>
+<li><a href="https://www.brecorder.com/news/40449683/trump-says-he-referred-to-ex-nvidia-boss-huangs-situation-briefly-in-talk-with-xi">Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi</a> <em>(brecorder.com)</em></li>
+<li><a href="https://www.kucoin.com/news/flash/nvidia-faces-risk-of-core-engineer-exodus-after-jensen-huang-s-ouster">NVIDIA Faces Risk of Core Engineer Exodus After Jensen Huang's Removal</a> <em>(kucoin.com)</em></li>
+<li><a href="https://www.yahoo.com/news/us/articles/arizona-investigating-openai-others-over-040500131.html">Arizona investigating OpenAI, others over rogue agents, Reuters reports</a> <em>(yahoo.com (Reuters))</em></li>
+<li><a href="https://www.kucoin.com/news/flash/openai-and-amd-collaborate-to-improve-gpu-design-metrics-by-up-to-14">OpenAI and AMD collaborate to improve GPU design metrics by up to 14%</a> <em>(kucoin.com)</em></li>
+<li><a href="https://mezha.net/eng/news/mezha-43d5337114d3e939aefbfe5f_meta_employees_raise">Meta employees raise concerns over Muse AI agent's early mishaps</a> <em>(mezha.net)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Anthropic startet an der Nasdaq und knackt den IPO-Rekord von SpaceX, während bei Nvidia die Nachwirkungen der Causa Jensen Huang weitergehen und Arizona eine Strafermittlung gegen OpenAI eröffnet.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html">Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/">Anthropic's IPO set for blastoff Thursday in key test for AI boom</a> <em>(cbsnews.com)</em></li>
+<li><a href="https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings">Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings</a> <em>(aljazeera.com)</em></li>
+<li><a href="https://www.brecorder.com/news/40449683/trump-says-he-referred-to-ex-nvidia-boss-huangs-situation-briefly-in-talk-with-xi">Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi</a> <em>(brecorder.com)</em></li>
+<li><a href="https://www.kucoin.com/news/flash/nvidia-faces-risk-of-core-engineer-exodus-after-jensen-huang-s-ouster">NVIDIA Faces Risk of Core Engineer Exodus After Jensen Huang's Removal</a> <em>(kucoin.com)</em></li>
+<li><a href="https://www.yahoo.com/news/us/articles/arizona-investigating-openai-others-over-040500131.html">Arizona investigating OpenAI, others over rogue agents, Reuters reports</a> <em>(yahoo.com (Reuters))</em></li>
+<li><a href="https://www.kucoin.com/news/flash/openai-and-amd-collaborate-to-improve-gpu-design-metrics-by-up-to-14">OpenAI and AMD collaborate to improve GPU design metrics by up to 14%</a> <em>(kucoin.com)</em></li>
+<li><a href="https://mezha.net/eng/news/mezha-43d5337114d3e939aefbfe5f_meta_employees_raise">Meta employees raise concerns over Muse AI agent's early mishaps</a> <em>(mezha.net)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Anthropic startet an der Nasdaq und knackt den IPO-Rekord von SpaceX, während bei Nvidia die Nachwirkungen der Causa Jensen Huang weitergehen und Arizona eine Strafermittlung gegen OpenAI eröffnet.</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-19</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-19/2026-11-19.mp3" length="3158142" type="audio/mpeg"/>
+      <itunes:duration>6:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 18. November 2026: Nvidia-Zahlen, Anthropic-Pricing, GPT-6.2</title>
       <description><![CDATA[<p>Nvidia liefert Rekordzahlen trotz Führungskrise, Anthropic setzt heute Abend den Preis für sein Nasdaq-Debüt fest, und OpenAI veröffentlicht GPT-6.2 Astra mit einer neuen, kritischen Sicherheitsschwelle.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -901,33 +934,6 @@
       <guid isPermaLink="false">ai-2026-10-16</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-16/2026-10-16.mp3" length="2555864" type="audio/mpeg"/>
       <itunes:duration>5:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 15. Oktober 2026: Brüssel ermittelt, OpenAI-Spion, Dublin-Gipfel</title>
-      <description><![CDATA[<p>Die EU eröffnet ihre ersten AI-Act-Verfahren gegen OpenAI und Anthropic, ein OpenAI-Ingenieur wird wegen Abhörens verhaftet, und beim Dublin-Gipfel warnt OpenAIs Finanzchefin vor chinesischen Modellen. Das und mehr im heutigen Briefing.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://borncity.com/news/ai-act-eu-startet-erste-formelle-verfahren-gegen-openai-und-anthropic/">EU AI Office eröffnet erste formelle Verfahren gegen OpenAI und Anthropic</a> <em>(borncity.com)</em></li>
-<li><a href="https://www.washingtonpost.com/technology/2026/10/13/fbi-arrests-openai-employee-allegedly-planting-bug-office/">FBI arrests Saudi OpenAI engineer over covert recording device</a> <em>(washingtonpost.com)</em></li>
-<li><a href="https://www.mlex.com/mlex/articles/2537399/pressed-by-uk-lawmakers-anthropic-google-meta-openai-differ-on-ai-regulation">OpenAI und Anthropic unterstützen bindende KI-Regeln bei UK-Anhörung</a> <em>(mlex.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety">OpenAI CFO Sarah Friar warnt vor Cyberrisiken chinesischer KI-Modelle</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Rogue-Agenten-Schwarm testet Alibaba Amap über Tencent Cloud</a> <em>(aiweekly.co)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Die EU eröffnet ihre ersten AI-Act-Verfahren gegen OpenAI und Anthropic, ein OpenAI-Ingenieur wird wegen Abhörens verhaftet, und beim Dublin-Gipfel warnt OpenAIs Finanzchefin vor chinesischen Modellen. Das und mehr im heutigen Briefing.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://borncity.com/news/ai-act-eu-startet-erste-formelle-verfahren-gegen-openai-und-anthropic/">EU AI Office eröffnet erste formelle Verfahren gegen OpenAI und Anthropic</a> <em>(borncity.com)</em></li>
-<li><a href="https://www.washingtonpost.com/technology/2026/10/13/fbi-arrests-openai-employee-allegedly-planting-bug-office/">FBI arrests Saudi OpenAI engineer over covert recording device</a> <em>(washingtonpost.com)</em></li>
-<li><a href="https://www.mlex.com/mlex/articles/2537399/pressed-by-uk-lawmakers-anthropic-google-meta-openai-differ-on-ai-regulation">OpenAI und Anthropic unterstützen bindende KI-Regeln bei UK-Anhörung</a> <em>(mlex.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety">OpenAI CFO Sarah Friar warnt vor Cyberrisiken chinesischer KI-Modelle</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">Rogue-Agenten-Schwarm testet Alibaba Amap über Tencent Cloud</a> <em>(aiweekly.co)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Die EU eröffnet ihre ersten AI-Act-Verfahren gegen OpenAI und Anthropic, ein OpenAI-Ingenieur wird wegen Abhörens verhaftet, und beim Dublin-Gipfel warnt OpenAIs Finanzchefin vor chinesischen Modellen. Das und mehr im heutigen Briefing.</itunes:summary>
-      <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-15</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-15/2026-10-15.mp3" length="3202865" type="audio/mpeg"/>
-      <itunes:duration>6:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
