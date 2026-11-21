@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 21. November 2026: Nvidia-Absturz, Chip-Deals, Asien-Beben</title>
+      <description><![CDATA[<p>Nvidia erlebt seine schlechteste Woche seit 2008, eine SEC-Buchprüfung heizt die Krise an, und Asiens Börsen stürzen trotz Anthropics IPO-Erfolg ab. Außerdem: Ein Kongressausschuss deckt heikle Chip-Exporte nach China auf.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://au.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-4787315">Nvidia suffers worst week since 2008, as SEC probe report fuels post-Huang turmoil</a> <em>(investing.com)</em></li>
+<li><a href="https://247wallst.com/investing/2026/11/20/nvidia-stock-just-lost-900-billion-in-its-worst-week-since-2008-the-last-time-the-sec-examined-nvidias-accounting-the-stock-fell-81-in-a-year/">Nvidia Stock Just Lost $900 Billion in Its Worst Week Since 2008</a> <em>(247wallst.com)</em></li>
+<li><a href="https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears">Asia's stock markets dive as Anthropic debut fails to allay AI bubble fears</a> <em>(aljazeera.com)</em></li>
+<li><a href="https://www.investing.com/news/economy-news/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate-5040496">Stocks slide as AI selloff deepens, Asia has worst week since 2020</a> <em>(investing.com (Reuters))</em></li>
+<li><a href="https://www.yahoo.com/news/politics/articles/license-information-ai-chips-sent-201033356.html">US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says</a> <em>(Reuters via Yahoo)</em></li>
+<li><a href="https://gulfnews.com/business/markets/s-korea-tech-stocks-plummet-on-ai-bubble-fears-1.500354754">Asia tech stocks plummet on AI bubble fears</a> <em>(gulfnews.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Nvidia erlebt seine schlechteste Woche seit 2008, eine SEC-Buchprüfung heizt die Krise an, und Asiens Börsen stürzen trotz Anthropics IPO-Erfolg ab. Außerdem: Ein Kongressausschuss deckt heikle Chip-Exporte nach China auf.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://au.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-4787315">Nvidia suffers worst week since 2008, as SEC probe report fuels post-Huang turmoil</a> <em>(investing.com)</em></li>
+<li><a href="https://247wallst.com/investing/2026/11/20/nvidia-stock-just-lost-900-billion-in-its-worst-week-since-2008-the-last-time-the-sec-examined-nvidias-accounting-the-stock-fell-81-in-a-year/">Nvidia Stock Just Lost $900 Billion in Its Worst Week Since 2008</a> <em>(247wallst.com)</em></li>
+<li><a href="https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears">Asia's stock markets dive as Anthropic debut fails to allay AI bubble fears</a> <em>(aljazeera.com)</em></li>
+<li><a href="https://www.investing.com/news/economy-news/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate-5040496">Stocks slide as AI selloff deepens, Asia has worst week since 2020</a> <em>(investing.com (Reuters))</em></li>
+<li><a href="https://www.yahoo.com/news/politics/articles/license-information-ai-chips-sent-201033356.html">US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says</a> <em>(Reuters via Yahoo)</em></li>
+<li><a href="https://gulfnews.com/business/markets/s-korea-tech-stocks-plummet-on-ai-bubble-fears-1.500354754">Asia tech stocks plummet on AI bubble fears</a> <em>(gulfnews.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Nvidia erlebt seine schlechteste Woche seit 2008, eine SEC-Buchprüfung heizt die Krise an, und Asiens Börsen stürzen trotz Anthropics IPO-Erfolg ab. Außerdem: Ein Kongressausschuss deckt heikle Chip-Exporte nach China auf.</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-21</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-21/2026-11-21.mp3" length="3054070" type="audio/mpeg"/>
+      <itunes:duration>6:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 20. November 2026: Anthropic-Debüt, Markt-Beben, GAO-Alarm</title>
       <description><![CDATA[<p>Anthropic feiert einen fulminanten Nasdaq-Start, doch der Gesamtmarkt bricht ein. Außerdem: ein US-Kontrollbericht zeigt, wie leicht sich ChatGPT, Claude, Gemini und Grok zu gefährlichen Anleitungen überreden lassen.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -899,35 +928,6 @@
       <guid isPermaLink="false">ai-2026-10-19</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-19/2026-10-19.mp3" length="2758574" type="audio/mpeg"/>
       <itunes:duration>5:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 17. Oktober 2026: Claude knackt Quantenschaltkreise, Replit-Zoff, Finanzierungssorgen</title>
-      <description><![CDATA[<p>Anthropics Claude optimiert Quantenschaltkreise um das Siebzehnfache, Replit und Anthropic streiten über ihre Partnerschaft, und an der Wall Street wachsen die Zweifel an den Cashflows der KI-Branche. Das KI Daily-Briefing für Samstag.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.anthropic.com/research/designing-efficient-quantum-circuits">Designing more efficient quantum circuits with Claude</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.unite.ai/replit-ceo-masad-says-company-no-longer-works-with-anthropic/">Replit is no longer working with Anthropic, CEO says</a> <em>(techcrunch.com (via unite.ai, digg.com))</em></li>
-<li><a href="https://startupfortune.com/anthropic-offers-blackstone-a-double-digit-yield-to-fund-its-chip-habit/">Anthropic offers Blackstone a double-digit yield to fund its chip habit</a> <em>(startupfortune.com)</em></li>
-<li><a href="https://www.schwab.com/learn/story/stock-market-update-open">Stocks On Pace for Weekly Loss Despite Yield Drop</a> <em>(schwab.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">AI News Today, October 16: Top Stories (GPT-6 Pro Parallel Agents)</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://siliconangle.com/2026/10/16/ai-safety-worries-multiply-but-everyones-still-racing-full-speed-ahead">AI safety worries multiply but everyone's still racing full speed ahead</a> <em>(siliconangle.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Anthropics Claude optimiert Quantenschaltkreise um das Siebzehnfache, Replit und Anthropic streiten über ihre Partnerschaft, und an der Wall Street wachsen die Zweifel an den Cashflows der KI-Branche. Das KI Daily-Briefing für Samstag.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.anthropic.com/research/designing-efficient-quantum-circuits">Designing more efficient quantum circuits with Claude</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.unite.ai/replit-ceo-masad-says-company-no-longer-works-with-anthropic/">Replit is no longer working with Anthropic, CEO says</a> <em>(techcrunch.com (via unite.ai, digg.com))</em></li>
-<li><a href="https://startupfortune.com/anthropic-offers-blackstone-a-double-digit-yield-to-fund-its-chip-habit/">Anthropic offers Blackstone a double-digit yield to fund its chip habit</a> <em>(startupfortune.com)</em></li>
-<li><a href="https://www.schwab.com/learn/story/stock-market-update-open">Stocks On Pace for Weekly Loss Despite Yield Drop</a> <em>(schwab.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">AI News Today, October 16: Top Stories (GPT-6 Pro Parallel Agents)</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://siliconangle.com/2026/10/16/ai-safety-worries-multiply-but-everyones-still-racing-full-speed-ahead">AI safety worries multiply but everyone's still racing full speed ahead</a> <em>(siliconangle.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Anthropics Claude optimiert Quantenschaltkreise um das Siebzehnfache, Replit und Anthropic streiten über ihre Partnerschaft, und an der Wall Street wachsen die Zweifel an den Cashflows der KI-Branche. Das KI Daily-Briefing für Samstag.</itunes:summary>
-      <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-17</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-17/2026-10-17.mp3" length="3136618" type="audio/mpeg"/>
-      <itunes:duration>6:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

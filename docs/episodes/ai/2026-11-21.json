@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 21. November 2026: Nvidia-Absturz, Chip-Deals, Asien-Beben",
+  "teaser": "Nvidia erlebt seine schlechteste Woche seit 2008, eine SEC-Buchprüfung heizt die Krise an, und Asiens Börsen stürzen trotz Anthropics IPO-Erfolg ab. Außerdem: Ein Kongressausschuss deckt heikle Chip-Exporte nach China auf.",
+  "pubDate": "2026-11-21T06:00:00+01:00",
+  "duration_seconds": 381,
+  "size_bytes": 3054070,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-21/2026-11-21.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 110986,
+    "output_tokens": 4206
+  },
+  "sources": [
+    {
+      "headline": "Nvidia suffers worst week since 2008, as SEC probe report fuels post-Huang turmoil",
+      "source": "investing.com",
+      "url": "https://au.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-4787315",
+      "published": "2026-11-21"
+    },
+    {
+      "headline": "Nvidia Stock Just Lost $900 Billion in Its Worst Week Since 2008",
+      "source": "247wallst.com",
+      "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-just-lost-900-billion-in-its-worst-week-since-2008-the-last-time-the-sec-examined-nvidias-accounting-the-stock-fell-81-in-a-year/",
+      "published": "2026-11-20"
+    },
+    {
+      "headline": "Asia's stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "source": "aljazeera.com",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears",
+      "published": "2026-11-20"
+    },
+    {
+      "headline": "Stocks slide as AI selloff deepens, Asia has worst week since 2020",
+      "source": "investing.com (Reuters)",
+      "url": "https://www.investing.com/news/economy-news/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate-5040496",
+      "published": "2026-11-20"
+    },
+    {
+      "headline": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+      "source": "Reuters via Yahoo",
+      "url": "https://www.yahoo.com/news/politics/articles/license-information-ai-chips-sent-201033356.html",
+      "published": "2026-11-19"
+    },
+    {
+      "headline": "Asia tech stocks plummet on AI bubble fears",
+      "source": "gulfnews.com",
+      "url": "https://gulfnews.com/business/markets/s-korea-tech-stocks-plummet-on-ai-bubble-fears-1.500354754",
+      "published": "2026-11-20"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, 21. November 2026.\n\nDie größte Geschichte heute kommt von Nvidia, und sie ist dramatisch. Der Chipkonzern hat seine schlechteste Börsenwoche seit der Finanzkrise 2008 hinter sich. \nNvidia-Aktien brachen diese Woche um 23 Prozent ein, die schlechteste Wochenperformance seit der Finanzkrise 2008, da eine Führungskrise nach dem Abgang von Jensen Huang, zunehmende regulatorische Prüfungen und ein breiterer Ausverkauf von Technologieaktien einen weiteren starken Quartalsbericht überschatteten.\n Ausgelöst wurde der jüngste Absturz am Freitag durch einen Reuters-Bericht. \nDie Nvidia-Aktien brachen am Freitag um 14 Prozent ein, nachdem Reuters berichtet hatte, dass die US-Börsenaufsicht SEC die Buchhaltungspraktiken des Chipherstellers prüft, womit die schlechteste Woche seit Oktober 2008 besiegelt und rund 900 Milliarden Dollar Marktwert in fünf Handelstagen ausgelöscht wurden.\n Bemerkenswert dabei: Das operative Geschäft läuft weiterhin außergewöhnlich gut. \nDas Unternehmen meldete für das dritte Quartal des Geschäftsjahres 2027 einen Umsatz von 115,8 Milliarden Dollar, mehr als eine Verdopplung gegenüber dem Vorjahr, während der Umsatz im Rechenzentrumsgeschäft um 110 Prozent auf 107,6 Milliarden Dollar stieg.\n Die Diskrepanz zwischen starken Zahlen und Kursabsturz zeigt, wie sehr das Vertrauen der Investoren durch die Führungskrise rund um Jensen Huang erschüttert ist.\n\n===\n\nDiese Nvidia-Turbulenzen sind Teil eines viel größeren Bildes, das die globalen Märkte seit gestern erfasst hat. Trotz des fulminanten Börsendebüts von Anthropic ist an den asiatischen Aktienmärkten Panik ausgebrochen. \nAsiatische Aktienmärkte haben trotz Anthropics blockbusterartigem Debüt deutliche Verluste erlitten, nachdem die Anthropic-Aktie am ersten Handelstag an der Nasdaq unter dem Ticker ANT um 17 Prozent gestiegen war.\n Ein Analyst erklärte diesen Widerspruch so: \nDer Ausverkauf spiegele Bedenken wider, dass das KI-getriebene Wachstum sich verlangsame und die Phase des Höchstwachstums möglicherweise bereits vorbei sei, so Rajat Agarwal, Aktienstratege für Asien bei Societe Generale.\n Besonders hart traf es die chip-lastigen Märkte. \nIm asiatischen Handel am Freitag stürzten die Börsen in Tokio, Seoul und Taipeh ab, zwischen fünf und 6,2 Prozent.\n Der breitere Index für die Region verzeichnete laut Reuters seine schwächste Woche seit Beginn der Pandemie. \nDer MSCI-Index für asiatisch-pazifische Aktien außerhalb Japans ist diese Woche um 8 Prozent eingebrochen, die schlechteste Leistung seit der Covid-Pandemie im März 2020.\n Ein Ökonom aus Hongkong brachte die Stimmung auf den Punkt: \nCarlos Casanova, leitender Ökonom für Asien bei Union Bancaire Privee in Hongkong, sprach von einem Zusammenbruch des Vertrauens in die KI-Investitionsthese.\n\n\n===\n\nParallel dazu sorgt ein Bericht aus Washington für politischen Zündstoff. Ein Ausschuss des US-Repräsentantenhauses hat aufgedeckt, in welchem Umfang die Trump-Regierung fortschrittliche KI-Chips nach China genehmigt hat. \nDie Trump-Regierung genehmigte zwischen Dezember 2025 und Mai 2026 Lieferungen von fast 900.000 fortschrittlichen KI-Chips von Nvidia und AMD an chinesische Unternehmen, teilte der Ausschuss für auswärtige Angelegenheiten des Repräsentantenhauses am Donnerstag mit.\n Brisant ist dabei, an wen diese Chips gingen. \nDie Genehmigungen für 879.000 Chiplieferungen durch das Handelsministerium umfassten 75.000 für Alibaba, 150.000 für Tencent, 43.000 für Baidu und 4.000 für BYD, allesamt auf der Liste des Pentagons für mutmaßlich chinesische Rüstungsunternehmen.\n Ein ehemaliger US-Beamter äußerte sich alarmiert über diese Zahlen. \nChris McGuire, ein ehemaliger US-Beamter und Experte für den Technologiekonflikt zwischen den USA und China, sagte, die Tatsache, dass über 30 Prozent der nach China verschickten KI-Chips an Unternehmen gingen, die vom Verteidigungsministerium als chinesische Militärunternehmen eingestuft werden, sei erstaunlich und werfe die Frage auf, ob das Handelsministerium vor der Genehmigung dieser Lizenzen überhaupt eine ernsthafte nationale Sicherheitsprüfung durchgeführt habe.\n Diese Enthüllung dürfte die ohnehin angespannte Debatte um Exportkontrollen für KI-Chips weiter befeuern, zumal Nvidia selbst gerade mit der SEC-Prüfung und der Führungskrise alle Hände voll zu tun hat.\n\n===\n\nInsgesamt zeigt sich an diesem Wochenende ein Markt, der zwischen Euphorie und Nervosität schwankt. Anthropics Rekord-Börsengang und starke Nvidia-Quartalszahlen stehen gegen SEC-Ermittlungen, eine Führungskrise und wachsende Zweifel, ob die gigantischen KI-Investitionen sich wirklich auszahlen. Beobachter sprechen zunehmend offen von einer möglichen Blase, vergleichbar mit der Dotcom-Krise der Jahrtausendwende. Wir beobachten in den kommenden Tagen vor allem, wie sich die Anthropic-Aktie weiter entwickelt und ob die SEC-Prüfung bei Nvidia weitere Details offenlegt. Das war dein KI Daily-Briefing für heute. Bleib informiert, und bis morgen."
+}
