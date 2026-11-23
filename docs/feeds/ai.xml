@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 23. November 2026: Wochenend-Rückblick zwischen Markt-Nerven und Riemann-Beweis</title>
+      <description><![CDATA[<p>Der Wochenend-Rückblick: Nvidia und die Asien-Börsen zittern weiter, ein Claude-gestützter Beweis der Riemann-Vermutung sorgt für Jubel und Streit, und Amazon sowie Databricks zeigen, dass trotz Crash-Stimmung Milliarden fließen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.nzz.ch/finanzen/anthropics-kursverluste-setzen-sich-in-asien-teilweise-fort-ld.10071986">Anthropics Kursverluste setzen sich in Asien teilweise fort – Nvidia-Aktie bricht binnen Woche um 23 Prozent ein</a> <em>(nzz.ch)</em></li>
+<li><a href="https://www.yahoo.com/news/science/articles/anthropic-mathematician-claims-claude-helped-190054374.html">Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis</a> <em>(yahoo.com (AP))</em></li>
+<li><a href="https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/">The AI Riemann hypothesis proof is true, independent mathematicians confirm</a> <em>(scientificamerican.com)</em></li>
+<li><a href="https://kucoin.com/news/flash/anthropic-and-claude-s-riemann-hypothesis-proof-sparks-debate-over-validity">Anthropic and Claude's proof of the Riemann Hypothesis sparks debate over its validity</a> <em>(kucoin.com)</em></li>
+<li><a href="https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/">Amazon Nears $7.5 Billion Deal for AI Startup Decart</a> <em>(pymnts.com (FT))</em></li>
+<li><a href="https://x.com/AGTPinsights/status/2124691694138339640">Databricks is in early talks to raise a Series N at a $225 billion valuation</a> <em>(x.com / WSJ)</em></li>
+<li><a href="https://www.yahoo.com/news/politics/articles/trump-threatens-tax-us-companies-003837936.html">Trump threatens tax on U.S. companies building AI data centers overseas</a> <em>(yahoo.com (AP))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: Nvidia und die Asien-Börsen zittern weiter, ein Claude-gestützter Beweis der Riemann-Vermutung sorgt für Jubel und Streit, und Amazon sowie Databricks zeigen, dass trotz Crash-Stimmung Milliarden fließen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.nzz.ch/finanzen/anthropics-kursverluste-setzen-sich-in-asien-teilweise-fort-ld.10071986">Anthropics Kursverluste setzen sich in Asien teilweise fort – Nvidia-Aktie bricht binnen Woche um 23 Prozent ein</a> <em>(nzz.ch)</em></li>
+<li><a href="https://www.yahoo.com/news/science/articles/anthropic-mathematician-claims-claude-helped-190054374.html">Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis</a> <em>(yahoo.com (AP))</em></li>
+<li><a href="https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/">The AI Riemann hypothesis proof is true, independent mathematicians confirm</a> <em>(scientificamerican.com)</em></li>
+<li><a href="https://kucoin.com/news/flash/anthropic-and-claude-s-riemann-hypothesis-proof-sparks-debate-over-validity">Anthropic and Claude's proof of the Riemann Hypothesis sparks debate over its validity</a> <em>(kucoin.com)</em></li>
+<li><a href="https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/">Amazon Nears $7.5 Billion Deal for AI Startup Decart</a> <em>(pymnts.com (FT))</em></li>
+<li><a href="https://x.com/AGTPinsights/status/2124691694138339640">Databricks is in early talks to raise a Series N at a $225 billion valuation</a> <em>(x.com / WSJ)</em></li>
+<li><a href="https://www.yahoo.com/news/politics/articles/trump-threatens-tax-us-companies-003837936.html">Trump threatens tax on U.S. companies building AI data centers overseas</a> <em>(yahoo.com (AP))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Der Wochenend-Rückblick: Nvidia und die Asien-Börsen zittern weiter, ein Claude-gestützter Beweis der Riemann-Vermutung sorgt für Jubel und Streit, und Amazon sowie Databricks zeigen, dass trotz Crash-Stimmung Milliarden fließen.</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-23</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-23/2026-11-23.mp3" length="2772993" type="audio/mpeg"/>
+      <itunes:duration>5:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 21. November 2026: Nvidia-Absturz, Chip-Deals, Asien-Beben</title>
       <description><![CDATA[<p>Nvidia erlebt seine schlechteste Woche seit 2008, eine SEC-Buchprüfung heizt die Krise an, und Asiens Börsen stürzen trotz Anthropics IPO-Erfolg ab. Außerdem: Ein Kongressausschuss deckt heikle Chip-Exporte nach China auf.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -897,37 +928,6 @@
       <guid isPermaLink="false">ai-2026-10-20</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-20/2026-10-20.mp3" length="2536220" type="audio/mpeg"/>
       <itunes:duration>5:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 19. Oktober 2026: Wochenend-Rückblick zu Anthropic, OpenAI und Meta</title>
-      <description><![CDATA[<p>Der Wochenend-Rückblick: Anthropic gibt Milliarden an einen neuen Gemeinwohl-Fonds ab, OpenAI bestätigt einen humanoiden Roboter, und Banken schotten sich vor fremden KI-Agenten ab.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html">Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.anthropic.com/news/public-benefit-fund">Investing in the public benefit</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/">OpenAI is building a humanoid robot, but the body isn't the real challenge</a> <em>(engadget.com)</em></li>
-<li><a href="https://aitoolly.com/ai-news/2026-10-18">Meta Removes Commercial Terms Language Permitting AI Content Scraping Across Publisher and News Websites</a> <em>(aitoolly.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">OpenAI's three unannounced 'aurora' models flash in API, then vanish</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://aidapted.ro/en/articles/ai-news-october-18-2026/">Anthropic proposes a US bill to regulate AI risks</a> <em>(aidapted.ro)</em></li>
-<li><a href="https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse">Big US banks lock out AI agents trying to move customer money</a> <em>(thenextweb.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Der Wochenend-Rückblick: Anthropic gibt Milliarden an einen neuen Gemeinwohl-Fonds ab, OpenAI bestätigt einen humanoiden Roboter, und Banken schotten sich vor fremden KI-Agenten ab.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html">Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.anthropic.com/news/public-benefit-fund">Investing in the public benefit</a> <em>(anthropic.com)</em></li>
-<li><a href="https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/">OpenAI is building a humanoid robot, but the body isn't the real challenge</a> <em>(engadget.com)</em></li>
-<li><a href="https://aitoolly.com/ai-news/2026-10-18">Meta Removes Commercial Terms Language Permitting AI Content Scraping Across Publisher and News Websites</a> <em>(aitoolly.com)</em></li>
-<li><a href="https://aiweekly.co/ai-news-today">OpenAI's three unannounced 'aurora' models flash in API, then vanish</a> <em>(aiweekly.co)</em></li>
-<li><a href="https://aidapted.ro/en/articles/ai-news-october-18-2026/">Anthropic proposes a US bill to regulate AI risks</a> <em>(aidapted.ro)</em></li>
-<li><a href="https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse">Big US banks lock out AI agents trying to move customer money</a> <em>(thenextweb.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Der Wochenend-Rückblick: Anthropic gibt Milliarden an einen neuen Gemeinwohl-Fonds ab, OpenAI bestätigt einen humanoiden Roboter, und Banken schotten sich vor fremden KI-Agenten ab.</itunes:summary>
-      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-19</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-19/2026-10-19.mp3" length="2758574" type="audio/mpeg"/>
-      <itunes:duration>5:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

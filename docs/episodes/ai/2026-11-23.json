@@ -1,0 +1,58 @@
+{
+  "title": "KI Daily – 23. November 2026: Wochenend-Rückblick zwischen Markt-Nerven und Riemann-Beweis",
+  "teaser": "Der Wochenend-Rückblick: Nvidia und die Asien-Börsen zittern weiter, ein Claude-gestützter Beweis der Riemann-Vermutung sorgt für Jubel und Streit, und Amazon sowie Databricks zeigen, dass trotz Crash-Stimmung Milliarden fließen.",
+  "pubDate": "2026-11-23T06:00:00+01:00",
+  "duration_seconds": 346,
+  "size_bytes": 2772993,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-23/2026-11-23.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 183400,
+    "output_tokens": 5282
+  },
+  "sources": [
+    {
+      "headline": "Anthropics Kursverluste setzen sich in Asien teilweise fort – Nvidia-Aktie bricht binnen Woche um 23 Prozent ein",
+      "source": "nzz.ch",
+      "url": "https://www.nzz.ch/finanzen/anthropics-kursverluste-setzen-sich-in-asien-teilweise-fort-ld.10071986",
+      "published": "2026-11-23"
+    },
+    {
+      "headline": "Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis",
+      "source": "yahoo.com (AP)",
+      "url": "https://www.yahoo.com/news/science/articles/anthropic-mathematician-claims-claude-helped-190054374.html",
+      "published": "2026-11-21"
+    },
+    {
+      "headline": "The AI Riemann hypothesis proof is true, independent mathematicians confirm",
+      "source": "scientificamerican.com",
+      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+      "published": "2026-11-22"
+    },
+    {
+      "headline": "Anthropic and Claude's proof of the Riemann Hypothesis sparks debate over its validity",
+      "source": "kucoin.com",
+      "url": "https://kucoin.com/news/flash/anthropic-and-claude-s-riemann-hypothesis-proof-sparks-debate-over-validity",
+      "published": "2026-11-22"
+    },
+    {
+      "headline": "Amazon Nears $7.5 Billion Deal for AI Startup Decart",
+      "source": "pymnts.com (FT)",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/",
+      "published": "2026-11-21"
+    },
+    {
+      "headline": "Databricks is in early talks to raise a Series N at a $225 billion valuation",
+      "source": "x.com / WSJ",
+      "url": "https://x.com/AGTPinsights/status/2124691694138339640",
+      "published": "2026-11-23"
+    },
+    {
+      "headline": "Trump threatens tax on U.S. companies building AI data centers overseas",
+      "source": "yahoo.com (AP)",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tax-us-companies-003837936.html",
+      "published": "2026-11-20"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Montag, den 23. November 2026. Da heute die erste Ausgabe der neuen Woche ist, blicken wir kurz auf das Wochenende zurück, bevor wir in die Woche starten.\n\n===\n\nBeginnen wir mit den Märkten, denn dort hat sich die Nervosität über das Wochenende nicht gelegt. Der wichtigste Chip-Zulieferer der Branche, Nvidia, war am Freitag erneut um vierzehn Prozent eingebrochen und hat damit binnen einer Woche dreiundzwanzig Prozent seines Werts verloren. Grund ist weiterhin der Rücktritt von Mitgründer und Langzeit-Chef Jensen Huang am zwölften November, nachdem Berichte über außereheliche Affären bekannt wurden, eine davon mit einer Geschäftsfrau mit mutmaßlichen Verbindungen zum chinesischen Geheimdienst. Am Montagmorgen setzte sich der Ausverkauf an Asiens Börsen teilweise fort, auch wenn Taiwan sich dem Trend etwas entzog, nachdem Nvidia unter Interimsführung angekündigt hatte, die Zusammenarbeit mit taiwanesischen Technologiefirmen weiter auszubauen. Ein Ende der Unsicherheit über die Zukunft der KI-Industrie ist derzeit nicht in Sicht.\n\n===\n\nDie wohl bemerkenswerteste Geschichte des Wochenendes kommt aus der Forschung und dreht sich um Anthropics Modell Claude. Der Anthropic-Mathematiker Levent Alpöge hatte am Freitag erklärt, gemeinsam mit Claude einen Beweis der Riemann-Vermutung gefunden zu haben, jenem seit eintausendachthundertneunundfünfzig offenen Jahrhundertproblem der Mathematik. Der Beweis liegt als Code in der Prüfsprache Lean vor, die jeden logischen Schritt maschinell verifiziert. Am Samstag bestätigten unabhängige Mathematiker der Lean- und Mathlib-Communities, dass Aussage und Beweis korrekt seien, und würdigten dies als historischen Meilenstein. Doch am Sonntag kippte die Stimmung teilweise: Die Mathematikerin Nielsen argumentierte, eine zentrale geometrische Bedingung im Code sei immer wahr und mache den Beweis damit zu einer bloßen Tautologie, während die Lean-Community an ihrer Verifikation festhält. Der Streit ist bis heute nicht abschließend geklärt, zeigt aber, wie tief KI-Systeme inzwischen in die Spitzenforschung der Mathematik vordringen, und wie schwierig es selbst für Experten ist, solche Ergebnisse schnell zu bewerten.\n\n===\n\nAuf der Unternehmensseite zeigt sich: Trotz Crash-Stimmung an der Börse wird weiter investiert. Die Financial Times berichtete am Samstag, dass Amazon kurz vor der Übernahme des israelischen KI-Videostartups Decart steht, für rund siebeneinhalb Milliarden Dollar. Decart entwickelt Software, die KI-Modelle effizienter rechnen lässt und Chip-Kapazitäten freisetzt, was Amazon Web Services im Wettbewerb mit Nvidia stärken soll. Das Startup war zuvor bereits als mögliches Übernahmeziel von Anthropic gehandelt worden, doch jener Deal kam nicht zustande. Mit siebeneinhalb Milliarden Dollar wäre es eine der größten Akquisitionen in Amazons Geschichte und fast eine Verdopplung von Decarts Bewertung aus dem Mai.\n\n===\n\nNoch frischer, buchstäblich von heute früh: Laut Berichten, die sich auf das Wall Street Journal berufen, befindet sich das Daten- und KI-Unternehmen Databricks in frühen Gesprächen über eine neue Finanzierungsrunde, die das Unternehmen mit rund zweihundertfünfundzwanzig Milliarden Dollar bewerten würde. Das wäre knapp zwanzig Prozent mehr als die einhundertneunzig Milliarden Dollar, die im August bei einer Finanzierung über fünf Milliarden Dollar aufgerufen wurden. Die Gespräche sind nach eigenen Angaben früh und die Konditionen können sich noch ändern, doch sie zeigen, dass das Kapital trotz der allgemeinen Verunsicherung über die KI-Branche weiter in ausgewählte Infrastruktur- und Datenfirmen fließt.\n\n===\n\nZum Schluss noch ein regulatorischer Nachhall aus der vergangenen Woche, der das Wochenende über diskutiert wurde: Präsident Trump hatte am Freitag angekündigt, US-Unternehmen, die KI-Rechenzentren im Ausland bauen, mit einer, Zitat, gewaltigen Steuer zu belegen. Details, einen Steuersatz oder einen rechtlichen Mechanismus nannte er nicht, was in Kommentaren über das Wochenende für einige Verwirrung sorgte. Die Ankündigung steht in einem gewissen Spannungsverhältnis zu seiner sonstigen Förderung des KI-Ausbaus und dürfte die Debatte über Standortpolitik und nationale Sicherheit in der neuen Woche weiter befeuern.\n\n===\n\nDas war dein Wochenend-Rückblick für KI Daily. Die neue Woche startet also mit denselben großen Fragezeichen, mit denen die alte endete: Wie tief reicht die Nvidia-Krise noch, wie belastbar ist der Riemann-Beweis von Claude wirklich, und wie viel Kapital fließt trotz allem weiter in die Infrastruktur der Branche. Wir bleiben dran und melden uns morgen wieder. Bis dahin, einen guten Start in die Woche."
+}
