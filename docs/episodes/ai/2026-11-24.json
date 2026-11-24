@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 24. November 2026: Huang zurück, Markt-Rallye, Grok-Klagen",
+  "teaser": "Jensen Huang kehrt überraschend als Nvidia-Chef zurück und löst die größte Tagesrallye seit Jahren aus. Außerdem: OpenAI schlägt branchenweite Entwicklungsgrenzen vor, und zwei US-Bundesstaaten verklagen Musks Grok wegen sexualisierter Deepfakes.",
+  "pubDate": "2026-11-24T06:00:00+01:00",
+  "duration_seconds": 389,
+  "size_bytes": 3117809,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-24/2026-11-24.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 125468,
+    "output_tokens": 4500
+  },
+  "sources": [
+    {
+      "headline": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "source": "sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+      "published": "2026-11-23"
+    },
+    {
+      "headline": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "published": "2026-11-23"
+    },
+    {
+      "headline": "Trump intervened in Nvidia reinstatement, seeing Huang as key to US open-weight AI, sources say",
+      "source": "thestandard.com.hk",
+      "url": "https://thestandard.com.hk/news/article/349420/Morning-Recap-November-24-2026",
+      "published": "2026-11-24"
+    },
+    {
+      "headline": "U.S. stocks surge as Nvidia's Huang reinstatement reignites AI trade",
+      "source": "en.people.cn (Xinhua)",
+      "url": "https://en.people.cn/n3/2026/1124/c90000-20522345.html",
+      "published": "2026-11-24"
+    },
+    {
+      "headline": "OpenAI pitches an industry brake days after Anthropic's IPO",
+      "source": "thestreet.com",
+      "url": "https://thestreet.com/technology/openai-pitches-an-industry-brake-after-anthropics-ipo",
+      "published": "2026-11-23"
+    },
+    {
+      "headline": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "published": "2026-11-23"
+    },
+    {
+      "headline": "OpenAI and Cisco introduce Shirudo",
+      "source": "openai.com",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "published": "2026-11-23"
+    },
+    {
+      "headline": "Anthropic Shares Fluctuate as AI Sector Rallies on Nvidia CEO Return",
+      "source": "bloomberg.com",
+      "url": "https://bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
+      "published": "2026-11-23"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Tuesday, 24. November 2026.\n\nDie mit Abstand größte Nachricht der vergangenen vierundzwanzig Stunden kommt von Nvidia. Nach gut zwei Wochen Chaos um einen Beziehungsskandal ist Jensen Huang überraschend als Vorstandschef, Präsident und Board-Mitglied zurückgekehrt. Nvidia teilte mit, der Verwaltungsrat habe die Entscheidung einstimmig getroffen und sprach von seiner Führungskompetenz und seiner Offenheit im Prozess. Huang war Anfang November zurückgetreten, nachdem er in einer Nachricht an die Belegschaft eine außereheliche Affäre eingeräumt hatte, die auch im Zusammenhang mit einer mutmaßlichen chinesischen Spionage-Ermittlung stand. Noch vergangene Woche hatte der Verwaltungsratsvorsitzende erklärt, man plane keine Rückkehr Huangs. Laut US-Medienberichten intervenierten Präsident Trump und Vizepräsident Vance persönlich am Wochenende, weil sie Huang als unverzichtbar für amerikanische offene KI-Modelle ansahen. Die Marktreaktion war gewaltig: Die Nvidia-Aktie schoss am Montag um über 31 Prozent nach oben, der größte Zuwachs an Marktkapitalisierung in der Firmengeschichte an einem einzigen Tag. Der Nasdaq Composite legte um mehr als sechseinhalb Prozent zu, der beste Tag seit April 2025, nachdem die Woche zuvor als schlechteste seit 2020 in die Bücher eingegangen war. Auch Tesla, Alphabet und Meta zogen deutlich mit. Allerdings bleibt die Aktie noch unter dem Niveau vor der Krise, und Analysten warnen, Huangs Rückkehr bedeute keine Entlastung, sondern lediglich das Ende der Führungsunsicherheit. Die Fragen zu nationaler Sicherheit und möglichen Exportbeschränkungen sind weiterhin offen.\n\n===\n\nInteressant ist, dass sich diese Rallye nicht auf Anthropic übertrug. Die Aktie des Claude-Herstellers bewegte sich am Montag gegen den Trend und fiel zurück auf etwa 87 US-Dollar, nur noch gut fünf Prozent über dem Ausgabepreis seines Rekord-Börsengangs. Während der Rest der Branche von Huangs Rückkehr profitierte, blieb Anthropic also der Ausreißer nach unten.\n\n===\n\nParallel dazu hat OpenAI einen bemerkenswerten Vorstoß unternommen. Chefwissenschaftler Jakub Pachocki veröffentlichte am Sonntag einen Blogbeitrag, in dem er gemeinsame Grenzen für die Entwicklung von Spitzenmodellen vorschlägt, auf die sich alle führenden Labore verständigen sollen. Konkret schlägt er vor, interne Messwerte zur sogenannten Log-Perplexität als branchenweite Kennzahl zu nutzen und Schwellenwerte zu definieren, die ohne verbesserte Überwachung nicht überschritten werden sollen. CEO Sam Altman nannte den Essay nach eigenen Angaben eines der wichtigsten Dokumente, das OpenAI je veröffentlicht hat. Bemerkenswert ist der Zeitpunkt: Der Vorschlag kommt nur drei Tage nach Anthropics Börsendebüt, bei dem das Unternehmen in seinem Prospekt selbst eingeräumt hatte, möglicherweise langsamer voranzugehen als die Konkurrenz. OpenAIs Vorstoß setzt damit die gesamte Branche unter Zugzwang, sich zu dieser Frage zu positionieren, und macht Anthropics Entwicklungstempo zu einem Thema, das der Markt künftig in Echtzeit bewertet.\n\n===\n\nAuf der regulatorischen Seite gibt es eine ernste Entwicklung aus den USA. Die Bundesstaaten Virginia und Oregon haben am Montag jeweils eigene Klagen gegen Elon Musks Unternehmen SpaceX eingereicht, das den KI-Bildgenerator Grok und die Plattform X betreibt. Die Generalstaatsanwälte werfen dem Unternehmen vor, bewusst Sicherheitsvorkehrungen gegen die sogenannte Entkleidung von Bildern abgeschwächt zu haben, um Nutzer für einen zurückliegenden Produktstand zu gewinnen. Virginias Klage zitiert interne Unterlagen, wonach schwache Schutzmaßnahmen kein Versehen, sondern ein bewusstes Merkmal gewesen seien. Eine Untersuchung der Organisation Center for Countering Digital Hate hatte zuvor geschätzt, dass Grok innerhalb weniger Wochen rund drei Millionen sexualisierte Bilder erzeugt und veröffentlicht hat, darunter auch Darstellungen von Minderjährigen. Beide Bundesstaaten fordern Bußgelder und gerichtliche Anordnungen, um die Erstellung und Verbreitung solcher Bilder zu stoppen. Es sind nicht die ersten rechtlichen Schritte gegen xAI in dieser Sache, aber die ersten auf Ebene von Bundesstaaten.\n\n===\n\nUnd noch eine Meldung aus dem Bereich Sicherheit: OpenAI hat gemeinsam mit Cisco ein neues Open-Source-Werkzeug namens Shirudo vorgestellt. Das auf der Linux-Kernel-Technologie eBPF basierende System soll Sicherheitslücken auf laufenden Servern schließen können, ohne dass ein Neustart nötig ist. In einem kontrollierten Test blockierte ein von OpenAIs Programmierassistent Codex erzeugtes Schutzschild einen Angriffsversuch auf eine Elasticsearch-Installation. Das Projekt baut auf Tetragon auf, einer Technologie, die Cisco durch die Übernahme von Isovalent erworben hatte, und richtet sich besonders an jene kritische Zeitspanne zwischen der Entdeckung einer Schwachstelle und der Verfügbarkeit eines dauerhaften Patches.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Besonders spannend bleibt, ob Jensen Huangs Rückkehr tatsächlich die aufgekommenen Zweifel am Ausmaß der KI-Investitionen beruhigt oder ob es bei einer kurzen Erleichterungsrallye bleibt. Auch OpenAIs Vorschlag für gemeinsame Entwicklungsgrenzen dürfte in den kommenden Tagen für Diskussionen bei Google DeepMind, Meta und xAI sorgen. Wir hören uns morgen wieder. Bis dahin, alles Gute."
+}
