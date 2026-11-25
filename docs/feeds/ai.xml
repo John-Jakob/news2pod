@@ -19,6 +19,37 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 25. November 2026: Angst vor den eigenen Modellen</title>
+      <description><![CDATA[<p>Mitarbeiter von Anthropic und OpenAI warnen vor ihren eigenen unveröffentlichten KI-Modellen, Anthropic rutscht unter den Börsenstart-Preis, Amazon kauft sich für 7,5 Milliarden Dollar bei Decart ein, und OpenAI lässt GPT-6 Proteine designen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://qz.com/anthropic-openai-employees-warn-unreleased-ai-models-unsafe-112426">Anthropic and OpenAI employees warn their best AI models are too unsafe to release</a> <em>(qz.com)</em></li>
+<li><a href="https://finance.yahoo.com/markets/stocks/articles/anthropic-falls-below-ipo-price-122810237.html">Anthropic Falls Below IPO Price. The Threat Wasn't Nvidia, It Came From Inside</a> <em>(finance.yahoo.com)</em></li>
+<li><a href="https://www.huffpost.com/entry/ap-financial-markets-nvidia-stock-market_n_6b05f9c8e4b03d22835f5187">Drops for Nvidia, Anthropic and other AI stocks drag the markets back down</a> <em>(apnews.com (via huffpost.com))</em></li>
+<li><a href="https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/">Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.unite.ai/openai-reports-gpt-6-designs-proteins-with-reasoning-and-code/">OpenAI Reports GPT-6 Designs Proteins With Reasoning and Code</a> <em>(unite.ai)</em></li>
+<li><a href="https://simonwillison.net/2026/Nov/23/glm-54/">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</a> <em>(simonwillison.net)</em></li>
+<li><a href="https://dev.to/vuhung16au/australia-daily-ai-llm-briefing-november-25-2026-1aid">Digital Duty of Care Set to Pass Today Amid Scrutiny of AI Companion Apps</a> <em>(dev.to (Australia AI Briefing, citing InnovationAus/ABC News))</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Mitarbeiter von Anthropic und OpenAI warnen vor ihren eigenen unveröffentlichten KI-Modellen, Anthropic rutscht unter den Börsenstart-Preis, Amazon kauft sich für 7,5 Milliarden Dollar bei Decart ein, und OpenAI lässt GPT-6 Proteine designen.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://qz.com/anthropic-openai-employees-warn-unreleased-ai-models-unsafe-112426">Anthropic and OpenAI employees warn their best AI models are too unsafe to release</a> <em>(qz.com)</em></li>
+<li><a href="https://finance.yahoo.com/markets/stocks/articles/anthropic-falls-below-ipo-price-122810237.html">Anthropic Falls Below IPO Price. The Threat Wasn't Nvidia, It Came From Inside</a> <em>(finance.yahoo.com)</em></li>
+<li><a href="https://www.huffpost.com/entry/ap-financial-markets-nvidia-stock-market_n_6b05f9c8e4b03d22835f5187">Drops for Nvidia, Anthropic and other AI stocks drag the markets back down</a> <em>(apnews.com (via huffpost.com))</em></li>
+<li><a href="https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/">Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.unite.ai/openai-reports-gpt-6-designs-proteins-with-reasoning-and-code/">OpenAI Reports GPT-6 Designs Proteins With Reasoning and Code</a> <em>(unite.ai)</em></li>
+<li><a href="https://simonwillison.net/2026/Nov/23/glm-54/">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</a> <em>(simonwillison.net)</em></li>
+<li><a href="https://dev.to/vuhung16au/australia-daily-ai-llm-briefing-november-25-2026-1aid">Digital Duty of Care Set to Pass Today Amid Scrutiny of AI Companion Apps</a> <em>(dev.to (Australia AI Briefing, citing InnovationAus/ABC News))</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Mitarbeiter von Anthropic und OpenAI warnen vor ihren eigenen unveröffentlichten KI-Modellen, Anthropic rutscht unter den Börsenstart-Preis, Amazon kauft sich für 7,5 Milliarden Dollar bei Decart ein, und OpenAI lässt GPT-6 Proteine designen.</itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-25</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-25/2026-11-25.mp3" length="3442563" type="audio/mpeg"/>
+      <itunes:duration>7:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 24. November 2026: Huang zurück, Markt-Rallye, Grok-Klagen</title>
       <description><![CDATA[<p>Jensen Huang kehrt überraschend als Nvidia-Chef zurück und löst die größte Tagesrallye seit Jahren aus. Außerdem: OpenAI schlägt branchenweite Entwicklungsgrenzen vor, und zwei US-Bundesstaaten verklagen Musks Grok wegen sexualisierter Deepfakes.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -903,35 +934,6 @@
       <guid isPermaLink="false">ai-2026-10-22</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-22/2026-10-22.mp3" length="2867661" type="audio/mpeg"/>
       <itunes:duration>5:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 21. Oktober 2026: IPO-Zahlen, Stromkrise und Chip-Kehrtwende</title>
-      <description><![CDATA[<p>Anthropic legt vor dem Börsengang schwindelerregende Zahlen offen, in Australien bricht ein Rechenzentrums-Riese wegen Strommangel ein, und OpenAI rückt in der China-Chippolitik leise von seiner bisherigen Linie ab.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928">Anthropic's draft S-1 puts $16.3B in revenue beside an $80.7B loss</a> <em>(investing.com (WSJ))</em></li>
-<li><a href="https://www.investing.com/news/stock-market-news/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay-4961468">Australian AI data centre operator NextDC shares shed 44% on revenue delay</a> <em>(investing.com (Reuters))</em></li>
-<li><a href="https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia">OpenAI pulls back from China chip controls, Politico reports</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://newstodayworld.org/breaking-news/2026/10/20/prince-mario-max-schaumburg-lippe-three-rival-ai-labs-sit-down-together-to-write-safety-rules">Prince Mario-Max Schaumburg-Lippe: Three Rival AI Labs Sit Down Together to Write Safety Rules</a> <em>(newstodayworld.org)</em></li>
-<li><a href="https://finance.biggo.com/news/ae7a55fe-369e-43b0-af9f-307da110a0f9">Altman Unveils Three Paths for AI Safety, From IAEA-Style Global Body to GPU Monopoly</a> <em>(finance.biggo.com)</em></li>
-<li><a href="https://investinglive.com/stocks/nextdc-shares-plunge-44-as-power-delays-expose-ai-data-centre-bottleneck/">NEXTDC shares plunge 44% as power delays expose AI data centre bottleneck</a> <em>(investinglive.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Anthropic legt vor dem Börsengang schwindelerregende Zahlen offen, in Australien bricht ein Rechenzentrums-Riese wegen Strommangel ein, und OpenAI rückt in der China-Chippolitik leise von seiner bisherigen Linie ab.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928">Anthropic's draft S-1 puts $16.3B in revenue beside an $80.7B loss</a> <em>(investing.com (WSJ))</em></li>
-<li><a href="https://www.investing.com/news/stock-market-news/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay-4961468">Australian AI data centre operator NextDC shares shed 44% on revenue delay</a> <em>(investing.com (Reuters))</em></li>
-<li><a href="https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia">OpenAI pulls back from China chip controls, Politico reports</a> <em>(thenextweb.com)</em></li>
-<li><a href="https://newstodayworld.org/breaking-news/2026/10/20/prince-mario-max-schaumburg-lippe-three-rival-ai-labs-sit-down-together-to-write-safety-rules">Prince Mario-Max Schaumburg-Lippe: Three Rival AI Labs Sit Down Together to Write Safety Rules</a> <em>(newstodayworld.org)</em></li>
-<li><a href="https://finance.biggo.com/news/ae7a55fe-369e-43b0-af9f-307da110a0f9">Altman Unveils Three Paths for AI Safety, From IAEA-Style Global Body to GPU Monopoly</a> <em>(finance.biggo.com)</em></li>
-<li><a href="https://investinglive.com/stocks/nextdc-shares-plunge-44-as-power-delays-expose-ai-data-centre-bottleneck/">NEXTDC shares plunge 44% as power delays expose AI data centre bottleneck</a> <em>(investinglive.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Anthropic legt vor dem Börsengang schwindelerregende Zahlen offen, in Australien bricht ein Rechenzentrums-Riese wegen Strommangel ein, und OpenAI rückt in der China-Chippolitik leise von seiner bisherigen Linie ab.</itunes:summary>
-      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-21</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-21/2026-10-21.mp3" length="2780099" type="audio/mpeg"/>
-      <itunes:duration>5:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
