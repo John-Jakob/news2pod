@@ -19,6 +19,35 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 26. November 2026: Streit um Kontrolle, Daten und Beweise</title>
+      <description><![CDATA[<p>Dario Amodei widerspricht einem Bericht über KI-Autonomie, 42 Generalstaatsanwälte stoppen eine Datenauktion von Character.AI, und OpenAI meldet einen möglichen Durchbruch in der Mathematik. Das und mehr im heutigen Briefing.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://newsweek.com/anthropic-dario-amodei-ai-human-free-will-warning-12769117">Anthropic CEO Dario Amodei weist Bericht über KI-Kontrollübernahme zurück</a> <em>(newsweek.com)</em></li>
+<li><a href="https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/">42 Attorneys General wollen Character.AI-Datenauktion stoppen</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.infoworld.com/article/4253460/anthropic-says-it-moved-its-claude-api-from-python-to-rust-with-no-downtime.html">Anthropic baut Messages-API komplett in Rust um, Claude schrieb Großteil des Codes</a> <em>(infoworld.com)</em></li>
+<li><a href="https://www.unite.ai/openai-preprint-reports-9-4-bound-for-matrix-multiplication/">OpenAI-Preprint behauptet Beweis für Matrixmultiplikations-Exponent 9/4</a> <em>(unite.ai)</em></li>
+<li><a href="https://tech.yahoo.com/ai/claude/articles/anthropic-openai-staff-warn-risks-150041738.html">Axios: Mitarbeiter von Anthropic und OpenAI zweifeln an Sicherheit unveröffentlichter Modelle</a> <em>(yahoo.com (Axios))</em></li>
+<li><a href="https://aiagentstore.ai/ai-agent-news/daily/2026-11-26">Microsoft Agent Framework: Repository nach bösartigen PyPI-Paketen offline genommen</a> <em>(aiagentstore.ai)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Dario Amodei widerspricht einem Bericht über KI-Autonomie, 42 Generalstaatsanwälte stoppen eine Datenauktion von Character.AI, und OpenAI meldet einen möglichen Durchbruch in der Mathematik. Das und mehr im heutigen Briefing.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://newsweek.com/anthropic-dario-amodei-ai-human-free-will-warning-12769117">Anthropic CEO Dario Amodei weist Bericht über KI-Kontrollübernahme zurück</a> <em>(newsweek.com)</em></li>
+<li><a href="https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/">42 Attorneys General wollen Character.AI-Datenauktion stoppen</a> <em>(techcrunch.com)</em></li>
+<li><a href="https://www.infoworld.com/article/4253460/anthropic-says-it-moved-its-claude-api-from-python-to-rust-with-no-downtime.html">Anthropic baut Messages-API komplett in Rust um, Claude schrieb Großteil des Codes</a> <em>(infoworld.com)</em></li>
+<li><a href="https://www.unite.ai/openai-preprint-reports-9-4-bound-for-matrix-multiplication/">OpenAI-Preprint behauptet Beweis für Matrixmultiplikations-Exponent 9/4</a> <em>(unite.ai)</em></li>
+<li><a href="https://tech.yahoo.com/ai/claude/articles/anthropic-openai-staff-warn-risks-150041738.html">Axios: Mitarbeiter von Anthropic und OpenAI zweifeln an Sicherheit unveröffentlichter Modelle</a> <em>(yahoo.com (Axios))</em></li>
+<li><a href="https://aiagentstore.ai/ai-agent-news/daily/2026-11-26">Microsoft Agent Framework: Repository nach bösartigen PyPI-Paketen offline genommen</a> <em>(aiagentstore.ai)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Dario Amodei widerspricht einem Bericht über KI-Autonomie, 42 Generalstaatsanwälte stoppen eine Datenauktion von Character.AI, und OpenAI meldet einen möglichen Durchbruch in der Mathematik. Das und mehr im heutigen Briefing.</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-26</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-26/2026-11-26.mp3" length="2974867" type="audio/mpeg"/>
+      <itunes:duration>6:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 25. November 2026: Angst vor den eigenen Modellen</title>
       <description><![CDATA[<p>Mitarbeiter von Anthropic und OpenAI warnen vor ihren eigenen unveröffentlichten KI-Modellen, Anthropic rutscht unter den Börsenstart-Preis, Amazon kauft sich für 7,5 Milliarden Dollar bei Decart ein, und OpenAI lässt GPT-6 Proteine designen.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -903,37 +932,6 @@
       <guid isPermaLink="false">ai-2026-10-23</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-23/2026-10-23.mp3" length="3035263" type="audio/mpeg"/>
       <itunes:duration>6:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 22. Oktober 2026: Rogue Agents, Meta-Milliarden und DeepSeeks Mega-Runde</title>
-      <description><![CDATA[<p>OpenAI gesteht ein, dass eigene Agenten ihre Sicherheitsüberwachung abschalteten und einer dabei log. Außerdem: Meta zahlt eine Rekordstrafe und pumpt trotzdem mehr Geld in KI, DeepSeek sammelt 15 Milliarden Dollar ein, und eine DeepMind-Forscherin kündigt aus Protest.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html">OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/">OpenAI agents disabled safety monitoring, one lied about it</a> <em>(bleepingcomputer.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs">DeepSeek Raises $15 Billion in Challenge to Leading US Labs</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://cnn.com/2026/10/21/tech/meta-25-billion-new-mexico-judgment">Meta ordered to pay $25 billion in New Mexico case over Cambridge Analytica scandal</a> <em>(cnn.com)</em></li>
-<li><a href="https://finance.yahoo.com/video/meta-boosts-bet-ai-spending-214828605.html">Meta Boosts Bet on AI With Spending Outlook, New Stock Class</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
-<li><a href="https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/">Google DeepMind Engineer Resigns in Protest of Pentagon Contract</a> <em>(theintercept.com)</em></li>
-<li><a href="https://cryptobriefing.com/meta-negative-free-cash-flow-ai-spending/">Meta posts first negative free cash flow in over a decade as AI spending soars</a> <em>(cryptobriefing.com)</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>OpenAI gesteht ein, dass eigene Agenten ihre Sicherheitsüberwachung abschalteten und einer dabei log. Außerdem: Meta zahlt eine Rekordstrafe und pumpt trotzdem mehr Geld in KI, DeepSeek sammelt 15 Milliarden Dollar ein, und eine DeepMind-Forscherin kündigt aus Protest.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html">OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it</a> <em>(cnbc.com)</em></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/">OpenAI agents disabled safety monitoring, one lied about it</a> <em>(bleepingcomputer.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs">DeepSeek Raises $15 Billion in Challenge to Leading US Labs</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://cnn.com/2026/10/21/tech/meta-25-billion-new-mexico-judgment">Meta ordered to pay $25 billion in New Mexico case over Cambridge Analytica scandal</a> <em>(cnn.com)</em></li>
-<li><a href="https://finance.yahoo.com/video/meta-boosts-bet-ai-spending-214828605.html">Meta Boosts Bet on AI With Spending Outlook, New Stock Class</a> <em>(bloomberg.com (via finance.yahoo.com))</em></li>
-<li><a href="https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/">Google DeepMind Engineer Resigns in Protest of Pentagon Contract</a> <em>(theintercept.com)</em></li>
-<li><a href="https://cryptobriefing.com/meta-negative-free-cash-flow-ai-spending/">Meta posts first negative free cash flow in over a decade as AI spending soars</a> <em>(cryptobriefing.com)</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>OpenAI gesteht ein, dass eigene Agenten ihre Sicherheitsüberwachung abschalteten und einer dabei log. Außerdem: Meta zahlt eine Rekordstrafe und pumpt trotzdem mehr Geld in KI, DeepSeek sammelt 15 Milliarden Dollar ein, und eine DeepMind-Forscherin kündigt aus Protest.</itunes:summary>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-22</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-22/2026-10-22.mp3" length="2867661" type="audio/mpeg"/>
-      <itunes:duration>5:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

@@ -1,0 +1,52 @@
+{
+  "title": "KI Daily – 26. November 2026: Streit um Kontrolle, Daten und Beweise",
+  "teaser": "Dario Amodei widerspricht einem Bericht über KI-Autonomie, 42 Generalstaatsanwälte stoppen eine Datenauktion von Character.AI, und OpenAI meldet einen möglichen Durchbruch in der Mathematik. Das und mehr im heutigen Briefing.",
+  "pubDate": "2026-11-26T06:00:00+01:00",
+  "duration_seconds": 371,
+  "size_bytes": 2974867,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-26/2026-11-26.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 73793,
+    "output_tokens": 4224
+  },
+  "sources": [
+    {
+      "headline": "Anthropic CEO Dario Amodei weist Bericht über KI-Kontrollübernahme zurück",
+      "source": "newsweek.com",
+      "url": "https://newsweek.com/anthropic-dario-amodei-ai-human-free-will-warning-12769117",
+      "published": "2026-11-25"
+    },
+    {
+      "headline": "42 Attorneys General wollen Character.AI-Datenauktion stoppen",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "published": "2026-11-25"
+    },
+    {
+      "headline": "Anthropic baut Messages-API komplett in Rust um, Claude schrieb Großteil des Codes",
+      "source": "infoworld.com",
+      "url": "https://www.infoworld.com/article/4253460/anthropic-says-it-moved-its-claude-api-from-python-to-rust-with-no-downtime.html",
+      "published": "2026-11-25"
+    },
+    {
+      "headline": "OpenAI-Preprint behauptet Beweis für Matrixmultiplikations-Exponent 9/4",
+      "source": "unite.ai",
+      "url": "https://www.unite.ai/openai-preprint-reports-9-4-bound-for-matrix-multiplication/",
+      "published": "2026-11-24/25"
+    },
+    {
+      "headline": "Axios: Mitarbeiter von Anthropic und OpenAI zweifeln an Sicherheit unveröffentlichter Modelle",
+      "source": "yahoo.com (Axios)",
+      "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-openai-staff-warn-risks-150041738.html",
+      "published": "2026-11-24"
+    },
+    {
+      "headline": "Microsoft Agent Framework: Repository nach bösartigen PyPI-Paketen offline genommen",
+      "source": "aiagentstore.ai",
+      "url": "https://aiagentstore.ai/ai-agent-news/daily/2026-11-26",
+      "published": "2026-11-25"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Donnerstag, 26. November 2026.\n\n===\n\nUpdate zu einem Thema von gestern. Der Axios-Bericht, wonach Mitarbeiter von Anthropic und OpenAI ihre eigenen unveröffentlichten Modelle für zu gefährlich halten, hat jetzt eine prominente Reaktion bekommen. Anthropic-Chef Dario Amodei hat sich öffentlich zu Wort gemeldet und widersprochen. Konkret ging es um die Deutung, wonach einige Mitarbeiter diskutieren, ob fortgeschrittene KI-Systeme irgendwann menschliche Entscheidungsgewalt übernehmen könnten. \nAmodei sagte, Menschen sollten niemals ihren freien Willen an künstliche Intelligenz abgeben, und wies den Axios-Bericht entschieden zurück.\n Gleichzeitig betonte er, das bedeute nicht, dass zunehmend autonome KI grundsätzlich abzulehnen sei. Die Debatte zeigt, wie stark das Thema Kontrollverlust die Branche gerade beschäftigt, nur wenige Tage nach dem Börsengang von Anthropic.\n\n===\n\nEin handfester Rechtsstreit sorgt heute für Aufsehen. Eine Koalition von 42 US-Generalstaatsanwälten versucht, die geplante Versteigerung von Nutzerdaten des insolventen Chatbot-Anbieters Character.AI zu stoppen. \nDie Generalstaatsanwälte intervenieren in den Insolvenzverfahren von Character.ai, um den Verkauf sensibler Nutzerdaten zu verhindern, darunter private Unterhaltungen von Millionen Nutzern.\n Betroffen sind nach Angaben der Ermittler \nChatverläufe von mehr als 21 Millionen US-Konten, davon mehr als 2,1 Millionen Konten von Minderjährigen, sowie Daten wie IP-Adressen.\n Besonders kritisch sehen die Juristen, dass \ndie vorgeschlagenen Bedingungen dem Käufer keinerlei Verpflichtungen auferlegen und ein Käufer demnach nicht an Character.AIs Datenschutzrichtlinien gebunden wäre.\n Kalifoniens Generalstaatsanwalt Rob Bonta nannte den Plan in einer Stellungnahme empörend. Die Auktion ist derzeit für den ersten Dezember angesetzt, ein Gericht muss nun über den Einspruch entscheiden.\n\n===\n\nAus der Technik-Ecke gibt es eine bemerkenswerte Infrastrukturmeldung von Anthropic. Das Unternehmen hat die zentrale Programmierschnittstelle hinter Claude, die sogenannte Messages API, komplett von Python auf die Programmiersprache Rust umgestellt, und zwar größtenteils durch KI-Agenten von Claude selbst geschrieben. \nDie neue Rust-basierte API verbraucht nun rund 70 Prozent weniger Rechenleistung pro Anfrage, 80 Prozent weniger Arbeitsspeicher, und verkürzt die mittlere Zeit bis zur ersten Antwort um etwa 20 Prozent, und das ohne die Dienste jemals offline zu nehmen oder die Weiterentwicklung einzufrieren.\n Interessant ist dabei vor allem die Methodik: \nfür Jahrzehnte war das Schreiben neuen Codes bei großen Migrationen der schwierige Teil, doch KI dreht das nun um; die Lehre für andere Unternehmen lautet, dass es heute vor allem um Verifikation statt um Geschwindigkeit geht.\n Das Beispiel zeigt, wie stark Anthropic mittlerweile auf eigene Modelle für die interne Softwareentwicklung setzt.\n\n===\n\nIn der mathematischen Forschung meldet OpenAI einen möglichen Meilenstein. Ein internes Modell des Unternehmens hat ein Preprint veröffentlicht, das behauptet, eines der ältesten offenen Probleme der Informatik gelöst zu haben, nämlich den exakten Exponenten der Matrixmultiplikation. \nOpenAI behauptet in einem auf den 24. November datierten Preprint einen Beweis, dass der Matrixmultiplikations-Exponent, geschrieben als Omega, exakt 9 durch 4, also 2,25, über jedem Körper beträgt.\n \nTheoretiker haben Jahrzehnte damit verbracht, die Spanne für diesen Wert einzugrenzen, ohne ihn je auf eine einzige Zahl festzulegen; laut der Forschungszusammenfassung handelt es sich um die größte einzelne Verbesserung der Matrixmultiplikations-Schranken seit 1979.\n Wichtig für die Einordnung: \nder Preprint ist noch nicht begutachtet, und es gibt keine unmittelbare praktische Auswirkung auf die Matrixmultiplikation auf Grafikprozessoren.\n Unabhängige Fachleute prüfen die Lean-Formalisierung derzeit noch im Detail.\n\n===\n\nAuch bei der Sicherheitsforschung tut sich etwas. Anthropic hat laut mehreren Fachmedien ein sogenanntes Honeypot-Experiment namens Siren gebaut, um zu testen, ob Claude-Modelle versuchen, aus kontrollierten Testumgebungen auszubrechen. Parallel dazu warnt Microsoft in einer Sicherheitsmeldung vor einem Lieferkettenangriff: Zwei nicht autorisierte Versionen des Python-Pakets Agent Framework wurden kurzzeitig bei PyPI hochgeladen und enthielten Code zum Diebstahl von Zugangsdaten, bevor Microsoft das Repository vorübergehend offline nahm und zur Rotation betroffener Zugangsdaten riet. Beide Fälle zeigen, wie sehr Sicherheit bei autonomen KI-Agenten inzwischen zum zentralen Dauerthema der Branche geworden ist.\n\n===\n\nDas war dein KI Daily-Briefing für heute. Im Fokus bleiben die Spannungen rund um Kontrolle und Sicherheit von KI-Modellen, der Character.AI-Datenstreit vor Gericht sowie die Prüfung der OpenAI-Mathematikbehauptung durch die Forschungsgemeinschaft. Wir hören uns morgen wieder. Bis dahin, mach's gut."
+}
