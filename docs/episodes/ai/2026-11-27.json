@@ -1,0 +1,64 @@
+{
+  "title": "KI Daily – 27. November 2026: Chip-Stopp, Satelliten und ein neues Gesetz",
+  "teaser": "Nvidia stoppt Chiplieferungen nach Südostasien, die FCC erlaubt SpaceX eine Million Rechenzentrum-Satelliten im Orbit, und Australien hat sein Digital Duty of Care-Gesetz tatsächlich verabschiedet. Außerdem: Streit um Jensen Huang und ein chinesisches Betriebssystem für KI-Agenten.",
+  "pubDate": "2026-11-27T06:00:00+01:00",
+  "duration_seconds": 405,
+  "size_bytes": 3241316,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-27/2026-11-27.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 106660,
+    "output_tokens": 5483
+  },
+  "sources": [
+    {
+      "headline": "Nvidia pauses server chip shipments to four Southeast Asian countries",
+      "source": "semafor.com",
+      "url": "https://www.semafor.com/article/11/26/2026/nvidia-halts-chip-shipments-to-southeast-asian-countries",
+      "published": "2026-11-26"
+    },
+    {
+      "headline": "Singapore engages local firms after Nvidia pauses chip shipments to Southeast Asia",
+      "source": "globetv.app (citing WSJ/TechCrunch)",
+      "url": "https://globetv.app/news/singapore-engages-local-firms-after-nvidia-pauses-chip-shipments-to-southeast-asia-6b09014b02329",
+      "published": "2026-11-27"
+    },
+    {
+      "headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "published": "2026-11-25"
+    },
+    {
+      "headline": "US authorises SpaceX to deploy 1 million satellites for data centres in space",
+      "source": "reuters.com (via tbsnews.net)",
+      "url": "https://www.tbsnews.net/worldbiz/usa/us-authorises-spacex-deploy-1-million-satellites-data-centres-space-1615466",
+      "published": "2026-11-25"
+    },
+    {
+      "headline": "Digital Duty of Care Act passes in Australia",
+      "source": "fastcompany.com",
+      "url": "https://www.fastcompany.com/91648939/digital-duty-care-act-passes-australia-opposition-says-law-authoritarian",
+      "published": "2026-11-26"
+    },
+    {
+      "headline": "Australia's Parliament passes online duty of care law covering AI chatbots",
+      "source": "pivotnews.ai (citing MediaNama)",
+      "url": "https://pivotnews.ai/five/australia-s-parliament-passes-online-duty-of-care-law",
+      "published": "2026-11-27"
+    },
+    {
+      "headline": "AI News Today - Schumer accuses Jensen Huang of violating export control law",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/",
+      "published": "2026-11-27"
+    },
+    {
+      "headline": "China Hedge Fund Star Builds Operating System Kernel for AI",
+      "source": "bloomberg.com",
+      "url": "https://bloomberg.com/news/articles/2026-11-27/china-hedge-fund-star-builds-operating-system-kernel-for-ai",
+      "published": "2026-11-27"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für Freitag, den 27. November 2026.\n\n===\n\nWir beginnen heute mit einer handfesten Industrie-Geschichte. Nvidia hat seine Fertigungspartner angewiesen, Serverlieferungen nach Südostasien vorübergehend zu stoppen. Betroffen sind Malaysia, Singapur, Thailand und Indonesien. \nNvidia hat Chiplieferungen nach Südostasien gestoppt, da Washington Chinas Zugang zu amerikanischer Rechenleistung einschränkt, wobei Bestellungen für Käufer in Malaysia, Singapur, Thailand und Indonesien eingefroren wurden.\n Der Hintergrund: Laut Wall Street Journal und Financial Times hat das US-Handelsministerium kürzlich eine Lücke geschlossen, über die chinesische Firmen per Fernzugriff auf Nvidia-Chips in der Region zugreifen konnten. \nNvidia informierte Partner wie Dell und Super Micro, dass Lieferungen für einen unbestimmten Zeitraum gestoppt würden, während das Unternehmen prüft, ob regionale Rechenzentrumsbetreiber die aktualisierten US-Regeln einhalten.\n Die Dimension ist beachtlich, denn \nallein Nvidias Singapur-Geschäft hatte 2025 Umsätze von 104 Milliarden Dollar verbucht\n. In diesem Zusammenhang gibt es auch politischen Gegenwind für Nvidia-Chef Jensen Huang: Der demokratische Senator Chuck Schumer wirft ihm laut Berichten vor, mit China-Chiplieferungen gegen US-Exportrecht zu verstoßen, und zieht einen drastischen historischen Vergleich zu Raketentechnologie-Exporten an die Sowjetunion. Die Episode zeigt, wie stark das Thema Exportkontrolle inzwischen den gesamten KI-Chipmarkt prägt.\n\n===\n\nZweite große Geschichte des Tages kommt aus dem Weltraum, im wahrsten Sinne. Die US-Regulierungsbehörde FCC hat SpaceX grünes Licht gegeben, bis zu eine Million Satelliten für sogenannte Orbital-Rechenzentren ins All zu schicken. \nDie FCC genehmigte SpaceX' Vorschlag, eine Million Satelliten als weltraumgestützte Rechenzentren in den Orbit zu bringen.\n Das Projekt trägt den Namen Starmind. \nDie FCC begründete die Genehmigung damit, die rasant wachsende Nachfrage nach KI-Rechenleistung decken zu wollen.\n Kritisch wird dabei angemerkt, dass unklar ist, ob SpaceX diese gewaltige Zahl je tatsächlich erreicht. \nEs war unklar, ob SpaceX tatsächlich eine Million Satelliten ins All bringen würde, wo derzeit insgesamt nur etwa 17.000 Satelliten existieren.\n Amazon hatte gegen den Antrag Einspruch erhoben, scheiterte damit aber. Die Idee dahinter: Solarbetriebene Rechenzentren im Orbit könnten langfristig Energie- und Kühlprobleme irdischer KI-Rechenzentren umgehen. Ob das wirtschaftlich und technisch tatsächlich funktioniert, bleibt offen, Kritiker sprechen von einem verfrühten Hype ohne ausreichende Umweltprüfung.\n\n===\n\nDritte Meldung, ein regulatorisches Update: Australien hat sein Digital Duty of Care-Gesetz, über das wir bereits berichtet hatten, nun tatsächlich final verabschiedet. \nDas australische Parlament verabschiedete am Mittwoch Online-Sicherheitsgesetze, die Technologiekonzernen bei Nichtverhinderung vorhersehbarer Online-Schäden milliardenschwere Strafen drohen lassen.\n Besonders relevant für unseren Themenbereich: \nDas Gesetz erfasst auch KI-Dienste, die Inhalte erzeugen, darunter Chatbots, und verlangt von Plattformen, Minderjährige vor Inhalten zu schützen, die emotionale Nähe simulieren und Abhängigkeit anstelle menschlicher Beziehungen fördern, eine Bestimmung, die ausdrücklich KI-Companion-Chatbots einschließt.\n Die Strafen können bis zu fünf Prozent des weltweiten Umsatzes betragen. Die US-Botschaft in Canberra kritisierte das Gesetz scharf, die oppositionelle Koalition kündigte eine Rücknahme im Falle eines Wahlsiegs an. Das Gesetz dürfte zum Präzedenzfall für andere Länder werden, die über Regulierung von KI-Companion-Apps diskutieren.\n\n===\n\nVierte Geschichte, ein Blick nach China. Laut Bloomberg arbeitet dort ein prominenter Hedgefonds-Manager an einem gänzlich neuen Software-Fundament für KI. \nEin von einem der erfolgreichsten chinesischen Hedgefonds-Manager gegründetes KI-Startup bereitet sein erstes Produkt vor, den Kern eines Betriebssystems, das für KI-Agenten statt für Menschen konzipiert ist.\n \nFeng Ji, Gründer des vier Milliarden Dollar schweren Hedgefonds Baiont Quant, setzt darauf, dass das Programm das Verhältnis zwischen KI-Programmen und der benötigten Hardware neu definiert, da große Sprachmodelle trotz beeindruckender Fortschritte bislang meist auf klassischen Betriebssystemen wie Windows oder Linux laufen.\n Das Projekt zeigt, wie der Wettbewerb um KI-Infrastruktur längst über reine Modelle hinausgeht und zunehmend die gesamte Software-Architektur umfasst, von der Chipebene bis zum Betriebssystem.\n\n===\n\nKurz zum Rahmen: Die Debatte um möglicherweise zu mächtige, intern zurückgehaltene Modelle bei Anthropic und OpenAI, über die wir in den letzten Tagen ausführlich berichtet haben, hält weiter an. Neu dazugekommen ist, dass OpenAIs Chefwissenschaftler Jakub Pachocki am Wochenende Details zu den Pretraining-Methoden des Unternehmens veröffentlicht und andere Firmen zu gemeinsamen Sicherheitsstandards aufgerufen hat, ein kleiner, aber bemerkenswerter Schritt in Richtung mehr Transparenz in einer ansonsten sehr angespannten Debatte.\n\n===\n\nDas war's für heute. Zusammengefasst: Exportkontrollen bremsen Nvidias Chipgeschäft in Südostasien, die FCC öffnet die Tür für Rechenzentren im Weltraum, Australien hat sein KI-Chatbot-Sicherheitsgesetz verabschiedet, und sowohl in China als auch in den USA wird intensiv an der nächsten Infrastruktur-Generation für KI-Agenten gearbeitet. Wir beobachten das für euch weiter. Danke fürs Zuhören und bis morgen bei KI Daily."
+}

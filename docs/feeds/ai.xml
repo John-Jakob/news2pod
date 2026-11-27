@@ -19,6 +19,39 @@
       <itunes:email>chat@hh3.info</itunes:email>
     </itunes:owner>
     <item>
+      <title>KI Daily – 27. November 2026: Chip-Stopp, Satelliten und ein neues Gesetz</title>
+      <description><![CDATA[<p>Nvidia stoppt Chiplieferungen nach Südostasien, die FCC erlaubt SpaceX eine Million Rechenzentrum-Satelliten im Orbit, und Australien hat sein Digital Duty of Care-Gesetz tatsächlich verabschiedet. Außerdem: Streit um Jensen Huang und ein chinesisches Betriebssystem für KI-Agenten.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.semafor.com/article/11/26/2026/nvidia-halts-chip-shipments-to-southeast-asian-countries">Nvidia pauses server chip shipments to four Southeast Asian countries</a> <em>(semafor.com)</em></li>
+<li><a href="https://globetv.app/news/singapore-engages-local-firms-after-nvidia-pauses-chip-shipments-to-southeast-asia-6b09014b02329">Singapore engages local firms after Nvidia pauses chip shipments to Southeast Asia</a> <em>(globetv.app (citing WSJ/TechCrunch))</em></li>
+<li><a href="https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html">SpaceX wins FCC approval to deploy 1 million orbital data center satellites</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.tbsnews.net/worldbiz/usa/us-authorises-spacex-deploy-1-million-satellites-data-centres-space-1615466">US authorises SpaceX to deploy 1 million satellites for data centres in space</a> <em>(reuters.com (via tbsnews.net))</em></li>
+<li><a href="https://www.fastcompany.com/91648939/digital-duty-care-act-passes-australia-opposition-says-law-authoritarian">Digital Duty of Care Act passes in Australia</a> <em>(fastcompany.com)</em></li>
+<li><a href="https://pivotnews.ai/five/australia-s-parliament-passes-online-duty-of-care-law">Australia's Parliament passes online duty of care law covering AI chatbots</a> <em>(pivotnews.ai (citing MediaNama))</em></li>
+<li><a href="https://aiweekly.co/">AI News Today - Schumer accuses Jensen Huang of violating export control law</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://bloomberg.com/news/articles/2026-11-27/china-hedge-fund-star-builds-operating-system-kernel-for-ai">China Hedge Fund Star Builds Operating System Kernel for AI</a> <em>(bloomberg.com)</em></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>Nvidia stoppt Chiplieferungen nach Südostasien, die FCC erlaubt SpaceX eine Million Rechenzentrum-Satelliten im Orbit, und Australien hat sein Digital Duty of Care-Gesetz tatsächlich verabschiedet. Außerdem: Streit um Jensen Huang und ein chinesisches Betriebssystem für KI-Agenten.</p>
+<p><strong>Heutige Quellen:</strong></p>
+<ul>
+<li><a href="https://www.semafor.com/article/11/26/2026/nvidia-halts-chip-shipments-to-southeast-asian-countries">Nvidia pauses server chip shipments to four Southeast Asian countries</a> <em>(semafor.com)</em></li>
+<li><a href="https://globetv.app/news/singapore-engages-local-firms-after-nvidia-pauses-chip-shipments-to-southeast-asia-6b09014b02329">Singapore engages local firms after Nvidia pauses chip shipments to Southeast Asia</a> <em>(globetv.app (citing WSJ/TechCrunch))</em></li>
+<li><a href="https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html">SpaceX wins FCC approval to deploy 1 million orbital data center satellites</a> <em>(cnbc.com)</em></li>
+<li><a href="https://www.tbsnews.net/worldbiz/usa/us-authorises-spacex-deploy-1-million-satellites-data-centres-space-1615466">US authorises SpaceX to deploy 1 million satellites for data centres in space</a> <em>(reuters.com (via tbsnews.net))</em></li>
+<li><a href="https://www.fastcompany.com/91648939/digital-duty-care-act-passes-australia-opposition-says-law-authoritarian">Digital Duty of Care Act passes in Australia</a> <em>(fastcompany.com)</em></li>
+<li><a href="https://pivotnews.ai/five/australia-s-parliament-passes-online-duty-of-care-law">Australia's Parliament passes online duty of care law covering AI chatbots</a> <em>(pivotnews.ai (citing MediaNama))</em></li>
+<li><a href="https://aiweekly.co/">AI News Today - Schumer accuses Jensen Huang of violating export control law</a> <em>(aiweekly.co)</em></li>
+<li><a href="https://bloomberg.com/news/articles/2026-11-27/china-hedge-fund-star-builds-operating-system-kernel-for-ai">China Hedge Fund Star Builds Operating System Kernel for AI</a> <em>(bloomberg.com)</em></li>
+</ul>]]></content:encoded>
+      <itunes:summary>Nvidia stoppt Chiplieferungen nach Südostasien, die FCC erlaubt SpaceX eine Million Rechenzentrum-Satelliten im Orbit, und Australien hat sein Digital Duty of Care-Gesetz tatsächlich verabschiedet. Außerdem: Streit um Jensen Huang und ein chinesisches Betriebssystem für KI-Agenten.</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <guid isPermaLink="false">ai-2026-11-27</guid>
+      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-27/2026-11-27.mp3" length="3241316" type="audio/mpeg"/>
+      <itunes:duration>6:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KI Daily – 26. November 2026: Streit um Kontrolle, Daten und Beweise</title>
       <description><![CDATA[<p>Dario Amodei widerspricht einem Bericht über KI-Autonomie, 42 Generalstaatsanwälte stoppen eine Datenauktion von Character.AI, und OpenAI meldet einen möglichen Durchbruch in der Mathematik. Das und mehr im heutigen Briefing.</p>
 <p><strong>Heutige Quellen:</strong></p>
@@ -899,39 +932,6 @@
       <guid isPermaLink="false">ai-2026-10-24</guid>
       <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-24/2026-10-24.mp3" length="2618558" type="audio/mpeg"/>
       <itunes:duration>5:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>KI Daily – 23. Oktober 2026: Börsenbeben, Meta-Milliarden und Anthropics IPO-Papiere</title>
-      <description><![CDATA[<p>Die Furcht vor einer KI-Blase erfasst die Weltbörsen von New York bis Seoul, Meta offenbart 825 Milliarden Dollar an künftigen Verpflichtungen, und Anthropic steht kurz vor der öffentlichen IPO-Einreichung. Außerdem: ein neuer proaktiver Claude-Assistent und ein weiterer prominenter Abgang bei Google DeepMind.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html">Nasdaq falls more than 2% for worst day since June as AI spending woes spark sell-off</a> <em>(cnbc.com)</em></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html">S&amp;P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff</a> <em>(reuters.com (via Yahoo Finance))</em></li>
-<li><a href="https://sundayguardianlive.com/business/korea-stock-market-krx-today-october-23-kospi-plunges-205-as-ai-fears-hit-samsung-electronics-kosdaq-slides-and-oil-surges-to-114-check-top-gainers-and-losers-310443/">Korea Stock Market (KRX) Today: KOSPI Plunges 2.05% as AI Fears Hit Samsung Electronics</a> <em>(sundayguardianlive.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-10-22/meta-reports-825-billion-in-future-spending-commitments">Meta Reports $825 Billion in Future Spending Commitments</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html">Anthropic to publicly file for IPO as early as Friday, sources say</a> <em>(finance.yahoo.com (Reuters))</em></li>
-<li><a href="https://startupfortune.com/sk-hyper-seeks-350-billion-to-fund-south-koreas-biggest-ai-data-center-bet/">SK Hyper seeks $350 billion to fund South Korea's biggest AI data center bet</a> <em>(startupfortune.com (Bloomberg))</em></li>
-<li><a href="https://www.macrumors.com/2026/10/21/anthropic-claude-duet/">Anthropic Launches Claude Duet, a Proactive AI Agent</a> <em>(macrumors.com)</em></li>
-<li><a href="https://madrobot.blog/">Google DeepMind researchers are quitting over military AI</a> <em>(madrobot.blog (BBC))</em></li>
-</ul>]]></description>
-      <content:encoded><![CDATA[<p>Die Furcht vor einer KI-Blase erfasst die Weltbörsen von New York bis Seoul, Meta offenbart 825 Milliarden Dollar an künftigen Verpflichtungen, und Anthropic steht kurz vor der öffentlichen IPO-Einreichung. Außerdem: ein neuer proaktiver Claude-Assistent und ein weiterer prominenter Abgang bei Google DeepMind.</p>
-<p><strong>Heutige Quellen:</strong></p>
-<ul>
-<li><a href="https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html">Nasdaq falls more than 2% for worst day since June as AI spending woes spark sell-off</a> <em>(cnbc.com)</em></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html">S&amp;P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff</a> <em>(reuters.com (via Yahoo Finance))</em></li>
-<li><a href="https://sundayguardianlive.com/business/korea-stock-market-krx-today-october-23-kospi-plunges-205-as-ai-fears-hit-samsung-electronics-kosdaq-slides-and-oil-surges-to-114-check-top-gainers-and-losers-310443/">Korea Stock Market (KRX) Today: KOSPI Plunges 2.05% as AI Fears Hit Samsung Electronics</a> <em>(sundayguardianlive.com)</em></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-10-22/meta-reports-825-billion-in-future-spending-commitments">Meta Reports $825 Billion in Future Spending Commitments</a> <em>(bloomberg.com)</em></li>
-<li><a href="https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html">Anthropic to publicly file for IPO as early as Friday, sources say</a> <em>(finance.yahoo.com (Reuters))</em></li>
-<li><a href="https://startupfortune.com/sk-hyper-seeks-350-billion-to-fund-south-koreas-biggest-ai-data-center-bet/">SK Hyper seeks $350 billion to fund South Korea's biggest AI data center bet</a> <em>(startupfortune.com (Bloomberg))</em></li>
-<li><a href="https://www.macrumors.com/2026/10/21/anthropic-claude-duet/">Anthropic Launches Claude Duet, a Proactive AI Agent</a> <em>(macrumors.com)</em></li>
-<li><a href="https://madrobot.blog/">Google DeepMind researchers are quitting over military AI</a> <em>(madrobot.blog (BBC))</em></li>
-</ul>]]></content:encoded>
-      <itunes:summary>Die Furcht vor einer KI-Blase erfasst die Weltbörsen von New York bis Seoul, Meta offenbart 825 Milliarden Dollar an künftigen Verpflichtungen, und Anthropic steht kurz vor der öffentlichen IPO-Einreichung. Außerdem: ein neuer proaktiver Claude-Assistent und ein weiterer prominenter Abgang bei Google DeepMind.</itunes:summary>
-      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">ai-2026-10-23</guid>
-      <enclosure url="https://github.com/John-Jakob/news2pod/releases/download/ai-2026-10-23/2026-10-23.mp3" length="3035263" type="audio/mpeg"/>
-      <itunes:duration>6:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
