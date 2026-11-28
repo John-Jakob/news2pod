@@ -1,0 +1,40 @@
+{
+  "title": "KI Daily – 28. November 2026: Chips in Shanghai, Ärger um AGB",
+  "teaser": "Bloomberg findet verbotene Nvidia-Chips in einem Shanghaier Rechenzentrum, deutsche Verbraucherschützer mahnen OpenAI und Anthropic ab, und Dario Amodei widerspricht einem Bericht über freien Willen und Künstliche Intelligenz.",
+  "pubDate": "2026-11-28T06:00:00+01:00",
+  "duration_seconds": 270,
+  "size_bytes": 2164235,
+  "mp3_url": "https://github.com/John-Jakob/news2pod/releases/download/ai-2026-11-28/2026-11-28.mp3",
+  "model": "claude-sonnet-5",
+  "usage": {
+    "input_tokens": 269080,
+    "output_tokens": 8997
+  },
+  "sources": [
+    {
+      "headline": "Jensen Huang Said Nvidia's Blackwell Chips Were Too Big to Smuggle. Bloomberg Just Found Them in China.",
+      "source": "finance.yahoo.com / Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-said-nvidia-blackwell-155022452.html",
+      "published": "2026-11-27/28"
+    },
+    {
+      "headline": "Jensen Huang Said Nvidia's Blackwell Chips Were Too Big to Smuggle. Bloomberg Just Found Them in China.",
+      "source": "247wallst.com",
+      "url": "https://247wallst.com/investing/2026/11/27/jensen-huang-said-nvidias-blackwell-chips-were-too-big-to-smuggle-bloomberg-just-found-them-in-china/",
+      "published": "2026-11-27"
+    },
+    {
+      "headline": "Verbraucherzentrale mahnt OpenAI und Anthropic ab",
+      "source": "heise.de",
+      "url": "https://www.heise.de/news/Verbraucherzentrale-mahnt-OpenAI-und-Anthropic-ab-11540670.html",
+      "published": "2026-11-27"
+    },
+    {
+      "headline": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+      "source": "finance.yahoo.com",
+      "url": "https://daily.rclabs.in/day/2026-11-28",
+      "published": "2026-11-27/28"
+    }
+  ],
+  "script": "Guten Morgen. Hier ist dein KI Daily-Briefing für den Samstag, 28. November 2026.\n\nWir beginnen mit einem Update zur Nvidia-Affäre rund um den zurückgetretenen Chef Jensen Huang. Ein Bericht von Bloomberg vom 27. November hat in einem Rechenzentrum in Shanghai verbotene Blackwell-Hardware von Nvidia nachgewiesen, die mit Alice Huang in Verbindung gebracht wird, jener Geschäftsfrau, mit der Jensen Huang eine Affäre hatte. Besonders brisant: Huang hatte genau solche Server-Racks öffentlich als zu groß und zu schwer zum Schmuggeln bezeichnet. Ein voll bestücktes GB300-Rack bringt rund anderthalb Tonnen auf die Waage. Bloomberg wertete chinesische Regulierungsunterlagen aus und fand darin GB300-NVL72- und GB200-Systeme, von denen eines sogar als Sicherheit für einen Kredit über 14 Millionen Dollar verpfändet wurde. Der Export von Blackwell-Chips nach China erfordert eine Genehmigung der US-Regierung, und Megaspeed, das Unternehmen von Alice Huang, wurde inzwischen auf die Sanktionsliste gesetzt. Jensen Huang muss sich am 3. Dezember vor dem Senat in Washington erklären, und an den Prognosemärkten rechnet man nur noch mit einer rund zwanzigprozentigen Chance, dass Blackwell-Verkäufe nach China bis Ende 2027 überhaupt genehmigt werden. Die Geschichte reiht sich damit nahtlos in die Entwicklungen der vergangenen Tage ein, als Nvidia Lieferungen nach Südostasien stoppte und der US-Senator Chuck Schumer Huang vorwarf, gegen Exportkontrollgesetze verstoßen zu haben.\n\nAus Deutschland kommt eine regulatorische Geschichte, die viele Nutzer von ChatGPT und Claude direkt betrifft. Die Verbraucherzentrale Niedersachsen hat die KI-Anbieter OpenAI und Anthropic abgemahnt. Den beiden Unternehmen wird vorgeworfen, Abo-Preise unvollständig anzugeben und sich einseitige Preis- und Tarifänderungen vorzubehalten, was nach Ansicht der Verbraucherschützer unzulässig ist. Bei OpenAI geht es konkret um intransparente Leistungsänderungen im Plus-Abo von ChatGPT. Beiden Firmen wird außerdem ein schwer auffindbares Impressum vorgehalten. Gegen OpenAI läuft parallel bereits eine Klage der Verbraucherzentrale Brandenburg, die sich um die erschwerte Kündigung von ChatGPT-Abos und eine einseitige Preisanpassungsklausel dreht. Für Nutzer, die Claude oder ChatGPT bezahlen, lohnt sich also aktuell ein Blick auf die eigene Rechnung und den gebuchten Tarif.\n\nEin dritter Punkt betrifft die Debatte um Kontrolle und Sicherheit bei den großen KI-Labors, die uns in dieser Woche schon mehrfach beschäftigt hat. Anthropic-Chef Dario Amodei hat am Mittwoch einem Bericht von Axios widersprochen, wonach Menschen bereit sein sollten, einem Großteil ihres freien Willens an Künstliche Intelligenz abzugeben. Amodei wies diese Darstellung zurück und positionierte sich damit gegen das, was Axios als wachsende ideologische Kluft unter den Spitzen der großen KI-Unternehmen beschreibt. Diese Episode ist eigenständig von dem Bericht zu sehen, den wir bereits am Donnerstag besprochen hatten, als Amodei einer anderen Axios-Recherche über eine angebliche KI-Kontrollübernahme widersprach. Es zeigt sich damit ein Muster: Innerhalb weniger Tage hat sich der Anthropic-Chef gleich zweimal öffentlich gegen Berichte gestellt, die seiner Einschätzung nach die Debatte um Risiken und Kontrolle bei fortschrittlicher KI überzeichnen.\n\nDas war's für die wichtigsten Entwicklungen der letzten 24 Stunden. Angesichts eines eher ruhigen Nachrichtentages haben wir uns heute bewusst auf diese drei verifizierten Geschichten konzentriert, statt unbestätigte Gerüchte aufzunehmen. In den kommenden Tagen dürfte vor allem die Anhörung von Jensen Huang vor dem US-Senat am 3. Dezember für neue Schlagzeilen sorgen, ebenso wie mögliche Reaktionen von OpenAI und Anthropic auf die deutschen Abmahnungen. Wir bleiben für dich dran. Das war KI Daily, bis morgen."
+}
